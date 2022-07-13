@@ -1,0 +1,275 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Silva, Rosane Aparecida Favoreto da
+   Seabra, Alessandra Gotuzo
+TI Crianças surdas e experiências com a palavra escrita
+X1 Deaf children and experiences with the written word
+SO Educação e Pesquisa	
+LA Portuguese	
+DT research-article	
+DE Deaf education; Bilingual education for the deaf; Literacy; Written Portuguese language	
+Y5 Educação de surdos; Educação bilíngue de surdos; Alfabetização e letramento; Língua portuguesa escrita	
+AB Abstract This article presents part of an investigation into the process of appropriation of the written Portuguese language by deaf children, signers of Brazilian Sign Language (Língua Brasileira de Sinais [Libras]). It seeks to describe their sayings and analyze the induced productions during the research. Six collaborators participated who attended Kindergarten and early elementary school years in a deaf school. This is qualitative, descriptive and exploratory research. Interviews and activities based on telling a story in Libras were used. In these activities, the children wrote words and texts, completed stories, developed characters, and drew pictures. The interviews, conducted in Libras, were videotaped, translated and textualized in written Portuguese. Data analysis found no initial distinction between the Portuguese language appropriation process of deaf children and those who are hearing, as reported in the literature. However, there is a difference when hearing children relate sound to spelling, characterizing the “turning point” for understanding the writing mechanism. We question what can be taken as the “turning point” for deaf children in the apprehension of writing functioning. It has been found that they use visual clues and make conjectures for writing, which may be related to visual awareness. This “turning point” can be favored by a bilingual literacy that involves signwriting, deferred writing and bilingual writing from different bases than those used with hearing children.	
+Y4 Resumo Este artigo apresenta parte de uma investigação sobre o processo de apropriação da língua portuguesa escrita por crianças surdas, sinalizantes de Língua Brasileira de Sinais (Libras), e busca descrever os seus dizeres e analisar as produções induzidas durante a pesquisa. Trata-se de pesquisa qualitativa, descritiva e de cunho exploratório. Participaram seis colaboradores que cursavam a Educação Infantil e os anos iniciais do Ensino Fundamental em uma escola de surdos. Foram utilizadas entrevistas e atividades realizadas a partir da contação de uma história em Libras. Nessas atividades, as crianças escreveram palavras, textos, completaram histórias, criaram personagens e fizeram desenhos. As entrevistas, realizadas em Libras, foram gravadas em vídeo, traduzidas e textualizadas na língua portuguesa escrita. Na análise dos dados, constatou-se que não há distinção inicial entre o processo de apropriação da língua portuguesa das crianças surdas em relação àquelas que são ouvintes, conforme relatado na literatura; entretanto, há diferenciação em relação ao momento em que as crianças ouvintes começam a relacionar o som com a grafia, caracterizando o “ponto de virada” para o entendimento do mecanismo da escrita. Problematiza-se o que pode ser tomado como o “ponto de virada” para as crianças surdas na apreensão do funcionamento da escrita. Verificou-se que elas utilizam pistas visuais e fazem conjecturas para a escrita, que podem estar relacionadas à consciência visual. Esse “ponto de virada” pode ser favorecido por um letramento bilíngue que envolva elementos como escrita de sinais, escrita diferida e escrita bilíngue, a partir de bases diferentes daquelas utilizadas com as crianças ouvintes.	
+C1 [Silva, Rosane Aparecida Favoreto da] Secretaria de Estado da Educação do Paraná, Brasil.
+   [Seabra, Alessandra Gotuzo] Universidade Presbiteriana Mackenzie, Brazil.
+OI Favoreto da Silva, Rosane Aparecida/0000-0002-5479-290X; Seabra,
+   Alessandra/0000-0002-8373-7897
+CR BROCHADO S. M. D., 2003, A apropriação da escrita por crianças surdas usuárias da língua de sinais brasileira
+   CAPOVILLA Alessandra Gotuzo Seabra, 2000, Leitura, escrita e consciência fonológica: desenvolvimento, intercorrelações e intervenções
+   CARDOSO S. H. B., 2003, A questão da referência: das teorias clássicas à dispersão de discursos
+   CORREA Bianca Cristina, 2018, Jornal de Políticas Educacionais, V12, P1
+   CRUZ R. C. A, 2009, A pré-escola vista pelas crianças
+   DONDIS Donis A, 2015, Sintaxe da linguagem visual. Tradução Jefferson Luiz Camargo
+   Faraco CA, 2012, Linguagem escrita e alfabetização
+   FAVORETO DA SILVA Rosane Aparecida, 2020, Experiências de crianças surdas com a palavra escrita
+   FERREIRO E., 2001, Cultura escrita e educação
+   FERREIRO Emília, 1999, Psicogênese da língua escrita
+   FIGUEIREDO Luciana Cabral, 2013, REV EDUCACAO ESPECIA, V26, P175
+   FORMAGIO C. L. S., 2016, Escola e diferença: caminhos para a educação bilíngue de surdos, P169
+   GESUELI Z. M., 1998, A criança surda e o conhecimento construído na interlocução em língua de sinais
+   Gesueli ZM, 2006, ETD EDUC TEMAT DIGIT, V7, P110, DOI 10.20396/etd.v7i2.796
+   Kramer Sonia, 2002, Cad. Pesqui., V0, P41, DOI 10.1590/S0100-15742002000200003
+   LANKSHEAR C., 2008, Pesquisa pedagógica: do projeto à implementação
+   Larossa J., 2015, Tremores – escritos sobre a experiência
+   LEBEDEFF T. B., 2010, CADERNOS EDUCACAO PE, V36, P175
+   LIMA Marleide Francisco de, 2018, Revista Prática Docente, V3, P140
+   LURIA A. R, 1988, LINGUAGEM DESENVOLVI, P143
+   MACHADO E.L., 2000, Psicogênese da leitura e da escrita na criança surda
+   MORAIS A. G. de, 2012, Sistema de escrita alfabética
+   OLIVEIRA Marta Kohl de, 2000, Piaget-Vygostky: novas contribuições para o debate, P51
+   OLIVEIRA Thereza Cristina Bastos Costa de, 2009, A escrita do aluno surdo: interface entre a libras e a língua portuguesa
+   PELUSO Leonardo, 2014, Revista Digital de Políticas Lingüísticas, V6, P16
+   ROJO R., 2009, Letramentos múltiplos, escola e inclusão social
+   SANTAELLA L., 2012, LEITURA IMAGENS
+   SILVA Tânia dos Santos Alvarez da, 2008, A aquisição da escrita pela criança surda desde a educação infantil
+   SOARES M., 2016, Alfabetização: a questão dos métodos
+   SOARES Magda, 2014, Letramento: um tema em três gêneros
+   STREET B., 2010, CULTURA ESCRITA LETR, P33
+   TAVEIRA Cristiane Correia, 2014, Por uma didática da invenção surda: prática pedagógica nas escolas-piloto de educação bilíngue no município do Rio de Janeiro
+   Veiga-Neto A, 2010, ETD EDUC TEMAT DIGIT, V12, P147, DOI 10.20396/etd.v12i1.846
+   Vygotsky LS, 1984, A formação social da mente
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU Faculdade de Educação da Universidade de São Paulo
+SN 1678-4634
+PY 2022
+VL 48
+BP e239142
+DI 10.1590/s1678-4634202248239142
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1517-97022022000100707
+OA gold
+ER
+
+PT J
+AU Rocha, Gladys
+   Martins, Raquel Fontes
+TI A apropriação de habilidades de leitura e escrita na alfabetização: estudo exploratório de dados de uma avaliação externa
+X1 The appropriation of reading and writing skills in literacy: an exploratory study of data from an external evaluation
+Y1 La apropiación de la lectura y de la escritura en la alfabetización: estudio exploratorio de los datos de una evaluación externa
+SO Ensaio: Avaliação e Políticas Públicas em Educação	
+LA Portuguese	
+DT research-article	
+DE External evaluation; Writing; Elementary school; Paebes Alfa	
+X5 Evaluación externa; Escritura; Enseñanza primaria (primer ciclo); Paebes Alfa	
+Y5 Avaliação externa; Escrita; Ensino fundamental; Paebes Alfa	
+AB This paper analyzes the development of writing skills in the early years of Elementary School, referring to large scale literacy assessment, using a longitudinal program called Evaluation of Basic Education of the State of Espírito Santo Program (Programa de Avaliação da Educação Básica do Estado do Espírito Santo - Paebes Alfa). The written data is also analyzed in its dialogue with the reading data. Thus, in addition to discussing types of items used in this writing assessment, we make an analysis that provides a contribution to the understanding of differences between reading and writing skills which are also often perceived as "faces of the same coin", that is, such as learning styles that occur simultaneously and indistinctly. As the analysis here indicates, the consolidation of literacy, decoding skills tend to occur before coding skills.	
+X4 Este trabajo analiza el desarrollo de la escritura en el primer ciclo de la escuela primaria, apoyándose en la evaluación a gran escala de la alfabetización, de naturaleza longitudinal, llamada Programa de Evaluación de la Educación Básica del Estado de Espírito Santo - Paebes Alfa - Brasil. Los datos de la escritura se observan y estudian dentro de un diálogo con la lectura. Por lo tanto, además de discutir los tipos de ítems de escritura utilizados en la evaluación externa al ámbito escolar, se hace un análisis que ayuda a comprender las diferencias entre las habilidades de lectura y de la escritura, a menudo percibidas como "caras de la misma moneda", es decir, como un aprendizaje que se produce de forma simultánea e indistintamente. Como lo señala el análisis realizado, durante la consolidación de la alfabetización, las habilidades de decodificación tienden a ocurrir antes que las habilidades de codificación.	
+Y4 Este trabalho analisa o desenvolvimento de habilidades de escrita nos primeiros anos do Ensino Fundamental, referenciando-se na avaliação em larga escala da alfabetização, de caráter longitudinal, denominada Programa de Avaliação da Educação Básica do Estado do Espírito Santo - Paebes Alfa. Os dados de escrita são analisados também em sua interlocução com a leitura. Assim, além de serem discutidos tipos de itens de escrita utilizados nessa avaliação externa à escola, realiza-se uma análise que oferece contribuição para a apreensão de diferenças entre habilidades de leitura e de escrita, ainda frequentemente entendidas como "faces de uma mesma moeda", ou seja, como aprendizagens que ocorrem simultânea e indistintamente. Como a análise aqui feita indica, na consolidação do processo de alfabetização, habilidades de decodificação tendem a ocorrer antes de habilidades de codificação.	
+C1 [Martins, Raquel Fontes] Universidade Federal de Lavras, Brazil.
+   [Rocha, Gladys] Universidade Federal de Minas Gerais, Brazil.
+CR ANTUNES I., 2003, Aula de Português: encontro e interação
+   CAGLIARI L. C, 2008, Alfabetizando sem o Bá-bé-bi-bó-bu
+   COSTA VAL M. G, 2009, Avaliação do texto escolar: Professor-leitor/ Aluno-Autor
+   DOLZ J., 2010, Produção escrita e dificuldades de aprendizagem
+   FERREIRO E., 1985, Psicogênese da língua escrita
+   GERALDI Joao Wanderley, 1991, PORTOS DE PASSAGEM
+   KATO M. A, 2009, No mundo da escrita: uma perspectiva psicolinguística
+   Marcuschi L. A., 2008, Produção textual, análise de gênero e compreensão
+   ORLANDI E., 2000, DISCURSO E LEITURA
+   ORLANDI E. P, 2010, Guia da Alfabetização, P78
+   Scliar-Cabral L, 2003, Guia Prático de Alfabetização
+   Scliar-Cabral L, 2003, Princípios do sistema alfabético do português do Brasil
+   SOARES M, 2003, A reinvenção da alfabetização: Presença Pedagógica, P1
+   SOARES Magda, 1999, Letramento: um tema em três gêneros
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 6
+PU Fundação CESGRANRIO
+PI Rio de Janeiro
+PA Rio de Janeiro
+SN 1809-4465
+PD 12
+PY 2014
+VL 22
+IS 85
+BP 977
+EP 1000
+DI 10.1590/S0104-40362014000400006
+EC Education & Educational Research; Social Issues
+C2 SciELO Brazil
+SC Education & Educational Research; Social Issues
+UT SCIELO:S0104-40362014000400006
+OA gold
+ER
+
+PT J
+AU Grilli, Marina
+TI CLIL em alemão no Brasil e a competência de leitura dos graduandos em Letras/Alemão
+X1 CLILiG in Brazil and the reading competence of German undergraduate students
+SO Pandaemonium Germanicum	
+LA Portuguese	
+DT research-article	
+DE bilingual education; CLIL; GFL in the university; GFL in Brazil; reading competence	
+Y5 ensino bilíngue; CLIL; ensino universitário de ALE; ALE no Brasil; competência de leitura	
+Z5 bilingualer Sachfachunterricht; CLIL; DaF im universitären Kontext; DaF in Brasilien; Lesekompetenz	
+AB Abstract This article discusses a possible role of the Content and Language Integrated Learning in foreign German studies (CLILiG). In Brazil, many students start their undergraduation program without a prior knowledge of German language and it is always a challenge to improve their reading skills in five semesters of language teaching, at least up to B1 level. The empirical research started from the hypothesis that attending CLIL classes can help students to improve their German reading competence. For that matter, the reading competence of GFL students in a Brazilian university was examined. After the categorization of their mistakes, the factors that may have led to the improvement of their reading literacy were defined.	
+Y4 Resumo Este artigo discute o papel em potencial do Ensino Integrado de Língua e Conteúdo (CLIL) na graduação em Letras/Alemão. No Brasil, muitos estudantes iniciam a graduação sem conhecimento prévio da língua alemã, e é sempre um desafio melhorar suas habilidades de leitura em cinco semestres de ensino de idiomas, ao menos até o nível B1. A pesquisa empírica parte da hipótese de que frequentar uma disciplina CLIL pode auxiliar os alunos a melhorar sua competência de leitura em alemão. Para tanto, examinou-se a competência de leitura de estudantes de Letras/Alemão em uma universidade brasileira. Após a categorização de seus erros, foram definidos os fatores que podem ter levado à melhoria da alfabetização.	
+Z4 Zusammenfassung In diesem Beitrag wird über eine mögliche Rolle des sprachsensiblen Fachunterrichts in ausländischen Germanistikstudiengängen diskutiert. In Brasilien fangen viele Studierende das Lehramtsstudium ohne Vorkenntnisse der deutschen Sprache an und es ist immer eine Herausforderung, ihre Lesekompetenz in fünf Semestern Sprachunterricht zumindest bis Niveau B1 zu fördern. Die Hypothese, von der die empirische Forschung ausgeht, ist, dass es für die Studenten hilfreich sein könnte, an einem CLIL-Seminar teilzunehmen, um ihre Lesefähigkeit zu verbessern. Hierzu wurde die Lesekompetenz von DaF-Studierenden einer brasilianischen Universität untersucht. Nach Kategorisierung ihrer Fehler wurden mögliche Faktoren benannt, die zur Verbesserung der Lesekompetenz geführt haben.	
+C1 [Grilli, Marina] Universidade de São Paulo, Brazil.
+CR Araújo F. R. de, 2017, Três décadas de pesquisa sobre a formação de professores de alemão no Brasil, P275
+   Blume R. F, 2011, Ensinar alemão no Brasil: contextos e conteúdos, P53
+   Bolacio Filho E. S., 2014, Ensino-aprendizagem de alemão como língua estrangeira: teoria e práxis, P75
+   Casotti J. B. C., 2016, (Con)textos Linguísticos, V10, P63
+   Crinon J., 2002, Psychologie des apprentissages et multimédia, P11
+   Evangelista M. C. R. G, 2011, Die Deutschlehrerausbildung an brasilianischen universitäten: Neue Erkenntnisse
+   Freire P., 1996, Pedagogia da autonomia: saberes necessários à prática educativa
+   Fritzen Maristela Pereira, 2013, Trab. linguist. apl., V52, P239
+   Gnutzmann Claus, 2010, HDB FREMDSPRACHENDID, P115
+   Guimarães R. M, 2015, Planejamento CLIL por tarefas: integrando temas e língua para fins específicos na educação profissional
+   Haataja K., 2016, Fremdsprache Deutsch, V27, P3
+   Jessner U., 2008, LANG TEACHING, V41, P15, DOI [10.1017/S0261444807004739, DOI 10.1017/S0261444807004739]
+   Kato M, 1990, O aprendizado da leitura
+   KOCH I. V., 2006, Ler e compreender: os sentidos do texto
+   Königs F. G, 2013, Handbuch Bilingualer Unterricht. Content and language integrated learning, P32
+   Leão R., 2014, Ensino de conteúdos diversos por meio da língua e construção de cidadania: o caso do ensino de nutrição por meio do inglês
+   Lehr F., 2005, FOCUS COMPREHENSION
+   Lutjeharms M, 2010, Deutsch als Fremd- und Zweitsprache. Ein internationales Handbuch, P976
+   Lutjeharms M, 2016, Handbuch Fremdsprachenunterricht, P97
+   Marsh D., 2005, European framework for CLIL teacher education - a framework for the professional development of CLIL teachers
+   Mello H. A. B., 2010, HORIZONTES LINGUISTI, V9, P118
+   Moura Selma de Assis, 2009, Com quantas línguas se faz um país? Concepções e práticas de ensino em uma sala de aula na educação bilíngue
+   Pereira Fritzen M., 2007, PANDAEMON GERMAN, V11, P125
+   Rösler D, 2010, ForumSprache, V2, P10
+   Schmelter L, 2013, Handbuch Bilingualer Unterricht. Content and language integrated learning, P40
+   Silva Mariana Kuntz de Andrade e, 2017, Pandaemonium ger., V20, P1, DOI 10.11606/1982-883720311
+   Spinassé K. P, 2005, Deutsch als fremdsprache in Brasilien: eine studie über kontextabhängige unterschiedliche lernersprachen und muttersprachliche interferenzen
+   Spinassé K. P, 2006, Pandaemonium Germanicum, V10, P339
+   Uphoff D., 2017, O ensino de alemão em contexto universitário: modalidades, desafios e perspectivas, P169
+   Uphoff D, 2014, Revista HELB, V.
+   Vollmer H. J, 2013, Handbuch Bilingualer unterricht. Content and language integrated learning, P124
+   Würffel N, 2013, Deutsch als Fremdsprache, P130
+   Würffel N, 2006, Strategiengebrauch bei Aufgabenbearbeitungen in internetgestütztem Selbstlernmaterial
+   2015, Deutsch als Fremdsprache weltweit
+   2014, Demandas de aprendizagem no Brasil. Elaborado com exclusividade para o British Council pelo Instituto de Pesquisa Data Popular
+   2001, Quadro europeu comum de referência para as línguas - Aprendizagem, ensino, avaliação
+   1996, Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional
+   2016, Country Note - Results from PISA 2015
+NR 38
+TC 1
+Z9 1
+U1 0
+U2 0
+PU Universidade de São Paulo/Faculdade de Filosofia, Letras e Ciências
+   Humanas/; Programa de Pós-Graduação em Língua e Literatura Alemã
+SN 1982-8837
+PD 12
+PY 2019
+VL 22
+IS 38
+BP 48
+EP 74
+DI 10.11606/1982-8837223848
+EC Language & Linguistics; Literature, German, Dutch, Scandinavian
+C2 SciELO Brazil
+SC Linguistics; Literature
+UT SCIELO:S1982-88372019000300048
+OA gold
+ER
+
+PT J
+AU Martins, Aracy Alves
+   Gomes, Silvestre Filipe
+   Cá, Virgínia José Baptista
+TI LETRAMENTO(S)/ALFABETIZAÇÃO EM CONTEXTOS MULTILÍNGUES DE ANGOLA E GUINÉ-BISSAU
+X1 LITERACY (IES) IN ANGOLA AND GUINEA-BISSAU MULTILINGUAL CONTEXTS
+SO Educação em Revista	
+LA Portuguese	
+DT research-article	
+DE Literacy (ies); Linguistic policies; Official language; Mother tongues	
+Y5 Letramento(s); Políticas linguísticas; Língua oficial; Línguas maternas	
+AB ABSTRACT: The Network Research about racial relationships, sociocultural diversity and interculturality in Portuguese-speaking countries aims at analyzing, through the perspective of Critical Discourse Analysis, according Van Dijk, the literary works, according Paulino and Cosson, the school manuals according Dionisio, Costa Val and Marcuschi, and the official documents related to cultural and linguistic policies, according Calvet. Therefore, it emphasizes South/South dialogues, according Santos and others authors, and horizontal cooperation among Portuguese-speaking countries, based on the guidance of Brazilian laws 10.639/2003 and 11.645/2008, that establish the study of African and Indigenous peoples' history and culture at Brazilian schools. This text presents two Master course researches that focus on tensions between official language and mother tongues in literacy (ies) processes in Angola and Guinea-Bissau, developed by researchers from both countries at Faculty of Education of Federal University of Minas Gerais/Brazil, that indicate the possibilities of the bilingual education.	
+Y4 RESUMO: A Pesquisa em Rede sobre relações raciais, diversidade socio-cultural e interculturalidade em países de língua portuguesa analisa, pelo viés da Análise Crítica do Discurso, segundo Van Dijk, obras literárias, segundo Paulino e Cosson, manuais escolares, segundo Dionísio e Costa Val, e documentos oficiais relacionados a políticas linguísticas e culturais, segundo Calvet. Dessa forma, enfatiza diálogos sul/sul, segundo Santos e Meneses, e Munanga e Gomes, e cooperação horizontal entre países de língua portuguesa, partindo de orientações das Leis brasileiras 10.639/2003 e 11.645/2008, que instituem o estudo da História e Cultura dos africanos e indígenas nas escolas brasileiras. Este texto apresenta duas investigações de mestrado que focalizam tensões entre língua oficial e língua(s) materna(s), nos processos de Letramento(s), em Angola e Guiné-Bissau, desenvolvidas por pesquisadores desses dois países, na Faculdade de Educação da Universidade Federal de Minas Gerais, no Brasil, que apontam para possibilidades do ensino bilíngue.	
+C1 [Martins, Aracy Alves] Universidade Federal de Minas Gerais, Brazil.
+   [Gomes, Silvestre Filipe] Universidade 11 de Novembro, Angola.
+   [Cá, Virgínia José Baptista] Liceu João XXIII, Guiné-Bissau.
+CR AMÂNCIO Isis Maria da Costa, 2008, Literaturas Africanas e Afro-Brasileiras na Prática Pedagógica
+   Augel M. Parente, 2006, SCRIPTA, V19, P69
+   BUNZEN Clecio, 2005, LIVROS DIDATICOS LIN, P73
+   CÁ V. J. B, 2015, Língua e ensino em contexto de diversidade linguística e cultural: o caso de Guiné-Bissau
+   CALVET Louis-Jean, 2007, As políticas lingüísticas
+   Cardoso A. J. G, 2005, As interferências linguísticas do caboverdiano no processo de aprendizagem do português
+   CARREIRA A, 1984, O Crioulo de Cabo Verde, Surto e Expansão
+   CASTRO Rui Vieira, 1999, Manuais escolares: estatuto, funções, história
+   COSTA VAL M. da G., 2005, Livros didáticos de língua portuguesa: letramento e cidadania
+   da Silva P. V. B., 2008, RACISMO DISCURSO AM, P73
+   DIALLO I, 2007, Guiné-Bissau: Que papel e que lugar para as línguas nas políticas nacionais de desenvolvimento e estratégias de integração subregional?
+   Dionísio Maria de Lourdes, 2006, Educ. rev., V0, P41, DOI 10.1590/S0102-46982006000200003
+   DIONÍSIO Maria Lourdes Trindade, 2000, A construção escolar de comunidades de leitores
+   Fairclough N., 2001, Discurso e mudança social
+   FORQUIN J.-C., 1993, Escola e cultura: as bases sociais e epistemológicas do conhecimento escolar
+   Freire P, 1977, Cartas à Guiné-Bissau: registros de uma experiência em processo
+   GADOTTI Moacir, 2012, PAULO FREIRE AMILCAR, P55
+   GOMES S. F, 2014, Relações entre língua oficial e línguas locais na escola: como as crianças de aldeias de Cabinda/Angola aprendem o português e em português
+   KI-ZERBO J, 2009, Para quando a África? Entrevista com René Holenstein
+   LOPES FILHO J, 2015, António Carreira: Etnógrafo e Historiador
+   LOPES J. de S. M, 2014, Poesia e etnicização nos livros didáticos de português: um estudo comparativo Moçambique e Brasil
+   MACIEL F, 2014, Aprender a ler e a escrever em São Tomé e Príncipe: análise de Manuais Escolares
+   MUNANGA Kabengele, 2006, O Negro no Brasil de Hoje
+   PAULINO G., 2009, Escola e leitura: velha crise; novas alternativas, P61
+   ROJO R., 2009, Letramentos múltiplos, escola e inclusão social
+   Santos BS, 2010, Epistemologias do Sul
+   SCANTAMBURLO L, 2002, Dicionário do Guineense: dicionário guineense - português; dicionário guinensi-purtuguis, V2
+   SCANTAMBURLO L, 2013, O Léxico do Crioulo Guineense e as suas Relações com o Português: o Ensino Bilingue Português-Crioulo Guineense
+   SEMEDO M. O. C, 1996, Entre o ser e o amar
+   SEMEDO M. O. C. S, 2010, As Mandjuandadi: Cantigas de Mulher na Guiné-Bissau: da tradição oral à literatura
+   SENA L. de, 1995, Revista de Estudos Guineenses, V19, P63
+   SOARES M., 1999, Português: uma proposta para o letramento
+   SOARES M. B., 1998, Letramento: um tema em três gêneros
+   Soares Magda, 2004, Rev. Bras. Educ., V0, P5, DOI 10.1590/S1413-24782004000100002
+   STREET B, 2014, Letramentos sociais: abordagens críticas do letramento no desenvolvimento, na etnografia e na educação
+   VAN DIJK Teun Adrianus, 2008, Racismo e Discurso na América Latina
+   VEIGA M, 2004, A Construção do Bilinguismo
+   2015, Boletim 104
+   1979, Guiné-Bissau '79: Learning by living and doing
+NR 39
+TC 0
+Z9 1
+U1 0
+U2 2
+PU Faculdade de Educação da Universidade Federal de Minas Gerais
+SN 1982-6621
+PD 12
+PY 2016
+VL 32
+IS 4
+BP 391
+EP 412
+DI 10.1590/0102-4698164867
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S0102-46982016000400391
+OA gold
+ER
+
+EF

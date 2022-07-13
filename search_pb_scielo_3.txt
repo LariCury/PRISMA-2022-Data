@@ -1,0 +1,2031 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Oliveira, Walquíria Dutra de
+   Benite, Anna Maria Canavarro
+TI Aulas de ciências para surdos: estudos sobre a produção do discurso de intérpretes de LIBRAS e professores de ciências
+X1 Science classes for deaf students: studies on the production of discourse by interpreters of LIBRAS and science teachers
+SO Ciência & Educação (Bauru)	
+LA Portuguese	
+DT research-article	
+DE Science teaching; Deaf; Brazilian Language of Signals; Narrative; Bilinguism	
+Y5 Ensino de ciências; Surdos; LIBRAS; Narrativa; Bilinguismo	
+AB Bilingualism in deaf education presumes sign language as the first language of the deaf. With school inclusion deaf students have been enrolled in regular educational institutions resulting in a new structure in the classroom. Science teaching for the deaf is a challenge, because the student uses a language that is different from the teacher and needs a LIBRAS interpreter to access the body of knowledge mediated by the interpreter. The present study investigated the production of narratives (as a discourse genre) of professors and LIBRAS interpreters in science classes for deaf students. The narratives were produced in the class diary and analyzed by the content analysis technique. Our results pointed out that bilingualism still does not pervade the inclusive classroom, and the language barrier is the major difficulty found in learning science by deaf students.	
+Y4 O bilinguismo na educação de surdos pressupõe a língua de sinais como primeira língua do surdo e, com a inclusão escolar, os alunos surdos foram inseridos em instituições regulares de ensino, implicando uma nova estrutura da sala de aula. O ensino de ciências para surdos é um desafio, pois o aluno surdo utiliza uma língua diferente da do professor, e necessita de um intérprete de LIBRAS para ter acesso ao corpo de conhecimentos mediados por ele. A investigação objetivou analisar a produção de narrativas (um gênero do discurso) de professores e intérpretes de LIBRAS sobre a aula de ciências para surdos. As narrativas foram produzidas no “diário de aula”, e foram analisadas pela técnica de análise de conteúdo. Nossos resultados apontam que o bilinguismo ainda não permeia a sala de aula inclusiva, e que a barreira linguística é a maior dificuldade encontrada no aprendizado dos conhecimentos científicos pelos alunos surdos.	
+C1 [Oliveira, Walquíria Dutra de] Universidade Federal de Goiás, Brazil.
+   [Benite, Anna Maria Canavarro] Universidade Federal de Goiás, Brazil.
+CR Bardin L., 2008, ANALISE CONTEUDO
+   BRANDÃO C. R, 1984, Repensando a pesquisa participante
+   CACHAPUZ A., 2005, A necessária renovação do ensino de ciências
+   CAPOVILLA F. C., 2000, REV BRASILEIRA EDUCA, V6, P99
+   CHASSOT A., 2003, Alfabetização científica: questões e desafios para a educação
+   HODSON D., Existe um método científico?
+   LACERDA C., 2009, Intérprete de Libras: em atuação na educação infantil e no ensino fundamental
+   Lacerda Cristina Broglia Feitosa de, 2006, Cad. CEDES, V26, P163, DOI 10.1590/S0101-32622006000200004
+   LACERDA Cristina Broglia Feitosa de, 1998, CAD CEDES, V19, P68
+   LORENZINI N. M. P., 2004, Aquisição de um conceito científico por alunos surdos de classes regulares do ensino fundamental
+   OLIVEIRA W. D., 2012, Temas em educação inclusiva: fundamentos para a sala de aula de ciências, P61
+   QUEIROZ T. G. B., 2012, Temas em educação inclusiva: fundamentos para a sala de aula de ciências, P119
+   Santana AP, 2007, Surdez e linguagem: aspectos e implicações neurolinguísticas
+   Vigotsky L. S, 2000, A construção do pensamento e da linguagem
+   VIGOTSKY L. S, 2003, Pensamento e linguagem
+   Vilela-Ribeiro Eveline Borges, 2010, Ciênc. educ. (Bauru), V16, P585, DOI 10.1590/S1516-73132010000300006
+   ZABALZA M. A., 2004, Diários de aula: um instrumento de pesquisa e desenvolvimento profissional
+   2010, Revista da SBEnBio, V3, P698
+   2012, Revista Electrónica de Investigación en Educación en Ciencias, V7, P1
+   2006, Ensaio: Pesquisa em Educação em Ciências, V8, P121
+NR 20
+TC 0
+Z9 1
+U1 0
+U2 6
+PU Programa de Pós-Graduação em Educação para a Ciência, Universidade
+   Estadual Paulista (UNESP), Faculdade de Ciências, campus de Bauru.
+PI Bauru
+PA Bauru
+SN 1980-850X
+PD 06
+PY 2015
+VL 21
+IS 2
+BP 457
+EP 472
+DI 10.1590/1516-731320150020012
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1516-73132015000200012
+OA gold
+ER
+
+PT J
+AU Mazon, Caroline Martins
+   Oppenheimer-Fleury, Fernanda
+   Baldisseri, Anne Taffin d’Heursel
+   Avila, Clara Regina Brandão de
+TI Efeito do bilinguismo no resgate automático das palavras nos anos iniciais do ensino fundamental
+X1 Effect of bilingualism on automatic word retrieval in the first years of elementary school
+SO Audiology - Communication Research	
+LA Portuguese	
+DT research-article	
+DE Language development; Multilingualism; Cognition; Child; Automatism	
+Y5 Desenvolvimento da linguagem; Multilinguismo; Cognição; Criança; Automatismo	
+AB ABSTRACT Purpose Investigate the effects of bilingualism on the speed and accuracy of access to the mental lexicon, according to the time of exposure to the second language, in students of the first years of elementary school. Methods Eighty-three children between six and eight years old (M = 6.8y, SD = 0.72), in the first two years of elementary school in private schools with matching curricula, were assessed: bilingual (Portuguese/English), monolingual (Portuguese). Teachers indicated that they did not present sensory, motor, neurological, or psychiatric problems. Participants had Brazilian Portuguese (L1) as their native language and were grouped by school and grade (1st and 2nd). Bilingual Groups (BG: schoolchildren with at least two years of exposure to English; N = 44, 57% girls) and Monolingual Groups (MG: N = 40, 52.5% girls) were considered. A Rapid Automatized Naming task was used to evaluate the speed and accuracy of access to the mental lexicon. BG was evaluated in Portuguese and English (01 month interval); MG, in Portuguese. A MANOVA was conducted, and Wilks lambda (l) used to verify the effect of each variable (significance level: p <0.05). Results The paired samples (c2 (1) = 0.310, p = 0.577) showed a general effect for group and grade (L1 or L2) for speed and accuracy. Differences in speed were observed between MG and BG for L2. Conclusion L2 exposure did not interfere with the speed or accuracy in rapid naming of L1 in BG. School progression had a positive influence on both groups.	
+Y4 RESUMO Objetivo Investigar, em escolares das séries iniciais do ensino fundamental (EF), efeitos do bilinguismo na velocidade e precisão do acesso ao léxico mental, conforme o tempo de exposição ao segundo idioma. Métodos Participaram 83 crianças entre 6 e 8 anos de idade, matriculadas nos dois primeiros anos do EF de escolas particulares, uma bilíngue (Português/Inglês), outra monolíngue (Português), com currículos pareados. Os professores indicaram os participantes que não apresentavam problemas sensoriais, motores, neurológicos, ou psiquiátricos. Todos tinham, como língua materna, o Português Brasileiro. Foram agrupados por escola e ano escolar (1o e 2o). Constituíram-se dois grupos: Grupo Bilíngue - GB - 43 escolares (53,3% meninas) com, pelo menos, dois anos de exposição ao Inglês, média de idade = 6,6 e Grupo Monolíngue – GM - 40 escolares (46,7% meninas), média de idade = 6,9. Foram avaliados em prova de nomeação rápida de objetos, quanto à velocidade e precisão de acesso ao léxico mental. O GB foi avaliado em Português e Inglês (um mês de intervalo) e o GM, em Português. As distribuições foram comparadas pelo teste Qui-quadrado e as médias corrigidas pelo teste de Bonferroni (nível de significância fixado em p<0,05). As comparações entre GB e GM foram feitas por análise de variância. Resultados As amostras pareadas apresentaram, nas condições de nomeação rápida (Português ou Inglês), efeito geral para grupo e ano escolar, quanto à velocidade e precisão. A ANOVA mostrou melhor desempenho em tempo do GM, somente na comparação com GB, em Inglês. Conclusão A exposição ao Inglês não interferiu na velocidade ou precisão de nomeação em Português, no GB. A progressão escolar influenciou positivamente os grupos.	
+C1 [Baldisseri, Anne Taffin d’Heursel; Avila, Clara Regina Brandão de] Universidade Federal de São Paulo, Brazil.
+   [Mazon, Caroline Martins; Oppenheimer-Fleury, Fernanda; Avila, Clara Regina Brandão de] Universidade Federal de São Paulo, Brazil.
+CR Bialystok E, 2004, DEVELOPMENTAL SCI, V7, P325, DOI 10.1111/j.1467-7687.2004.00351.x
+   BIALYSTOK E, 1986, CHILD DEV, V57, P498, DOI 10.2307/1130604
+   Bialystok E., 2007, INT J BILING EDUC BI, V10, P210, DOI [10.2167/beb441.0, DOI 10.2167/BEB441.0]
+   Bialystok E, 2011, J EXP CHILD PSYCHOL, V110, P461, DOI 10.1016/j.jecp.2011.05.005
+   Bialystok E, 2010, CURR DIR PSYCHOL SCI, V19, P19, DOI 10.1177/0963721409358571
+   Bialystok E, 2009, BILING-LANG COGN, V12, P3, DOI 10.1017/S1366728908003477
+   Dichi RS, 2013, Revista Psicopedagogia., V30, P94
+   Fleury Fernanda Oppenheimer, 2015, CoDAS, V27, P65, DOI 10.1590/2317-1782/20152014091
+   FLORY Elizabete V, 2009, REV INTERCAMBIO, VXIX, P23
+   Gollan TH, 2005, MEM COGNITION, V33, P1220, DOI 10.3758/BF03193224
+   Grosjean F, 2010, Bilingual: life and reality.
+   Gross M, 2014, AM J SPEECH-LANG PAT, V23, P574, DOI 10.1044/2014_AJSLP-13-0026
+   Kaushanskaya M, 2007, LANG LEARN, V57, P119, DOI 10.1111/j.1467-9922.2007.00401.x
+   Krizman J, 2016, DEVELOPMENTAL SCI, V19, P881, DOI 10.1111/desc.12347
+   Limberger BK, 2012, Letrônica., V5, P67
+   Meisel JM, 2007, APPL PSYCHOLINGUIST, V28, P495, DOI 10.1017/S0142716407070270
+   Mengarda EJ, 2015, Linguagens - Revista de Letras, Artes e Comunicação., V9, P85
+   Nobre APMC, 2010, CIENCIAS E COGNICAO, V15, P180
+   Norton ES, 2012, ANNU REV PSYCHOL, V63, P427, DOI 10.1146/annurev-psych-120710-100431
+   Oppenheimer Fernanda, 2004, Pro Fono, V16, P169
+   PEAL E, 1962, PSYCHOL MONOGR, V76, P1, DOI 10.1037/h0093840
+   Pereira LN, 2012, A relação do bilinguismo com capacidades cognitivas: Memória de trabalho, Atenção, Inibição, e Processamento de Discurso
+   Pinheiro JC, 2004, Mixed-effects models in S and S-PLUS.
+   Poulin-Dubois D, 2011, J EXP CHILD PSYCHOL, V108, P567, DOI 10.1016/j.jecp.2010.10.009
+   Roberts P.M., 2002, APHASIOLOGY, V16, P635, DOI [https://doi.org/10.1080/02687030244000220, DOI 10.1080/02687030244000220]
+   Rossi SG, 2017, Vocabulário e acesso lexical com priming semântico utilizando homônimos., P8669
+   Teubner-Rhodes SE, 2016, COGNITION, V150, P213, DOI 10.1016/j.cognition.2016.02.011
+   Toassi PFP, 2015, Acta Sci Lang Cult, V37, P393
+   Wagner R, 1999, CTOPP: Comprehensive test of phonological processing
+   1997, Parâmetros Curriculares Nacionais: introdução aos parâmetros curriculares nacionais., P126
+NR 30
+TC 1
+Z9 1
+U1 0
+U2 0
+PU Academia Brasileira de Audiologia
+SN 2317-6431
+PY 2018
+VL 23
+BP e1849
+DI 10.1590/2317-6431-2017-1849
+EC Audiology & Speech-Language Pathology; Rehabilitation
+C2 SciELO Brazil
+SC Audiology & Speech-Language Pathology; Rehabilitation
+UT SCIELO:S2317-64312018000100324
+OA gold
+ER
+
+PT J
+AU Padinha, Thais Arantes
+   Goia, Marisol Rodriguez
+TI AS ESCOLAS PRIVADAS BILÍNGUES E A QUALIFICAÇÃO DOCENTE
+X1 LAS ESCUELAS PRIVADAS BILINGÜES Y LA CALIFICACIÓN DOCENTE
+Y1 LES ÉCOLES PRIVÉES BILINGUES ET LA QUALIFICATION DES ENSEIGNANTS
+Z1 PRIVATE BILINGUAL SCHOOLS AND TEACHER QUALIFICATIONS
+SO Cadernos de Pesquisa	
+LA Portuguese	
+DT research-article	
+DE BILINGUAL EDUCATION; EARLY CHILDHOOD EDUCATION; PRIVATE SCHOOL; TEACHING WORK	
+X5 ENSEÑANZA BILINGÜE; EDUCACIÓN INFANTIL; ESCUELA PRIVADA; TRABAJO DOCENTE	
+Y5 EDUCAÇÃO BILÍNGUE; EDUCAÇÃO INFANTIL; ESCOLA PRIVADA; TRABALHO DOCENTE	
+Z5 ENSEIGNEMENT BILINGUE; ÉDUCATION DE LA PETITE ENFANCE; ÉCOLE PRIVÉE; TRAVAIL D’ENSEIGNEMENT	
+AB Abstract Amid the tendencies of the Brazilian private education system to meet the elites’ demand for the so-called international capital, the article discusses the growing offer of bilingualism in early childhood education. The goal is to analyze the qualifications required from teachers in light of recent discussions on the horizontal stratification of the Brazilian higher education system and their adverse effects on education programs. Interviews were conducted with representatives of five schools located in elite neighborhoods in the city of Rio de Janeiro. Academic titles, certificates of proficiency, native fluency, and practical skills make up the requirements for teachers to work with children aged 0-5 years. The trend toward bilingualism in private schools is a process that exacerbates inequalities in opportunities among Brazilian teachers.	
+X4 Resumen En lo que atañe a las tendencias de la red privada de enseñanza en Brasil de atender a la demanda de las élites, el artículo discute la oferta de bilingüismo en la educación infantil, analizando la calificación que se exige a los profesores a la luz de las discusiones sobre la estratificación horizontal del sistema de educación superior brasileño y sus efectos para los cursos de Pedagogía. Se realizaron entrevistas con representantes de cinco establecimientos ubicados en barrios nobles de la ciudad de Rio de Janeiro. Titulaciones, comprobación de proficiencia, fluencia “nativa” y habilidades prácticas son requisitos básicos de la calificación docente para actuar con niños de 0 a 5 años. Se pone de manifiesto que la tendencia al bilingüismo en las escuelas privadas agrava las desigualdades de oportunidades entre los docentes.	
+Y4 Resumo Em meio às tendências da rede privada de ensino no Brasil de atender à demanda das elites, o artigo discute a oferta de bilinguismo na educação infantil, analisando a qualificação exigida dos professores à luz das discussões sobre a estratificação horizontal do sistema de ensino superior brasileiro e seus efeitos para os cursos de Pedagogia. Foram realizadas entrevistas com representantes de cinco estabelecimentos em bairros nobres da cidade do Rio de Janeiro. Titulações, comprovação de proficiência, fluência “nativa” e habilidades práticas são requisitos básicos da qualificação docente para atuar com crianças de 0 a 5 anos. Evidencia-se que a tendência ao bilinguismo nas escolas privadas agrava as desigualdades de oportunidades entre os docentes.	
+Z4 Résumé Dans le contexte où le réseau privé d’enseignement au Brésil répond re à une demande des élites, cet article discute l’offre du bilinguisme dans l’éducation de la petite enfance, en analysant la qualification exigée des enseignants à la lumière des discussions sur la stratification horizontale du système d’enseignement supérieur brésilien et ses effets dans les cours de Pédagogie. Des interviews ont été réalisées avec des représentantes de cinq établissements dans des quartiers nobles de la ville de Rio de Janeiro. Des titres (ou diplômes), certificats de compétence en langues, maîtrise comme un « natif » et habiletés pratiques sont des exigences minimales de la qualification des enseignants pour travailler avec des enfants de 0 à 5 ans. Cela met en évidence que la tendance au bilinguisme dans les écoles privées aggrave les inégalités d’opportunités entre les enseignants.	
+C1 [Padinha, Thais Arantes] Fundação Getúlio Vargas, Brazil.
+   [Goia, Marisol Rodriguez] Fundação Getúlio Vargas, Brazil.
+OI Padinha, Thais/0000-0001-7834-6587; Goia, Marisol/0000-0001-8733-7885
+CR Aguiar A, 2012, INT STUD SOCIOL EDUC, V22, P353, DOI 10.1080/09620214.2012.745344
+   Aguiar Andréa, 2009, Educ. Pesqui., V35, P67, DOI 10.1590/S1517-97022009000100005
+   Almeida A. M., 2015, Elites, privilege and excellence: The national and global redefinition of educational advantage
+   Almeida A. M., 2002, A escolarização das elites: Um panorama internacional da Pesquisa
+   ALMEIDA Ana Maria F., 2012, Revista Pós Ciências Sociais, V9, P1
+   Cattani Antonio David, 2007, Sociologias, P170
+   Charles M, 2002, AM SOCIOL REV, V67, P573, DOI 10.2307/3088946
+   Cunha Luiz Antônio, 2011, Rev. Bras. Educ., V16, P585, DOI 10.1590/S1413-24782011000300004
+   Doherty C, 2009, DISCOURSE-ABINGDON, V30, P73, DOI 10.1080/01596300802643108
+   Dubet François, 2015, Cad. CRH, V28, P255, DOI 10.1590/S0103-49792015000200002
+   Fávaro FM, 2009, A educação infantil bilíngue (português/inglês) na cidade de São Paulo e a formação dos profissionais da área: um estudo de caso
+   Freeman R. D., 1998, Bilingual education and social change
+   Gardner S., 2012, ROUTLEDGE HDB MULTIL, P247
+   Gatti Bernardete A., 2010, Educ. Soc., V31, P1355, DOI 10.1590/S0101-73302010000400016
+   GATTI Bernardete A., 2009, Professores do Brasil: impasses e desafios
+   Gerber TP, 2008, ANNU REV SOCIOL, V34, P299, DOI 10.1146/annurev.soc.34.040507.134604
+   Grill M., 2019, Avanços e desafios na democratização da educação superior do Brasil, P45
+   Gripp G., 2019, Estudo dos currículos dos cursos de formação de professores no Brasil
+   Gripp G., 2017, Quem modela o trabalho dos professores: Currículos dos cursos de formação de professores no Brasil
+   Hamers J. F., 2000, Bilinguality and bilingualism
+   HONORATO G., 2018, COLECAO CADERNOS LEP, P31
+   Jay E., 2002, A escolarização das elites: Um panorama internacional de pesquisa, P120
+   LIBANEO Jose Carlos, 2010, Revista Brasileira de Estudos Pedagogicos, Brasilia, V91, P562
+   Lucas SR, 2001, AM J SOCIOL, V106, P1642, DOI 10.1086/321300
+   Megale A.H., 2016, RAIDO, V10, P9
+   Megale A. H., 2014, Pátio Educação Infantil, V1, P12
+   Megale A. H., 2018, The Especialist, V39, P1
+   Mello H. A. B., 2011, Revista Horizontes de Linguística Aplicada, V9, P118
+   Nogueira Maria Alice, 2008, Educ. Soc., V29, P355, DOI 10.1590/S0101-73302008000200004
+   Oliveira J. F., 2010, REV EDUCACAO PUBLICA, V19, P247
+   PINTO U. A., 2002, PEDAGOGIA PEDAGOGOS, p153 
+   Salgado A. C. P., 2009, Formação de professores para a educação bilíngue: Desafios e perspectivas
+   Storto A. C., 2015, Discursos sobre bilinguismo e educaé§é£o bilíngue: A perspectiva das escolas (Unpublished master’s thesis).
+   Tarc P., 2009, Global dreams, enduring tensions: International Baccalaureate in a changing world
+   Van Zanten A., Elites, privilege and excellence: The national and global redefinition of educational advantage
+   Vieira M. C., 2019, Escolas bilíngues se espalham pelo país. Isso é bom - e custa caro: Mercado cresceu 10% desde 2014 e movimenta 250 milhões de reais atualmente
+   Vieira M. M., 2007, A mobilidade como competência? Formação de elites e o programa Erasmus
+   Ziegler Sandra, 2014, Cad. Pesqui., V44, P84, DOI 10.1590/198053142842
+   2019, Dado do ensino privado
+   2019, Exame Nacional de Desempenho dos Estudantes (Enade)
+   Com mais unidades e empregos, setor de franquias cresce 5,9% no 2º tri de 2019
+   1999, Diário Oficial da União
+   2003, Responde consulta sobre formação de profissionais para a Educação Básica
+   2013, Estabelece normas para a oferta de Ensino Bilíngue e Internacional na Educação Básica, pelas instituições pertencentes ao Sistema de Ensino do Estado do Rio de Janeiro
+   2019, Pretos ou pardos estão mais escolarizados, mas desigualdade em relação aos brancos permanece
+   2012, Fixa normas para autorização de funcionamento de instituições privadas de Educação Infantil do Sistema de Ensino do Município do Rio de Janeiro e dá outras providências
+   2019, Base Nacional Comum Curricular (BNCC)
+   2014, Aprova o Plano Nacional de Educação - PNE e dá outras providências
+   1996, Estabelece as diretrizes e bases da educação nacional
+   2019, Tendência que veio para ficar: Escolas que têm um programa bilíngue conquistam mais alunos e pais pelo Brasil: Escolas regulares têm apostado em programas bilíngues para oferecer ensino de inglês qualificado dentro da própria instituição
+NR 50
+TC 0
+Z9 0
+U1 2
+U2 4
+PU Fundação Carlos Chagas
+SN 1980-5314
+PY 2021
+VL 51
+BP e07113
+DI 10.1590/198053147113
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S0100-15742021000100603
+OA gold
+ER
+
+PT J
+AU FERREIRA, Taís Crema Remoli
+   CHACON, Miguel Claudio Moriel
+   CAPELLINI, Vera Lucia Messias Fialho
+TI Análise de Publicações Relacionando Altas Habilidades/ Superdotação, Criatividade e Bilinguismo nas Bases de Dados Scielo, Scopus e Web of Science
+X1 Analysis of Publications Relating Giftedness, Creativity and Bilingualism in the Scielo, Scopus and Web of Science Databases
+SO Revista Brasileira de Educação Especial	
+LA Portuguese	
+DT research-article	
+DE Special Education; Giftedness; Creativity; Bilingualism; Literature review	
+Y5 Educação Especial; Altas habilidades/Superdotação; Criatividade; Bilinguismo; Revisão de literatura	
+AB ABSTRACT: In this article, it was proposed to conduct a search in a national database (SciELO) and in two international ones (Scopus and Web of Science), in order to investigate possible connections between the themes giftedness, creativity and bilingualism, as interest in the three terms has been growing. In the verification carried out in 2020 with different combinations of these uniterms, written in Portuguese and English, no work related to the three topics was found, but ten articles addressing the connection between two of the topics were obtained. The connection between giftedness and bilingualism was the most recurrent theme, with six studies. Most of them investigated how to evaluate and work with gifted bilingual students inserted in different realities with the authors’ criticism of the standardized evaluations and tests that were not concerned with encompassing cultural and linguistic differences in these instruments. The four other articles addressed creativity and bilingualism and were focused on comparing different measures of creativity of bilingual and monolingual children. Through the data obtained in the texts, there was a more significant gain in different measures of creativity for bilingual children. From the analysis of the findings, there was little production related to the themes presented, even though the search was limited to the connection of only two of the aforementioned uniterms. Thus, new studies are suggested in bilingual environments with a focus on target students of Special Education, specifically those with giftedness. It is also recommended the development of creativity in this context and the dissemination of more empirical research so that new works can be replicated.	
+Y4 RESUMO: Neste artigo, propôs-se a realizar uma busca em uma base de dados nacional (SciELO) e em duas internacionais (Scopus e Web of Science) a fim de investigar possíveis conexões entre os temas altas habilidades/superdotação (AH/SD), criatividade e bilinguismo, uma vez que o interesse pelos três unitermos vêm crescendo. Na verificação realizada em 2020, a partir de diferentes combinações desses unitermos, tanto em Língua Portuguesa como Inglesa, nenhum trabalho que relacionava os três tópicos foi encontrado, mas obtiveram-se dez artigos que abordavam a conexão entre dois deles. A conexão entre AH/SD e bilinguismo foi a temática mais recorrente, com seis estudos. A maior parte desses achados investigou a forma de avaliar e trabalhar com alunos com AH/SD bilíngues inseridos em diferentes realidades, havendo a crítica dos autores às avaliações e aos testes padronizados que não se preocupavam em englobar diferenças culturais e linguísticas nesses instrumentos. Os quatro outros artigos abordaram criatividade e bilinguismo, tendo como foco a comparação de diferentes medidas de criatividade entre crianças bilíngues e monolíngues. Por meio dos dados obtidos nos textos, houve ganho mais significativo em diferentes medidas de criatividade às crianças bilíngues. A partir da análise dos achados, verificou-se a pouca produção relacionando as temáticas apresentadas, mesmo limitando-se a busca à conexão de apenas dois dos unitermos citados. Assim, sugerem-se novos estudos em ambientes bilíngues com foco em estudantes público-alvo da Educação Especial, especificamente aqueles com AH/SD. Recomenda-se, também, o desenvolvimento da criatividade nesse contexto e a divulgação de mais pesquisas empíricas para que novos trabalhos possam ser replicados.	
+C1 [CAPELLINI, Vera Lucia Messias Fialho] Universidade Estadual Paulista, Brazil.
+   [CHACON, Miguel Claudio Moriel] Universidade Estadual Paulista, Brazil.
+   [FERREIRA, Taís Crema Remoli] Universidade Estadual Paulista, Brazil.
+OI Remoli, Tais/0000-0001-5279-7718
+CR Alencar Eunice M. L. Soriano de, 2015, Psic.: Teor. e Pesq., V31, P105, DOI 10.1590/0102-37722015011849105114
+   Aust K, 2009, Z ERZIEHWISS, V12, P328
+   Bahia S., 2016, Altas habilidades/superdotação (AH/SD) e criatividade. Identificação e atendimento, P145
+   Baser C, 2014, PROCD SOC BEHV, V136, P246, DOI 10.1016/j.sbspro.2014.05.322
+   Biedrón A., 2012, Extending the Boundaries of Research on Second Language Learning and Teaching, P129
+   Biedron A, 2016, LANG TEACHING, V49, P151, DOI 10.1017/S0261444815000439
+   Brice AE, 2008, J EDUC GIFTED, V32, P7, DOI 10.4219/jeg-2008-819
+   Ferreira T.C.R., 2020, Avaliação da criatividade de alunos com e sem indicadores de Altas Habilidades/Superdotação em ambiente bilíngue
+   Gonçalves F. C., 2010, Estudo comparativo entre alunos superdotados e não superdotados em relação à criatividade, inteligência e percepção de clima de sala de aula para criatividade
+   Gonzalez V., 2006, J HISPANIC HIGHER ED, V5, P142, DOI [10.1177/1538192705285467, DOI 10.1177/1538192705285467]
+   Hamers J. F., 2004, Bilinguality and Bilingualism
+   KITANO MK, 1995, J EDUC GIFTED, V18, P234, DOI 10.1177/016235329501800302
+   Lee H, 2011, PERS INDIV DIFFER, V50, P1186, DOI 10.1016/j.paid.2011.01.039
+   Leikin M, 2014, CREATIVITY RES J, V26, P411, DOI 10.1080/10400419.2014.961779
+   Leikin M, 2013, INT J BILINGUAL, V17, P431, DOI 10.1177/1367006912438300
+   Mendonça Patrícia Villa da Costa Ferreira, 2005, Psicol. Esc. Educ., V9, P59
+   NAKANISHI T, 2015, COMP INF SCI ICIS 20, P229
+   PALANIAPPAN AK, 1994, PERCEPT MOTOR SKILL, V78, P784, DOI 10.2466/pms.1994.78.3.784
+   Piske F. H. R., 2016, Altas habilidades/superdotação (AH/SD) e criatividade. Identificação e atendimento, P207
+   REMOLI Taís Crema, 2017, Rev. bras. educ. espec., V23, P455, DOI 10.1590/s1413-65382317000300010
+   RENZULLI J. S, 2018, ALTAS HABILIDADES SU, P19
+   Renzulli J. S, 1997, The schoolwide enrichment model: A how-to guide for educational excellence
+   Ribeiro O. C., 2018, Altas habilidades/superdotação. Processos criativos, afetivos e desenvolvimento de potenciais, P113
+   Strand S, 1998, EDUC RES, V40, P123, DOI 10.1080/0013188980400201
+   Wei L., 2000, BILINGUALISM READER
+   Yang Z, 2018, NURS EDUC TODAY, V71, P40, DOI 10.1016/j.nedt.2018.09.004
+   2008, Identifying gifted and talented English language learners
+   2006, Saberes e práticas da inclusão: desenvolvendo competências para o atendimento às necessidades educacionais especiais de alunos surdos
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 1
+PU Associação Brasileira de Pesquisadores em Educação Especial - ABPEE
+SN 1980-5470
+PY 2021
+VL 27
+BP e0030
+DI 10.1590/1980-54702021v27e0030
+EC Education & Educational Research; Education, Special
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1413-65382021000100408
+OA gold
+ER
+
+PT J
+AU Preuss, Elena Ortiz
+TI Psicolinguística do bilinguismo: implicações em processos formais de aquisição de línguas
+X1 Psycholinguistics of Bilingualism: Implications in Formal Processes of Language Acquisition
+SO Ilha do Desterro	
+LA Portuguese	
+DT research-article	
+DE Pedagogical Conditions; Individual Differences; Psycholinguistics; Bilingualism	
+Y5 Condições Pedagógicas; Diferenças Individuais; Psicolinguística; Bilinguismo	
+AB Abstract In this article we discuss the interrelationships between contextual and individual variables in the acquisition and use of L2, based on researches developed by our team. We assume that in the late acquisition of L2 there is variability in the proficiency of the learners, and that it is necessary to (re)know the effects of the individual variables in the teaching-learning processes. The experiments, which were created according to the Psycholinguistics of bilingualism and carried out in formal contexts of acquisition, evaluated associations between attention and working memory systems and the performance of bilinguals in their L2. The results, although incipient, indicate that effects of pedagogical approaches can be affected by individual differences. In addition, they reveal the need of more experiments that focus these variables on L2 teaching-learning processes.	
+Y4 Resumo Neste artigo1 discutimos as inter-relações entre variáveis contextuais e individuais na aquisição e uso de segunda língua (L2), a partir de pesquisas desenvolvidas em nosso grupo de estudo. Partimos do pressuposto de que, na aquisição tardia de L2, há variabilidade na proficiência dos aprendizes, sendo necessário (re)conhecer os efeitos das variáveis individuais nos processos de ensino-aprendizagem. Os experimentos, criados à luz da psicolinguística do bilinguismo e realizados em contextos formais de aquisição, avaliaram associações entre sistemas de atenção e de memória de trabalho (MT) e o desempenho de bilíngues na L2. Os resultados, ainda que incipientes, indicam que efeitos de abordagens pedagógicas podem ser afetados por diferenças individuais. Ademais, revelam a necessidade de mais experimentos que enfoquem essas variáveis nos processos de ensino-aprendizagem de L2.	
+C1 [Preuss, Elena Ortiz] Universidade Federal de Goiás, Brazil.
+CR Baddeley a, 2011, MEMORIA, P54
+   BADDELEY AD, 2002, EUR PSYCHOL, V7, P85, DOI [10.1027/1016-9040.7.2.85, DOI 10.1021//1016-9040.7.2.85, DOI 10.1027/1016-9040.7.2.85]
+   BADDELEY Alan, 2011, MEMORIA
+   Bowden HW., 2005, MIND CONTEXT ADULT 2, P105
+   Costa A, 2008, COGNITION, V106, P59, DOI 10.1016/j.cognition.2006.12.013
+   Costa A, 2006, J EXP PSYCHOL LEARN, V32, P1057, DOI 10.1037/0278-7393.32.5.1057
+   DOUGHTY C., 2009, Atención a la forma en la adquisición de segundas lenguas en el aula
+   Ellis R, 1998, TESOL QUART, V32, P39, DOI 10.2307/3587901
+   ELLIS R., 2005, La adquisición de segundas lenguas en un contexto de enseñanza análisis de las investigaciones existentes
+   FINGER I., 2018, DINAMICA PROCESSAMEN, P31
+   Finger I, 2009, LET HOJE, V44, P78
+   Gass S.M., 2008, Second Language Acquisition: An Introductory Course
+   Grosjean F., 2013, The Psycholinguistics of Bilingualism
+   Izumi S, 2013, NOTICING 2 LANGUAGE, P25
+   Juffs A, 2011, LANG TEACHING, V44, P137, DOI 10.1017/S0261444810000509
+   JUST MA, 1992, PSYCHOL REV, V99, P122, DOI 10.1037/0033-295X.99.1.122
+   Kramer R, 2011, Effects of bilingualism on inhibitory control and working memory: a study with early and late bilinguals [Dissertação]
+   LEITAO Marcio M., 2008, MANUAL LINGUISTICA, P217
+   LONG M. H., 2009, ATENCION FORMA ADQUI, P29
+   Marion V, 2007, J SPEECH LANG HEAR R, V50, P940, DOI 10.1044/1092-4388(2007/067)
+   ORTEGA L., 2013, UNDERSTANDING 2 LANG, P82
+   Ortiz Preuss Elena, 2016, MULTIPLOS OLHARES LI, P121
+   ORTIZ-PREUSS E, Diferenças individuais e efeitos de feedback na aquisição de verbos no pretérito em espanhol como L2
+   ORTIZ-PREUSS E, 2009, LINGUAGEM ENSINO, V12, P435
+   ORTIZ-PREUSS E., 2017, REV LETRONICA, V10, P789
+   Ortiz-Preuss Elena, 2017, Ilha Desterro, V70, P63, DOI 10.5007/2175-8026.2017v70n3p63
+   ORTIZ-PREUSS Elena, 2014, REV CON TEXTOS LINGU, V8, P66
+   REZNITSKAYA A., 2008, PESQUISA PEDAGOGICA, P126
+   RIGATTI P. C., 2015, Um estudo sobre a correlação entre memória de trabalho e compreensão leitora com falantes de português brasileiro
+   RODRIGUES T, 2018, DINAMICA PROCESSAMEN, P233
+   RODRIGUES T. B., 2018, Acesso lexical e produção de fala em L2: efeitos de similaridade linguística e atenção
+   Sanz C, 2005, MIND CONTEXT ADULT 2, P3
+   Schmidt R., 1990, APPLIED LINGUISTICS, V11, P206
+   Schmidt R., 1995, ATTENTION AWARENESS, P1
+   Schmidt R., 1994, AILA REV, V11, P11
+   Schmidt R., 2010, Attention, awareness, and individual differences in language learning, P721
+   SCHOLL A. P., 2015, Questionário de Experiência Linguística e Proficiência
+   SUTHIWAN T., 2001, COGNITION 2 LANGUAGE, P3
+   VanPatten B, 2002, LANG LEARN, V52, P755, DOI 10.1111/1467-9922.00203
+   VanPatten B., 2005, MIND CONTEXT ADULT 2, P267
+   VANPATTEN B., 1996, Input Processing and Grammar Instruction in Second Language Acquisition
+   Ye Z, 2009, NEUROSCI BIOBEHAV R, V33, P1168, DOI 10.1016/j.neubiorev.2009.03.003
+NR 42
+TC 0
+Z9 0
+U1 1
+U2 11
+PU Universidade Federal de Santa Catarina
+SN 2175-8026
+PD 12
+PY 2019
+VL 72
+IS 3
+BP 291
+EP 309
+DI 10.5007/2175-8026.2019v72n3p291
+EC Language & Linguistics; Literature, American; Literature, British Isles
+C2 SciELO Brazil
+SC Linguistics; Literature
+UT SCIELO:S2175-80262019000300291
+OA gold
+ER
+
+PT J
+AU Simonato, Esther
+   Baldisseri, Anne Taffin d’Heursel
+   Avila, Clara Regina Brandão de
+TI Bilinguismo e Nomeação Automática Rápida: efeitos da alternância de línguas sobre o acesso lexical e a velocidade de leitura
+X1 Bilingualism and Rapid Automatized Naming: effects of language switching on lexical access and reading speed
+SO CoDAS	
+LA Portuguese	
+DT research-article	
+DE Bilingualism; Multilingualism; Mental Processes; Cognition; Reading	
+Y5 Bilinguismo; Multilinguismo; Processos Mentais; Cognição; Leitura	
+AB ABSTRACT Purpose To assess whether bilingualism, on a language switching experiment, is associated with higher or lower accuracy and speed of the rapid automatized naming of objects and investigate the influence of language switching on reading speed. Methods The performance of 50 Brazilian bilingual children in the Rapid Automatized Naming Task, whose L1 was Brazilian Portuguese and who were exposed to English daily at school, was assessed. Forty-seven monolingual (Brazilian Portuguese) children were grouped according to age. Results Language switching interfered with the performance of the bilingual children in the Rapid Automatized Naming Task in terms of speed and accuracy. No correlations were found between the performance in the RAN task and Reading Speed. Conclusion Brazilian bilingual students showed poor performance in the rapid naming task on the switch trial when compared to monolingual students, showing higher rates of mistakes, especially hesitations. Only the performance of bilingual students in the rapid naming task in L2 correlated with L1 reading speed.	
+Y4 RESUMO Objetivo Verificar se o bilinguismo, na condição de alternância de línguas, associa-se à maior ou menor velocidade e precisão na nomeação rápida de objetos e se essa condição se relaciona com a velocidade de leitura de texto. Método Analisou-se o desempenho de 50 crianças bilíngues sequenciais brasileiras, cuja língua materna era o Português Brasileiro, expostas ao Inglês diariamente no ambiente escolar. O grupo monolíngue, composto por 47 crianças, foi agrupado de acordo com a faixa etária. Foram analisados desempenhos em tarefa de Nomeação Automática Rápida (RAN) e velocidade (palavras lidas por minuto) em prova de leitura oral de texto. Resultados Os resultados revelaram que a alternância de línguas se associou ao desempenho dos escolares bilíngues na prova de Nomeação Rápida no que diz respeito à velocidade e à precisão. Em condição de alternância de línguas, os escolares bilíngues despenderam mais tempo para nomear e cometeram mais erros. Somente se observou correlação entre o desempenho dos escolares bilíngues na prova de nomeação rápida em L2 e a taxa de leitura em L1. Conclusão Escolares brasileiros bilíngues apresentaram pior desempenho em tarefa de nomeação rápida na situação de alternância de línguas quando comparados a escolares monolíngues, com maior número de erros, especialmente hesitações.	
+C1 [Simonato, Esther; Baldisseri, Anne Taffin d’Heursel; Avila, Clara Regina Brandão de] Universidade Federal de São Paulo, Brazil.
+RI Baldisseri, Anne/B-1852-2014; Avila, Clara Regina Brandao/J-6066-2012
+OI Baldisseri, Anne/0000-0003-1919-7694; Simonato,
+   Esther/0000-0002-1843-4320; Avila, Clara Regina
+   Brandao/0000-0002-5708-8299
+CR Abutalebi J, 2007, J NEUROLINGUIST, V20, P242, DOI 10.1016/j.jneuroling.2006.10.003
+   Bellocchi S, 2017, READ WRIT, V30, P1311, DOI 10.1007/s11145-017-9725-5
+   Bialystok E, 2008, J EXP PSYCHOL LEARN, V34, P859, DOI 10.1037/0278-7393.34.4.859
+   Bird EKR, 2016, J COMMUN DISORD, V63, P1, DOI 10.1016/j.jcomdis.2016.07.003
+   Christoffels IK, 2007, BRAIN RES, V1147, P192, DOI 10.1016/j.brainres.2007.01.137
+   de Abreu PMJE, 2011, MEMORY, V19, P529, DOI 10.1080/09658211.2011.590504
+   Fehringer C, 2007, FOLIA LINGUIST, V41, P37, DOI 10.1515/flin.41.1-2.37
+   Fink A, 2015, PSYCHON B REV, V22, P808, DOI 10.3758/s13423-014-0739-6
+   Færch C, 1983, Strategies in interlanguage communication
+   Georgiou GK, 2008, READ WRIT, V21, P885, DOI 10.1007/s11145-007-9096-4
+   Gollan TH, 2009, J EXP PSYCHOL LEARN, V35, P640, DOI 10.1037/a0014981
+   Gollan TH, 2005, MEM COGNITION, V33, P1220, DOI 10.3758/BF03193224
+   Gollan TH, 2002, NEUROPSYCHOLOGY, V16, P562, DOI 10.1037//0894-4105.16.4.562
+   Gottardo A, 2019, ENCY LANGUAGE LITERA, P1
+   KOHN SE, 1985, BRAIN LANG, V24, P266, DOI 10.1016/0093-934X(85)90135-X
+   Kroll JF, 2008, ACTA PSYCHOL, V128, P416, DOI 10.1016/j.actpsy.2008.02.001
+   Liu YY, 2018, FRONT PSYCHOL, V9, DOI 10.3389/fpsyg.2018.00649
+   Logan JAR, 2011, READ WRIT, V24, P1, DOI 10.1007/s11145-009-9199-1
+   Lúcio Patrícia Silva, 2017, Psico-USF, V22, P35, DOI 10.1590/1413-82712017220104
+   Meuter RFI, 1999, J MEM LANG, V40, P25, DOI 10.1006/jmla.1998.2602
+   Norton ES, 2012, ANNU REV PSYCHOL, V63, P427, DOI 10.1146/annurev-psych-120710-100431
+   PEAL E, 1962, PSYCHOL MONOGR, V76, P1, DOI 10.1037/h0093840
+   Poarch GJ, 2012, J EXP CHILD PSYCHOL, V113, P535, DOI 10.1016/j.jecp.2012.06.013
+   Roberts P.M., 2002, APHASIOLOGY, V16, P635, DOI [https://doi.org/10.1080/02687030244000220, DOI 10.1080/02687030244000220]
+   Rodriguez-Fornells A, 2006, LANG LEARN, V56, P133, DOI 10.1111/j.1467-9922.2006.00359.x
+   Shook A, 2012, COGNITION, V124, P314, DOI 10.1016/j.cognition.2012.05.014
+   Weissberger GH, 2012, PSYCHOL AGING, V27, P959, DOI 10.1037/a0028281
+   WIESE R, 1984, 2 LANGUAGE PRODUCTIO, P00011
+   Young S, 2016, The effects of bilingualism and multilingualism on lexical retrieval
+NR 29
+TC 0
+Z9 0
+U1 1
+U2 1
+PU Sociedade Brasileira de Fonoaudiologia
+SN 2317-1782
+PY 2021
+VL 33
+IS 4
+BP e20190028
+DI 10.1590/2317-1782/20202019028
+EC Audiology & Speech-Language Pathology; Rehabilitation
+C2 SciELO Brazil
+SC Audiology & Speech-Language Pathology; Rehabilitation
+UT SCIELO:S2317-17822021000400303
+OA gold
+ER
+
+PT J
+AU Flor, Carla da Silva
+   Vanzin, Tarcisio
+   Ulbricht, Vânia
+TI Recomendações da WCAG 2.0 (2008) e a acessibilidade de surdos em conteúdos da Web
+X1 WCAG 2.0 (2008) recommendations and accessibility of the deaf to Web content
+SO Revista Brasileira de Educação Especial	
+LA Portuguese	
+DT research-article	
+DE Special Education; Bilingualism; Deafness; Accessibility; Web	
+Y5 Educação Especial; Bilinguismo; Surdez; Acessibilidade; Web	
+AB This article presents a discussion on the communication of the deaf in the context of accessibility standards for the Web. First there is a review of the literature on deaf communication, the linguistic method adopted in schools and a reflection on the history of deaf education. This is followed by a discussion of bilingualism, deaf identities and guidelines on accessibility proposed by WCAG 2.0 (2008). Based on bibliographical research, carried out using primary sources, success criteria in relation to deafness was selected in order to verify if sign language, regarded as the first language (L1) of the deaf in the philosophy of bilingualism, is considered in the design principles of WCAG 2.0 (2008). Finally, the article emphasizes the need to consider bilingual communication in order to ensure that Web content fully conform to everyday language of deaf culture.	
+Y4 Este artigo apresenta uma discussão a respeito da comunicação de surdos no contexto dos padrões de acessibilidade na web. Primeiramente traz um estudo bibliográfico sobre a comunicação de surdos, o método linguístico adotado nas escolas e o reflexo na história da sua educação. Em seguida, discorre sobre o bilinguismo, as identidades surdas e as diretrizes de acessibilidade propostas pela WCAG 2.0 (2008). A partir de pesquisa bibliográfica, realizada em fontes primárias, selecionaram-se os critérios de sucesso relacionados à surdez a fim de verificar se a língua de sinais, tida como primeira língua dos surdos (L1) na filosofia do bilinguismo, é considerada na concepção dos princípios da WCAG 2.0 (2008). Por fim, o artigo enfatiza a comunicação bilíngue como necessária para que os conteúdos da web possam estabelecer uma uniformidade com a linguagem habitual da cultura surda.	
+C1 [Vanzin, Tarcisio] Universidade Federal de Santa Catarina, Brazil.
+   [Ulbricht, Vânia] Universidade Federal de Santa Catarina, Brazil.
+   [Flor, Carla da Silva] Universidade Federal de Santa Catarina, Brazil.
+CR GOLDFELD Marcia, 2002, A Criança Surda: linguagem e cognição numa perspectiva sociointeracionista
+   PERLIN G, 2006, Fundamentos da educação de surdos
+   PERLIN G. T. T, 2012, A surdez: um olhar sobre as diferenças
+   Santana AP, 2007, Surdez e linguagem: aspectos e implicações neurolinguísticas
+   2006, Saberes e práticas da inclusão: desenvolvendo competências para o atendimento às necessidades educacionais especiais de alunos surdos
+   2008, WCAG 2.0 - WEB CONTENT ACCESSIBILITY GUIDELINES 2.0
+NR 6
+TC 3
+Z9 3
+U1 0
+U2 1
+PU Associação Brasileira de Pesquisadores em Educação Especial - ABPEE
+PI Marília
+PA Marília
+SN 1980-5470
+PD 06
+PY 2013
+VL 19
+IS 2
+BP 161
+EP 168
+DI 10.1590/S1413-65382013000200002
+EC Education & Educational Research; Education, Special
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1413-65382013000200002
+OA gold
+ER
+
+PT J
+AU Lucena, Maria Inêz Probst
+   Torres, Ana Cecília da Gama
+TI Ideologia monolíngue, mercantilização e instrumentalização da língua inglesa na alteração da LDB em 2017 e em anúncios publicitários de cursos livres
+X1 Monolingual ideology, commodification and instrumentalization of English in the 2017 amendment of Brazilian educational law and in publicity campaigns of English courses
+SO Revista Brasileira de Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE commodity; reification; bilingualism; international language	
+Y5 mercadoria; reificação; bilinguismo; língua internacional	
+AB ABSTRACT This paper focuses on the publicity of English courses and the recent legal imposition of the language in Brazilian middle and high schools. The reference corpus consists of five publicity campaigns of English courses displayed during the first semester of 2017 in a city of Santa Catarina state and the text of the recently amended Brazilian educational law (LDB 9,394/1996). In addition, the legal amendment is contextualized along with the development of the national common curriculum (BNCC). Our objective is to problematize and to show how the publicity of English courses and the recent legal amendment contribute to a linguistic hierarchy which socio-historically constructs English as a hegemonic and reified language. Data analysis shows that both the publicity and the law may underestimate the importance of multilingualism and at the same time may strengthen the commodification of monolingual ideals related to English language teaching.	
+Y4 RESUMO Este artigo foca a publicidade de cursos livres de inglês e a recente imposição legal dessa língua nos ensinos fundamental e médio brasileiros. O corpus de referência é composto por cinco anúncios de cursos de idiomas publicados no primeiro semestre de 2017, em uma cidade de Santa Catarina e pela Lei de Diretrizes e Bases da Educação Brasileira (Lei nº 9.394/1996). Adicionalmente, contextualizamos a alteração da LDB, juntamente com o desenvolvimento da Base Nacional Comum Curricular (BNCC). Nosso objetivo é problematizar e mostrar como a publicidade de cursos livres de inglês e a alteração da LDB contribuem para uma hierarquia linguística, construindo sócio-historicamente o inglês como língua hegemônica e reificada. A análise dos dados mostra que tanto a publicidade quanto a lei podem desvalorizar o multilinguismo e reforçar a mercantilização de ideais monolíngues referentes ao ensino de inglês.	
+C1 [Lucena, Maria Inêz Probst] Universidade Federal de Santa Catarina, Brazil.
+   [Torres, Ana Cecília da Gama] Instituto Federal de Educação Ciência e Tecnologia, Brasil.
+OI Lucena, Maria/0000-0001-7579-5758
+CR Blommaert J, 2008, SITUAR LINGUAGEM INV, P91
+   BRITO D., 2018, Base Curricular do Ensino Médio está em consulta em todo o país
+   Canagarajah S., 2011, READING MATRIX, V11, P1
+   Canagarajah S., 2006, LANGUAGE ASSESSMENT, V3, P229, DOI DOI 10.1207/s15434311laq0303_1
+   Firth A, 1997, MOD LANG J, V81, P285, DOI 10.2307/329302
+   Garcia O., 2009, BIL ED 21 CENT GLOB
+   Gasparini E., 2005, POLIFONIA, V10, P159
+   Heller M., 2002, GLOBALIZATION LANGUA, P47
+   Jacquemet M, 2005, LANG COMMUN, V25, P257, DOI 10.1016/j.langcom.2005.05.001
+   LOPES Alice Casimiro, 2015, LINHAS CRITICAS BRAS, V21, P445, DOI DOI 10.26512/LC.V21I45.4581
+   MENKEN K, 2010, Negotiating language policies in schools: educators as policymakers
+   MOITA LOPES L. P., 2013, LINGUISTICA APLICADA, P211
+   MOITA LOPES L. P., 2013, Linguística aplicada na modernidade recente: Festshrift para Antonieta Celani, P16
+   Pennycook A, 2017, The cultural politics of English as an international language
+   PENNYCOOK Alastair, 1998, LINGUISTICA APLICADA, P23
+   Lucena MIP, 2016, REV ANPOLL, V1, P46, DOI 10.18309/anp.v1i40.1014
+   RAJAGOPALAN K., 1999, ELT Journal, V53
+   Rajagopalan Kanavillill, 2002, LANGUAGE POLITICS, V1, P115
+   SIGNORINI Ines, 2006, LINGUISTICA APLICADA, P169
+   TOKARNIA M, 2018, Apesar de protestos, MEC diz que base curricular tem de ser debatida
+   2016, Decreto nº 8.752, de 9 de maio de 2016. Dispõe sobre a Política Nacional de Formação dos Profissionais da Educação Básica, P5
+   2005, Lei n.º 11.161, de 5 de agosto de 2005. Dispõe sobre o ensino da Língua Espanhola
+   2015, Resolução nº 2, de 1º de julho de 2015. Define as Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada, P8
+   2018, INSTITUCIONAL: sobre a EBC
+   2014, Planejando a Próxima Década: conhecendo as vinte metas do Plano Nacional de Educação
+   2017, Lei nº 13.415/2017, de 16 fevereiro de 2017. Altera as Leis no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e 11.494, de 20 de junho 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943, e o Decreto-Lei no 236, de 28 de fevereiro de 1967; revoga a Lei no 11.161, de 5 de agosto de 2005; e institui a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral (Conversão da Medida Provisória nº 746, de 22 set. 2016)
+   2019, ANPED e a BNCC: luta, resistência e negação
+   2018, Jornal da Ciência
+   2018, EXPOSIÇÃO de motivos: BNCC-EM
+   1996, Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional
+   2016, Medida Provisória nº 746, de 22 de set. de 2016. Institui a Política de Fomento à Implementação de Escolas de Ensino Médio em Tempo Integral, altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e a Lei nº 11.494 de 20 de junho 2007, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, e dá outras providências
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 2
+PU Faculdade de Letras - Universidade Federal de Minas Gerais
+SN 1984-6398
+PD 09
+PY 2019
+VL 19
+IS 3
+BP 635
+EP 654
+DI 10.1590/1984-6398201914230
+EC Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1984-63982019000300635
+OA gold
+ER
+
+PT J
+AU Antunes, Bruna Susel Gulart
+   Dornelles, Clara
+   Irala, Valesca Brasil
+TI The (bi)literacy social practices in the border region between Brazil-Uruguay
+X1 Práticas sociais de (bi)letramentos em zona de fronteira entre Brasil-Uruguai
+SO Revista Brasileira de Linguística Aplicada	
+LA English	
+DT research-article	
+DE border; bilingualism; literacy	
+Y5 fronteira; bilinguismo; letramentos	
+AB The present work focuses on the Brazilian-Uruguayan border region at Aceguá/Aceguá in an attempt to describe the literacy activities carried out in one or more languages (BORTOLINI, 2009; HORNBERGER, 2004) by students and their relatives outside the school context, in their daily lives. This research articulated quantitative and qualitative methodological perspectives (cf. RAUEN, 2006), and made use of forms applied in interviews, observations and field notes. The results suggest that the manifestation of different languages occur in the daily activities of border subjects. Even though Portuguese is the predominant language in use in some of the activities, biliteracy was found to be an important and current phenomenon in the lives of the individuals of the community.	
+Y4 Neste trabalho, focalizamos a zona fronteiriça uruguaio-brasileira de Aceguá/Aceguá, para descrever as atividades de letramentos realizadas em uma ou mais línguas (BORTOLINI, 2009; HORNBERGER, 2004) por alunos e seus familiares fora do contexto escolar, em suas práticas sociais cotidianas. A pesquisa combinou perspectivas metodológicas quantitativa e qualitativa (cf. RAUEN, 2006), fazendo o uso de formulários aplicados em entrevistas, notas de campo e observações. Os resultados sugerem que a manifestação de diferentes línguas ocorre na vida cotidiana dos sujeitos que vivem na fronteira focalizada. Embora o português seja a língua predominante, o biletramento é localmente um fenômeno importante e corrente na comunidade.	
+C1 [Antunes, Bruna Susel Gulart] Universidade Federal do Pampa, Brasil.
+   [Dornelles, Clara; Irala, Valesca Brasil] Universidade Federal do Pampa, Brasil.
+CR ALMEIDA Paulo, 2011, Bilinguismos: subjetivação e identificações nas/pelas línguas maternas e estrangeiras, P149
+   ANDRADE Eliane, 2011, Bilinguismos: subjetivação e identificações nas/pelas línguas maternas e estrangeiras, P235
+   ASSIS-PETERSON A. A., 2007, TRANSCULTURALIDADE L, P23
+   BORTOLINI Letícia, 2009, Letramento em uma escola de educação bilíngue na fronteira Uruguai/Brasil
+   BORTONI-RICARDO Stella Maris, 2004, Educação em língua materna
+   BROVETTO Claudia, 2007, Portugués del Uruguay y educación bilingue
+   CESAR America, 2007, TRANSCULTURALIDADE L, P45
+   Coracini M. J., 2007, A celebração do outro: arquivo, memória e identidade
+   CORRÊA Jociele, 2010, Anais do
+   DUARTE Nóris EuniceWiener P, 2011, A abordagem do texto nas aulas de língua materna: perspectivas didáticas
+   ECKERT Penelope, Communities of practice: Where language, gender, and power all live
+   Euzébio Michelle Donizeth, 2012, Rev. bras. linguist. apl., V12, P725
+   FINBOW Thomas, 2011, POLITICAS NORMA CONF, P89
+   GUISAN Pierre, 2011, Políticas da norma e conflitos linguísticos, P129
+   Heller Monica., 1996, LINGUIST EDUC, V8, P139, DOI [10.1016/S0898-5898(96)90011-X, DOI 10.1016/S0898-5898(96)90011-X]
+   HORNBERGER Nancy, 2004, Bilingual Education and Bilingualism, V7
+   IRALA Valesca, 2012, Línguas em contato: onde estão as fronteiras?, V1, P214
+   IRALA Valesca, 2011, [No title captured], P67
+   Lagares Xoan Carlos, 2011, POLITICAS NORMA CONF, P169
+   LAJOLO Marisa, 2009, ESCOLA LEITURA VELHA, P99
+   MAHER Terezinha Machado, 2007, TRANSCULTURALIDADE L, P67
+   MOTA Sara, 2012, . Português e espanhol: esboços, percepções e entremeios, P129
+   Pereira Jacira Helena do Valle, 2009, REV MULTIPLAS LEITUR, V2, P51
+   Raiter A., 1999, LINGUISTICA POLITICA
+   RAUEN Fabio, 2006, ROTEIROS PESQUISA
+   SÁNCHEZ Andrea Quadrelli, 2002, A fronteira inevitável: um estudo sobre as cidades de fronteira de Rivera (Uruguai) e Santana do Livramento (Brasil) a partir de uma perspectiva antropológica
+   SILVEIRA Ada Cristina M. da, 2010, Revista Ghrebh, V2, P1
+   SOARES M., 2006, Letramento: um tema em três gêneros
+   Sturza Eliana Rosa, 2010, Pro-Posições, V21, P83, DOI 10.1590/S0103-73072010000300006
+   TRINDADE A. M., 1995, Educação e linguagem em áreas de fronteira Brasil-Uruguai
+   URZÊDA-FREITAS M.T., 2012, Calidoscópio (UNISINOS), V10, P225
+   UYENO Elzira, 2011, Bilinguismos: subjetivação e identificações nas/pelas línguas maternas e estrangeiras, P149
+   2005, Proposta de reestruturação do Programa de Desenvolvimento da Faixa de Fronteira. Ministério da Integração Nacional, Secretaria de Programas Regionais, Programa de Desenvolvimento da Faixa de Fronteira
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 1
+PU Faculdade de Letras - Universidade Federal de Minas Gerais
+SN 1984-6398
+PD 06
+PY 2014
+VL 14
+IS 2
+BP 271
+EP 292
+EC Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1984-63982014000200003
+OA gold
+ER
+
+PT J
+AU Foerste, Erineu
+   Born, Joachim
+   Dettmann, Jandira Marquardt
+TI Língua pomerana na escola: práticas docentes e diversidade linguística
+X1 Lengua pomerana en la escuela: prácticas docentes y diversidad lingüística
+Y1 Pomeranian language in school: teaching practices and linguistic diversity
+SO Revista Brasileira de Educação	
+LA Portuguese	
+DT research-article	
+DE teachers’ practice; Pomeranian language; bilingualism; Pomeranian education	
+X5 práctica professores; lengua pomerana; bilinguismo; educación pomerana	
+Y5 prática docente; língua pomerana; bilinguismo; educação pomerana	
+AB ABSTRACT This article discusses linguistic diversity in teaching practice in Pomeranian communities where bilingual teachers and children feature in the Programa de Educação Escolar Pomerana, created in 2005 in some municipalities in the state of Espírito Santo, Brazil. Studies on how schools in this context promote linguistic rights were reviewed. Besides from interviews and dialogued readings of the political project with Pomeranian teachers and management teams of rural schools in Santa Maria de Jetibá, Espírito Santo, that take bilingual children. Observations of their school context were carried out, with entries in a field journal. It was observed that the teachers’ practice value cultures and knowledge, raising their own self-esteem, the children’s and other Pomeranian descendants’.	
+X4 RESUMEN El artículo discute la diversidad lingüística en las prácticas docentes en comunidades pomeranas em que niños y profesores bilingües protagonizan el Programa de Educação Escolar Pomerana, creado en 2005 en algunos municipios del Espírito Santo. Se revisan estudios de como las escuelas de ese contexto promueven derechos lingüísticos. Además se procedió a la entrevista y lectura dialogada del proyecto político con una profesora pomerana y un equipo de trabajo de una escuela rural de Santa Maria de Jetibá, Espírito Santo, el cual recibe a niños bilingües. Las observaciones en el contexto escolar se realizaron, con registros en diario de campo. Las prácticas de la profesora valoran culturas y saberes, elevando su propia autoestima, la de los niños y de los descendientes de pomeranos.	
+Y4 RESUMO O artigo discute a diversidade linguística nas práticas docentes em comunidades pomeranas em que crianças e professores(as) bilíngues protagonizam o Programa de Educação Escolar Pomerana, criado em 2005 em alguns municípios capixabas. Revisam-se estudos que indicam como escolas desse contexto promovem direitos linguísticos. Adicionalmente, procedeu-se à entrevista e leitura dialogada do projeto político com uma professora pomerana e equipe gestora de uma escola rural de Santa Maria de Jetibá, Espírito Santo, a qual recebe crianças bilíngues. Observações no contexto escolar foram realizadas, com registros em diário de campo. As práticas da professora valorizam culturas e saberes, elevando sua própria autoestima, a das crianças e dos descendentes de pomeranos.	
+C1 [Foerste, Erineu; Dettmann, Jandira Marquardt] Universidade Federal do Espírito Santo, Brazil.
+   [Born, Joachim] Universität Gießen, Alemanha.
+CR ALMEIDA R., 1997, O Diretório dos índios: um projeto de civilização no Brasil do século XVIII
+   Appel R, 1996, Bilingüismo y contacto de lenguas
+   APPLE Michael W, 1989, EDUCACAO E PODER
+   Bahia J., 2000, O tiro da bruxa: identidade, magia e religião entre camponeses pomeranos do Estado do Espírito Santo
+   BAKHTIN M., 1981, Marxismo e filosofia da linguagem
+   BENINCÁ L. R, 2008, Dificuldade no domínio de fonemas do português por crianças bilíngues de português e pomerano
+   BRANDÃO C. R, 1984, Pensar a prática: escritos de viagem e estudos sobre educação
+   BREMENKAMP Elizana Schaffel, 2014, Análise sociolinguística da manutenção da língua pomerana em Santa Maria de Jetibá, Espírito Santo
+   CALVET L. J, 1996, Les politiques linguistiques
+   Calvet Louis-Jean, 2002, Sociolinguística: uma introdução crítica
+   CASTELLUBER A, 2014, Ensino primário e matemática dos imigrantes descendentes germânicos em Santa Leopoldina (1857-1907)
+   DETTMANN J. M, 2018, Uma professora pomerana na escola: culturas, língua e educação
+   DETTMANN Jandira Marquardt, 2014, Práticas e saberes da professora pomerana: um estudo sobre interculturalidade
+   FICHTNER B, 2013, Cultura, dialética e hegemonia: práticas pedagógicas e pesquisas em educação
+   FOERSTE E, 2016, Sprachkontakte des Portugiesichen, P13
+   FOERSTE E, 2003, Avaliação - Revista da Avaliação da Educação Superior, V8, P163
+   FOERSTE E., 2005, Parceria na formação de professores
+   FOERSTE E, 2017, Educação em Revista, V33
+   FORNET-BETANCOURT R, 2001, Transformación intercultural de la filosofía
+   FORQUIN J. C, 1993, Escola e cultura: as bases e epistemológicas do conhecimento escolar
+   Freire P, 1970, Pedagogia do Oprimido
+   Freire P., 1996, Pedagogia da autonomia
+   Garcia Elisa Frühauf, 2007, Tempo, V12, P23
+   GIROUX H, 1990, Os intelectuais e a organização da cultura
+   GIROUX Henry, 1986, Teoria crítica e resistência em educação: para além das teorias de reprodução
+   GRANZOW K, 1975, Pommeranos unter dem Kreuz des Südens: Deutsche Siedler in Brasilien
+   HARTUWIG A. V. G, 2011, Professores(as) pomeranos(as): um estudo de caso sobre o PROEPO desenvolvido em Santa Maria de Jetibá/ES
+   JACOB J. K, 2012, População pomerana no estado do Espírito Santo - Brasil
+   KOELER E, 2016, Uma professora pomerana e sua comunidade
+   KÜSTER Sintia Bausen, 2015, Cultura e língua pomeranas: um estudo de caso em uma escola do Ensino Fundamental no município de Santa Maria de Jetibá - Espírito Santo - Brasil
+   Matras Yaron., 2009, LANGUAGE CONTACT
+   MCLAHREN P, 1997, A vida nas escolas: uma introdução à pedagogia crítica nos fundamentos da educação
+   MENKEN K.;, 2010, Negotiating language policies in schools: educator as policymakers
+   MÉSZÁROS I, 2008, A Educação para além do Capital
+   MIAN B. G, 1993, Educação escolar de filhos de imigrantes alemães no Espírito Santo: um processo pouco explorado
+   Nunes José Wálter, 2017, FALA, pomerano, fala!
+   OLIVEIRA Gilvan Muller, 2015, LEIS LINGUAS BRASIL LEIS LINGUAS BRASIL, P23
+   RAMLOW L, 2004, Conflitos no processo de ensino-aprendizagem escolar de crianças de origem pomerana: diagnóstico e perspectivas
+   Rölke HR., 1996, Descobrindo Raízes: aspectos geográficos, históricos e culturais da Pomerânia
+   Sá Ricardo, 2010, A estrada silvestre
+   SACRISTÁN José Gimeno, 2000, O Currículo: uma reflexão sobre a prática
+   SCHAEFFER S. C. B, 2012, Descrição fonética e fonológica do pomerano falado no Espírito Santo
+   SILLER R. R, 2016, Infância, educação infantil e migrações
+   SILLER R. R, 1999, A construção da subjetividade no cotidiano da educação infantil.
+   SILLER R. R, 2011, Infância, educação infantil, migrações
+   SILVA J. I., 2016, Revista Matraga, V23, P223
+   Spolsky B., 2009, LANG POLICY-NETH, DOI 10.1017/CBO9780511615245
+   TARDIF M, 2012, Saberes docentes e formação profissional
+   THUM C, 2009, Educação e memória: silêncios e reinvenções pomeranas na Serra dos Tapes
+   TRESSMANN I, 2006, Dicionário enciclopédico pomerano-português (Pomerisch-Portugijsisch Wöirbauk)
+   TRESSMANN I, 2006, Upm land: up pomerisch språk (Na roça: em língua pomerana)
+   TRESSMANN Ismael, 2005, Da sala de estar à sala de baile. Estudo etnolinguístico de comunidades camponesas pomeranas do estado do Espírito Santo
+   WEBER G. M, 1998, A escolarização entre descendentes pomeranos em Domingos Martins
+   WEBER G. M, 2019, Povo pomerano e a escola
+   WEIMER G, 2005, Arquitetura popular da imigração alemã
+   Weinreich Uriel, 1970, Languages in Contact. Findings and Problems
+   2007, Decreto nº 6.040, de 7 de fevereiro de 2007. Institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais
+   2010, Decreto n. 7.387, de 9 de dezembro de 2010. Institui o Inventário Nacional da Diversidade Linguística e dá outras providências. Diário Oficial da União
+   1988, Constituição, 1988. Constituição da República Federativa do Brasil
+   1996, Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional
+   2002, Lei n. 145, de 11 de dezembro de 2002. Dispõe sobre a cooficialização das línguas nheengatu, tukano e baniwa, a língua portuguesa no município de São Gabriel da Cachoeira/estado do Amazonas
+   2009, Lei n. 1.136, de 26 de junho de 2009. Dispõe sobre a cooficialização da língua pomerana no município de SANTA MARIA DE JETIBÁ , estado do Espírito Santo
+NR 62
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ANPEd - Associação Nacional de Pós-Graduação e Pesquisa em Educação
+SN 1809-449X
+PY 2019
+VL 24
+BP e240011
+DI 10.1590/s1413-24782019240011
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1413-24782019000100210
+OA gold
+ER
+
+PT J
+AU GALASSO, Bruno José Betti
+   LOPEZ, Monica Raquel de Souza
+   SEVERINO, Rafael da Mata
+   LIMA, Roberto Gomes de
+   TEIXEIRA, Dirceu Esdras
+TI Processo de Produção de Materiais Didáticos Bilíngues do Instituto Nacional de Educação de Surdos
+X1 Process of Production of Bilingual Didactic Materials of the National Institute of Education for the Deaf
+SO Revista Brasileira de Educação Especial	
+LA Portuguese	
+DT research-article	
+DE Bilingualism; Deafness; Translation; Didactic material; Special Education	
+Y5 Bilinguismo; Surdez; Tradução; Material Didático; Educação Especial	
+AB ABSTRACT: This paper aims to present the various stages of production of bilingual didactic materials of the National Institute of Education for the Deaf (Instituto Nacional de Educação de Surdos - INES), analyzed in their theoretical and technical aspects (pre-production, translation and post-production), with a description of the principles of multimedia learning linked to the conception of bilingual digital objects developed at the Online Education Center (Núcleo de Educação Online - NEO). Considering the present shortage of bilingual didactic material available for the education of the deaf, we intend to contribute with the establishment of fundamental quality parameters for this kind of production. In this work, we present 15 stages of the workflow for the production of bilingual didactic materials from NEO, among which we highlight the role played by the translators-interpreters team, who take turns in the role of translator-presenter, translator-supervisor and translator-proofreader. In addition, the fundamental principles of multimedia learning in the development of bilingual didactic materials are emphasized. Thus, we concluded that the references of multimedia learning allied to the guiding principles of the education of the deaf creates a line of development of didactic materials possible, with innovation and interdisciplinary methods, to a deepening of knowledge capable of contributing to the qualitative expansion in the production of bilingual didactic materials in Sign Language/Portuguese Language.	
+Y4 RESUMO o presente artigo tem como objetivo apresentar as diversas etapas de produção de materiais didáticos bilíngues do Instituto Nacional de Educação de Surdos (INES), analisadas em seus aspectos teóricos e técnicos (pré-produção, tradução e pós-produção), com a descrição dos princípios da aprendizagem multimídia vinculados à concepção de objetos digitais bilíngues desenvolvidos no Núcleo de Educação Online (NEO). Tendo em vista a escassez de material didático bilíngue hoje disponível para a educação de surdos, pretende-se contribuir com o estabelecimento de parâmetros de qualidade fundamentais para esse tipo de produção. Neste trabalho, são apresentadas 15 etapas do fluxo de trabalho para produção de materiais didáticos bilíngues do NEO, dentre as quais se destaca o papel da equipe de tradutores-intérpretes, que se revezam nas funções de tradutor-apresentador, tradutor-supervisor e tradutor-revisor. Além disso, são enfatizados os princípios fundamentais da aprendizagem multimídia no que tange ao desenvolvimento de materiais didáticos bilíngues. Dessa forma, conclui-se que as referências da aprendizagem multimídia aliadas aos princípios norteadores da educação de surdos cria uma linha de desenvolvimento de materiais didáticos possível, com inovação e métodos interdisciplinares, a um aprofundamento de conhecimentos capaz de contribuir com a expansão qualitativa na produção de materiais didáticos bilíngues em Libras/Língua Portuguesa.	
+C1 [GALASSO, Bruno José Betti] Universidade de São Paulo, Brazil.
+   [SEVERINO, Rafael da Mata] Universidade do Estado do Rio de Janeiro, Brazil.
+   [LIMA, Roberto Gomes de] Instituto Nacional de Educacão de Surdos, Brazil.
+   [TEIXEIRA, Dirceu Esdras] Instituto Nacional de Educacão de Surdos, Brazil.
+   [LOPEZ, Monica Raquel de Souza] Faculdade Internacional Signorelli, Brazil.
+OI da Mata Severino, Rafael/0000-0003-0110-5835
+CR AUBERT F. H., 1994, As (in)fidelidades da tradução: servidões e autonomia do tradutor
+   CHARTIER R., 2002, Os desafios da escrita
+   Dye MatthewW.G., 2008, DEAF COGNITION FDN O, P252
+   Mayer R. E., 2003, LEARNING INSTRUCTION
+   Mayer R E, 2005, The Cambridge handbook of multimedia learning
+   Mayer RE, 2002, EDUC PSYCHOL REV, V14, P87, DOI 10.1023/A:1013184611077
+   Mayer RE, 1997, EDUC PSYCHOL-US, V32, P1, DOI 10.1207/s15326985ep3201_1
+   SEGALA R. R, 2010, Tradução intermodal e intersemiótica/interlinguística: português escrito para a língua de sinais
+   Sousa S. F. de, 2011, QUIMICA NOVA ESCOLA, P37
+   Sweller J., 2005, CAMBRIDGE HDB MULTIM, P19, DOI [10.1017/CBO9780511816819.003, DOI 10.1017/CBO9780511816819.003]
+   van Merrienboer JJG, 2005, ETR&D-EDUC TECH RES, V53, P5, DOI 10.1007/BF02504793
+   2002, Diário Oficial da União
+   2015, Diário Oficial da União
+   2005, Diário Oficial da União
+NR 19
+TC 0
+Z9 1
+U1 1
+U2 2
+PU Associação Brasileira de Pesquisadores em Educação Especial - ABPEE
+SN 1980-5470
+PD 03
+PY 2018
+VL 24
+IS 1
+BP 59
+EP 72
+DI 10.1590/s1413-65382418000100006
+EC Education & Educational Research; Education, Special
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1413-65382018000100059
+OA gold
+ER
+
+PT J
+AU Dias, Guilherme
+   Gauche, Ricardo
+TI O Retrato Sociológico como método investigativo em pesquisas brasileiras nas áreas de Educação e de Ensino: uma revisão de teses publicadas entre 2011 e 2020
+X1 Sociological Portraits as an investigative method in Brazilian research in the fields of Education and Teaching: a review of dissertations published between 2011 and 2020
+SO Ciência & Educação (Bauru)	
+LA Portuguese	
+DT research-article	
+DE Research methodology; Education and teaching; Dissertations; Bibliographic research	
+Y5 Metodologia da pesquisa; Educação e ensino; Teses; Pesquisa bibliográfica	
+AB Abstract: The Sociological Portrait is characterized as a biographical theoretical-methodological device, in which the oral narrative and other manifestations are used to reconstruct the legacy of an individual’s dispositions, to understand how him/her incorporates the social domain. Between 2011 and 2020, some Brazilian studies used this methodology to understand the influence of dispositions on school trajectories, on the reading practices of individuals, of bilingualism and on the construction of professional teaching identities. To better understand how this methodological instrument was used, this article presents a review of dissertations published in Brazil during that period. The review allows us to conclude that the use of the Sociological Portrait, as part of research methods, contributes to a new look at the way the social domain is apprehended by the individual, whether student or teacher.	
+Y4 Resumo: O Retrato Sociológico é caracterizado como um dispositivo teórico-metodológico biográfico que se vale de narrativas orais e outras manifestações de um ator social para a reconstrução do patrimônio de disposições desse ator, com o intuito de compreender como o social é por ele incorporado. Entre 2011 e 2020, algumas pesquisas brasileiras utilizaram essa metodologia para compreender a influência das disposições nas trajetórias escolares, nas práticas de leitura de indivíduos, do bilinguismo e na construção das identidades profissionais docentes. Para melhor compreender como se deu o uso desse instrumento metodológico, este artigo apresenta uma revisão de teses publicadas no Brasil naquele período. O levantamento nos permite concluir que o uso do Retrato Sociológico, como parte do método de pesquisa, contribui com um novo olhar sobre a maneira como o social é apreendido pelo indivíduo, seja ele estudante ou professor.	
+C1 [Dias, Guilherme] Secretaria de Estado de Educação do Distrito Federal, Brasil.
+   [Gauche, Ricardo] Universidade de Brasília, Brazil.
+CR AGUIAR P. A., 2012, Letramentos de adultos em processo de alfabetização: reflexos da escolarização nas práticas de leitura
+   AZOUBEL M. S., 2020, Perspectivas em análise do Comportamento, V10, P256
+   BOURDIEU Pierre, 1998, USOS ABUSOS HIST ORA, P183
+   CARDOSO F. A., 2013, O que fizeram (e o que fizemos) de nós?: estudo de caso das trajetórias escolares de alunos/as do ciclo básico de alfabetização (CBA) em Minas Gerais
+   CONTI C. L. T. M., 2014, Trajetórias educacionais de estudantes de curso de pós-graduação da Unifran na modalidade a distância
+   LAHIRE B., 2002, Portraits sociologiques: dispositions et variations individuelles
+   LAHIRE B., 2004, Retratos sociológicos: disposição e variações individuais
+   Lahire Bernard, 2005, Sociologia, Problemas e Práticas, P11
+   LAVILLE C., 1999, A construção do saber: Manual de metodologia da pesquisa em ciências humanas
+   LIMA JÚNIOR P., 2013, Evasão do ensino superior de física segundo a tradição disposicionalista em sociologia da educação
+   LIMA JÚNIOR P., 2018, Retratos da docência: contextos, saberes e trajetórias, P20
+   Lima Junior Paulo, 2015, Ciênc. educ. (Bauru), V21, P559, DOI 10.1590/1516-731320150030003
+   LÜDKE M., 1986, Pesquisa em educação: abordagens qualitativas I
+   MANKE L. S., 2012, História e sociologia das práticas de leitura: a trajetória de seis leitores oriundos do meio rural
+   MARTINS F. S., 2017, Afiliação institucional e intelectual de estudantes cotistas de cursos de alta demanda e seletividade social da Universidade Federal de Santa Catarina
+   MASSI L., 2018, Retratos da docência: contextos, saberes e trajetórias, P385
+   MASSI L., 2013, Relação aluno-instituição: o caso da licenciatura do Instituto de Química da UNESP/ Araraquara
+   Montagner Miguel Ângelo, 2007, Sociologias, P240
+   NASCIMENTO W. E., 2019, Desenvolvimento profissional de professores de física: um estudo sob a perspectiva disposicionalista e contextualista da ação, p279 f
+   NUNES R. B., 2018, O bilinguismo português/polonês na constituição disposicional e na prática: perfis sociológicos de cinco descendentes de poloneses no município de Dom Feliciano/ RS
+   OLIVEIRA L. M. S., 2014, As formas identitárias nos contextos de trabalho: uma análise da profissionalidade docente
+   Passeggi M. C., 2017, INVESTIGACION CUALIT, V2, P6
+   Pineau Gaston, 2006, Educ. Pesqui., V32, P329, DOI 10.1590/S1517-97022006000200009
+   QUEIROZ H. A., 2017, A poesia em territórios improváveis: jovens de periferia em cena, p245 f
+   REIS C. S., 2014, Trajetórias em contraponto: uma abordagem microssociológica da formação superior em piano em duas universidades brasileiras
+   SANTOS M. M., 2013, Relações de estudantes de letras com a leitura literária: entre leituras profissionais e comuns
+   SUFICIER D. M., 2017, Senso prático e reflexividade na prática de quatro professores do ensino fundamental
+   VILLANI A., 2020, Investigações em Ensino de Ciências, V25, P270
+   Catálogo de teses e dissertações
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU Programa de Pós-Graduação em Educação para a Ciência, Universidade
+   Estadual Paulista (UNESP), Faculdade de Ciências, campus de Bauru.
+SN 1980-850X
+PY 2021
+VL 27
+BP e21066
+DI 10.1590/1516-731320210066
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1516-73132021000100264
+OA gold
+ER
+
+PT J
+AU Sousa, Aline Nunes de
+TI Reflexões sobre as práticas de ensino de uma professora de inglês para surdos: a língua de sinais brasileira como mediadora do processo de ensino-aprendizagem
+X1 Reflections on the teaching practices of a teacher of english for deaf people: brazilian sign language as mediator of the teaching- learning process
+SO Revista Brasileira de Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE teaching approaches; English teaching practices; deaf students; Libras	
+Y5 abordagens de ensino; práticas de ensino de inglês; estudantes surdos; Libras	
+AB This work aims to analyze the role of Brazilian Sign Language (Libras) in a teacher-researcher's practice of teaching English for the deaf in contexts of specific classrooms for deaf students. This is a case study that seeks to interpret these practices based on the theoretical framework of teaching approaches for deaf students (oralism, total communication, and bilingualism) and foreign language teaching approaches (grammar-translation method, audiolingualism, and communicative language teaching). It could be concluded that Libras played the role of main mediator in the English teaching/learning practices for/by deaf students investigated in this study, as it is Libras that gives real meaning to these practices. This work also defends the link between the bilingual approach in deaf education and CLT for teaching written English to the deaf.	
+Y4 O objetivo deste trabalho é analisar o papel da Libras nas práticas de ensino de inglês para surdos de uma professora-pesquisadora, em contextos de salas de aula específicas de surdos. Trata-se de um estudo de caso que busca interpretar essas práticas à luz do referencial teórico das abordagens de ensino de surdos (oralismo, comunicação total e bilinguismo) e das abordagens de ensino de LE (método tradução-gramática, método audiolingual e ensino comunicativo de línguas). Concluiu-se que a Libras teve o papel de principal mediadora das práticas de ensino/aprendizagem de inglês para/por surdos, aqui investigadas, pois é ela quem dá real significação a essas práticas. Este trabalho vem ainda defender a articulação entre a abordagem bilíngue de educação de surdos e o ECL para o ensino de inglês escrito para surdos.	
+C1 [Sousa, Aline Nunes de] Universidade Federal de Santa Catarina, Brasil.
+CR ALMEIDA FILHO J. C. P., 1993, Dimensões comunicativas no ensino de línguas estrangeiras
+   ALMEIDA FILHO J. C. P. de, 1987, Perspectiva, V4, P36
+   ALMEIDA FILHO J. C. P. de, 2005, Linguística aplicada: ensino de línguas e comunicação
+   BOTELHO P., 2002, Linguagem e letramento na educação dos surdos: ideologias e práticas pedagógicas
+   Brown H D, 2000, Principles of Language Learning and Teaching, (4th ed.)
+   Brown H D, 1994, Teaching by principles: an interactive approach to language pedagogy
+   COSTA M. J. D., 2007, Linguística aplicada ao ensino de línguas
+   CUMMINS J., Bilingual children's mother tongue: why is it important for education?
+   ELLIS R., 2001, English Language Teaching in its Social Context, P45
+   FELIPE T. A, 1997, SERIE ATUALIDADES PE, V4, P81
+   FERREIRA BRITO Lucinda, 1995, Por uma gramática de Língua de Sinais
+   GOLDFELD M., 1997, A criança surda: linguagem e cognição numa perspectiva socio-interacionista
+   Guarinello AC, 2007, O papel do outro na escrita de sujeitos surdos
+   KARNOPP L. B., 1995, Aquisição do parâmetro configuração de mão na Língua Brasileira de Sinais (LIBRAS): estudo sobre quatro crianças surdas, filhas de pais surdos
+   LANE Harlan, 1992, A Máscara da Benevolência: a comunidade surda amordaçada
+   Larsen-Freeman D, 2000, Techniques and Principles in Language Teaching (2nd ed).
+   Littlewood W., 1981, Communicative language teaching
+   MARCUSCHI L. A., 2002, GENEROS TEXTUAIS ENS, P19
+   MOURA M. C. de, 2000, O surdo: caminhos para uma nova identidade
+   QUADROS R. M. de, 1995, As categorias vazias pronominais: uma análise alternativa com base na Libras e reflexos no processo de aquisição
+   QUADROS R. M. de, 2005, Surdez e bilinguismo, P7
+   QUADROS Ronice Müller de, 1997, Educação de Surdos: a aquisição da linguagem
+   REIS F., 2006, Professor surdo: a política e a poética da transgressão pedagógica
+   Richards J. C., 2001, Approaches and methods in language teaching
+   RIDD M. D., 2000, Tópicos em linguística aplicada I, P121
+   Sacks O., 1998, Vendo vozes: uma viagem ao mundo dos surdos
+   SALLES H. M. M. L., 2004, Ensino de língua portuguesa para surdos: caminhos para a prática pedagógica, V1
+   SATELES L. M. D., 2010, Revista História do Ensino de Línguas no Brasil, V1
+   SILVEIRA M. I. M., 1999, Línguas estrangeiras: uma visão histórica das abordagens, métodos e técnicas de ensino
+   SKLIAR C., 2005, Surdez: um olhar sobre as diferenças
+   SOUSA A. N. de, 2013, Educação plurilíngue para surdos: uma investigação do desenvolvimento da escrita em português (segunda língua) e inglês (terceira língua)
+   SOUSA A. N. de, 2008, Surdos brasileiros escrevendo em inglês: uma experiência com o ensino comunicativo de línguas
+   SOUSA A. N. de, 2005, A escrita de surdos: uma exploração de textos em português e inglês
+   STROBEL Karin, 2008, As Imagens do Outro sobre a Cultura Surda
+   VILHALVA Shirley, 2009, Mapeamento das Línguas de Sinais Emergentes: um estudo sobre as comunidades linguísticas Indígenas de Mato Grosso do Sul
+   Widdowson Harry G, 1991, O ensino de línguas para a comunicação
+   Williams S, 1998, APPL LINGUIST, V19, P295, DOI 10.1093/applin/19.3.295
+   Lei Federal nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000
+   2000, Parâmetros Curriculares Nacionais (Ensino Médio) Parte I e Parte III – Bases Legais.
+   Lei Federal n. 9.394, de 20 de dezembro de 1996. Estabelece as Diretrizes e Bases da Educação Nacional
+   Decreto nº 5.626, de 22 de dezembro de 2005. Regulamenta a Lei nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000.
+NR 41
+TC 1
+Z9 2
+U1 0
+U2 7
+PU Faculdade de Letras - Universidade Federal de Minas Gerais
+SN 1984-6398
+PD 12
+PY 2014
+VL 14
+IS 4
+BP 1015
+EP 1044
+DI 10.1590/1984-639820145706
+EC Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1984-63982014000400011
+OA gold
+ER
+
+PT J
+AU Coelho Liberali, Fernanda
+   Megale, Antonieta
+TI Elite bilingual education in Brazil: an applied linguist's perspective
+X1 Educación bilingüe de elite en Brasil desde la perspectiva de una lingüista aplicada
+SO Colombian Applied Linguistics Journal	
+LA English	
+DT research-article	
+DE applied linguistics; bilingualism; elite bilingual education; heteroglossia; monoglossia	
+X5 lingüística aplicada; bilingüismo; heteroglossia; monoglossia	
+AB This paper (i) presents the current globalized multicultural context, which supports the interest in the area, and relates its connection with bilingual education; (ii) discusses and problematizes bilingual education in Brazil from the perspective of applied linguistics and (iii) analyzes research and activities carried out in the Brazilian context. Having as a starting point Brazilian bilingual school curricula, texts taken from websites of bilingual schools, and materials related to these schools’ language allocation provided by publishers, this study analyses the type of bilingualism aimed at these schools and the type of bilingual education implemented. We also analyzed the research conducted in the area through the abstracts from the communications presented in conferences, articles and thesis in which bilingual education was the theme to identify the conception used. We adopt the theoretical framework followed by applied linguists such as Abello-Contesse (2013), Hornberger (1991, 2000), García (2009), and García and Wei (2014), which challenges monolingual conceptions of languages and monoglossic types of bilingual education. The results point to the fact that all the curricula and related materials analyzed from these schools reveal a monoglossic view of language. As for the research produced at universities, the vast majority of these productions have heteroglossic views of language as a theoretical background. Therefore, although heteroglossic views of language have been studied and discussed in the university, these discussions and findings are far from the reality of the schools in Brazil.	
+X4 Vivimos un momento histórico en el que la superdiversidad crea una composición y abundancia de importantes variables que afectan dónde, cómo y con quién conviven las personas. En este escenario, el tema de la educación multilingüe en diferentes países se intensifica y la creación de escuelas bilingües de elite también. En el presente artículo (i) presentamos el contexto multicultural de globalización actual, compatible con el interés en la región, y una discusión de su conexión con la educación bilingüe; (ii) discutimos y problematizamos la educación bilingüe en Brasil desde la perspectiva de la lingüística aplicada y (iii) abordamos los enfoques de investigación y las actividades llevadas a cabo en el contexto brasileño, así como algunos investigadores e instituciones involucrados en el tema. Tomando como punto de partida programas escolares bilingües brasileños, textos de páginas web de escuelas privadas bilingües y materiales relacionados a la asignación de idiomas en escuelas bilingües proporcionados por los editores, este estudio analiza el tipo de bilingüismo destinado a estas escuelas y el tipo de educación bilingüe implantado. Analizamos también investigaciones en el área a través de los resúmenes de las conferencias, artículos y tesis en las que la educación bilingüe fue el tema para identificar los conceptos utilizados. Adoptamos el marco teórico seguido por los lingüistas aplicados como Abello-Contesse (2013), Hornberger (1991, 2000), García (2009) y García y Wei (2014), que desafía las concepciones monolingües de idiomas y tipos monoglósicos de educación bilingüe. Por último, se identificaron algunas omisiones en las encuestas nacionales correlacionadas a las internacionales.	
+C1 State University of Campinas (UNICAMP), Brazil.
+   [Coelho Liberali, Fernanda; Megale, Antonieta] Pontifical Catholic University of Sao Paulo, Brazil.
+RI Liberali, Fernanda C/H-3689-2013
+OI Liberali, Fernanda C/0000-0001-7165-646X
+CR Abello-Contesse C, 2013, BILING EDUC BILING, V94, P3
+   AMADO R. S., 2011, Revista da SIPLE, V2
+   [Anonymous], 2012, ROUTLEDGE HDB MULTIL
+   BLOMMAERT Jan, 2010, The Sociolinguistics of Globalization
+   BURBULES Nicholas, 2004, GLOBALIZACAO EDUCACA, P11
+   C. B. Cazden, 1990, English plus: Issues in bilingual education.
+   Calvet Louis-Jean, 2002, Sociolinguística: uma introdução crítica
+   CANCLINI Néstor García, 2011, Culturas Híbridas: Estratégias para Entrar e Sair da Modernidade
+   Cavalcanti M., 1999, DELTA, V15, p393 â 400
+   Cavalcanti M. C., 2016, Plurilingual Brazil: Voices, identities and ideologies in a globalized world.
+   COYLE D, 2010, Content and Language Integrated Learning
+   David A. M. F., 2005, REV VIRTUAL ESTUDOS, V3, P1
+   De Mejia A. M., 2004, BILINGUAL ED BILINGU, V7, P381
+   de Mejia AM, 2013, BILING EDUC BILING, V94, P42
+   Fishman J. A., 1976, Bilingual education: An international sociological perspective.
+   FISHMAN JA, 1970, TESOL QUART, V4, P215, DOI 10.2307/3585722
+   Flores O., 2010, Breve histórico do projeto "Escola Intercultural Bilíngue de Fronteira."
+   Fortes L, 2014, RECORTE REV ELETRONI, V11, P1
+   FREELAND J, 1996, COMPARE, V26, P167
+   García Canclini Néstor, 2011, Culturas Híbridas: Estratégias para Entrar e Sair da Modernidade
+   Garcia O., 2009, BIL ED 21 CENT GLOB
+   GARCÍA O., 2014, Translanguaging: language, bilingualism, and education
+   Gardner S., 2012, ROUTLEDGE HDB MULTIL, P247
+   Gazzotti Daniele, 2014, Rev. bras. linguist. apl., V14, P313
+   Genesee F., 1987, Learning through two languages.
+   Hall S., 2005, A identidade cultural na pós-modernidade
+   Hamers J. F., 2000, Bilinguality and bilingualism
+   Holzman L., 2010, VYGOTSKY CREATIVITY, P27
+   Hornberger N. H., 1991, PLANNING HIGHER ED, V19, P11
+   Hornberger NH, 2000, ANTHROPOL EDUC QUART, V31, P173, DOI 10.1525/aeq.2000.31.2.173
+   Jesus S., 2015, CADERNO INTERSABERES, V4, P235
+   Kroon S., 2014, Chinese and globalization. Tilburg papers in cultural studies.
+   Liberali F. C., 2012, Projeto de Extensé£oâBolsa CNPqâvigéncia, V27, p58 â 60
+   Lobman C, 2005, J EARLY CHILD TEACH, V26, P305, DOI 10.1080/10901020500371353
+   Magalhães Maria Cecília Camargo, 2010, Rev. bras. linguist. apl., V10, P773
+   MAHER TM, 2013, POLITICA POLITICAS L, P117
+   MARCELINO Marcello, 2009, REV INTERCAMBIO, V19, P1
+   MARTIN-JONES M., 2012, The Routledge Handbook of Multilingualism
+   Megale A. H., 2014, PATIO EDUCACAO INFAN, V39, P12
+   Megale Antonieta Heyden, 2005, Revista Virtual de Estudos da Linguagem-ReVEL, V3, P1
+   Mello H. A. B., 2010, HORIZONTES LINGUISTI, V9, P118
+   Moita Lopes L. P., 2001, Narrativa, identidade e clínica, P56
+   Moita Lopez L. P., 2006, Por uma linguística aplicada indisciplinar.
+   Monte-Mor W. M., 2002, INTERFACES BRASIL CA, V2, P312
+   OLIVEIRA Gilvan Müller de, 2000, O direito à fala. A questão do preconceito lingüístico, P83
+   Punhagui G., 2015, Estudo de estratégias para atuar no processo de ensino/ aprendizagem em contexto bilíngue: Relato de experiéncia de uma equipe pedagógica.
+   RAJAGOPALAN K., 2005, GEOPOLITIC DO INGLES, P135
+   Salgado A., 2009, Formação de frofessores para a educação bilíngue: Desafios e perspectivas
+   Soares M. S., 2015, REV GATILHO, V8, P1
+   Storto A. C., 2015, Discursos sobre bilinguismo e educaé§é£o bilíngue: A perspectiva das escolas (Unpublished master’s thesis).
+   VERTOVEC S, 2007, ETHNIC RACIAL STUD, V30, P1024
+   Vian Jr O., 2013, REV ANPOLL, V34, P233
+NR 52
+TC 2
+Z9 9
+U1 0
+U2 7
+PU Facultad de Ciencias y Educación de la Universidad Distrital, Bogotá
+   Colombia
+SN 0123-4641
+PD 12
+PY 2016
+VL 18
+IS 2
+BP 95
+EP 108
+DI 10.14483/calj.v18n2.10022
+EC Linguistics
+C2 SciELO Colombia
+SC Linguistics
+UT SCIELO:S0123-46412016000200008
+OA gold
+ER
+
+PT J
+AU Silva, Carine Mendes da
+   Silva, Danielle Sousa da
+   Monteiro, Rosa
+   Silva, Daniele Nunes Henrique
+TI Inclusão Escolar: Concepções dos Profissionais da Escola sobre o Surdo e a Surdez
+X1 Inclusión Escolar: Concepciones de los Profesionales de la Escuela sobre el Sordo y la Sordera
+Y1 School Inclusion: Conceptions of School Professionals About the Deaf and the Deafness
+SO Psicologia: Ciência e Profissão	
+LA Portuguese	
+DT research-article	
+DE Inclusion; Bilingualism; Deaf; Educators	
+X5 Inclusión; Bilingüismo; Sordos; Educadores	
+Y5 Inclusão; Bilinguismo; Surdos; Educadores	
+AB Abstract The inclusion of deaf students has often been debated, especially for the bilingual and bicultural conditions of students who require specific teaching practices based on sign language. The objective of the study was to understand the point of view of educators on the role of this language. Eight professionals participated: the school director, the educational supervisor, the Brazilian Portuguese coordinator, the human sciences coordinator, the exact sciences coordinator, the teacher of Brazilian Portuguese as a second language, the resources room teacher and an interpreter of Brazilian Sign Language. The fieldwork was conducted at a public high school in Brazil’s Federal District. The method of the research was based on the construction of data organized from semi-structured interviews, following the theoretical assumptions of the dialectical historical materialism. In this way, the meanings shared between the researcher and interviewer composed a text for the analysis of the word and the meanings attributed to it, considering the material conditions in which it is produced. After being transcribed, the interviews formed a text in which the word is considered as a categorical unit of analysis. From the data analysis one category emerged: The professionals’ conception about the deaf student and the deafness. The conclusive bases of the study point out that there is a gap in the professional formation of educators regarding the specificities of students.	
+X4 Resumen La inclusión educacional de sordos tiene sido frecuentemente debatida, en especial, por la condición bilingüe y bicultural de los alumnos, que exigen prácticas diferenciadas de enseñanza que proceden de las Libras. El objetivo del estudio fue entender lo que los profesionales de la escuela dicen acerca del papel de esta lengua. Participaron: el director, el supervisor pedagógico, la coordinadora de lenguajes y códigos, la coordinadora de humanas, el coordinador de exactas, el profesor de portugués como segunda lengua, la profesora del aula de recursos y la intérprete de Libras. El trabajo de campo fue realizado en una escuela de enseñanza media de la red pública de Distrito Federal (Brazil). El método de la investigación se basó en la construcción de datos organizados a partir de entrevistas semiestructuradas, siguiendo los presupuestos teóricos del materialismo histórico dialéctico. De esta forma, los significados compartidos entre el investigador y el entrevistador compusieron un texto para el análisis de la palabra y los significados que se les atribuyen, considerando las condiciones materiales en que se produce. Después de transcritas, las entrevistas formaron un texto en el que la palabra es considerada como una unidad de análisis categórica. De los análisis se desprendió un eje intitulado: la concepción de los profesionales acerca del sordo y la sordera. Las bases conclusivas del estudio apuntan que hay una brecha en la formación profesional de los educadores en lo que se refiere a las especificidades de los alumnos.	
+Y4 Resumo A inclusão educacional de surdos tem sido frequentemente debatida, especialmente, pela condição bilíngue e bicultural dos alunos, que exige práticas diferenciadas de ensino que partem da Libras. O objetivo do estudo foi entender o que os profissionais da escola dizem sobre o papel dessa língua. Participaram: a diretora, o supervisor pedagógico, a coordenadora de linguagens e códigos, a coordenadora de humanas, o coordenador de exatas, o professor de português como segunda língua, a professora da sala de recursos e a intérprete de Libras. O trabalho de campo foi realizado em uma escola de ensino médio da rede pública do Distrito Federal. O método de pesquisa baseou-se construção de dados organizados a partir de entrevistas semiestruturadas, seguindo os pressupostos teóricos do materialismo histórico dialético. Desta forma, os significados compartilhados entre o pesquisador e o entrevistador compuseram um texto para a análise da palavra e os significados que lhes são atribuídos, considerando as condições materiais em que é produzida. Depois de transcritas, as entrevistas formaram um texto em que a palavra é considerada como uma unidade de análise categórica. Das análises depreendeu-se um eixo intitulado: a concepção dos profissionais sobre o surdo e a surdez. As bases conclusivas do estudo apontam que há uma lacuna na formação profissional dos educadores no que tange as especificidades dos alunos.	
+C1 [Monteiro, Rosa] Universidade de Brasília, Brazil.
+   [Silva, Danielle Sousa da] Universidade de Brasília, Brazil.
+   [Silva, Carine Mendes da] Universidade de Brasília, Brazil.
+   [Silva, Daniele Nunes Henrique] Universidade de Brasília, Brazil.
+CR Almeida K.S., 2011, A inclusão de um aluno surdo no Ensino Médio de uma escola da Rede Estadual Regular
+   Amorim A. C. F., 2013, Surdez e biculturalidade: Um estudo sobre o autoconceito a partir das interações surdo-surdo e surdo-ouvinte
+   Beltrami CM, 2015, REB, Vcited 2020 Apr 13 8, P146
+   CAMPELLO A. R. S., 2007, ESTUDOS SURDOS 2 ESTUDOS SURDOS 2, P100
+   Dizeu Liliane Correia Toscano de Brito, 2005, Educ. Soc., V26, P583, DOI 10.1590/S0101-73302005000200014
+   FERNANDES E, 1998, INTERCAMBIO, VII, P13
+   FERNANDES S., 2009, REV EDUCACAO ESPECIA, V22, P225
+   Ferraz R. A., 2009, O mundo surdo: Passeata dos surdos: Luta e comemoração
+   GARCIA R. M. C., 2013, REV BRASILEIRA EDUCA, V18, P101
+   Goes M. C., 2006, PRO-POSICOES, V17, P31
+   Góes M. C. R., 2000, Surdez: Processos educativos e subjetividade
+   GOLDFELD Marcia, 2002, A Criança Surda: linguagem e cognição numa perspectiva sociointeracionista
+   Guarinello Ana Cristina, 2006, Rev. bras. educ. espec., V12, P317, DOI 10.1590/S1413-65382006000300003
+   KELMAN Celeste Azulay, 2011, LINHAS CRITICAS BRAS, V17, P349
+   Kubaski C., 2009, O bilingüismo como proposta educacional para crianças surdas
+   Lacerda Cristina Broglia Feitosa de, 2013, Educ. Pesqui., V39, P65, DOI 10.1590/S1517-97022013000100005
+   Lacerda Cristina Broglia Feitosa de, 2006, Cad. CEDES, V26, P163, DOI 10.1590/S0101-32622006000200004
+   Lebedeff T., 2010, A educação dos surdos na região do planalto médio rio-grandense: Uma problematização das condições lingüísticas e de escolarização
+   Lodi Ana Claudia Balieiro, 2013, Educ. Pesqui., V39, P49, DOI 10.1590/S1517-97022013000100004
+   Lodi Ana Claudia Balieiro, 2005, Educ. Pesqui., V31, P409, DOI 10.1590/S1517-97022005000300006
+   Lopes E. S., 2016, Revista de Psicologia, V10, P228
+   Lorenzetti M. L., Revista Espaço, P63
+   Luria A. R., 1991, As raízes histórico-culturais da consciência, V1, P71
+   Kassar Mônica de Carvalho Magalhães, 2011, Educ. rev., V0, P61, DOI 10.1590/S0104-40602011000300005
+   Manzini E. J, 2004, Entrevista semi-estruturada: análise de objetivos e de roteiros
+   Merselian Kátia Tavares, 2011, Rev. Lusófona de Educação, P85
+   Perlin G., 2006, Revista Educação Temática Digital, V7, P136
+   Perlin G., 2006, Estudos Surdos I – parte A, P165
+   Quadros R. M., 2003, Situando as diferenças implicadas na educação de surdos: Inclusão exclusão
+   Quadros Ronice Müller de, 2006, Cad. CEDES, V26, P141, DOI 10.1590/S0101-32622006000200003
+   Ribeiro C. B., 2014, Narrativas e processos de desenvolvimento bicultural: trajetórias escolares de surdos jovens e adultos
+   Romanelli Nancy, 2011, Psicol. estud., V16, P199, DOI 10.1590/S1413-73722011000200003
+   Sá N. R. L., 2011, Surdos: Qual escola?, P17
+   Sacks O, 2010, Vendo vozes: uma viagem ao mundo dos surdos
+   Santana Ana Paula, 2005, Educ. Soc., V26, P565, DOI 10.1590/S0101-73302005000200013
+   Santana AP, 2007, Surdez e linguagem: aspectos e implicações neurolinguísticas
+   Santos K. R. O. R. P., 2011, Formação continuada e necessidades formativas de professores na educação de surdos da rede pública da cidade do Rio de Janeiro
+   Schemberg S, 2009, Revista da Sociedade Brasileira de Fonoaudiologia, V14
+   Silva C. M., 2013, Psicologia em Estudo, V19, P261
+   Silva C. M. S, 2014, Processos de escolarização do Distrito Federal: O que dizem os profissionais da escola sobre a inclusão de surdos?
+   Silva Carine Mendes da, 2016, Psicol. Esc. Educ., V20, P33, DOI 10.1590/2175-353920150201917
+   SIRGADO A. P., 2000, EDUC SOC, V21, P45
+   Skliar C., 2003, Perspectivas políticas e pedagógicas da educação bilíngüe para surdos
+   SKLIAR Carlos, 1997, Educação & Exclusão: abordagens sócio-antropológicas em Educação Especial
+   Slomski V. G., 2010, Educação bilíngue para surdos: Concepções e implicações práticas
+   Soares L. R., 2016, Revista Fórum, P105
+   Souza Regina Maria de, 2003, DELTA, V19, P329, DOI 10.1590/S0102-44502003000200005
+   STUMPF M. R, 2008, ESTUDOS SURDOS, P14
+   Svartholm Kristina, 2014, Educ. rev., V0, P33, DOI [10.1590/0104-4060.37013, 10.1590/0104-4060.37228]
+   Tenor A. C., 2009, Distúrbios da Comunicação, V21, P7
+   THOMA Adriana da Silva, 2010, CADERNOS EDUCACAO PE, V1, P107
+   1999, Que educação nós surdos queremos
+   Diário Oficial da União
+   1996, Diário Oficial da União
+NR 54
+TC 0
+Z9 0
+U1 0
+U2 4
+PU Conselho Federal de Psicologia
+SN 1982-3703
+PD 09
+PY 2018
+VL 38
+IS 3
+BP 465
+EP 479
+DI 10.1590/1982-37030002652017
+EC Psychology; Psychology, Multidisciplinary
+C2 SciELO Brazil
+SC Psychology
+UT SCIELO:S1414-98932018000300465
+OA gold
+ER
+
+PT J
+AU HARTWIG, Mayck Djúnior
+   CANAL, Cláudia Patrocinio Pedroza
+TI Pomerisch Oder Portugiesisch Sprache? Compreensão Comunicativa em Crianças Pomeranas Bilingues com Transtorno do Espectro Autista2
+X1 Pomerisch Oder Portugiesisch Sprache?Communicative Comprehension in Bilingual Pomeranian Children with Autistic Spectrum Disorder2
+SO Revista Brasileira de Educação Especial	
+LA Portuguese	
+DT research-article	
+DE Autism Spectrum Disorder; Communication; Bilingualism; Pomeranian language	
+Y5 Transtorno do Espectro Autista; Comunicação; Bilinguismo; Língua Pomerana	
+AB ABSTRACT: This is a study carried out with Pomeranian children diagnosed with Autistic Spectrum Disorder (ASD) living in the city of Santa Maria de Jetibá, in the state of Espírito Santo, Brazil, known as the most Pomeranian city in Brazil, where a large part of the population presents the characteristic of simultaneous bilingualism - Portuguese-Pomeranian, which has caused some challenges in the educational context. Therefore, the objective of this research was to describe behaviors that are communication indicators, based on structured interactions in Pomeranian and Portuguese Language, enabling the identification of differences in the interactions observed in L1 - Portuguese Language and L2 - Pomeranian Language. To reach the proposed goals, three male children were selected, two 9 year olds and one 10 year old, Pomeranian-Portuguese bilinguals, diagnosed with ASD at least a year before this research and accompanied by health professionals and inclusive education. This research adopts a descriptive methodology, of multiple case study type, whose data analysis method adopted was of a qualitative character, in order to comprehend the variable subjects involved in the process of communication and interaction of each case. The procedure of data collection included the presentation of Continued Storyboards), that had as the purpose to suit as visual stimulus for the child to elaborate a story. The results indicate that in the interactions performed in the Pomeranian language, the smiles, gestures, attention sharing and demonstrations of feelings were more frequent when compared to the interactions performed in the Portuguese language, which indicates that the child presents more non-verbal behavior in interactions performed in his mother tongue. Therefore, this data points to that mother tongue interactions (Pomeranian) may act in the fortification of Attention Shared abilities, a central competence for social interactions to happen.	
+Y4 RESUMO: Trata-se de um estudo realizado com crianças pomeranas diagnosticadas com Transtorno do Espectro Autista (TEA) residentes na cidade de Santa Maria de Jetibá, Espírito Santo, conhecida como a cidade mais pomerana do Brasil, onde grande parte da população apresenta característica de bilinguismo simultâneo - pomerano-português, o que tem ocasionado alguns desafios no contexto educacional. Assim sendo, o objetivo desta pesquisa foi de descrever comportamentos indicadores de comunicação, a partir de interações estruturadas em Língua Pomerana e Língua Portuguesa, possibilitando a identificação das diferenças nas interações observadas em L1 - Língua Portuguesa e L2 - Língua Pomerana. Para atingir os objetivos propostos, foram selecionadas três crianças do sexo masculino, sendo duas com 9 anos de idade e uma com 10 anos de idade, bilingues pomerano-português, diagnosticadas com TEA há pelo menos um ano antes desta pesquisa e acompanhadas por profissionais de saúde e educação inclusiva. Esta pesquisa adota uma metodologia descritiva, do tipo estudo de caso múltiplo, cujo método de análise de dados adotado foi de caráter qualitativo, a fim de compreender as variáveis subjetivas envolvidas no processo de comunicação e interação de cada caso. Os procedimentos de coleta de dados incluíram a apresentação de Pranchas de História Continuada, que tiveram como objetivo servir de estímulo visual para que a criança pudesse elaborar uma história. Os resultados indicam que, nas interações realizadas em Língua Pomerana, os sorrisos, as gesticulações, o compartilhamento da atenção e as demonstrações afetivas eram mais frequentes se comparados às interações realizadas em Língua Portuguesa, o que indica que a criança apresenta mais comportamentos não verbais nas interações realizadas em língua materna. Esse dado indica, por conseguinte, que as interações na língua materna (Pomerano), atuam no fortalecimento das habilidades de Atenção Compartilhada, competência central para que as interações sociais aconteçam.	
+C1 [CANAL, Cláudia Patrocinio Pedroza] Universidade Federal do Espírito Santo, Brazil.
+   [HARTWIG, Mayck Djúnior] Universidade Federal do Espírito Santo, Brazil.
+OI Hartwig, Mayck Djunior/0000-0003-4596-8245; Canal,
+   Claudia/0000-0003-2342-1302
+CR Almeida L., 2017, Aquisição de língua materna e não materna: Questões gerais e dados do português, P275
+   [Anonymous], 2013, DIAGN STAT MAN MENT
+   Baranek GT, 2006, J CHILD PSYCHOL PSYC, V47, P591, DOI 10.1111/j.1469-7610.2005.01546.x
+   Bialystok E, 2004, DEVELOPMENTAL SCI, V7, P325, DOI 10.1111/j.1467-7687.2004.00351.x
+   Bialystok E, 2001, Bilingualism in development: Language, literacy, and cognition
+   Bialystok E, 2009, COGNITION, V112, P494, DOI 10.1016/j.cognition.2009.06.014
+   Bialystok E, 2009, BILING-LANG COGN, V12, P3, DOI 10.1017/S1366728908003477
+   Bird EKR, 2016, J COMMUN DISORD, V63, P1, DOI 10.1016/j.jcomdis.2016.07.003
+   Campos A. P. S., 2008, Atenção psicológica clínica: encontros terapêuticos com crianças em uma creche
+   Carlson SM, 2008, DEVELOPMENTAL SCI, V11, P282, DOI 10.1111/j.1467-7687.2008.00675.x
+   Carpenter M., 1998, MONOGRAPHS SRCD, V63, DOI [10.2307/1166214, DOI 10.2307/1166214]
+   Corrêa M. C. C. B., 2014, Atenção Compartilhada e Interação Social: Análises de Trocas Sociais de Crianças com Diagnóstico de Transtorno do Espectro Autista em um Programa de Intervenção Precoce
+   Cotrim G., 2005, História Global
+   Cruz-Ferreira M., 2006, Threeis a Crowd? Acquiring Portuguese in a Trilingual Environment
+   Fiore-Correia O. B., 2005, A aplicabilidade de um programa de intervenção precoce em crianças com possível risco autístico
+   Genesee F., 2004, Dual language development and disorder: a handbook on bilingualism and second language learning
+   Gonzalez-Barrero AM, 2018, AUTISM RES, V11, P1667, DOI 10.1002/aur.2023
+   Green D.W., 1998, BILING-LANG COGN, V1, P67, DOI [DOI 10.1017/S1366728998000133, https://doi.org/10.1017/S1366728998000133]
+   Grosjean F., 1982, Life with Two Languages: Na Introduction to Bilingualism
+   Hartwig M. D., 2019, Pomerisch Oder Portugiesisch Sprache? Interação Comunicativa Em Crianças Pomeranas Bilingues Com Transtorno Do Espectro Autista
+   Kremer-Sadlik T, 2005, P 4 INT S BIL, P1225
+   KÜSTER Sintia Bausen, 2015, Cultura e língua pomeranas: um estudo de caso em uma escola do Ensino Fundamental no município de Santa Maria de Jetibá - Espírito Santo - Brasil
+   Lampreia Carolina, 2007, Estud. psicol. (Campinas), V24, P105, DOI 10.1590/S0103-166X2007000100012
+   Lopes S. A. de J. B., 2016, A Comunicação em contexto escolar e familiar da criança autista: estudo de caso
+   Macnamara J., 1966, Bilingualism and primary education: a study of Irish experience
+   Martinuzzo J. A., 2009, Palácio Anchieta: Patrimônio capixaba
+   MELLO Heloisa Augusta Brito de, 1999, O FALAR BILINGUE
+   MOZZILLO I., 2005, CADERNO LETRAS U FED, V11, P65
+   Ozonoff S, 2005, AUTISM, V9, P461, DOI 10.1177/1362361305057880
+   Paes de Barros R., 2012, Relatório de definição da classe média
+   Pearson B., 2009, The Cambridge Handbook of Child Language, P380
+   Petersen JM, 2012, J AUTISM DEV DISORD, V42, P1499, DOI 10.1007/s10803-011-1366-y
+   Prior A, 2010, BILING-LANG COGN, V13, P253, DOI 10.1017/S1366728909990526
+   Röelke H., 1996, Descobrindo raízes: aspectos geográficos, históricos e culturais da Pomerânia
+   Schopler E, 1986, CHILDH AUT RAT SCAL
+   Schweers C. W., 1999, ENGLISH TEACHING FOR, V37, P6
+   Stake RE., 2000, HDB QUALITATIVE RES, V2, P435, DOI DOI 10.2307/2075820
+   Stone WL, 1997, J AUTISM DEV DISORD, V27, P677, DOI 10.1023/A:1025854816091
+   Tressmann I., 2015, O pomerano-brasileiro: quem é ele? A língua pomerana na identidade de Santa Maria de Jetibá
+   TRESSMANN Ismael, 2005, Da sala de estar à sala de baile. Estudo etnolinguístico de comunidades camponesas pomeranas do estado do Espírito Santo
+   Turbino N., 2007, A germanidade no Brasil
+   2018, Censo Demográfico 2017
+   2017, Censo da Educação Básica
+   Inclui inciso VI, ao artigo 182 da Constituição Estadual, que trata do Patrimônio Cultural do Estado
+   Resolução nº 466, de 12 de dezembro de 2012
+   2017, Secretaria Municipal de Educação de Santa Maria de Jetibá
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 1
+PU Associação Brasileira de Pesquisadores em Educação Especial - ABPEE
+SN 1980-5470
+PD 06
+PY 2020
+VL 26
+IS 2
+BP 247
+EP 266
+DI 10.1590/1980-54702020v26e0079
+EC Education & Educational Research; Education, Special
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1413-65382020000200005
+OA gold
+ER
+
+PT J
+AU Zara, Júlia Vidigal
+   Oliveira, Fernando Luiz Pereira de
+   Souza, Ricardo Augusto de
+TI Selective transfer in the acquisition of English double object constructions by Brazilian learners
+X1 Transferência seletiva na aquisição das construções de objeto duplo do inglês por aprendizes brasileiros
+SO Alfa: Revista de Linguística (São José do Rio Preto)	
+LA English	
+DT research-article	
+DE Cross-linguistic influence; Selective transfer; Double object constructions; Bilingualism	
+Y5 Influência translinguística; Transferência seletiva; Construções de objeto duplo; Bilinguismo	
+AB The present study investigates the acquisition of the English double object constructions (GOLDBERG, 1995) by Brazilian learners. We hypothesize that, due to first language (L1) influences, the prepositional ditransitive construction (John gave a book to Mary) will be acquired earlier, while the ditransitive construction (John gave Mary a book) will be part of the learner's interlanguages (SELINKER, 1972) only at the advanced level of proficiency. We also hypothesize that learners may transfer (ODLIN, 1989) the placement of the object pronoun in pre-verbal position from their L1 to their interlanguage in early stages of acquisition (João me deu um livro / *John me gave a book). We test our hypotheses by comparing the performance of three groups of learners (beginning, intermediate, and advanced) and native speakers of English on an acceptability judgment task used as a measure of learnability and generalization. Results confirm the order of acquisition of the English double object constructions predicted for native speakers of Brazilian Portuguese. Moreover, results suggest that, although mother tongue influences may have taken place, they do not do so pervasively, but rather selectively, corroborating the proposal by Kellerman (1983).	
+Y4 Neste trabalho, investigamos a aquisição das construções de objeto duplo do inglês (GOLDBERG, 1995) por aprendizes brasileiros. Partimos da hipótese de que, devido à influência da primeira língua (L1), a construção ditransitiva preposicionada (John gave a book to Mary) será adquirida primeiro, enquanto a construção ditransitiva (John gave Mary a book) fará parte da interlíngua (SELINKER, 1972) dos aprendizes apenas no nível avançado de proficiência na língua-alvo. Levantamos também a hipótese de que aprendizes podem transferir (ODLIN, 1989) o pronome objeto em posição pré-verbal de sua L1 para a interlíngua nos estágios iniciais de acquisição da L2 (João me deu um livro / *John me gave a book). Testamos nossas hipóteses através da comparação das performances de três grupos de aprendizes brasileiros (iniciantes, intermediários e avançados) com um grupo de falantes nativos do inglês na realização de uma tarefa de julgamento de aceitabilidade de sentenças, utilizada como medida de aprendibilidade e generalização. Os resultados obtidos confirmam a nossa hipótese sobre a ordem de aquisição das construções de objeto duplo do inglês por falantes nativos do português brasileiro e indicam que a influência da L1 no desenvolvimento da interlíngua dos aprendizes ocorre de forma seletiva, assim como propõe Kellerman (1983).	
+C1 [Oliveira, Fernando Luiz Pereira de] Universidade Federal de Ouro Preto, Brasil.
+   [Zara, Júlia Vidigal] Universidade Federal de Minas Gerais, Brasil.
+   [Souza, Ricardo Augusto de] Universidade Federal de Minas Gerais, Brasil.
+CR Abreu Gomes C., 2003, LANGUAGE DESIGN J TH, V5, P67
+   Balcom P., 1997, SECOND LANG RES, V13, P1, DOI 10.1191/026765897670080531
+   Bechara E, 2003, Moderna Gramática Portuguesa
+   Campbell AL, 2001, APPL PSYCHOLINGUIST, V22, P253, DOI 10.1017/S0142716401002065
+   CHOMSKY N, 1981, LECT GOVT BIND
+   CULLICOVER P., 2009, Natural language syntax
+   Ellis R, 1999, APPL LINGUIST, V20, P460, DOI 10.1093/applin/20.4.460
+   Ellis R., 2008, The Study of Second Language Acquisition
+   FROMKIN V., 2000, Linguistics: an introduction to linguistic theory
+   GASS S., 2005, Second language research: methodology and design
+   Goldberg A, 1995, Constructions:A Construction Grammar Approach to Argument Structure
+   Goldberg Adele, 2006, CONSTRUCTIONS WORK
+   Hatch E., 1991, The research manual. Design and statistics for applied linguistics
+   Hovav MR, 2008, J LINGUIST, V44, P129, DOI 10.1017/S0022226707004975
+   JACKENDOFF R, 2002, FOUNDATIONS LANGUAGE
+   JACKENDOFF R., 2006, Simpler syntax
+   Jackendoff R, 1972, Semantic interpretation in generative grammar
+   Johnson Keith, 2008, Quantitative methods in linguistics
+   Juffs A., 2000, 2 LANGUAGE ACQUISITI, P187
+   Juffs A., 1998, SECOND LANG RES, V14, P406
+   Kellerman E., 1979, STUDIES 2 LANGUAGE A, V2(, P37, DOI DOI 10.1017/S0272263100000942
+   Kellerman E., 1983, LANGUAGE TRANSFER LA, P112
+   Levin B., 2005, ARGUMENT REALIZATION
+   MAZURKEWICH I, 1984, LANG LEARN, V34, P91, DOI 10.1111/j.1467-1770.1984.tb00997.x
+   Montrul S, 2004, APPL PSYCHOLINGUIST, V25, P239, DOI 10.1017/S0142716404001122
+   Odlin T, 1989, LANGUAGE TRANSFER
+   Oshita H., 2000, SECOND LANG RES, V16, P293
+   Rothman J, 2010, SECOND LANG RES, V26, P189, DOI 10.1177/0267658309349410
+   Salamoura A, 2007, APPL PSYCHOLINGUIST, V28, P627, DOI 10.1017/S0142716407070348
+   SCHACHTER J., 1993, Language transfer in language learning, P98
+   SCHER A., 1996, Sínteses, V2, P347
+   SELINKER L, 1972, IRAL-INT REV APPL LI, V10, P209, DOI 10.1515/iral.1972.10.1-4.209
+   SOUZA R. A., Ilha do Desterro, P153
+   SOUZA R. A. D., 2011, ORGANON, V26, P103
+   Tomasello M, 2000, TRENDS COGN SCI, V4, P156, DOI 10.1016/S1364-6613(00)01462-5
+   Van Valin Robert, 1997, Syntax: structure, meaning and function
+   Vilelai Ana Carolina, 2010, Trab. linguist. apl., V49, P223
+   White L, 2003, Second language acquisition and universal grammar
+   English Placement Test
+NR 39
+TC 2
+Z9 2
+U1 0
+U2 1
+PU Universidade Estadual Paulista Júlio de Mesquita Filho
+SN 1981-5794
+PY 2013
+VL 57
+IS 2
+BP 519
+EP 544
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1981-57942013000200009
+OA gold
+ER
+
+PT J
+AU Vieira, Claudia Regina
+   Molina, Karina Soledad Maldonado
+TI Prática pedagógica na educação de surdos: o entrelaçamento das abordagens no contexto escolar
+X1 Pedagogical practice in deaf education: the intertwining of different approaches in the educational context
+SO Educação e Pesquisa	
+LA Portuguese	
+DT research-article	
+DE Pedagogical practices; Deaf education; School activities; Teaching approaches	
+Y5 Práticas pedagógicas; Educação de surdos; Atividades escolares; Abordagens de Ensino	
+AB Abstract This article seeks to build the history of Deaf Education in Brazil, based on the analysis of teaching approaches: Oralism, Total Communication and Bilingualism, based on discussions of pedagogical practices implemented in schools at different historical moments. The motto of this discussion and analysis are the pedagogical guidelines, and in particular the activities developed in the classroom. When thinking about Deaf Education and the implication of the approaches in the different periods one cannot construct a linear and sequential continuum, but there must be an existence diluted and diffused in different degrees in different historical periods. The didactic division of the three great approaches cannot compromise the understanding of this object, making it simplistic. The impacts of the different approaches for Deaf Education can be verified in the students’ schooling process. The fact that practices characterized by an approach that would theoretically belong to the nineteenth century are present in an effective way in the classroom and in pedagogical practices, in the teacher-student relationship and in our contemporary social representations of the deaf student in the school environment.	
+Y4 Resumo Este artigo teórico busca construir o histórico da educação de surdos no Brasil. A partir da análise das abordagens de ensino: Oralismo, Comunicação Total e Bilinguismo, discutem-se práticas pedagógicas implementadas nas escolas nos diferentes momentos históricos. O mote desta discussão e análise são as orientações pedagógicas e, em específico, as atividades desenvolvidas em sala de aula. Ao pensarmos a educação de surdos e a implicação das abordagens nos diferentes períodos, não se pode construir um continuum linear e sequencial, mas uma existência diluída e difundida em graus diferenciados nos diversos períodos históricos. A divisão didática das três grandes abordagens não pode comprometer a compreensão deste objeto, tornando-a simplista. Os impactos para a educação de surdos das diferentes abordagens podem ser constatados no processo de escolarização desses estudantes. Destaque para o fato de que práticas caracterizadas por uma abordagem que, teoricamente, estaria no século XIX, estão presentes de forma efetiva em sala de aula e nas práticas pedagógicas, na relação professor–aluno e na representação social que ainda se tem do estudante surdo no espaço escolar.	
+C1 [Vieira, Claudia Regina] Universidade Federal do ABC, Brazil.
+   [Molina, Karina Soledad Maldonado] Universidade de São Paulo, Brazil.
+CR BAKHTIN M, 2009, Marxismo e filosofia da linguagem
+   BRAGA Mário Joel da Silva, 1983, Programa de estruturação sistematizada da linguagem para deficientes auditivos
+   Brito L. F., 1995, Por uma gramática de língua de sinais
+   BRITO Lucinda Ferreira, 1993, Integração social e educação de surdos
+   CALDEIRA José Carlos Lassi, 1998, Exercícios psicomotores e psicopedagógicos anteriores à alfabetização:
+   COUTO Álpia, 1986, Posso falar: orientação para o professor de deficientes da audição
+   DORZIAT A., 2009, O outro da educação: pensando a surdez com base nos temas identidade/diferença, currículo e inclusão
+   FERNANDES E., 2003, LINGUAGEM E SURDEZ
+   Fernandes S., 2011, EDUCACAO DE SURDOS
+   Fernandes Sueli, 2014, Educ. rev., V0, P51, DOI 10.1590/0104-4060.37014
+   GESUELI Z. M, 2004, LEITURA ESCRITA CONT, P39
+   GOLDFELD Márcia, 1997, A criança surda: linguagem, cognição: uma perspectiva sócio interacionista
+   Guarinello AC, 2007, O papel do outro na escrita de sujeitos surdos
+   HONORA Márcia, 2014, Inclusão educacional de alunos com surdez: concepção e alfabetização: ensino fundamental, 1º ciclo
+   KARNOPP L., 2004, LEITURA ESCRITA CONT, P33
+   LACERDA Cristina Broglia Feitosa, 2013, Tenho um aluno surdo, e agora? Introdução a Libras e educação de surdos
+   Lodi Ana Claudia Balieiro, 2013, Educ. Pesqui., V39, P49, DOI 10.1590/S1517-97022013000100004
+   Lopes Sonia de Castro, 2016, Rev. Bras. Estud. Pedagog., V97, P372, DOI 10.1590/S2176-6681/374713703
+   MOURA M., 2000, O surdo: caminhos para uma nova identidade
+   SÁ Nídia Regina Limeira de, 2002, Cultura, poder e educação de surdos
+   SÁ Nídia Regina Limeira de, 1999, Educação de surdos: a caminho do bilinguismo
+   SALLES Heloísa Maria Moreira Lima, 2004, Ensino de língua portuguesa para surdos: caminhos para a prática pedagógica
+   SERPA Laura, Libras educando surdos
+   SKLIAR C., 1999, Atualidade da educação bilíngue para surdos
+   SOARES Maria Aparecida Leite, 1999, A Educação do Surdo no Brasil
+   VIEIRA Claudia Regina, 2014, Bilinguismo e inclusão: problematizando a questão
+   VYGOSTKY Lev Semyonovich, 2014, Obras escogidas II: pensamiento y lenguaje conferencias sobre psicología
+   2015, Diário Oficial [da] República Federativa do Brasil
+   2002, Diário Oficial da República Federativa do Brasil
+   2005, Diário Oficial da União
+   2008, Política nacional de Educação Especial na perspectiva da educação inclusiva.
+NR 31
+TC 2
+Z9 2
+U1 0
+U2 2
+PU Faculdade de Educação da Universidade de São Paulo
+SN 1678-4634
+PY 2018
+VL 44
+BP e179339
+DI 10.1590/s1678-4634201844179339
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1517-97022018000100503
+OA gold
+ER
+
+PT J
+AU BAILER, Cyntia
+   TOMITCH, Lêda Maria Braga
+TI Estudos comportamentais e de neuroimagem sobre multitarefa: uma revisão de literatura
+X1 Behavioral and neuroimaging studies on multitasking: a literature review
+SO Alfa: Revista de Linguística (São José do Rio Preto)	
+LA Portuguese	
+DT research-article	
+DE Multitasking; Dual tasking; Behavioral studies; fMRI; Literature review	
+Y5 Multitarefa; Dupla tarefa; Estudos comportamentais; fMRI; Revisão de literatura	
+AB ABSTRACT PASHLER, 1994 SCHMIDT, 2001 SALVUCCI; TAATGEN, 2011 JUST; BUCHWEITZ, 2014	
+Y4 RESUMO Esta revisão de literatura objetiva articular evidências de estudos comportamentais e de neuroimagem que têm sido conduzidos sobre multitarefa, nos quais pelo menos uma das tarefas envolve linguagem. De forma bem simples, ser multitarefa é lidar com mais de uma tarefa ao mesmo tempo. Achados de seis estudos comportamentais e de cinco estudos de neuroimagem foram articulados com a literatura para corroborar duas hipóteses consagradas na área, de que (1) ser multitarefa resulta em demonstrar desempenho inferior em uma das tarefas (PASHLER, 1994; SCHMIDT, 2001), e de que (2) ser multitarefa envolve sincronizar e utilizar de forma mais eficiente os recursos neuronais disponíveis (SALVUCCI; TAATGEN, 2011; JUST; BUCHWEITZ, 2014). Os estudos selecionados investigam compreensão auditiva e direção; compreensão auditiva e desempenho de tarefas de rotação mental; escuta dicótica e compreensão; leitura/participação em palestra e envio de mensagens; bilinguismo; o papel da inteligência e da capacidade de memória de trabalho; os efeitos do treinamento; e as escolhas multitarefa em gerações diferentes. Os resultados advindos dos estudos revisados corroboram a literatura e mostram que menos voxels são ativados em uma rede de áreas cerebrais em situação multitarefa que ao desempenhar as tarefas individualmente. Implicações dos achados para a educação também são tratados na revisão. Estudos futuros podem contribuir ao pesquisar os mecanismos cerebrais que permitem e limitam os indivíduos ser multitarefa, os efeitos do aprendizado em condições de distração bem como a maneira como o ensino pode evoluir para guiar as novas gerações.	
+C1 [BAILER, Cyntia] Universidade Federal de Santa Catarina, Brazil.
+   [TOMITCH, Lêda Maria Braga] Universidade Federal de Santa Catarina, Brazil.
+OI Bailer, Cyntia/0000-0002-9049-8003
+CR Bailer Cyntia, 2011, Working memory capacity and attention to form and meaning in EFL reading
+   Bookheimer S, 2002, ANNU REV NEUROSCI, V25, P151, DOI 10.1146/annurev.neuro.25.112701.142946
+   Bowman LL, 2010, COMPUT EDUC, V54, P927, DOI 10.1016/j.compedu.2009.09.024
+   BRAUN U., 2015, Dynamic reconfiguration of frontal brain networks during executive cognition in humans, P1
+   Buchweitz A, 2012, HUM BRAIN MAPP, V33, P1868, DOI 10.1002/hbm.21327
+   Burgess PW, 2000, NEUROPSYCHOLOGIA, V38, P848, DOI 10.1016/S0028-3932(99)00134-7
+   Carrier LM, 2009, COMPUT HUM BEHAV, V25, P483, DOI 10.1016/j.chb.2008.10.012
+   Cole MW, 2013, NAT NEUROSCI, V16, P1348, DOI 10.1038/nn.3470
+   Colom R, 2010, INTELLIGENCE, V38, P543, DOI 10.1016/j.intell.2010.08.002
+   Dehaene, 2009, READING BRAIN
+   Dux PE, 2009, NEURON, V63, P127, DOI 10.1016/j.neuron.2009.06.005
+   Ellis Y., 2010, RES HIGHER ED J, V8, P110, DOI DOI 10.HTTP://DX.D0I.0RG/10.4236/0ALIB.1102059
+   ENGONOPOULOS N., 2012, Language and cognitive load in a dual task environment, P2249
+   GROSJEAN F., 2012, Bilingual: life and reality
+   Huettel S A, 2009, Functional magnetic resonance imaging (2ed.)
+   James W, 1890, The principles of psychology
+   JUST M. A., 2014, The oxford handbook of cognitive science, P1
+   Just MA, 2001, NEUROIMAGE, V14, P417, DOI 10.1006/nimg.2001.0826
+   Just MA, 1996, SCIENCE, V274, P114, DOI 10.1126/science.274.5284.114
+   Just MA, 2008, BRAIN RES, V1205, P70, DOI 10.1016/j.brainres.2007.12.075
+   Just MA, 2007, COGN AFFECT BEHAV NE, V7, P153, DOI 10.3758/CABN.7.3.153
+   Kahneman D., 1973, ATTENTION EFFORT VOL
+   Matlin MW, 2004, PSICOLOGIA COGNITIVA
+   Mcclelland J L, 1986, Parallel distributed processing
+   Ophir E, 2009, P NATL ACAD SCI USA, V106, P15583, DOI 10.1073/pnas.0903620106
+   Osaka M., 2007, COGNITIVE NEUROSCIEN, P99
+   Oxford Dictionary, 2015, OXF DICT LANG MATT
+   PASHLER H, 1994, PSYCHOL BULL, V116, P220, DOI 10.1037/0033-2909.116.2.220
+   Poarch GJ, 2015, DEV REV, V35, P113, DOI 10.1016/j.dr.2014.12.003
+   Prat CS, 2011, CEREB CORTEX, V21, P1747, DOI 10.1093/cercor/bhq241
+   Prat CS, 2011, BRAIN LANG, V116, P1, DOI 10.1016/j.bandl.2010.08.004
+   Price CJ, 2010, ANN NY ACAD SCI, V1191, P62, DOI 10.1111/j.1749-6632.2010.05444.x
+   Salvucci D.D., 2011, MULTITASKING MIND
+   Schmidt R., 2001, COGNITION 2 LANGUAGE, P3, DOI [DOI 10.1017/CBO9781139524780.003, 10.1017/CBO9781139524780.003]
+   Skehan P, 1998, A Cognitive Approach to Language Learning
+   Yang H, 2005, Effects of bilinguals' controlled-attention on working memory and recognition, P2401
+   2011, The older population: 2010
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 0
+PU Universidade Estadual Paulista Júlio de Mesquita Filho
+SN 1981-5794
+PD 08
+PY 2016
+VL 60
+IS 2
+BP 403
+EP 425
+DI 10.1590/1981-5794-1608-8
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1981-57942016000200403
+OA gold
+ER
+
+PT J
+AU Quadros, Ronice Müller de
+   Pizzio, Aline Lemos
+   Cruz, Carina Rebello
+   Sousa, Aline Nunes de
+TI Mosaico da linguagem das crianças bilíngues bimodais: estudos experimentais
+X1 Language mosaic in bimodal bilingual children: experimental studies
+SO Revista Brasileira de Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE Language acquisition; Language assessment, Bimodal bilingualism; Hearing children; Deaf children; Cochlear implant	
+Y5 Aquisição da linguagem; Avaliação da linguagem; Bilinguismo Bimodal; Crianças ouvintes; Crianças surdas; Implante coclear	
+AB Abstract: This article considers the method used in an experimental study investigating the bilingual, bimodal development of deaf children with cochlear implants (CI) and hearing children with deaf parents (Kodas), between four and eight years of age. In addition to these two groups of children, deaf children of deaf parents or hearing parents, and hearing adults who had deaf parents, participated as control groups. First, we describe our experimental study and explain how we organized the data-collection fairs. Next, we outline the tests used in the study, which consider the linguistic aspects of Brazilian Sign Language (Libras) and Brazilian Portuguese (BP) and make up the linguistic mosaic of these children. We conclude with some comments on our preliminary results drawn from the data so far.	
+Y4 Resumo: O presente trabalho apresenta a metodologia utilizada no estudo experimental que investiga o desenvolvimento bilíngue bimodal de crianças surdas com implante coclear (IC) e crianças ouvintes filhas de pais surdos (Kodas)2, com faixa etária entre 4 e 8 anos. Além desses dois grupos de crianças, participaram da pesquisa crianças surdas filhas de pais surdos ou filhas de pais ouvintes, e adultos ouvintes filhos de pais surdos, com o intuito de constituírem os grupos de controle. Inicialmente, descrevemos o estudo experimental desenvolvido e apresentamos como organizamos as feiras para coleta de dados. E, em seguida, apresentamos os testes utilizados no estudo, que contemplam os aspectos linguísticos da Língua de Sinais Brasileira (Libras) e do Português Brasileiro (PB) e formam o mosaico da linguagem dessas crianças. Concluímos com os resultados gerais das investigações realizadas até o momento.	
+C1 [Cruz, Carina Rebello] Universidade Federal de Santa Catarina, Brazil.
+   [Pizzio, Aline Lemos] Universidade Federal de Santa Catarina, Brazil.
+   [Quadros, Ronice Müller de] Universidade Federal de Santa Catarina, Brazil.
+   [Sousa, Aline Nunes de] Universidade Federal de Santa Catarina, Brazil.
+CR ALVAREZ A., 2000, Perfil de habilidades fonológicas
+   Andrade CRF, 2004, Teste de linguagem infantil nas áreas de fonologia, fluência e pragmática
+   Crain S, 1998, Investigations in universal grammar: A guide to experiments on the acquisition of syntax and semantics
+   CRAIN S, 1986, P NELS 16, P94
+   CRUZ C., 2014, Phonological memory and phonological acquisition in bimodal bilingual children
+   Cruz CR, 2013, LET HOJE, V48, P389
+   Cruz CR, 2008, Proposta de instrumento de avaliação da consciência fonológica, parâmetro configuração de mão, para crianças surdas utentes da língua de sinais brasileira [dissertação]
+   Davidson K., 2013, J DEAF STUD DEAF EDU, V19, P238, DOI [10.1092/deafed/ent045, DOI 10.1092/DEAFED/ENT045]
+   Fortunato Carla Aparecida de Urzedo, 2009, Rev. CEFAC, V11, P662
+   FRENCH M., 1999, A Developmental Approach to Deaf Children´s Literacy
+   Geers AE, 2004, ARCH OTOLARYNGOL, V130, P634, DOI 10.1001/archotol.130.5.634
+   Goldman R, 2000, Goldman-Fristoe Test of Articulation 2 - Test manual
+   PADOVANI C. M., 2005, DISTURBIOS COMUNICAC, V17, P45
+   Pichler Chen, 2010, LANGUAGE INTERACTION, V1
+   Pichler Deborah Chen, 2010, LANG ACQUIS
+   Pronovost W, 1953, J SPEECH HEAR DISORD, V18, P258, DOI 10.1044/jshd.1803.258
+   QUADROS R., 2010, IX Congresso Internacional e XV Seminário Nacional do INES. Anais do Congresso do INES: O lugar do Conhecimento: identidade sujeito e subjetividade, P146
+   Quadros RM, 2011, Língua de sinais: instrumentos de avaliação
+   Quadros RM, 2004, Letras de Hoje, V39, P297
+   ROID G., 1997, Leiter International Performance Scale
+   Santos F.H., 2003, Braz J Med Biol Res, V36, P1533, DOI 10.1590/S0100-879X2003001100012
+   Santos-Carvalho B, 2007, Teste de Figuras para discriminação fonêmica: proposal e application [dissertação de mestrado]
+   Stuchi Raquel Franco, 2007, Pró-Fono R. Atual. Cient., V19, P167, DOI 10.1590/S0104-56872007000200005
+   TEIXEIRA E., 2003, Adaptação para o português brasileiro do MacArthur Communicative Inventories
+   TOOHEY E., 2010, Phonological development in hearing children of deaf parents
+   Williams K, 1997, Expressive Vocabulary Test
+   ZIMMERMAN I., 2002, Preschool Language Scale, Fourth Edition (PLS-4)
+   2015, Revista da ABRALIN, V14, P337
+   2008, Bilingualism: Language and Cognition, V11
+   2012, ReVEL, V10
+NR 30
+TC 0
+Z9 0
+U1 1
+U2 4
+PU Faculdade de Letras - Universidade Federal de Minas Gerais
+SN 1984-6398
+PD 03
+PY 2016
+VL 16
+IS 1
+BP 1
+EP 24
+DI 10.1590/1984-639820159143
+EC Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1984-63982016000100001
+OA gold
+ER
+
+PT J
+AU Gomides, Paula Aparecida Diniz
+   Carvalho, Gilcinei Teodoro
+   Rocha, Terezinha Cristina da Costa
+TI LITERATURA SURDA E PERCURSOS SÓCIO-HISTÓRICOS DE FORMAÇÃO DE DOIS PROFESSORES SURDOS
+X1 DEAF LITERATURE AND SOCIO-HISTORICAL TRAJECTORIES IN THE DEVELOPMENT OF TWO DEAF TEACHERS
+SO Trabalhos em Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE deaf literature; literature in Libras; deaf reader education; bilingual education; literary literacy	
+Y5 literatura surda; literatura em Libras; formação de leitores surdos; educação bilíngue; letramento literário	
+AB ABSTRACT The article discusses the development of readers in deaf communities, focusing on social practices of literary literacy in which Libras occupies a central role. We sought, through interviews with two deaf teachers of different generations, to reconstruct their trajectories, taking into account, on the one hand, the socio-historical paths in which they engaged during their reading education and, on the other hand, the understanding of reading constitution as a social, cultural and identity phenomenon. We establish an articulation between deaf literature and the social and school education of the deaf, reflecting on the processes that enabled them to build a reading repertoire and on the interfaces of this context with the policies that reaffirmed the bilingualism of the deaf and the right to use Libras. The experiences of socialization and schooling with literature and the Portuguese language tell about the trajectories of the deaf community and often prove to be bumpy, especially by the presence of clinical-therapeutic processes of insertion in the hearing community. However, the reported experiences also indicated a favorable engagement in social practices of literary literacy, either as readers who evaluate in a contextualized way certain productions or as authors who experience literary performances that are enhanced by social networks that circulate representative productions of the deaf community, which includes the systematic use of Libras.	
+Y4 RESUMO O artigo discute a formação de leitores surdos, enfocando as práticas sociais de letramento literário em que a Libras ocupa uma centralidade. Buscamos, por meio de entrevistas com dois professores surdos, de gerações diferentes, reconstruir suas trajetórias, tendo em vista, por um lado, os percursos sócio-históricos nos quais eles se engajaram, durante sua formação leitora e, por outro lado, o entendimento de constituição leitora como um fenômeno social, cultural e identitário. Estabelecemos uma articulação entre a literatura surda e a formação social e escolar de surdos, refletindo sobre os processos que lhes possibilitaram a construção de um repertório leitor e sobre as interfaces desse contexto com as políticas que reafirmaram o bilinguismo dos surdos e o direito ao uso da Libras. As experiências de socialização e de escolarização com a literatura e a língua portuguesa remetem às trajetórias da comunidade surda e, muitas vezes, revelam-se acidentadas, especialmente pela presença de processos clínico-terapêuticos de inserção na comunidade ouvinte. Contudo, as experiências relatadas também indicaram um favorecimento ao engajamento em práticas sociais de letramento literário, quer na condição de leitores que avaliam de forma contextualizada certas produções, quer na condição de autores que vivenciam performances literárias que são potencializadas pelas redes sociais que fazem circular produções representativas da comunidade surda, o que inclui o uso sistemático da Libras.	
+C1 [Gomides, Paula Aparecida Diniz] Universidade Federal de Minas Gerais (UFMG), Brasil.
+   [Rocha, Terezinha Cristina da Costa] Universidade Federal de Minas Gerais (UFMG), Brasil.
+   [Carvalho, Gilcinei Teodoro] Universidade Federal de Minas Gerais (UFMG), Brasil.
+OI Aparecida Diniz Gomides, Paula/0000-0002-4699-4309
+CR ALMEIDA M, 2018, Blog Escrevendo o Futuro. Slam do corpo
+   Andruetto M. T., 2012, Por uma literatura sem adjetivos
+   BASSO S. P. S., 2012, Revista Eletrônica de Educação, V6, P491
+   BRITO F. B. de, 2013, O movimento social surdo e a campanha pela oficialização da língua brasileira de sinais
+   CAMPELLO A. R., 2003, Aventuras de Pinóquio em Língua de Sinais/Português. Coleção Clássicos da Literatura em Libras-Português (infanto-juvenil)
+   CAVALCANTI Marilda Couto, 1999, DELTA SAO PAULO, V15, P385
+   COSSON Rildo, 2006, Letramento literário: teoria e prática
+   COSTA J. M. da, 2020, Ensino de metáforas em língua portuguesa para surdos bilíngues Libras-português, p165 f
+   Neves CAD, 2017, LINHA AGUA, V30, P92, DOI 10.11606/issn.2236-4242.v30i2p92-112
+   FINNEGAN R, 2015, Where is language? An antropologist´s questions on language, literature and performance
+   GURGEL L. G., 2015, Revista Reflexão e Ação, V23, P261
+   KARNOPP L. B., 2010, PRODUCOES CULTURAIS PRODUCOES CULTURAIS, V19, P155
+   KARNOPP L. B., 2009, Metodologia da Literatura Surda
+   MAHER T. M, 1997, O Dizer do sujeito bilíngue: aportes da sociolinguística. Anais do Seminário Desafios e possibilidades na educação bilíngue para surdos, P20
+   MARCUSCHI L. A, 1999, Análise da conversação
+   Megale A. H., 2018, The Especialist, V39, P1
+   MOURÃO Cláudio, 2016, Literatura surda: experiência das mãos literárias
+   OLIVEIRA M. A. A. de, 2008, Um mistério a resolver: o mundo das bocas mexedeiras
+   PAULINO G, 2010, Cultura escrita e letramento, P404
+   PIMENTA N, 1999, Literatura Em LSB
+   QUADROS R. M., 1997, Educação de surdos: a aquisição da linguagem
+   RAMOS C. R, 2002, Iracema em Libras. Coleção Clássicos da Literatura em Libras-Português (infanto-juvenil)
+   REZENDE R. C. F. de, 2020, Anais do primeiro Despetacular Festival
+   RODRIGUES C. H, 2018, Letramento na Diversidade: surdos aprendendo a ler/escrever
+   Silva Giselli Mara da, 2014, Rev. bras. linguist. apl., V14, P905, DOI 10.1590/1984-639820145558
+   SILVEIRA C. H., 2011, Cinderela Surda
+   Skliar C, 1999, ATUALIDADE EDUCACAO, V2, P7
+   STREET B, 2014, Letramentos sociais: abordagens críticas do letramento no desenvolvimento, na etnografia e na educação
+   SUTTON-SPENCE R, 2020, Fórum Linguístico, V17, P5505
+   SUTTON-SPENCE R, 2021, Literatura em Libras
+   2012, Chapeuzinho Vermelho em Libras
+   2014, Plano Nacional de Educação 2014-2024
+   2015, Lei no 13.146, de 06 de julho de 2015
+   2002, Lei no 10.436, de 24 de abril de 2002
+   2021, Projeto Mãos Literárias
+   2005, Decreto no 5.626, de 22 de dezembro de 2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais (Libras), e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNICAMP. Programa de Pós-Graduação em Linguística Aplicada do Instituto
+   de Estudos da Linguagem (IEL)
+SN 2175-764X
+PD 12
+PY 2021
+VL 60
+IS 3
+BP 735
+EP 747
+DI 10.1590/0103181311071011520211025
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S0103-18132021000300735
+OA gold
+ER
+
+PT J
+AU Quadros, Ronice Müller de
+   Lillo-Martin, Diane
+   Pichler, Deborah Chen
+TI Sobreposição no desenvolvimento bilíngue bimodal
+X1 Code-blending in bimodal bilingual development
+SO Revista Brasileira de Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE Bimodal bilingualism; bilingual development; language codeblending; language code-switching; interloctor sensitivity	
+Y5 Bilinguismo bimodal; desenvolvimento bilíngue; sobreposição de línguas; alternância de línguas; sensibilidade ao interlocutor	
+AB Bilingual children develop sensitivity to the language choice of their interlocutors at an early age, reflected in differential proportions of the use of each language. Factors such as discourse context and relative language dominance in the community may also mediate the degree of language differentiation in preschool-age children. Bimodal bilingual children, those acquiring both a sign language and a spoken language, have an even more complex situation to negotiate. Besides the code-switching, the bimodal bilinguals engage in code-blending, a phenomenon with sociolinguistic uses that is analogous to code-switching, but without suppressing one of the languages. This study analyzes longitudinal spontaneous production data from four bimodal bilingual children (two Americans and two Brazilians). Our results show that even in the earliest observations, the children produced more signed utterances with their deaf interlocutors and more speech with their hearing interlocutors. All four children had used bimodal production in sign and speech sections, potentially because they find the suppression of the dominant language more difficult. The results reported here indicate that these preschool bimodal bilingual children are sensitive to the language status of their interlocutors, while showing a considerable influence from the dominant community language.	
+Y4 Crianças bilíngues desenvolvem sensibilidade para escolher as línguas de seus interlocutores de forma muito precoce, o que se reflete nas proporções diferenciadas do uso de cada língua. Os fatores tais como o contexto do discurso e a relativa dominância das línguas na comunidade podem também determinar o grau de diferenciação dos usos das línguas nas crianças em fase préescolar. Crianças bilíngues bimodais, ou seja, as que estão adquirindo uma língua de sinais e uma língua falada, simultaneamente, estão diante de um contexto mais complexo de negociações. Além da alternância de línguas, essas crianças produzem a sobreposição de línguas, que é um fenômeno sociolinguístico análogo àquele, mas sem a supressão de uma das línguas. Este estudo analisa produções espontâneas de crianças bilíngues bimodais, interagindo com seus interlocutores surdos ou ouvintes (duas crianças americanas e duas brasileiras). Nossos resultados mostram que, mesmo nas produções mais iniciais, as crianças produzem mais enunciados sinalizados com seus interlocutores surdos e mais enunciados falados com os seus interlocutores ouvintes. Todas as quatro crianças produziram enunciados bimodais, tanto nas sessões em que a língua alvo era a fala ou os sinais, mas de forma muito mais frequente nas sessões em sinais, potencialmente porque as crianças acham mais difícil suprimir a língua dominante. Esses resultados indicam que essas crianças bilíngues bimodais são sensíveis às línguas e seus interlocutores, enquanto apresentam uma influência considerável da língua dominante da sua comunidade.	
+C1 [Pichler, Deborah Chen] Gallaudet University, Estados Unidos.
+   [Lillo-Martin, Diane] University of Connecticut, Estados Unidos.
+   [Quadros, Ronice Müller de] Universidade Federal de Santa Catarina, Brasil.
+CR Baker A, 2008, STUD BILINGUAL, V38, P1
+   BHATIA TK, 1999, HDB CHILD LANGUAGE A, P569
+   Bhatt RM, 2011, BILING-LANG COGN, V14, P522, DOI 10.1017/S1366728910000295
+   Bishop M, 2005, SIGN LANG STUD, V5, P188, DOI 10.1353/sls.2005.0001
+   Bishop M, 2010, SIGN LANG STUD, V11, P205, DOI 10.1353/sls.2010.0007
+   Capirci O, 1996, J CHILD LANG, V23, P645, DOI 10.1017/S0305000900008989
+   CHEN PICHLER D., 2013, Best practices for building a bimodal bilingual child language corpus
+   Chen Pichler Deborah, 2010, LIA, V1, P11
+   Chomsky Noam., 1995, MINIMALIST PROGRAM
+   Comeau L., 2003, INT J BILINGUAL, V7, P113, DOI [DOI 10.1177/13670069030070020101, 10.1177/13670069030070020101]
+   Costa A, 2004, J MEM LANG, V50, P491, DOI 10.1016/j.jml.2004.02.002
+   CRASBORN O., 2008, Enhanced ELAN functionality for sign language corpora: Proceedings of LREC 2008, P39
+   Deuchar M, 1999, J CHILD LANG, V26, P461, DOI 10.1017/S0305000999003852
+   Donati C., 2013, CHALLENGES LINEARIZA, P93, DOI DOI 10.1515/9781614512431.93
+   DÖPKE S., 1992, One Parent - One Language: An Interactional Approach
+   Emmorey K, 2008, BILING-LANG COGN, V11, P43, DOI 10.1017/S1366728907003203
+   Emmorey K, 2008, PSYCHOL SCI, V19, P1201, DOI 10.1111/j.1467-9280.2008.02224.x
+   FUNG C., Code-Blending in Early Hong Kong Sign Language: A Case Study. M.A.
+   GENESEE F, 1989, J CHILD LANG, V16, P161, DOI 10.1017/S0305000900013490
+   Genesee F., 2009, BLACKWELL HDB LANGUA, P324, DOI [DOI 10.1002/9780470757833.CH16, 10.1002/9780470757833.ch16]
+   Genessee F, 1995, J CHILD LANG, V22, P611, DOI 10.1017/S0305000900009971
+   Gonzalez-Vilbazo K, 2012, NAT LANG LINGUIST TH, V30, P33, DOI 10.1007/s11049-011-9141-5
+   GRIFFITH PL, 1985, SIGN LANG STUD, V48, P195
+   GROSJEAN F, 1989, BRAIN LANG, V36, P3, DOI 10.1016/0093-934X(89)90048-5
+   Halle Morris., 1993, VIEW BUILDING, P111
+   Kanto L, 2013, J DEAF STUD DEAF EDU, V18, P242, DOI 10.1093/deafed/ens071
+   KOULIDOBROVA E., 2012, When the Quiet Surfaces: 'Transfer' of Argument Omission in the Speech of ASL-English Bilinguals
+   KROLL JF, 1994, J MEM LANG, V33, P149, DOI 10.1006/jmla.1994.1008
+   Kroll JF, 2006, BILING-LANG COGN, V9, P119, DOI 10.1017/S1366728906002483
+   LANZA E., 1997, Language Mixing in Infant Bilingualism
+   LILLO-MARTIN D., 2012, [No title captured], P33
+   LUCAS C., 1992, Language Contact in the American Deaf Community
+   Macswan J, 2005, BILING-LANG COGN, V8, P1, DOI 10.1017/S1366728904002068
+   MacSwan J., 2000, BILING-LANG COGN, V3, P37, DOI [10.1017/S1366728900000122, DOI 10.1017/S1366728900000122]
+   MALLORY BL, 1993, SIGN LANG STUD, V1078, P73, DOI DOI 10.1353/SLS.1993.0005
+   Myers-Scotton C., 1993, Duelling Languages: Grammatical Structures in Codeswitching
+   Nicoladis E, 1996, LANG LEARN, V46, P439, DOI 10.1111/j.1467-1770.1996.tb01243.x
+   Nicoladis E., 2000, FIRST LANG, V20, P3, DOI [10.1177/014272370002005801, DOI 10.1177/014272370002005801]
+   Ozcaliskan S, 2005, COGNITION, V96, pB101, DOI 10.1016/j.cognition.2005.01.001
+   Paradis J., 2007, INT J BILING EDUC BI, V10, P277, DOI [10.2167/beb444.0, DOI 10.2167/BEB444.0]
+   Paradis Joan., 2001, INT J BILINGUAL, V5, P19, DOI [DOI 10.1177/13670069010050010201, 10.1177/13670069010050010201]
+   Petitto LA, 2001, J CHILD LANG, V28, P453, DOI 10.1017/S0305000901004718
+   PETROJ V., 2014, ASL dominant code-blending in the whispering of bimodal bilingual children
+   Pichler DC, 2014, COMMUN D ACROSS LANG, V11, P235
+   Pichler Deborah Chen, 2010, LANG ACQUIS
+   PIZER G., 2008, Sign and Speech in Family Interaction: Language Choices of Deaf Parents and their Hearing Children
+   POPLACK S, 1980, LINGUISTICS, V18, P581, DOI 10.1515/ling.1980.18.7-8.581
+   Pyers JE, 2008, PSYCHOL SCI, V19, P531, DOI 10.1111/j.1467-9280.2008.02119.x
+   QUADROS R.M., 2012, [No title captured], P87
+   QUADROS R.M., 2013, [No title captured], P300
+   QUADROS R.M., Spoken Corpora and Linguistic Studies
+   Shook A, 2012, COGNITION, V124, P314, DOI 10.1016/j.cognition.2012.05.014
+   Unsworth S, 2013, ANNU REV APPL LINGUI, V33, P21, DOI 10.1017/S0267190513000044
+   Van den Bogaerde B, 2005, SIGN LANG LINGUIST, V8, P151
+   VAN DEN BOGAERDE B., 2000, Input and Interaction in Deaf Families
+   van den Bogaerde B, 2009, HEARING MOTHER FATHE, P99
+   VOLTERRA V, 1978, J CHILD LANG, V5, P311, DOI 10.1017/S0305000900007492
+NR 57
+TC 0
+Z9 6
+U1 0
+U2 3
+PU Faculdade de Letras - Universidade Federal de Minas Gerais
+SN 1984-6398
+PD 12
+PY 2014
+VL 14
+IS 4
+BP 799
+EP 834
+DI 10.1590/1984-639820146001
+EC Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1984-63982014000400003
+OA gold
+ER
+
+PT J
+AU Oppitz, Sheila Jacques
+   Bruno, Rubia Soares
+   Didoné, Dayane Domeneghini
+   Garcia, Michele Vargas
+TI Resolução temporal e potenciais corticais em diferentes níveis de proficiência da língua inglesa
+X1 Temporal resolution and cortical potential in different levels of English proficiency
+SO Revista CEFAC	
+LA Portuguese	
+DT research-article	
+DE Hearing; Bilingualism; Electrophysiology; Event-Related Potentials, P300; Adult	
+Y5 Audição; Bilinguismo; Eletrofisiologia; Potencial Evocado P300; Adulto	
+AB ABSTRACT Purpose: to investigate and compare hearing abilities in normal hearing bilingual students, at different levels of English proficiency (basic, intermediate and advanced), using behavioral testing and electrophysiological testing. Methods: this study is descriptive, quantitative and transversal. The sample consisted of 60 subjects (language schools students at different English proficiency levels: 20 at advanced level (AG); 20 at intermediate level (IG); 20 at basic level (BG)) with normal hearing and no complaints about auditory processing abilities, aged 18-35 years. They were subjected to behavioral test: Random Gap Detection Test (RGDT) that assesses ability of temporal resolution; and electrophysiological test Long Latency Auditory Evoked Potential (LLAEP) with verbal stimuli (syllables /ba/ - frequent stimulus and /di/ - rare stimulus) evaluating memory, attention and auditory discrimination. Results: it was noticed a statistically significant difference between ears for: BG, to amplitude of N1 and P2, with higher values for left ear; IG to amplitude of P1, N1 and P2, with higher values for left ear; AG to latency of N1, with higher values for left ear, and amplitudes of components P2, N2 and P3, with higher values for left ear. Between groups, RGDT showed lower values of AG, and latency of N1 component, with higher values for BG. Conclusion: there were significant differences in temporal resolution ability, better for students in advanced level of English and also to the latency of evoked cortical N1 with higher values for students at a basic level.	
+Y4 RESUMO Objetivos: investigar e comparar as habilidades auditivas entre normo-ouvintes bilíngues estudantes de diferentes níveis de proficiência do inglês por meio de teste comportamental e eletrofisiológico. Métodos: este estudo tem caráter descritivo, quantitativo e transversal. A amostra foi composta por 39 sujeitos (alunos de escolas de idiomas: 13 no nível avançado (GA); 13 no nível intermediário (GI); 13 no nível básico (GB)), com idade entre 18 a 35 anos, limiares auditivos tonais dentro dos limites da normalidade e sem queixas de habilidades de processamento auditivo. Foram submetidos aos testes comportamentais: teste de detecção de gap (RGDT); e ao teste eletrofisiológico potencial evocado auditivo de longa latência (PEALL), com estímulos verbais (sílabas /ba/ - frequente - e /di/ - raro) Resultados: verificou-se diferença estatisticamente significante entre as orelhas para: o GB, para a amplitude de N1 e P2, com maiores valores para a orelha esquerda; o GI, para a amplitude de P1, N1 e P2, com maiores valores para a orelha esquerda, o GA, para a latência do componente N1, com maiores valores para a orelha esquerda, e, para as amplitudes dos componentes P2, N2 e P3, com maiores valores para a orelha esquerda. Entre os grupos, o teste RGDT mostrou menores valores para GA e para latência do componente N1, com maiores valores para o GB. Conclusões: pode-se concluir que o nível de proficiência avançado da língua inglesa estimula a velocidade de conexões neurais desencadeando a ocorrência mais rápida do potencial N1, assim a habilidade de resolução temporal é significantemente melhor à medida que o tempo de estudo aumenta.	
+C1 [Didoné, Dayane Domeneghini] Universidade Federal do Rio Grande do Sul, Brazil.
+   [Oppitz, Sheila Jacques; Bruno, Rubia Soares; Garcia, Michele Vargas] Universidade Federal de Santa Maria, Brazil.
+CR Abello-Contesse C, 2009, ELT J, V63, P170, DOI 10.1093/elt/ccn072
+   Almeida filho JCP, 2007, Dimensões comunicativas no ensino de línguas
+   Alvarenga Kátia de Freitas, 2013, CoDAS, V25, P521, DOI 10.1590/S2317-17822014000100004
+   Alvarenga Kátia de Freitas, 2013, Braz. j. otorhinolaryngol., V79, P336, DOI 10.5935/1808-8694.20130059
+   Araújo Letícia Maria Martins, 2010, Pró-Fono R. Atual. Cient., V22, P183, DOI 10.1590/S0104-56872010000300005
+   Boechat EM, 2010, TRATADO FONOAUDILOGI, P160
+   Carroll F, 1980, Research in second language acquisition, P160
+   Chermak Gail D, 2005, J Am Acad Audiol, V16, P554, DOI 10.3766/jaaa.16.8.4
+   Davis H, 2007, PRATICA AUDIOLOGIA C, P291
+   Silva Liliane Aparecida Fagundes, 2014, Braz. j. otorhinolaryngol., V80, P131, DOI 10.5935/1808-8694.20140028
+   Francelino EG, 2014, DISTURB COMU, V26, P27
+   Frizzo ACF, 2001, REV BRAS OTORRINOLAR, V67, P618
+   GALLOWAY LM, 1982, BRAIN LANG, V16, P56, DOI 10.1016/0093-934X(82)90071-2
+   Hall J W, 2006, New handbook of auditory evoked responses
+   Horst A., 2013, Pediatria Moderna, V49, P452
+   Jaeger Antonio, 2010, Psico-USF, V15, P171
+   Jang JH, 2010, CLIN EXP OTORHINOLAR, V3, P194, DOI 10.3342/ceo.2010.3.4.194
+   Romero Ana Carla Leite, 2013, Braz. j. otorhinolaryngol., V79, P609, DOI 10.5935/1808-8694.20130109
+   McPherson DL., 1996, Late potentials of the auditory system
+   Mendonça Patrícia Villa da Costa Ferreira, 2005, Psicol. Esc. Educ., V9, P59
+   Musiek FE, 2005, EAR HEARING, V26, P608, DOI 10.1097/01.aud.0000188069.80699.41
+   NOVAK GP, 1990, ELECTROEN CLIN NEURO, V75, P255, DOI 10.1016/0013-4694(90)90105-S
+   Oades RD, 1998, BEHAV BRAIN RES, V94, P83, DOI 10.1016/S0166-4328(97)00172-1
+   Oliveira Juliana Casseb, 2013, CoDAS, V25, P39, DOI 10.1590/S2317-17822013000100008
+   Pereira LN, 2012, A relação do bilinguismo com capacidades cognitivas: Memória de trabalho, Atenção, Inibição, e Processamento de Discurso
+   Massa Camila Gonçalves Polo, 2011, Braz. j. otorhinolaryngol., V77, P686, DOI 10.1590/S1808-86942011000600002
+   Regaçone Simone Fiuza, 2014, Audiol., Commun. Res., V19, P13, DOI 10.1590/S2317-64312014000100004
+   Reis ACMB, 2011, TRATADO AUDIOLOGIA
+   Samelli Alessandra Giannella, 2008, Rev. Bras. Otorrinolaringol., V74, P235, DOI 10.1590/S0034-72992008000200013
+   Savedra Mônica Maria Guimarães, 2010, Pandaemonium ger., P204
+   Sharma A, 2005, HEARING RES, V203, P134, DOI 10.1016/j.heares.2004.12.010
+   Sharma Anu, 2005, J Am Acad Audiol, V16, P564, DOI 10.3766/jaaa.16.8.5
+   Sharma A, 2009, J COMMUN DISORD, V42, P272, DOI 10.1016/j.jcomdis.2009.03.003
+   Mendonça Elisângela Barros Soares, 2013, Braz. j. otorhinolaryngol., V79, P512, DOI 10.5935/1808-8694.20130091
+   Wilson Richard, 2001, PERSPECTIVAS ATUAIS, p[21, 23]
+   Zaidan Elena, 2008, Pró-Fono R. Atual. Cient., V20, P19, DOI 10.1590/S0104-56872008000100004
+   Ziliotto K, 2005, Random gap detection test in subjects with and without APD
+   2010, Clinical practice guidelines: diagnosis, treatment and management of children and adults with central auditory processing disorder
+   2009, Braz. j. otorhinolaryngol, V75, P23
+   2015, Braz J Otorhinolaryngol
+NR 40
+TC 5
+Z9 6
+U1 0
+U2 1
+PU ABRAMO Associação Brasileira de Motricidade Orofacial
+SN 1982-0216
+PD 02
+PY 2017
+VL 19
+IS 1
+BP 27
+EP 40
+DI 10.1590/1982-021620171913516
+EC Rehabilitation
+C2 SciELO Brazil
+SC Rehabilitation
+UT SCIELO:S1516-18462017000100027
+OA gold
+ER
+
+PT J
+AU FERREIRA, Renan Castro
+   MOZZILLO, Isabella
+TI TRANSFERÊNCIA CONCEITUAL: O RELATIVISMO LINGUÍSTICO NA APRENDIZAGEM DE SEGUNDA LÍNGUA
+X1 CONCEPTUAL TRANSFER: LINGUISTIC RELATIVITY IN SECOND LANGUAGE LEARNING
+SO Alfa: Revista de Linguística (São José do Rio Preto)	
+LA Portuguese	
+DT research-article	
+DE Conceptual transfer; Cross-linguistic influence; Sapir-Whorf Hypothesis; Linguistic Relativity; L2 learning; Bilingualism	
+Y5 Transferência conceitual; Influência Translinguística; Hipótese Sapir-Whorf; Relativismo Linguístico; Aprendizagem de L2; Bilinguismo	
+AB ABSTRACT The influence of a language on the learning of another, or language transfer, has been extensively investigated in the field of Second Language Acquisition. There are, however, studies on a kind of transfer that occurs at the level of conceptual categorizations and that supports the hypothesis of the influence of language on cognition, or Linguistic Relativity. This phenomenon, known as conceptual transfer (JARVIS; PAVLENKO, 2010), is the object of this theoretical literature review. First, we revisit the development of the research on cross-linguistic influence, from the earlier studies, which considered it something negative for second language learning, to the latest ones, which show various effects, including facilitation. We then approach Linguistic Relativity, also known as the Sapir-Whorf Hypothesis, recalling what was postulated by its classic authors and by more recent researchers, which have reformulated the hypothesis. Finally, we review the most preeminent models of representation of the bilingual mental lexicon up to Pavlenko’s (2009), which explains conceptual transfer and brings Linguistic Relativity closer to Second Language Acquisition. The review ends with the claim that the research on bilingual cognition, through the investigation of conceptual transfer, may show how the languages we speak influence our cognition.	
+Y4 RESUMO A influência de uma língua na aprendizagem de outra, ou transferência linguística, é matéria bastante investigada na área de Aquisição de Segunda Língua. Entretanto, há estudos sobre um fenômeno de transferência que ocorre no nível das categorizações conceituais e que dá suporte à hipótese da influência das línguas sobre a cognição, ou Relativismo Linguístico. Esse fenômeno, chamado transferência conceitual (JARVIS; PAVLENKO, 2010), é o objeto deste artigo, que traz uma revisão teórica da literatura sobre a questão. Primeiramente, traçamos o percurso da pesquisa sobre a influência translinguística, dos estudos iniciais, que a tomavam como algo negativo na aprendizagem de L2, até os últimos, que mostram diversos efeitos, inclusive o de facilitação. Depois, abordamos o Relativismo Linguístico, ou Hipótese Sapir-Whorf, revisitando o que foi postulado por seus autores clássicos e por pesquisadores mais recentes, que reformularam a hipótese. Finalmente, revisamos os principais modelos de representação do léxico bilíngue até o de Pavlenko (2009), que explica a transferência conceitual e aproxima o Relativismo Linguístico da Aquisição de Segunda Língua. A revisão termina com a conclusão de que a pesquisa sobre a cognição bilíngue, através da investigação da transferência conceitual, poderá revelar como as línguas que falamos influenciam a nossa cognição.	
+C1 [MOZZILLO, Isabella] Universidade Federal de Pelotas, Brazil.
+   [FERREIRA, Renan Castro] Universidade Federal de Pelotas, Brazil.
+OI Ferreira, Renan/0000-0001-9267-6216; MOZZILLO,
+   ISABELLA/0000-0001-8445-9174
+CR ADAMS J, 2002, Bilingualism in Ancient Society, P332
+   Andrews David R., 1994, J SLAVIC LINGUISTICS, V2, P9, DOI DOI 10.1016/J.JML.2008.10.001
+   ARABSKI J, 2006, Cross-linguistic influences in the second language lexicon
+   BARRON A, 2006, LANGUAGE LEARNERS ST, P59
+   BERMAN R. A., 1994, Relating Events in Narrative: A Crosslinguistic Developmental Study
+   Boas F, 1920, AM ANTHROPOL, V22, P311, DOI 10.1525/aa.1920.22.4.02a00020
+   Boroditsky L, 2003, BRADFORD BOOKS, P61
+   Bowerman M., 1996, LANGUAGE SPACE, P385, DOI [10.7551/mitpress/4107.003.0012, DOI 10.7551/MITPRESS/4107.001.0001]
+   BROWN RW, 1954, J ABNORM SOC PSYCH, V49, P454, DOI 10.1037/h0057814
+   CASASANTO D, 2004, How deep are effects of language on thought?: Time estimation in speakers of English, Indonesian, Greek, and Spanish, P186
+   CENOZ J., 2001, Cross-linguistic influence in third language acquisition: Psycholinguistic perspectives
+   CRYSTAL D, 2010, The Cambridge Encyclopedia of Language
+   de Groot A.M.B., 2013, PSYCHOLINGUISTICS BI, P171
+   DEGROOT AMB, 1993, STUDIES BILINGUALISM, P27
+   Fries C. C, 1945, Teaching and learning English as a foreign language
+   Jarvis S, 2000, LANG LEARN, V50, P245, DOI 10.1111/0023-8333.00118
+   JARVIS S., 2010, Crosslinguistic influence in language and cognition
+   Jespersen O, 1922, Language: Its Nature, Development, and Origin
+   KELLERMAN E., 1986, Crosslinguistic influence in second language acquisition
+   Kellerman E., 1977, INTERLANGUAGE STUDIE, V2, P58
+   KROLL JF, 1994, J MEM LANG, V33, P149, DOI 10.1006/jmla.1994.1008
+   Lado R, 1957, Linguistics across cultures: applied linguistics for language teachers
+   Lakoff G, 1987, Women, fire, and dangerous things: What categories reveal about the mind
+   Lucy J A, 1992, Language Diversity and Thought: A Reformulation of the Linguistic Relativity Hypothesis
+   Malt BC, 2003, J MEM LANG, V49, P20, DOI 10.1016/S0749-596X(03)00021-4
+   Malt BC, 1999, J MEM LANG, V40, P230, DOI 10.1006/jmla.1998.2593
+   Odlin T., 2003, HDB 2 LANGUAGE ACQUI, P436, DOI DOI 10.1002/9780470756492.CH15
+   ODLIN T, 1994, Current Issues in Second Language Acquisition and Development, P29
+   Odlin T, 1989, Language transfer: Cross-linguistic influence in language learning
+   PAVLENKO A, 2014, The bilingual mind: and what it tells us about language and thought
+   Pavlenko A., 2002, MULTILINGUA J CROSS, V21, P45, DOI [DOI 10.1515/MULT.2002.004, 10.1515/mult.2002.004]
+   Pavlenko A., 2009, The Bilingual Mental Lexikon. Interdisciplinary Approaches
+   Pavlenko A, 2008, MENT LEX, V3, P91, DOI 10.1075/ml.3.1.07pav
+   Pavlenko Aneta, 2003, INT J BILINGUAL, P257, DOI [10.1177/13670069030070030301, DOI 10.1177/13670069030070030301]
+   Pederson E., 2007, OXFORD HDB COGNITIVE, P1012, DOI [10.1093/oxfordhb/9780199738632.001.0001, DOI 10.1093/OXFORDHB/9780199738632.001.0001]
+   RINGBOM H, 1978, MODERNA SPRAK, V72, P21
+   RINGBOM Håkan, 2007, Crosslinguistic similarity in foreign language learning
+   Sapir E, 1929, LANGUAGE, V5, P207, DOI 10.2307/409588
+   SAPIR E, 1931, SCIENCE, V74
+   SAPIR E, 2004, Language: An Introduction to the Study of Speech
+   Schachter J., 1979, WORKING PAPERS BILIN, V19, P3
+   SELINKER L, 1972, Berlin, V10, P209
+   SJÖHOLM K, 1995, The influence of crosslinguistic, semantic, and input factors on the acquisition of English phrasal verbs: a comparison between Finnish and Swedish learners at an intermediate and advanced level
+   Slobin Dan., 1996, RETHINKING LINGUISTI, P70, DOI DOI 10.1016/S0378-2166(97)83851-9
+   Swoyer C, 2011, LANGUAGE AND BILINGUAL COGNITION, P23
+   Weinreich Uriel, 1953, Languages in Contact: Findings and Problems
+   Whorf B L, 1956, Language, thought, and reality: Selected writings of Benjamin Lee Whorf
+   Winawer J, 2007, P NATL ACAD SCI USA, V104, P7780, DOI 10.1073/pnas.0701644104
+   Wolff P, 2011, WIRES COGN SCI, V2, P253, DOI 10.1002/wcs.104
+NR 49
+TC 0
+Z9 0
+U1 3
+U2 8
+PU Universidade Estadual Paulista Júlio de Mesquita Filho
+SN 1981-5794
+PY 2021
+VL 65
+BP e12799
+DI 10.1590/1981-5794-e12799
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S1981-57942021000100208
+OA gold
+ER
+
+PT J
+AU Lopes, Sonia de Castro
+   Freitas, Geise de Moura
+TI A construção do projeto bilíngue para surdos no Instituto Nacional de Educação de Surdos na década de 1990
+X1 The development of a bilingual project for the deaf at the Instituto Nacional de Educação de Surdos in the 1990's
+SO Revista Brasileira de Estudos Pedagógicos	
+LA Portuguese	
+DT research-article	
+DE special needs education; Instituto Nacional de Educação de Surdos; oralism; bilingual education project	
+Y5 educação especial; Instituto Nacional de Educação de Surdos; oralismo; projeto bilíngue	
+AB Abstract: This article aims to discuss the findings of an investigation that explored the operating power networks at the Practice School (Colégio de Aplicação) of the National Institute for Education of the Deaf (Instituto Nacional de Educação de Surdos - Ines) during the creation of a bilingual education program for the deaf in the 1990's. The investigation focused on specific actions performed by the teaching staff that aimed at reviewing concepts about hearing impairment and oralist learning. This review intended to cast aside a disability-based teaching approach and to embrace a socio-anthropological model for the education of the deaf. Pierre Bourdieu's concepts of social and capital fields, viewed as interchangeable with Michel De Certeau's tactics and strategy concepts, were implemented through the oral history methodology. Also, the interviews conducted in the study were triangulated with other documentary sources found in the Permanent Archives of Ines. It is inferred that although bilingualism has been the overriding principle in the institution's Political and Pedagogical Project since 1996, there is still a long way to go before the official curriculum intentions and the ones actually implemented on a day-by-day basis coherently match.	
+Y4 Resumo: Divulga os resultados de uma pesquisa que procurou desvelar as redes de poder que estiveram em jogo no Colégio de Aplicação do Instituto Nacional de Educação de Surdos (Ines), por ocasião da tentativa de construção de um projeto de educação bilíngue para surdos, na década de 1990. A investigação debruçou-se sobre as ações protagonizadas por agentes escolares que visavam reconceitualizar a visão sobre a surdez e os surdos, retirando-os da esfera da deficiência, inscrita na concepção oralista, apostando em um modelo socioantropológico de educação de surdos. Operou-se com conceitos como o de campo social e capital, entendidos na acepção de Pierre Bourdieu, intercambiados com os conceitos de tática e estratégia, nos termos propostos por Michel de Certeau. Utilizou-se a metodologia da história oral, e as entrevistas produzidas foram trianguladas com outras fontes documentais encontradas no arquivo permanente do Ines. Inferiu-se que, apesar de o bilinguismo ter assumido centralidade no projeto político-pedagógico da instituição desde 1996, existe ainda um longo caminho a percorrer entre as intenções do currículo oficial e as daquele presente no cotidiano do Ines.	
+C1 [Lopes, Sonia de Castro] Universidade Federal do Rio de Janeiro, Brazil.
+   [Lopes, Sonia de Castro] Pontifícia Universidade Católica do Rio de Janeiro, Brazil.
+   [Freitas, Geise de Moura] Universidade Federal do Rio de Janeiro, Brazil.
+   [Freitas, Geise de Moura] Instituto Nacional de Educacão de Surdos, Brazil.
+CR BONNEWITZ P., 2003, Primeiras lições sobre a sociologia de Pierre Bourdieu. Tradução de Lucy Magalhães
+   Bourdieu P., 1990, COISAS DITAS
+   BOURDIEU P., 1997, MISERIA MUNDO, P693
+   BRANDÃO Z., 2010, Pesquisa em educação: conversas com pós-graduandos
+   CERTEAU M., 2009, A invenção do cotidiano: artes de fazer
+   DÓRIA A. R. F., 1954, Compêndio de educação da criança surda-muda
+   FAVORITO W., 2006, O difícil são as palavras: representações sobre estabelecidos e outsiders na escolarização de jovens e adultos
+   LOZANO J. E. A., 2006, Usos & abusos da história oral
+   PORTELLI Alessandro, 1997, PROJETO HIST, P25
+   SKLIAR C., 2005, SURDEZ OLHAR DIFEREN, P07
+   SOUZA R. M. de., 1998, Que palavra que te falta? Linguagem, educação e surdez
+   VIEIRA M. P. A., 1998, A pesquisa em história
+   1998, Construindo o projeto político pedagógico no CAP/INES
+   1998, Transcrições das consultorias do Dr. Prof. Carlos Skliar
+   1997, Relatório de pesquisa "surdez e bilinguismo: leitura de mundo e mundo da leitura"
+   1997, Se no princípio era o verbo, onde estamos?
+   2002, Diário Oficial da União, P23
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 0
+PU Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+SN 2176-6681
+PD 08
+PY 2016
+VL 97
+IS 246
+BP 372
+EP 386
+DI 10.1590/S2176-6681/374713703
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S2176-66812016000200372
+OA gold
+ER
+
+PT J
+AU Fernandes, Sueli
+   Moreira, Laura Ceretta
+TI Políticas de educação bilíngue para surdos: o contexto brasileiro
+X1 Bilingual education policies for the deaf: the brazilian context
+SO Educar em Revista	
+LA Portuguese	
+DT research-article	
+DE policies on inclusive education; linguistic policy; bilingual education for the deaf	
+Y5 políticas de educação inclusiva; política linguística; educação bilíngue para surdos	
+AB This article has been developed to illustrate the scope of the Brazilian educational policies for the deaf since the 1990's, highlighting the ideological disputes that have had a direct impact on the fields of linguistic and inclusive education policies concerning the group mentioned above. The public management of the languages adopted for the education of the deaf was used as our key element of analysis to assess the effectiveness of those policies. The complex situation of bilingual education for that group is also taken into consideration. It is diluted in the process of including disabled people in regular schools, which is not less complex. Therefore, we show that there is a diversion (rooting from a misconception of the deaf subject) in the official texts that constitute the legal and philosophical guidelines for the education of these students. As a result of that, the access to the Brazilian Sign Language (Libras) as a first language to that population, a mother tongue since childhood, as requested by the deaf community and ensured by law, is not safeguarded. We point out the importance of a linguistic policy as a crucial element on the current situation of the national policy for the education of the deaf debate, whether or not it resonates with the present government point of view. By analyzing historically the linguistic policy for deaf education, we are also able to make a critical review of the advances and difficulties of the so-called bilingual education for the deaf in our so-called inclusive education context.	
+Y4 Este artigo propõe-se a apresentar um panorama das políticas educacionais para surdos, desde a década de 1990, demarcando as inúmeras disputas ideológicas que influenciaram diretamente os campos da política linguística e das políticas de educação inclusiva para esse grupo de estudantes. Assumimos como elemento determinante de análise a gestão pública das línguas adotadas na educação de surdos para avaliar a efetividade das políticas de educação inclusiva, considerando que a complexa situação de bilinguismo dos surdos está diluída ao, não menos complexo, processo de inclusão de pessoas com deficiência na escola comum. Assim, demonstramos que há um desvio de foco (derivado de um desvio na concepção de sujeito surdo) no conjunto de textos oficiais que constituem as diretrizes filosóficas e legais para a educação desses estudantes, cujo impacto central é não assegurar o direito à língua de sinais brasileira (Libras) como língua materna na infância, conforme reivindicam os movimentos surdos e está assegurado na letra da lei. Aponta-se a política linguística como uma variável determinante no debate da conjuntura nacional da educação de surdos brasileiros, ainda que nem sempre a ela seja dada centralidade pelo poder público, na atualidade. Ao analisar a política linguística refletida no percurso histórico da educação de surdos, realizamos uma análise crítica sobre os avanços e dificuldades no processo de escolarização (dito) bilíngue de surdos no contexto da educação (dita) inclusiva.	
+C1 [Fernandes, Sueli; Moreira, Laura Ceretta] Universidade Federal do Paraná, Brazil.
+CR ALVEZ C. B., 2010, A Educação Especial na perspectiva da inclusão escolar. Abordagem bilíngue na escolarização de pessoas com surdez
+   Bourdieu Pierre, 2011, Rev. Bras. Ciênc. Polít., P193
+   CALVET Jean-Louis, 2002, Sociolinguística: uma introdução crítica
+   FERNANDES S., Temas em Educação Especial
+   FERNANDES S., 2009, Revista Direcional Educador
+   FERNANDES S., 2009, REV EDUCACAO ESPECIA, V22, P225
+   Grupioni L. D. B., 2001, C BRAS QUAL ED FORM, P130
+   HALL Stuart, 1997, Identidades culturais na pós-modernidade
+   Ianni Octavio, 1996, TEMPO SOC, V8, p[1, 1]
+   LABORITT Emmanuelle, 1994, O VOO DA GAIVOTA
+   Lopes Maura Corcini, 2007, SURDEZ EDUCACAO
+   MARTINS C. F. M., 2011, Algumas especulações lingüísticas na tradição italiana: Pietro Bembo e a "Questione della lingua"
+   MCLAREN P., 1997, Multiculturalismo crítico
+   SAWAIA B, 2001, Artimanhas da Exclusão: análise psicossocial e ética da desigualdade social
+   Skliar C., 1998, A surdez: um olhar sobre as diferenças
+   Strobel K. L., 2008, Surdos: vestígios culturais não registrados na história
+   THOMA Adriana da Silva, 2010, EXPERIENCIAS EDUCACI, P107
+   2014, Relatório do Grupo de Trabalho designado pelas Portarias nº 1.060/2013 e nº 91/2013. Subsídios para a Política Linguística de Educação Bilíngue - Língua Brasileira de Sinais e Língua Portuguesa - a ser implementada no Brasil
+   2008, Diário Oficial da União
+   1988, Constituição da República Federativa do Brasil de 1988
+   A educação que nós surdos queremos: Documento elaborado pela comunidade surda a partir do pré-congresso ao V Congresso latino-americano de Educação Bilíngue para Surdos, realizado em Porto Alegre/RS, no salão de atos da reitoria da UFRGS, nos dias 20 a 24 de abril de 1999
+   2005, Diário Oficial da União
+   2011, Anais do Congresso: educação de surdos: a conquista de novos territórios, P106
+   [No title captured]
+NR 24
+TC 4
+Z9 13
+U1 0
+U2 1
+PU Setor de Educação da Universidade Federal do Paraná
+PI Curitiba
+PA Curitiba
+SN 1984-0411
+PY 2014
+VL 0
+IS spe-2
+BP 51
+EP 69
+DI 10.1590/0104-4060.37014
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S0104-40602014000600005
+OA gold
+ER
+
+PT J
+AU Santos, Angela Nediane dos
+   Coelho, Orquídea Manuela Braga e Soares
+   Klein, Madalena
+TI Educação de surdos no Brasil e Portugal:políticas de reconhecimento linguístico, bilinguismo e formação docente
+X1 Education for deaf people in Brazil and Portugal: linguistic recognition, bilingualism, and teacher education policies
+SO Educação e Pesquisa	
+LA Portuguese	
+DT research-article	
+DE Deaf education; education policies; inclusion; teacher education; gesture/signal languages	
+Y5 Educação de surdos; Políticas educativas; Inclusão; Formação de professores; Línguas gestuais/de sinais	
+AB Abstract This article analyses deaf education policies produced in Brazil and Portugal in the last few years with regard to recognition of gesture/sign languages, propositions for deaf education, and the education of teachers to work with deaf students. In this respect, we analyze the processes of production of specific legislation and how that legislation relates with other documents, as well as processes for implementing/interpreting such legislation. In our analysis, we highlight the Brazilian Federal Decree 5,626/2005 and the Portuguese Decree-Law 3 of January 7, 2008. In many aspects, Portugal and Brazil show similarities, such as the non-officialized recognition of both countries’ gesture/sign languages (LGP and Libras, respectively). However, the two countries differ in other aspects, such as the European Union’s more explicit influence on Portugal’s political decisions, as well as the EU’s influence on decisions and actions of the deaf associative movement in that country. We conclude that deaf education policies in both countries are the result of negotiations between, on the one hand, struggles waged by deaf movements, and, on the other, the emergence of inclusive policies. It becomes evident that the struggle of deaf movements has had to negotiate its meanings in order to be incorporated as public policies, and that occurred in a context of implementation of inclusive policies.	
+Y4 Resumo Este artigo analisa as políticas de educação de surdos produzidas no Brasil e em Portugal, nos últimos anos, no que refere ao reconhecimento das línguas gestuais/de sinais, às proposições para a educação para surdos, bem como à formação de professores para atuarem com alunos surdos. Nesse sentido, realiza-se uma análise dos processos de produção dos textos legais e das suas relações com outros documentos, bem como dos processos da sua implementação/interpretação. Destacam-se nesta análise o Decreto Federal brasileiro nº 5.626/2005 e o Decreto-Lei português nº 3 de 7 de janeiro de 2008. Em muitos aspectos Portugal e Brasil se assemelham, como, por exemplo, no reconhecimento, sem a oficialização, das suas línguas gestuais/de sinais (LGP e Libras, respectivamente). No entanto, há outros aspectos em que se distinguem, como por exemplo o fato de em Portugal estar mais explícita a influência da União Europeia nas suas decisões políticas, bem como nas decisões e ações do movimento associativo surdo. Conclui-se que as políticas de educação de surdos em ambos os países são resultado das negociações entre, por um lado, as lutas travadas pelos movimentos surdos, e, por outro, a emergência de políticas inclusivas. Torna-se evidente que a luta dos movimentos surdos precisou negociar os seus significados para ser assumida como política pública, e isso ocorreu em um contexto de implementação da política inclusiva.	
+C1 [Coelho, Orquídea Manuela Braga e Soares] Universidade do Porto, Portugal.
+   [Santos, Angela Nediane dos; Klein, Madalena] Universidade Federal de Pelotas, Brazil.
+OI Coelho, Orquidea/0000-0001-7819-7956
+CR AFONSO Carlos, 2008, Saber (e) Educar, P159
+   COELHO Orquídea, 2010, Um copo vazio está cheio de ar: assim é a surdez, P18
+   COELHO Orquídea, 2010, Cadernos de Educação
+   FELIPE Tanya, 2006, Revista Informativo-Científico Espaço, P33
+   GIORDANI Liliane, 2010, Cadernos de Educação (UFPel), V36, P91
+   Gomes M. C. F., 2012, A reconfiguração política da surdez e da educação de surdos em Portugal: entre os discursos identitários e os discursos de regulação
+   GOMES Maria do Céu, 2014, Educação de surdos em debate, P161
+   Lacerda Cristina Broglia Feitosa de, 2013, Educ. Pesqui., V39, P65, DOI 10.1590/S1517-97022013000100005
+   Lodi Ana Claudia Balieiro, 2013, Educ. Pesqui., V39, P49, DOI 10.1590/S1517-97022013000100004
+   Lopes Maura Corcini, 2007, SURDEZ EDUCACAO
+   MACHADO F. C., 2011, POLITICA INCLUSAO GE, P57
+   Mainardes Jefferson, 2006, Educ. Soc., V27, P47, DOI 10.1590/S0101-73302006000100003
+   THOMA Adriana da Silva, 2010, CADERNOS EDUCACAO PE, V1, P107
+   Decreto Federal nº 7611 de 17 de novembro de 2011
+   Lei Federal nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000
+   2008, Lei n.º 21 de 12 de maio de 2008
+   Decreto Federal nº 5.626 de 22 de dezembro de 2005. Regulamenta a Lei nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000
+   2008, Decreto-Lei nº 3 de 7 de janeiro 2008
+   2005, Constituição da República Portuguesa. Sétima Revisão Constitucional
+   2008, Política nacional de Educação Especial na perspectiva da educação inclusiva.
+NR 20
+TC 1
+Z9 1
+U1 2
+U2 4
+PU Faculdade de Educação da Universidade de São Paulo
+SN 1678-4634
+PD 03
+PY 2017
+VL 43
+IS 1
+BP 216
+EP 228
+DI 10.1590/s1517-9702201608148639
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1517-97022017000100216
+OA gold
+ER
+
+PT J
+AU Lisbôa, Flávia Marinho
+TI INTERCULTURALIDADE, LETRAMENTO E ALTERNÂNCIA COMO FUNDAMENTOS PARA A EDUCAÇÃO INDÍGENA
+X1 INTERCULTURALITY, LETTERING AND ALTERNATION AS FOUNDATIONS FOR INDIGENOUS PEOPLE EDUCATION
+SO Trabalhos em Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE bilingualism; indigenous people; applied linguistics	
+Y5 bilinguismo; indígenas; linguística aplicada	
+AB ABSTRACT This article reflects on the bilingual education for indigenous students in a multicultural context, presenting a proposal as a result of a bibliographical survey in search of foundations that could subsidize the elaboration of models of bilingual education for indigenous people in the southern and southeastern regions of Brazilian state of Pará. In this direction, we come to the proposition that the triad composed by Interculturality, Literature and Alternation can base the construction of teaching models in the conjuncture researched. We start from the theoretical perspectives of Applied Linguistics (A.L.), an area of studies that establishes an epistemological cut with theoretical linguistics in order to direct its theories, methodologies and analyzes by its own propositions. This cut is what has subsidized studies such as those that consider bilingual education in favor of subalternized communities. Aware that for each community it is necessary to think of a specific bilingual teaching model, considering the specificities of the people in question (their ethno-knowledge, their times, their projects of society, their culture, etc.), we feel the need to clarify we do not intend to present a formula, but elements that can inspire constructions around bilingual education in the contexts of indigenous students. We come to these three guiding elements (interculturality, lettering and alternation) by the premise that bilingual education should serve to enable the subjects of the field to circulate in the legitimized spaces and transform the structures of domination and power. This bilingual teaching should serve so that the original subjects do not depend on the Other to write their history and so they can fight for epistemic equity. In this way, this work reinforces the greater understanding that working with language requires an interdisciplinary exercise, thus enabling a broader reflection on such a complex element, constituent and constitutive of subjects.	
+Y4 RESUMO O presente artigo reflete acerca do ensino bilíngue para alunos indígenas em contexto multicultural, apresentando uma proposta como resultado de um levantamento bibliográfico em busca de fundamentos que possam subsidiar a elaboração de modelos de ensino bilíngue para indígenas nas regiões sul e sudeste do Pará. Com isso, chegamos à proposição de que a tríade composta pela Interculturalidade, Letramento e Alternância pode fundamentar a construção de modelos de ensino na conjuntura recortada. Partimos das perspectivas teóricas da Linguística Aplicada (LA), área que estabelece um corte epistemológico com a Linguística no sentido de encaminhar suas teorias, metodologias e análises por proposições próprias. Esse corte é o que tem subsidiado estudos como os que consideram o ensino bilíngue, em prol de comunidades subalternizadas. Cientes de que para cada comunidade é preciso pensar um modelo de ensino bilíngue específico, considerando as especificidades do povo em questão (seus etnoconhecimentos, seus tempos, seus projetos de sociedade, sua cultura etc.), tomamos o cuidado aqui de esclarecer que não temos a pretensão de apresentar uma fórmula, mas elementos que possam inspirar construções em torno do ensino bilíngue em contextos com alunos indígenas. Chegamos a esses três elementos (Interculturalidade, Letramento e Alternância) norteados pela premissa de que o ensino bilíngue deve servir para que os sujeitos do campo possam circular nos espaços legitimados e transformar as estruturas de dominação e poder. Esse ensino deve servir para que os sujeitos originários não dependam do Outro para escrever sua história e para que possam lutar por equidade epistêmica. Assim, este trabalho reforça o entendimento maior de que trabalhar com língua exige um exercício interdisciplinar, possibilitando assim uma reflexão mais ampla sobre um objeto tão complexo, constituinte e constitutivo dos sujeitos.	
+C1 [Lisbôa, Flávia Marinho] Universidade Federal Rural da Amazônia, Brazil.
+CR Arroyo Miguel Gonzalez, 2007, Cad. CEDES, V27, P157, DOI 10.1590/S0101-32622007000200004
+   do GREGOLIN M.R., 2015, REV MOARA, V43, P6
+   FOUCAULT Michel, 1970, A ordem do discurso. Aula Inaugural no Collège de France. Pronunciada em 2 de Dezembro de 1970
+   FREIRE P, 2000, Pedagogia da esperança: um reencontro com a Pedagogia do oprimido
+   Kleiman Angela B., 2008, Ling. (dis)curso, V8, P487
+   LÉVI-STRAUSS Claude, 1962, O Pensamento Selvagem
+   MAHER T. J. M., 1996, Ser professor sendo índio - questões de língua(gem) e identidade
+   MAHER T. M., 1998, LINGUA GEM IDENTIDAD, P115
+   MIGNOLO Walter D., 2008, CADERNOS LETRAS UFF, P287
+   MOITA LOPES L. P, 2006, Por uma linguística aplicada INdisciplinar
+   RAJAGOPALAN Kanavillil, 2006, Por uma linguística aplicada INdisciplinar
+   SILVA S. S., 2011, Línguas em contato: cenários de biliguismo no Brasil
+   Street B., 1984, LIT THEOR PRACT
+   WALSH C, 2010, Interculturalidad crítica y educación intercultural
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNICAMP. Programa de Pós-Graduação em Linguística Aplicada do Instituto
+   de Estudos da Linguagem (IEL)
+SN 2175-764X
+PD 08
+PY 2017
+VL 56
+IS 2
+BP 669
+EP 688
+DI 10.1590/010318138649254275971
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S0103-18132017000200015
+OA gold
+ER
+
+PT J
+AU Lisbôa, Flávia Marinho
+TI INTERCULTURALIDADE, LETRAMENTO E ALTERNÂNCIA COMO FUNDAMENTOS PARA A EDUCAÇÃO INDÍGENA
+X1 INTERCULTURALITY, LETTERING AND ALTERNATION AS FOUNDATIONS FOR INDIGENOUS PEOPLE EDUCATION
+SO Trabalhos em Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE bilingualism; indigenous people; applied linguistics	
+Y5 bilinguismo; indígenas; linguística aplicada	
+AB ABSTRACT This article reflects on the bilingual education for indigenous students in a multicultural context, presenting a proposal as a result of a bibliographical survey in search of foundations that could subsidize the elaboration of models of bilingual education for indigenous people in the southern and southeastern regions of Brazilian state of Pará. In this direction, we come to the proposition that the triad composed by Interculturality, Literature and Alternation can base the construction of teaching models in the conjuncture researched. We start from the theoretical perspectives of Applied Linguistics (A.L.), an area of studies that establishes an epistemological cut with theoretical linguistics in order to direct its theories, methodologies and analyzes by its own propositions. This cut is what has subsidized studies such as those that consider bilingual education in favor of subalternized communities. Aware that for each community it is necessary to think of a specific bilingual teaching model, considering the specificities of the people in question (their ethno-knowledge, their times, their projects of society, their culture, etc.), we feel the need to clarify we do not intend to present a formula, but elements that can inspire constructions around bilingual education in the contexts of indigenous students. We come to these three guiding elements (interculturality, lettering and alternation) by the premise that bilingual education should serve to enable the subjects of the field to circulate in the legitimized spaces and transform the structures of domination and power. This bilingual teaching should serve so that the original subjects do not depend on the Other to write their history and so they can fight for epistemic equity. In this way, this work reinforces the greater understanding that working with language requires an interdisciplinary exercise, thus enabling a broader reflection on such a complex element, constituent and constitutive of subjects.	
+Y4 RESUMO O presente artigo reflete acerca do ensino bilíngue para alunos indígenas em contexto multicultural, apresentando uma proposta como resultado de um levantamento bibliográfico em busca de fundamentos que possam subsidiar a elaboração de modelos de ensino bilíngue para indígenas nas regiões sul e sudeste do Pará. Com isso, chegamos à proposição de que a tríade composta pela Interculturalidade, Letramento e Alternância pode fundamentar a construção de modelos de ensino na conjuntura recortada. Partimos das perspectivas teóricas da Linguística Aplicada (LA), área que estabelece um corte epistemológico com a Linguística no sentido de encaminhar suas teorias, metodologias e análises por proposições próprias. Esse corte é o que tem subsidiado estudos como os que consideram o ensino bilíngue, em prol de comunidades subalternizadas. Cientes de que para cada comunidade é preciso pensar um modelo de ensino bilíngue específico, considerando as especificidades do povo em questão (seus etnoconhecimentos, seus tempos, seus projetos de sociedade, sua cultura etc.), tomamos o cuidado aqui de esclarecer que não temos a pretensão de apresentar uma fórmula, mas elementos que possam inspirar construções em torno do ensino bilíngue em contextos com alunos indígenas. Chegamos a esses três elementos (Interculturalidade, Letramento e Alternância) norteados pela premissa de que o ensino bilíngue deve servir para que os sujeitos do campo possam circular nos espaços legitimados e transformar as estruturas de dominação e poder. Esse ensino deve servir para que os sujeitos originários não dependam do Outro para escrever sua história e para que possam lutar por equidade epistêmica. Assim, este trabalho reforça o entendimento maior de que trabalhar com língua exige um exercício interdisciplinar, possibilitando assim uma reflexão mais ampla sobre um objeto tão complexo, constituinte e constitutivo dos sujeitos.	
+C1 [Lisbôa, Flávia Marinho] Universidade Federal Rural da Amazônia, Brazil.
+CR Arroyo Miguel Gonzalez, 2007, Cad. CEDES, V27, P157, DOI 10.1590/S0101-32622007000200004
+   do GREGOLIN M.R., 2015, REV MOARA, V43, P6
+   FOUCAULT Michel, 1970, A ordem do discurso. Aula Inaugural no Collège de France. Pronunciada em 2 de Dezembro de 1970
+   FREIRE P, 2000, Pedagogia da esperança: um reencontro com a Pedagogia do oprimido
+   Kleiman Angela B., 2008, Ling. (dis)curso, V8, P487
+   LÉVI-STRAUSS Claude, 1962, O Pensamento Selvagem
+   MAHER T. J. M., 1996, Ser professor sendo índio - questões de língua(gem) e identidade
+   MAHER T. M., 1998, LINGUA GEM IDENTIDAD, P115
+   MIGNOLO Walter D., 2008, CADERNOS LETRAS UFF, P287
+   MOITA LOPES L. P, 2006, Por uma linguística aplicada INdisciplinar
+   RAJAGOPALAN Kanavillil, 2006, Por uma linguística aplicada INdisciplinar
+   SILVA S. S., 2011, Línguas em contato: cenários de biliguismo no Brasil
+   Street B., 1984, LIT THEOR PRACT
+   WALSH C, 2010, Interculturalidad crítica y educación intercultural
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNICAMP. Programa de Pós-Graduação em Linguística Aplicada do Instituto
+   de Estudos da Linguagem (IEL)
+SN 2175-764X
+PD 08
+PY 2017
+VL 56
+IS 2
+BP 669
+EP 688
+DI 10.1590/010318138649254275971
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S0103-18132017000200669
+OA gold
+ER
+
+EF

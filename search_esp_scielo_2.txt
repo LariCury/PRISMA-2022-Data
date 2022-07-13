@@ -1,0 +1,57 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rocha, Gladys
+   Martins, Raquel Fontes
+TI A apropriação de habilidades de leitura e escrita na alfabetização: estudo exploratório de dados de uma avaliação externa
+X1 The appropriation of reading and writing skills in literacy: an exploratory study of data from an external evaluation
+Y1 La apropiación de la lectura y de la escritura en la alfabetización: estudio exploratorio de los datos de una evaluación externa
+SO Ensaio: Avaliação e Políticas Públicas em Educação	
+LA Portuguese	
+DT research-article	
+DE External evaluation; Writing; Elementary school; Paebes Alfa	
+X5 Evaluación externa; Escritura; Enseñanza primaria (primer ciclo); Paebes Alfa	
+Y5 Avaliação externa; Escrita; Ensino fundamental; Paebes Alfa	
+AB This paper analyzes the development of writing skills in the early years of Elementary School, referring to large scale literacy assessment, using a longitudinal program called Evaluation of Basic Education of the State of Espírito Santo Program (Programa de Avaliação da Educação Básica do Estado do Espírito Santo - Paebes Alfa). The written data is also analyzed in its dialogue with the reading data. Thus, in addition to discussing types of items used in this writing assessment, we make an analysis that provides a contribution to the understanding of differences between reading and writing skills which are also often perceived as "faces of the same coin", that is, such as learning styles that occur simultaneously and indistinctly. As the analysis here indicates, the consolidation of literacy, decoding skills tend to occur before coding skills.	
+X4 Este trabajo analiza el desarrollo de la escritura en el primer ciclo de la escuela primaria, apoyándose en la evaluación a gran escala de la alfabetización, de naturaleza longitudinal, llamada Programa de Evaluación de la Educación Básica del Estado de Espírito Santo - Paebes Alfa - Brasil. Los datos de la escritura se observan y estudian dentro de un diálogo con la lectura. Por lo tanto, además de discutir los tipos de ítems de escritura utilizados en la evaluación externa al ámbito escolar, se hace un análisis que ayuda a comprender las diferencias entre las habilidades de lectura y de la escritura, a menudo percibidas como "caras de la misma moneda", es decir, como un aprendizaje que se produce de forma simultánea e indistintamente. Como lo señala el análisis realizado, durante la consolidación de la alfabetización, las habilidades de decodificación tienden a ocurrir antes que las habilidades de codificación.	
+Y4 Este trabalho analisa o desenvolvimento de habilidades de escrita nos primeiros anos do Ensino Fundamental, referenciando-se na avaliação em larga escala da alfabetização, de caráter longitudinal, denominada Programa de Avaliação da Educação Básica do Estado do Espírito Santo - Paebes Alfa. Os dados de escrita são analisados também em sua interlocução com a leitura. Assim, além de serem discutidos tipos de itens de escrita utilizados nessa avaliação externa à escola, realiza-se uma análise que oferece contribuição para a apreensão de diferenças entre habilidades de leitura e de escrita, ainda frequentemente entendidas como "faces de uma mesma moeda", ou seja, como aprendizagens que ocorrem simultânea e indistintamente. Como a análise aqui feita indica, na consolidação do processo de alfabetização, habilidades de decodificação tendem a ocorrer antes de habilidades de codificação.	
+C1 [Martins, Raquel Fontes] Universidade Federal de Lavras, Brazil.
+   [Rocha, Gladys] Universidade Federal de Minas Gerais, Brazil.
+CR ANTUNES I., 2003, Aula de Português: encontro e interação
+   CAGLIARI L. C, 2008, Alfabetizando sem o Bá-bé-bi-bó-bu
+   COSTA VAL M. G, 2009, Avaliação do texto escolar: Professor-leitor/ Aluno-Autor
+   DOLZ J., 2010, Produção escrita e dificuldades de aprendizagem
+   FERREIRO E., 1985, Psicogênese da língua escrita
+   GERALDI Joao Wanderley, 1991, PORTOS DE PASSAGEM
+   KATO M. A, 2009, No mundo da escrita: uma perspectiva psicolinguística
+   Marcuschi L. A., 2008, Produção textual, análise de gênero e compreensão
+   ORLANDI E., 2000, DISCURSO E LEITURA
+   ORLANDI E. P, 2010, Guia da Alfabetização, P78
+   Scliar-Cabral L, 2003, Guia Prático de Alfabetização
+   Scliar-Cabral L, 2003, Princípios do sistema alfabético do português do Brasil
+   SOARES M, 2003, A reinvenção da alfabetização: Presença Pedagógica, P1
+   SOARES Magda, 1999, Letramento: um tema em três gêneros
+NR 14
+TC 2
+Z9 2
+U1 0
+U2 6
+PU Fundação CESGRANRIO
+PI Rio de Janeiro
+PA Rio de Janeiro
+SN 1809-4465
+PD 12
+PY 2014
+VL 22
+IS 85
+BP 977
+EP 1000
+DI 10.1590/S0104-40362014000400006
+EC Education & Educational Research; Social Issues
+C2 SciELO Brazil
+SC Education & Educational Research; Social Issues
+UT SCIELO:S0104-40362014000400006
+OA gold
+ER
+
+EF

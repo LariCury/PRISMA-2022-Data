@@ -1,0 +1,3269 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Finger, I
+   Brentano, LD
+   Ruschel, D
+AF Finger, Ingrid
+   Brentano, Luciana de Souza
+   Ruschel, Daniela
+TI And when literacy happens simultaneously in two languages? Reflections
+   on biliteracy based on the analysis of bilingual children's written
+   texts
+SO REVISTA VIRTUAL DE ESTUDOS DA LINGUAGEM-REVEL
+LA Portuguese
+DT Article
+DE biliteracy; syntactic complexity; written production
+ID READ
+AB This paper presents an investigation that compared the levels of syntactic complexity in texts written in Portuguese and English by a group of second-grade children enrolled in a bilingual school located in the Porto Alegre metropolitan area. Syntactic complexity was measured by T-Units (Hunt, 1965). The participants produced a larger number of words and T-Units in Portuguese in comparison to English, probably because it is the dominant language in their families and in the community. In addition, a weak positive correlation between word production and a positive moderate correlation in the production of T-Units in Portuguese and English were found. This evidence is taken to demonstrate that the development of writing strategies occurs simultaneously in the two languages of a bilingual. These results emphasize the importance of assessing bilingual students' writings from a bilingual perspective, considering that language develops as an integrated system in the bilingual mind.
+C1 [Finger, Ingrid] Univ Fed Rio Grande do Sul, Inst Letras, Porto Alegre, RS, Brazil.
+   [Brentano, Luciana de Souza] IENH, Curriculo Bilingue, Novo Hamburgo, Brazil.
+   [Brentano, Luciana de Souza] Univ Fed Rio Grande do Sul, Letras, Porto Alegre, RS, Brazil.
+   [Ruschel, Daniela] IENH, Novo Hamburgo, Brazil.
+RP Finger, I (autor correspondente), Univ Fed Rio Grande do Sul, Inst Letras, Porto Alegre, RS, Brazil.
+EM ingrid.finger@ufrgs.br; luciana.b@ienh.com.br; daniela.r@ienh.com.br
+CR Baker C., 2017, FDN BILINGUAL ED BIL
+   Bialystok E, 2005, SCI STUD READ, V9, P43, DOI 10.1207/s1532799xssr0901_4
+   Bialystok E, 2017, PSYCHOL BULL, V143, P233, DOI 10.1037/bul0000099
+   BIZZOTTO Maria Ines, 2010, ALFABETIZACAO LINGUI
+   Bloomfield L., 1935, PHILOS SCI, V2, P499
+   CARDOSO-MARTINS Claudia, 2008, NEUROPSICOLOGIA TEOR, P151
+   Liberali FC, 2016, COLOMB APPL LINGUIST, V18, P95, DOI 10.14483/calj.v18n2.10022
+   CUMMINS J, 1978, CHILD DEV, V49, P1239, DOI 10.1111/j.1467-8624.1978.tb04098.x
+   CUMMINS J, 1986, HARVARD EDUC REV, V56, P18, DOI 10.17763/haer.56.1.b327234461607787
+   CUMMINS J, 1979, REV EDUC RES, V49, P222, DOI 10.2307/1169960
+   Cummins J., 1981, ROLE PRIMARY LANGUAG, DOI DOI 10.13140/2.1.1334.9449
+   CUMMINS Jim, 2007, CANADIAN J APPL LING, V10
+   DEHAENE S., 2012, NEURONIOS LEITURA
+   Dworin J., 2003, J HISPANIC HIGHER ED, V2, P171, DOI [10.1177/1538192702250621, DOI 10.1177/1538192702250621]
+   Escamilla M., 2014, BILITERACY START LIT, P25, DOI [10.1080/15235882.2015.1091052, DOI 10.1080/15235882.2015.1091052]
+   GAIES SJ, 1980, TESOL QUART, V14, P53, DOI 10.2307/3586808
+   Garcia O., 2009, BILINGUAL ED 21 CENT
+   Garcia O., 2014, TRANSLANGUAGING LANG, DOI 10.1057/9781137385765_4
+   Gort M, 2006, J EARLY CHILD LIT, V6, P323, DOI 10.1177/1468798406069796
+   GROSJEAN F, 1989, BRAIN LANG, V36, P3, DOI 10.1016/0093-934X(89)90048-5
+   Grosjean F., 2013, PSYCHOLINGUISTICS BI
+   Hunt K.W, 1965, GRAMMATICAL STRUCTUR
+   Jasinska KK, 2017, NEUROPSYCHOLOGIA, V98, P34, DOI 10.1016/j.neuropsychologia.2016.11.018
+   Jasinska KK, 2013, DEV COGN NEUROS-NETH, V6, P87, DOI 10.1016/j.dcn.2013.06.005
+   KLEIMAN A. B., 1995, OS SIGNIFICADOS DO L
+   Kroll JF, 2015, ANNU REV LINGUIST, V1, P377, DOI 10.1146/annurev-linguist-030514-124937
+   Kroll JF, 2013, J COGN PSYCHOL, V25, P497, DOI 10.1080/20445911.2013.799170
+   LARSENFREEMAN D, 1977, LANG LEARN, V27, P123, DOI 10.1111/j.1467-1770.1977.tb00296.x
+   MORTATTI M. R. L., 2006, HIST METODOS ALFABET
+   Reyes I, 2006, J EARLY CHILD LIT, V6, P267, DOI 10.1177/1468798406069801
+   Reyes I, 2012, READ RES QUART, V47, P307, DOI 10.1002/rrq.022
+   Soares M.B., 2016, ALFABETIZACAO QUESTA
+   Soares Magda, 2004, Rev. Bras. Educ., V0, P5, DOI 10.1590/S1413-24782004000100002
+   SOARES Magda, 2003, LETRAMENTO ALFABETIZ
+   Teberosky A, 1999, PSICOGENESE LINGUA E
+   YADEN David, 2012, EARLY BILITERACY DEV
+   Zimmer MC, 2008, REV VIRTUAL ESTUD LI, V6
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 1
+PU REVISTA VIRTUAL ESTUDOS LINGUAGEM
+PI NOVO HAMBURGO
+PA REVISTA VIRTUAL ESTUDOS LINGUAGEM, NOVO HAMBURGO, 00000, BRAZIL
+SN 1678-8931
+J9 REV VIRTUAL ESTUD LI
+JI Rev. Virtual Estud. Ling.-ReVEL
+PD SEP
+PY 2019
+VL 17
+IS 33
+BP 180
+EP 205
+PG 26
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA KI6HA
+UT WOS:000511449400010
+DA 2022-06-24
+ER
+
+PT J
+AU Simonato, E
+   Baldisseri, ATD
+   de Avila, CRB
+AF Simonato, Esther
+   Baldisseri, Anne Taffin d'Heursel
+   de Avila, Clara Regina Brandao
+TI Bilingualism and Rapid Automatized Naming: effects of language switching
+   on lexical access and reading speed
+SO CODAS
+LA Portuguese
+DT Article
+DE Bilingualism; Multilingualism; Mental Processes; Cognition; Reading
+ID MULTILINGUAL CHILDREN; FLUENCY
+AB Purpose: To assess whether bilingualism, on a language switching experiment, is associated with higher or lower accuracy and speed of the rapid automatized naming of objects and investigate the influence of language switching on reading speed. Methods: The performance of 50 Brazilian bilingual children in the Rapid Automatized Naming Task, whose L1 was Brazilian Portuguese and who were exposed to English daily at school, was assessed. Forty-seven monolingual (Brazilian Portuguese) children were grouped according to age. Results: Language switching interfered with the performance of the bilingual children in the Rapid Automatized Naming Task in terms of speed and accuracy. No correlations were found between the performance in the RAN task and Reading Speed. Conclusion: Brazilian bilingual students showed poor performance in the rapid naming task on the switch trial when compared to monolingual students, showing higher rates of mistakes, especially hesitations. Only the performance of bilingual students in the rapid naming task in L2 correlated with L1 reading speed.
+C1 [Simonato, Esther; Baldisseri, Anne Taffin d'Heursel; de Avila, Clara Regina Brandao] Univ Fed Sao Paulo UNIFESP, Escola Paulista Med, Sao Paulo, SP, Brazil.
+RP Simonato, E (autor correspondente), Univ Fed Sao Paulo UNIFESP, Dept Fonoaudiol, Rua Botucatu 802, BR-04023062 Sao Paulo, SP, Brazil.
+EM esthersimonato@hotmail.com
+RI Baldisseri, Anne/B-1852-2014; Avila, Clara Regina Brandao/J-6066-2012
+OI Baldisseri, Anne/0000-0003-1919-7694; Simonato,
+   Esther/0000-0002-1843-4320; Avila, Clara Regina
+   Brandao/0000-0002-5708-8299
+CR Abutalebi J, 2007, J NEUROLINGUIST, V20, P242, DOI 10.1016/j.jneuroling.2006.10.003
+   Bellocchi S, 2017, READ WRIT, V30, P1311, DOI 10.1007/s11145-017-9725-5
+   Bialystok E, 2008, J EXP PSYCHOL LEARN, V34, P859, DOI 10.1037/0278-7393.34.4.859
+   Bird EKR, 2016, J COMMUN DISORD, V63, P1, DOI 10.1016/j.jcomdis.2016.07.003
+   Christoffels IK, 2007, BRAIN RES, V1147, P192, DOI 10.1016/j.brainres.2007.01.137
+   de Abreu PMJE, 2011, MEMORY, V19, P529, DOI 10.1080/09658211.2011.590504
+   Dechert H. W., 1984, 2 LANGUAGE PRODUCTIO, P11
+   Faerch C., 1983, STRATEGIES INTERLANG
+   Fehringer C, 2007, FOLIA LINGUIST, V41, P37, DOI 10.1515/flin.41.1-2.37
+   Fink A, 2015, PSYCHON B REV, V22, P808, DOI 10.3758/s13423-014-0739-6
+   Georgiou GK, 2008, READ WRIT, V21, P885, DOI 10.1007/s11145-007-9096-4
+   Gollan TH, 2009, J EXP PSYCHOL LEARN, V35, P640, DOI 10.1037/a0014981
+   Gollan TH, 2005, MEM COGNITION, V33, P1220, DOI 10.3758/BF03193224
+   Gollan TH, 2002, NEUROPSYCHOLOGY, V16, P562, DOI 10.1037//0894-4105.16.4.562
+   Gottardo A, 2019, ENCY LANGUAGE LITERA, P1
+   KOHN SE, 1985, BRAIN LANG, V24, P266, DOI 10.1016/0093-934X(85)90135-X
+   Kroll JF, 2008, ACTA PSYCHOL, V128, P416, DOI 10.1016/j.actpsy.2008.02.001
+   Liu YY, 2018, FRONT PSYCHOL, V9, DOI 10.3389/fpsyg.2018.00649
+   Logan JAR, 2011, READ WRIT, V24, P1, DOI 10.1007/s11145-009-9199-1
+   Lúcio Patrícia Silva, 2017, Psico-USF, V22, P35, DOI 10.1590/1413-82712017220104
+   Meuter RFI, 1999, J MEM LANG, V40, P25, DOI 10.1006/jmla.1998.2602
+   Norton ES, 2012, ANNU REV PSYCHOL, V63, P427, DOI 10.1146/annurev-psych-120710-100431
+   PEAL E, 1962, PSYCHOL MONOGR, V76, P1, DOI 10.1037/h0093840
+   Poarch GJ, 2012, J EXP CHILD PSYCHOL, V113, P535, DOI 10.1016/j.jecp.2012.06.013
+   Roberts P.M., 2002, APHASIOLOGY, V16, P635, DOI [https://doi.org/10.1080/02687030244000220, DOI 10.1080/02687030244000220]
+   Rodriguez-Fornells A, 2006, LANG LEARN, V56, P133, DOI 10.1111/j.1467-9922.2006.00359.x
+   Shook A, 2012, COGNITION, V124, P314, DOI 10.1016/j.cognition.2012.05.014
+   Weissberger GH, 2012, PSYCHOL AGING, V27, P959, DOI 10.1037/a0028281
+   Young S., 2016, LINGUISTICS SENIOR R, V6
+NR 29
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SOC BRASILEIRA FONOAUDIOLOGIA
+PI SAO PAULO SP
+PA AL JAU, 684 7 ANDAR, SAO PAULO SP, 01420-001, BRAZIL
+SN 2317-1782
+J9 CODAS
+JI CoDAS
+PY 2019
+VL 33
+IS 4
+AR e20190028
+DI 10.1590/2317-1782/20202019028
+PG 8
+WC Audiology & Speech-Language Pathology
+WE Emerging Sources Citation Index (ESCI)
+SC Audiology & Speech-Language Pathology
+GA XD0BV
+UT WOS:000722375200001
+PM 34231750
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Barbosa, IV
+   Pisetta, CBT
+AF Barbosa, Isabela Vieira
+   Tambosi Pisetta, Cleide Beatriz
+TI THE BILINGUAL INTERCULTURAL FRONTIER SCHOOL PROJECT: A META-ANALYSIS OF
+   THE CONCEPTIONS OF BILINGUALISM AND BILINGUAL EDUCATION
+SO REVISTA ENTRELINGUAS
+LA Portuguese
+DT Article
+DE PEIBF; Conceptions of bilingualism and Bilingual Education; Frontier
+   languages
+AB In Brazil, in general, there is a belief in the myth of monolingualism that is believed in the prevalence and the sovereignty of the Portuguese language in Brazilian territory. The purpose of this paper is to discuss partial results of a research on bilingualism and bilingual education conceptions adopted by researchers in scientific productions related to the areas of Education and Language. In this way, we seek to address this analysis in relation to the Intercultural Bilingual School Project (PEIBF) carried out by member countries of Mercosul. The data collection was carried out in the ANPED-a National Association of Postgraduate and Research in Education-and in the BDTD - a Brazilian Digital Library of Theses and Dissertations - between the years 2010 and 2015, using as a base question about bilingualism and bilingual education. The objective is to map the conceptions used in research on bilingualism and bilingual education and the theoretical agreements that support such conceptions. The importance of this research is given the lack of knowledge about the PEIBF and the conceptions used in this program. In addition, this article provides a better understanding of the dominant methods and theories in the area. Our data point out that research carried out within a border context is directed towards a sociofunctional view. In this understanding, bilingualism and bilingual education are understood not only as the teaching and mastery of a linguistic ability, but as a social phenomenon that occurs within a specific socio-historical context. In the case of the frontier, conceptions are constructed through contact between two countries, two cultures and two languages.
+C1 [Barbosa, Isabela Vieira] Escola Barao Rio Branco, Lingua Inglesa EFI, Blumenau, SC, Brazil.
+   [Tambosi Pisetta, Cleide Beatriz] CSP, Lingua Inglesa & Lingua Portuguesa EFII & EM, Ascurra, SC, Brazil.
+RP Barbosa, IV (autor correspondente), Escola Barao Rio Branco, Lingua Inglesa EFI, Blumenau, SC, Brazil.
+EM miss.vieira@gmail.com; cleybeatriz@hotmail.com
+CR ALVAREZ I. M. J., 2009, THESIS
+   BAKHTIN Mikhail M, 2014, MARXISMO FILOSOFIA L
+   BORTONI-RICARDO S. M., 1984, TEMPO BRASILEIRO, V9, P9
+   Braz E.M., 2010, THESIS
+   BUENO R. G., 2013, THESIS
+   CACERES G. H., 2012, THESIS
+   Cardoso A.R.P., 2015, THESIS
+   CAVALCANTI M. C., 2011, QUESTOES METODO LING, P171
+   CAVALCANTI M. C., 1999, DELTA S O PAULO, V15, P385
+   CESAR A, 2007, TRANSCULTURALIDADE L, P45
+   CITOLIN C. H., 2013, THESIS
+   de LIMA L. R., 2011, THESIS
+   do COUTO R. C., 2013, ANPED, V36, P1
+   FLORES O. V., 2011, THESIS
+   GONCALVES D. P., 2013, THESIS
+   MAHER T. J. M., 1996, THESIS
+   NOBRE W. C. de A., 2011, THESIS
+   Pereira SS, 2014, THESIS
+   PREUSS E. O., 2011, THESIS
+   Sagaz M. R. P., 2013, THESIS
+   STEIN R. de C. G., 2014, THESIS
+   Sturza E., 2006, THESIS
+   Sturza Eliana, 2005, REV CIENCIA CULTURA, V57, P47
+   VILELA L. S., 2013, THESIS
+   WEBER A. F., 2011, RAIDO DOURADO MS, V5, P217
+NR 25
+TC 0
+Z9 0
+U1 1
+U2 5
+PU UNESP-FACULDADE CIENCIAS & LETRAS
+PI ARARAQUARA
+PA DEPT CIENCIAS EDUCACAO, RODOVIA ARARAQUARA-JAU, KM 1-CAIXA POSTAL 174,
+   ARARAQUARA, SP 14800-901, BRAZIL
+SN 2447-4045
+EI 2447-3529
+J9 REV ENTRELINGUAS
+JI Rev. Entrelinguas
+PD JAN-JUN
+PY 2019
+VL 5
+IS 1
+BP 162
+EP +
+DI 10.29051/el.v5i1.12792
+PG 16
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA IM1QR
+UT WOS:000477766800011
+OA Green Submitted, gold
+DA 2022-06-24
+ER
+
+PT J
+AU Ortiz-Preuss, E
+AF Ortiz-Preuss, Elena
+TI PSYCHOLINGUISTICS OF BILINGUALISM: IMPLICATIONS IN FORMAL PROCESSES OF
+   LANGUAGE ACQUISITION
+SO ILHA DO DESTERRO-A JOURNAL OF ENGLISH LANGUAGE LITERATURES IN ENGLISH
+   AND CULTURAL STUDIES
+LA Portuguese
+DT Article
+DE Pedagogical Conditions; Individual Differences; Psycholinguistics;
+   Bilingualism
+ID WORKING-MEMORY; INSTRUCTION
+AB In this article we discuss the interrelationships between contextual and individual variables in the acquisition and use of L2, based on researches developed by our team. We assume that in the late acquisition of L2 there is variability in the proficiency of the learners, and that it is necessary to (re)know the effects of the individual variables in the teachinglearning processes. The experiments, which were created according to the Psycholinguistics of bilingualism and carried out in formal contexts of acquisition, evaluated associations between attention and working memory systems and the performance of bilinguals in their L2. The results, although incipient, indicate that effects of pedagogical approaches can be affected by individual differences. In addition, they reveal the need of more experiments that focus these variables on L2 teaching-learning processes.
+C1 [Ortiz-Preuss, Elena] Univ Fed Goias, Programa Posgrad Letras & Linguist, Goiania, Go, Brazil.
+RP Ortiz-Preuss, E (autor correspondente), Univ Fed Goias, Programa Posgrad Letras & Linguist, Goiania, Go, Brazil.
+EM elena@ufg.br
+CR Baddeley a, 2011, MEMORIA, P54
+   Baddeley AD, 2002, EUR PSYCHOL, V7, P85, DOI 10.1027//1016-9040.7.2.85
+   BADDELEY Alan, 2011, MEMORIA
+   Bowden HW., 2005, MIND CONTEXT ADULT 2, P105
+   COSTA A., COGNITION, V106
+   Costa A, 2006, J EXP PSYCHOL LEARN, V32, P1057, DOI 10.1037/0278-7393.32.5.1057
+   DOUGHTY C., 2009, ATENCION FORMA ADQUI
+   Ellis R, 1998, TESOL QUART, V32, P39, DOI 10.2307/3587901
+   ELLIS R., 2005, ADQUISICION SEGUNDAS
+   FINGER I., 2018, DINAMICA PROCESSAMEN, P31
+   Finger I, 2009, LET HOJE, V44, P78
+   Gass S. M., 2008, 2 LANGUAGE ACQUISITI, V3rd
+   GROSJEAN F., 2013, PSYCOLINGUISTICS BIL
+   Izumi S, 2013, NOTICING 2 LANGUAGE, P25
+   Juffs A, 2011, LANG TEACHING, V44, P137, DOI 10.1017/S0261444810000509
+   JUST MA, 1992, PSYCHOL REV, V99, P122, DOI 10.1037/0033-295X.99.1.122
+   Kramer R., 2011, THESIS
+   LEITAO Marcio M., 2008, MANUAL LINGUISTICA, P217
+   LONG M. H., 2009, ATENCION FORMA ADQUI, P29
+   Marian Viorica, 2007, J SPEECH LANGUAGE HE, V50
+   ORTEGA L., 2013, UNDERSTANDING 2 LANG, P82
+   Ortiz Preuss Elena, 2016, MULTIPLOS OLHARES LI, P121
+   ORTIZ-PREUSS E, DIFERENCAS INDIVIDUA
+   ORTIZ-PREUSS E, 2009, LINGUAGEM ENSINO, V12, P435
+   ORTIZ-PREUSS E., 2017, REV LETRONICA, V10, P789
+   Ortiz-Preuss E, 2017, ILHA DESTERRO, V70, P63, DOI 10.5007/2175-8026.2017v70n3p63
+   ORTIZ-PREUSS Elena, 2014, REV CON TEXTOS LINGU, V8, P66
+   REZNITSKAYA A., 2008, PESQUISA PEDAGOGICA, P126
+   RIGATTI P. C., 2015, ESTUDO CORRELACAO EN
+   RODRIGUES T, 2018, DINAMICA PROCESSAMEN, P233
+   RODRIGUES T.C.S., 2018, THESIS
+   Sanz C, 2005, MIND CONTEXT ADULT 2, P3
+   Schmidt R., 1995, ATTENTION AWARENESS, P1
+   Schmidt R., 2010, P CLASIC 2010, P721
+   SCHOLL A. P., 2015, QUESTIONARIO EXPERIE
+   SUTHIWAN T., 2001, COGNITION 2 LANGUAGE, P3
+   SUTHIWAN T., 1994, AILA REV, P11
+   SUTHIWAN T., 1990, APPL LINGUIST, V11, P129
+   VanPatten B, 2002, LANG LEARN, V52, P755, DOI 10.1111/1467-9922.00203
+   VanPatten B., 2005, MIND CONTEXT ADULT 2, P267
+   VanPatten B., 1996, INPUT PROCESSING GRA
+   Ye Z, 2009, NEUROSCI BIOBEHAV R, V33, P1168, DOI 10.1016/j.neubiorev.2009.03.003
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 11
+PU UNIV FEDERAL SANTA CATARINA, PROGRAMA POS-GRADUACAO & LETRAS-INGLES
+PI FLORIANOPOLIS
+PA SALA 120, CCE-B, UFSC, CAMPUS UNIV, FLORIANOPOLIS, SC 88040-900, BRAZIL
+SN 0101-4846
+EI 2175-8026
+J9 ILHA DESTERRO
+JI Ilha Desterro
+PD SEP-DEC
+PY 2019
+VL 72
+IS 3
+BP 291
+EP 309
+DI 10.5007/2175-8026.2019v72n3p291
+PG 19
+WC Literature
+WE Emerging Sources Citation Index (ESCI)
+SC Literature
+GA JQ9GE
+UT WOS:000499245300014
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU de Oliveira, GM
+   Morello, R
+AF de Oliveira, Gilvan Muller
+   Morello, Rosangela
+TI The border as a resource: Portuguese-Spanish bilingualism and the
+   MERCOSUR Bilingual Intercultural Border Schools Project (2005-2016)
+SO REVISTA IBEROAMERICANA DE EDUCACION
+LA Portuguese
+DT Article
+DE bilingual intercultural border schools; bilingual education; Mercosur
+   Educational; multilingualism; spanish and portuguese
+AB The promotion of Portuguese / Spanish bilingualism constitutes a strategic field for the expansion of the uses of these languages. Together they form one of the largest phonies in the world, with more than 600 million speakers, and share a long history of contact, especially in the border strips, being largely intercomprehensible. This text proposes a characterization of this strategic field based on the political and socio-historical conditions that marked the Bilingual Intercultural Bilingual Border Program (PEIBF) as a management policy for Portuguese / Spanish bilingualism. From the analysis of this experience, we will discuss the possibilities of promoting linguistic policies focused on bilingualism in these two languages and their articulations with the current perspectives of valuing languages.
+C1 [de Oliveira, Gilvan Muller; Morello, Rosangela] Catedra UNESCO Polit Linguist Multilinguismo UCLP, Madrid, Spain.
+   [de Oliveira, Gilvan Muller] Univ Fed Santa Catarina, Florianopolis, SC, Brazil.
+   [Morello, Rosangela] Inst Invest & Desenvolvimento Polit Linguist IPOL, Florianopolis, SC, Brazil.
+RP de Oliveira, GM (autor correspondente), Catedra UNESCO Polit Linguist Multilinguismo UCLP, Madrid, Spain.; de Oliveira, GM (autor correspondente), Univ Fed Santa Catarina, Florianopolis, SC, Brazil.
+RI DE OLIVEIRA, GILVAN MÜLLER/AAN-1152-2020
+CR Baker C., 2006, FDN BILINGUAL BILING
+   Bandarra L. C, 2015, MAKE SENSE 21 CENTUR
+   BERGER I. R., 2015, THESIS
+   Brasil, 2008, ESCOLAS FRONTEIRA MO
+   Buenos Aires, 2019, ESCUELAS PLURILINGUE
+   Demo P., 1997, EDUCAR PELA PESQUISA
+   FARACO C. A., 2016, HIST SOCIOPOLITICA L
+   Gardini GL, 2015, REV BRAS POLIT INT, V58, P210, DOI 10.1590/0034-7329201500111
+   IPEA, 2017, FAIX FRONT BRAS TEM
+   Mercosul Educacional, 2012, MOD ENS COM ESC ZON
+   Morello R., 2018, MULTILINGUAL BRAZIL
+   MORELLO R, 2016, OBEDF POLITICA LINGU
+   OLIVEIRA G. M., 2004, INTERESSE PESQUISA E
+   Oliveira G.M., 2008, PLURILINGUISMO BRASI
+   Oliveira G. M. de, 2016, GEOPANTANAL, V11
+   Oliveira G. M. de, 2012, ESBOCOS PERCEPCOES E, P237
+   Oliveira Gilvan Müller de, 2013, Trab. linguist. apl., V52, P409
+   Ru?z R, 1984, NABE J, V8, DOI 10.1080/08855072.1984.10668464
+   Sagaz M., 2014, OBSERVATORIO EDUCACA
+   Sagaz M. R. P., 2013, THESIS
+   Sturza E., 2017, AT 8 ENC INT INV POL, V292
+   Welle Deutsche, 2019, DW BRASIL NOTIC 0416
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ORGANIZACION ESTADOS IBEROAMERICANOS EDUCACION CIENCIA & CULTURA-OEI
+PI MADRID
+PA BRAVO MURILLO 38, MADRID, 28015, SPAIN
+SN 1022-6508
+EI 1681-5653
+J9 REV IBEROAM EDUC
+JI Rev. Iberoam. Educ.
+PD SEP-DEC
+PY 2019
+VL 81
+IS 1
+BP 53
+EP 74
+DI 10.35362/rie8113567
+PG 22
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA IY4VP
+UT WOS:000486391400005
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Lacerda, CDD
+   Gomes, AEF
+AF Lacerda, Camila Dias da S.
+   Freitas Gomes, Allyne Evellyn
+TI THE TEACHER LOOK AT BILINGUALISM IN CHILDREN
+SO REVISTA INCLUSIONES
+LA Portuguese
+DT Article
+DE Child bilingualism; Child; Education; Learning; Teacher
+AB This article presents reflections on the teaching and learning of English as a foreign language in childhood, addressing different aspects of exposure to this foreign language even in the first years of the child's life. Thus, through the exposition of different theories about child bilingualism, studies on age and learning, methods of teaching the foreign language and a qualitative research carried out among professionals working with bilingual education may reflect on the benefits and complexities of the teaching of the foreign language in the early ages, the facilities that this early learning can develop in the academic and social life of the child and also analyze the effective ways of teaching the foreign language to children.
+C1 [Lacerda, Camila Dias da S.] Atenas Coll, Manati, PR 00674 USA.
+   [Freitas Gomes, Allyne Evellyn] Alpha Faculdade, Recife, PE, Brazil.
+RP Lacerda, CDD (autor correspondente), Atenas Coll, Manati, PR 00674 USA.
+EM camila.dias.lacerda@gmail.com; allyne.evellyn@gmail.com
+CR Bowen Tim, 1994, INSIDE TEACHING
+   Brown H. D, 2001, TEACHING PRINCIPLES, V2nd
+   Brown H.D., 1994, TEACHING PRINCIPLES
+   Brown HD., 2000, PRINCIPLES LANGUAGE
+   Celce-Murcia M., 1996, TEACHING PRONUNCIATI
+   Cristofaro Thais, 2009, FONETICA FONOLOGIA P
+   De Houwer Annick, 1997, COMPENDIO LINGUAGEM
+   Dornelas Andreia L, 2011, BILINGUISMO CONTATOS
+   Fernandes Paulo R. C, 2001, AQUISICAO LINGUA MAT
+   Fletcher P., 1997, COMPENDIO LINGUAGEM
+   Flory Elizabete Villibor, 2009, REV INTERCAMBIO, VXIX, P41
+   Freitas M., 2007, CONHECIMENTO LINGUA
+   Grosjean F., 1982, LIFE 2 LANGUAGES INT
+   Harmers J., 2000, BILINGUALITY BILINGU
+   Ingram D., 1989, 1 LANGUAGE ACQUISITI
+   Keske-Soares Marcia, 2004, REV SOC BRAS FONOAUD, V9
+   Leffa Vilson J., 1988, TOPICOS LINGUISTICA
+   Lucindo Emy, 2006, REV SCI TRADUCTIONIS, V3, P1
+   Ludke M., 1986, PESQUISA EDUCACAO AB
+   Mackey W. F., 2000, BILINGUALISM READER
+   MARCONI MA, 1999, TECNICAS PESQUISA
+   Minayo MCS., 2001, PESQUISA SOCIAL TEOR
+   Pennington Martha C, 1994, PRONUNCIATION PEDAGO
+   Perisse Paulo, 2004, REV PEDAGOGICA
+   Scarpa Ester M, 2009, INTRO LINGUISTICA
+   Schumacher Cristina, 2002, GUIA PRONUNCIA BRASI
+   Steinberg Martha, 1985, PRONUNCIA INGLES NOT
+   TRASK R. L, 2008, DICIONARIO LINGUAGEM, V2a
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 4
+PU EDITORIAL CUADERNOS SOFIA
+PI SANTIAGO
+PA MATUCANANA 700, SANTIAGO CENTRO, SANTIAGO, 00000, CHILE
+SN 0719-4706
+J9 REV INCL
+JI REV. INCL.
+PD APR-JUN
+PY 2019
+VL 6
+SI SI
+BP 66
+EP 81
+PG 16
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA IM0RP
+UT WOS:000477696800004
+DA 2022-06-24
+ER
+
+PT J
+AU Rosso, AC
+   Fontes, ABAD
+AF Rosso, Aline Casagrande
+   Da Luz Fontes, Ana Beatriz Areas
+TI Base Nacional Comum Curricular (BNCC), bilingualism, L2 reading and
+   strategies: approaches and discussions
+SO EDUCACAO
+LA Portuguese
+DT Article
+DE BNCC; Bilingualism; Reading strategies
+ID LANGUAGE; ENGLISH
+AB This research, of bibliographic and documentary character, aims at clarifying if and how the Brazilian Base Nacional Comum Curricular (BNCC) addresses the themes of bilingualism, additional language reading and reading strategies in the body of the document. To this end, the five organizing axes of regulation were analyzed, including orality, reading, writing, linguistic knowledge and intercultural dimension, focusing on reading and its consequences: the thematic units, teaching objects and skills, in addition to the specific skills of English language for the Elementary Degree. The conclusions suggest that the document presents a valid debate about the skills that need to be developed in the classroom regarding bilingual development, since it brings ideas for the teacher to expand the students' linguistic potentials. However, the document shows flaws when it does not demonstrate to have a scientific basis in its statements, does not properly develop the concepts related to reading, nor does make it clear what are the objectives from reading in English as L2. In addition, the document's normative character makes teachers' practice somewhat limited, since the BNCC determines the content inherent to each school year. Authors such as Kleiman (1985; 2011; 2013), Souza and Garcia (2012), Alliende and Condemarin (2005), Craik, Bialystok, and Freedman (2010), Godoy and Dias (2014), Santos (2013) and Grosjean (1997; 2012) participate in the theoretical debate.
+C1 [Rosso, Aline Casagrande; Da Luz Fontes, Ana Beatriz Areas] Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+RP Rosso, AC (autor correspondente), Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+EM prof.alinerosso@gmail.com; ana.fontes@ufrgs.br
+CR Adolphs S, 2018, SYSTEM, V78, P173, DOI 10.1016/j.system.2018.07.014
+   ALLIENDE Felipe, 2005, LEITURA TEORIA AVALI
+   ARAUJO Antonia Dilamar, 2008, ASPECTOS COGNITIVOS
+   BADDELEY Alan, 2011, MEMORIA
+   Baker C., 2001, FDN BILINGUAL ED BIL, V3rd ed.
+   BAKER Linda, 1980, METACOGNITIVE SKILLS
+   Bialystok Ellen, 2009, Psychol Sci Public Interest, V10, P89, DOI 10.1177/1529100610387084
+   BRANCO Alessandra Batista de Godoi, 2019, REV CONTEMP EDUC, V14
+   BRASIL. Ministerio da Educacao, 2017, BASE NACL COMUM CURR
+   BRASIL. Ministerio da Educacao, 2013, DIRETRIZES CURRICULA
+   BRASIL. Ministerio da Educacao. Secretaria de Educacao Fundamental, 1998, PARMETROS CURRICULAR
+   BRASIL. Secretaria de Educacao Fundamental, 1997, PARAMETROS CURRICULA
+   Casaponsa A, 2015, BRAIN RES, V1624, P153, DOI 10.1016/j.brainres.2015.07.035
+   Craik FIM, 2010, NEUROLOGY, V75, P1726, DOI 10.1212/WNL.0b013e3181fc2a1c
+   Fistarol CFD, 2019, REV LINE POLIT GEST, V23, P341, DOI 10.22633/rpge.v23i2.12453
+   DAVID Ricardo Santos, 2017, REV PEDAGOGIA ACAO, V9
+   Dewaele JM., 2002, INT J BILINGUAL, V6, P23
+   FINGER Ingrid, 2018, PSICOLINGUISTICA EDU
+   FINGER Ingrid, 2018, DINAMICA PROCESSAMEN
+   Foucambert J., 2008, MODOS SER LEITOR
+   GARDNER Amanda, 2010, WORKING PAPERS TESOL, DOI [10.7916/D84B30WH, DOI 10.7916/D84B30WH]
+   Gass Susan M., 1983, LANGUAGE TRANSFER LA
+   GODOY Elena, 2014, PSICOLINGUISTICA FOC
+   Grosjean F., 1997, INTERPRETING INT J R, V2, P163, DOI [DOI 10.1075/INTP.2.1-2.07GRO, https://doi.org/10.1075/intp.2.1-2.07gro]
+   Grosjean F., 2012, PSYCHOLINGUISTICS BI, P5
+   GUIMARAES Iara Vieira., 2018, REV ENSINO RE VISTA, V25
+   KATO Mary, 1999, APRENDIZADO LEITURA
+   KLEIMAN Angela, 2013, OFICINA LEITURA TEOR
+   KLEIMAN Angela, 1985, REV ILHA DESTERRO, P67
+   KLEIMAN Angela, 2011, LEITURA ENSINO PESQU
+   LEFFA VJ, 1996, ASPECTOS LEITURA PER
+   Linck JA, 2008, MENT LEX, V3, P349, DOI 10.1075/ml.3.3.06lin
+   MARTINELI Telma Adriana Pacifico, 2016, REV MOTRIVIVENCIA, V28, P76
+   MARZARI Gabriela Quatrin, 2015, REV THAUMAZEIN, V7, P12
+   MICARELLO Hilda Aparecida Linhares da Silva, 2016, REV ECCOS, P61
+   MIRANDA Cristina Helena, 2013, REV FORUM LINGUISTIC, V10, P307
+   Miwa K, 2014, BILING-LANG COGN, V17, P445, DOI 10.1017/S1366728913000576
+   MOTA Mailce Borges, 2018, PSICOLINGUISTICA EDU
+   Neira MG, 2016, ECCOS-REV CIENT, P31, DOI 10.5585/ECCOS.N41.6807
+   OLIVEIRA Sara, 2008, ASPECTOS COGNITIVOS
+   ORNELLAS Janaina Farias de, 2019, REV ESPACO CURRICULO, V12, P309
+   ORRU Silvia Ester, 2018, REV TEMPOS ESPACOS E, V11, P141
+   RIBAS Fernanda Costa, 2018, REV DOMINIOS LINGUAG, V12
+   SANTOS Denise, 2013, ENSINO LINGUA INGLES
+   Schroter P, 2016, J EXP CHILD PSYCHOL, V141, P239, DOI 10.1016/j.jecp.2015.09.005
+   SILVA Marcos, 2018, REV ENSINO RE VISTA, V25, P1004
+   SMITH F, 2003, COMPREENDENDO LEITUR
+   SOLE I., 1998, ESTRATEGIAS LEITURA
+   SOUZA Ana Claudia de, REV SIGNO, V43, P143
+   SOUZA Ana Claudia de, 2012, PRODUCAO SENTIDOS LE
+   Sparks RL, 2013, LANG LEARN, V63, P870, DOI 10.1111/lang.12025
+   VASSEUR Marie-Therese, 2013, AQUISICAO LINGUAGEM, V2a, P85
+   Walter C, 2007, INT J APPL LINGUIST, V17, P14, DOI 10.1111/j.1473-4192.2007.00131.x
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV FEDERAL SANTA MARIA
+PI SANTA MARIA
+PA CIDADE UNIV, BAIRRO CAMOBI, SANTA MARIA, RS 97105-900, BRAZIL
+SN 0101-9031
+EI 1984-6444
+J9 EDUCACAO
+JI Educacao
+PY 2021
+VL 46
+AR 1984644448573
+DI 10.5902/1984644448573
+PG 29
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA XA8JO
+UT WOS:000720887100001
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Lameira, MFN
+   Torresi, ECD
+   Lukasova, K
+   Carthery-Goulart, MT
+AF Neves Lameira, Marina Fernandes
+   de Barros Torresi, Elaine Cristina
+   Lukasova, Katerina
+   Carthery-Goulart, Maria Teresa
+TI LANGUAGES IN CONFLICT: MODELS FOR LEXICAL ACCESS BASED ON ORTOGRAPHIC
+   INPUT IN BILINGUALS OR MULTILINGUALS AND THE EFFECT OF MULTILINGUALISM
+   IN THE EXECUTIVE FUNCTIONS
+SO CADERNOS DE TRADUCAO
+LA Portuguese
+DT Article
+DE Interlingual Homographs; Multilingualism; Language Conflict; Executive
+   Function
+ID COGNITIVE CONTROL; INTERLINGUAL HOMOGRAPHS; INHIBITORY CONTROL;
+   ADVANTAGE; ONSET; DEMENTIA; CHILDREN; AGE; INTERFERENCE; ACQUISITION
+AB The phenomenon of bilingualism is the essential premise for translation. This paper presents contemporary cognitive models for written word recognition, based on previous experimental work with interlingual homographs. We will discuss studies on language conflict between two or more languages, and how these findings provide support for the language non-selective hypothesis for lexical access, which elucidates the impact of bilingualism in the processes of reading and translation. As a secondary goal and with a neuroscientitic perspective, we will also describe the changes in the brain and mental processes that underlie the experience of bilingualism and multilingualism. Studies discussed here demonstrate an advantage in executive function (updating, inhibition and mental flexibility) as well as structural and functional changes in circuits, especially involving the prefrontal cortices bilaterally. These changes have been indicated as important protective factors in different situations of neural loss.
+C1 [Neves Lameira, Marina Fernandes; de Barros Torresi, Elaine Cristina; Lukasova, Katerina; Carthery-Goulart, Maria Teresa] Univ Fed ABC, Sao Bernardo Do Campo, SP, Brazil.
+RP Lameira, MFN (autor correspondente), Univ Fed ABC, Sao Bernardo Do Campo, SP, Brazil.
+EM lameira.marina@gmail.com; ectorresi@hotmail.com; katerinaluka@gmail.com;
+   teresa.carthery@ufabc.edu.br
+CR Adesope OO, 2010, REV EDUC RES, V80, P207, DOI 10.3102/0034654310368803
+   Alladi S, 2013, NEUROLOGY, V81, P1938, DOI 10.1212/01.wnl.0000436620.33155.a4
+   Dunabeitia JA, 2014, EXP PSYCHOL, V61, P234, DOI 10.1027/1618-3169/a000243
+   Bak TH, 2016, LINGUIST APPROACH BI, V6, P205, DOI 10.1075/lab.15002.bak
+   Bak TH, 2015, CORTEX, V73, P332, DOI 10.1016/j.cortex.2015.08.003
+   Bak TH, 2014, ANN NEUROL, V75, P959, DOI 10.1002/ana.24158
+   Baker C., 2011, FDN BILINGUAL ED BIL, V79
+   Bialystok E, 2004, PSYCHOL AGING, V19, P290, DOI 10.1037/0882-7974.19.2.290
+   Bialystok E, 2008, J EXP PSYCHOL LEARN, V34, P859, DOI 10.1037/0278-7393.34.4.859
+   Bialystok E, 2007, NEUROPSYCHOLOGIA, V45, P459, DOI 10.1016/j.neuropsychologia.2006.10.009
+   Bialystok E, 2016, AGEING RES REV, V27, P56, DOI 10.1016/j.arr.2016.03.003
+   Bialystok E, 2014, Z ERZIEHWISS, V17, P433, DOI 10.1007/s11618-014-0491-8
+   Bialystok E, 2014, NEUROPSYCHOLOGY, V28, P290, DOI 10.1037/neu0000023
+   Bialystok E, 2012, TRENDS COGN SCI, V16, P240, DOI 10.1016/j.tics.2012.03.001
+   Bialystok Ellen, 2009, Psychol Sci Public Interest, V10, P89, DOI 10.1177/1529100610387084
+   Bialystok E, 2009, BILING-LANG COGN, V12, P3, DOI 10.1017/S1366728908003477
+   Blumenfeld HK, 2014, BILING-LANG COGN, V17, P610, DOI 10.1017/S1366728913000564
+   BUTLER Y. G., 2006, HDB BILINGUALISM, P114, DOI DOI 10.1002/9780470756997.CH5
+   CAVALCANTI M. C., 1999, DELTA S O PAULO, V15, P385
+   Chin N.B., 2007, BILINGUALISM ADV RES
+   Costa Albert, 2008, BILING-LANG COGN, V106, P59
+   Craik FIM, 2010, NEUROLOGY, V75, P1726, DOI 10.1212/WNL.0b013e3181fc2a1c
+   de Abreu PMJE, 2012, PSYCHOL SCI, V23, P1364, DOI 10.1177/0956797612443836
+   De Bruijn E. R. A., 2001, BILING-LANG COGN, V4, P155, DOI [10.1017/S1366728901000256, DOI 10.1017/S1366728901000256]
+   de Bruin A, 2015, J MEM LANG, V85, P15, DOI 10.1016/j.jml.2015.07.001
+   de Bruin A, 2015, PSYCHOL SCI, V26, P99, DOI 10.1177/0956797614557866
+   DeGroot AMB, 2011, LANGUAGE AND COGNITION IN BILINGUALS AND MULTILINGUALS: AN INTRODUCTION, P1
+   Dijkstra T, 2019, BILING-LANG COGN, V22, P657, DOI 10.1017/S1366728918000287
+   Dunabeitia JA, 2015, CORTEX, V73, P371, DOI 10.1016/j.cortex.2015.06.009
+   Elston-Guttler KE, 2005, COGNITIVE BRAIN RES, V25, P57, DOI 10.1016/j.cogbrainres.2005.04.007
+   European Commission, 2006, EUR THEIR LANG
+   Friesen DC, 2015, INT J BILINGUAL, V19, P693, DOI 10.1177/1367006914534331
+   Galhardo Leonor, 2009, ARBS Annual Review of Biomedical Sciences, V11, P1
+   Gernsbacher M.A., 2006, HDB PSYCHOLINGUISTIC, P659, DOI [10.1016/B978-012369374-7/50018-3, DOI 10.1016/B978-012369374-7/50018-3]
+   Gold BT, 2013, NEUROPSYCHOLOGIA, V51, P2841, DOI 10.1016/j.neuropsychologia.2013.09.037
+   Grant A, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.01401
+   Grosjean F., 1982, LIFE 2 LANGUAGES INT
+   Grosjean F., 2010, INTRO
+   Hamers J., 2000, BILINGUALITY BILINGU
+   Heredia Roberto R., 2004, HDB BILINGUALISM
+   Hernandez ArturoE., 2013, THE BILINGUAL BRAIN
+   Hilchey MD, 2011, PSYCHON B REV, V18, P625, DOI 10.3758/s13423-011-0116-7
+   Hoshino N, 2012, FRONT PSYCHOL, V3, DOI 10.3389/fpsyg.2012.00009
+   Hosoda C, 2013, J NEUROSCI, V33, P13663, DOI 10.1523/JNEUROSCI.0410-13.2013
+   Hsieh MC, 2017, BRAIN LANG, V174, P72, DOI 10.1016/j.bandl.2017.06.006
+   Jessner U, 2008, MOD LANG J, V92, P270, DOI 10.1111/j.1540-4781.2008.00718.x
+   Jouravlev O, 2014, BRAIN LANG, V134, P11, DOI 10.1016/j.bandl.2014.04.003
+   Kemmerer D. L., 2014, COGNITIVE NEUROSCIEN
+   Kerkhofs R, 2006, BRAIN RES, V1068, P170, DOI 10.1016/j.brainres.2005.10.087
+   Kousaie S, 2010, AGING NEUROPSYCHOL C, V18, P22, DOI 10.1080/13825585.2010.510555
+   Kroll JF., 2004, HDB BILINGUALISM, P169, DOI DOI 10.1002/9780470756997.CH7
+   Kroll JF, 2014, CURR DIR PSYCHOL SCI, V23, P159, DOI 10.1177/0963721414528511
+   Kutas M, 2011, ANNU REV PSYCHOL, V62, P621, DOI 10.1146/annurev.psych.093008.131123
+   Lemhofer K, 2004, LANG COGNITIVE PROC, V19, P585, DOI 10.1080/01690960444000007
+   Lemhofer K, 2004, MEM COGNITION, V32, P533, DOI 10.3758/BF03195845
+   Lewis M. Paul, 2016, ETHNOLOGUE LANGUAGES
+   Libben G, 2008, HANDBOOK OF THE NEUROSCIENCE OF LANGUAGE, P147, DOI 10.1016/B978-0-08-045352-1.00014-8
+   Luk G, 2013, J COGN PSYCHOL, V25, P605, DOI 10.1080/20445911.2013.795574
+   Luk G, 2011, J NEUROSCI, V31, P16808, DOI 10.1523/JNEUROSCI.4563-11.2011
+   Luk G, 2011, BILING-LANG COGN, V14, P588, DOI 10.1017/S1366728911000010
+   Macizo P, 2010, J MEM LANG, V63, P232, DOI 10.1016/j.jml.2010.04.002
+   Marian V., 2012, CEREBRUM DANA FORUM, V2012
+   Martin-Rhee MM, 2008, BILING-LANG COGN, V11, P81, DOI 10.1017/S1366728907003227
+   Megale AH, 2005, REV VIRTUAL ESTUD LI, V3
+   Miyake A, 2000, COGNITIVE PSYCHOL, V41, P49, DOI 10.1006/cogp.1999.0734
+   Mohades SG, 2014, BRAIN BEHAV, V4, P626, DOI 10.1002/brb3.246
+   Mor B, 2015, J ATTEN DISORD, V19, P527, DOI 10.1177/1087054714527790
+   Paap KR, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00962
+   Paap KR, 2014, J COGN PSYCHOL, V26, P242, DOI 10.1080/20445911.2014.891597
+   Paap KR, 2013, COGNITIVE PSYCHOL, V66, P232, DOI 10.1016/j.cogpsych.2012.12.002
+   Perani D, 2015, CURR OPIN NEUROL, V28, P618, DOI 10.1097/WCO.0000000000000267
+   Pliatsikas C, 2015, P NATL ACAD SCI USA, V112, P1334, DOI 10.1073/pnas.1414183112
+   Poarch GJ, 2015, DEV REV, V35, P113, DOI 10.1016/j.dr.2014.12.003
+   Poarch GJ, 2012, J EXP CHILD PSYCHOL, V113, P535, DOI 10.1016/j.jecp.2012.06.013
+   Poulin-Dubois D, 2011, J EXP CHILD PSYCHOL, V108, P567, DOI 10.1016/j.jecp.2010.10.009
+   Preuss Elena Ortiz, 2014, ACTA SCI LANGUAGE CU, V36, P403
+   Prior A, 2010, BILING-LANG COGN, V13, P253, DOI 10.1017/S1366728909990526
+   Rodriguez-Fornells A, 2002, NATURE, V415, P1026, DOI 10.1038/4151026a
+   Schwartz AI, 2008, BILING-LANG COGN, V11, P95, DOI 10.1017/S1366728907003239
+   Singh Niharika, 2015, FRONT PSYCHOL, V5, P1
+   Stern Y, 2002, J INT NEUROPSYCH SOC, V8, P448, DOI 10.1017/S1355617702813248
+   Stern Y, 2009, NEUROPSYCHOLOGIA, V47, P2015, DOI 10.1016/j.neuropsychologia.2009.03.004
+   Tao LL, 2015, J INT NEUROPSYCH SOC, V21, P531, DOI 10.1017/S1355617715000521
+   Thierry G, 2004, NEUROREPORT, V15, P1555, DOI 10.1097/01.wnr.0000134214.57469.c2
+   Thierry G, 2007, P NATL ACAD SCI USA, V104, P12530, DOI 10.1073/pnas.0609927104
+   van Heuven WJB, 2008, CEREB CORTEX, V18, P2706, DOI 10.1093/cercor/bhn030
+   Van Wijnendaele I, 2002, J EXP PSYCHOL HUMAN, V28, P616, DOI 10.1037//0096-1523.28.3.616
+   Vega-Mendoza M, 2015, COGNITION, V137, P40, DOI 10.1016/j.cognition.2014.12.008
+   Von Studnitz R. E., 2002, BILING-LANG COGN, V5, P123, DOI [DOI 10.1017/S1366728902000111, 10.1017/S1366728902000111]
+   Wong B., 2016, NEUROLINGUISTICS STR
+   Woumans E, 2015, BILING-LANG COGN, V18, P568, DOI 10.1017/S136672891400087X
+NR 91
+TC 0
+Z9 0
+U1 2
+U2 4
+PU UNIV FEDERAL SANTA CATARINA, NUCLEO TRADUCAO
+PI FLORIANOPOLIS
+PA CP 5129, FLORIANOPOLIS, SC 88040-970, BRAZIL
+SN 1414-526X
+EI 2175-7968
+J9 CAD TRADUCAO
+JI Cad. Traducao
+PD SEP-DEC
+PY 2020
+VL 40
+SI 2
+BP 185
+EP 216
+DI 10.5007/2175-7968.2020v40nesp2p185
+PG 32
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA QD8KO
+UT WOS:000615761300008
+OA gold, Green Submitted
+DA 2022-06-24
+ER
+
+PT J
+AU Cardoso, JD
+   Coutinho, J
+   de Oliveira, VSC
+AF Cardoso, Janaina da Silva
+   Coutinho, Juliana
+   de Oliveira, Vania Santana Carvalho
+TI REFLECTION ON DIFFERENT CONCEPTIONS OF BILINGUAL EDUCATION
+SO LINGUAGEM-ESTUDOS E PESQUISAS
+LA Portuguese
+DT Article
+DE Bilingual education; Bilingualism; Language teaching and learning;
+   Bilingual schools
+AB Until recently, bilingual education was aimed at the few who could afford to pay for elite schools. However, in recent years, bilingual public projects have emerged, and the number of private schools calling themselves bilinguals has grown. Yet, the concept of what would be bilingual education does not seem to be totally clear, especially for those who are more involved in the process: educators, students and their parents. Therefore, the purpose of this study is to reflect on the concept of bilingualism, considering a review of literature on the subject, and analyzing the results of a research with a group of language teachers, presenting their conceptions about what would be "bilingual education", and their opinions regarding the feasibility of applying such a model to public and private schools. Based on the result, it is possible to perceive that the concept still diffuses, even for educators working on bilingual projects.
+C1 [Cardoso, Janaina da Silva] Univ Fed Fluminense, Lingua Inglesa, Niteroi, RJ, Brazil.
+   [Cardoso, Janaina da Silva] Univ Estado Rio De Janeiro, Rio De Janeiro, RJ, Brazil.
+   [Coutinho, Juliana; de Oliveira, Vania Santana Carvalho] Univ Estado Rio De Janeiro, Linguist, Rio De Janeiro, RJ, Brazil.
+   [Coutinho, Juliana] Inst GayLussac, Projeto Bilingue, Niteroi, RJ, Brazil.
+   [de Oliveira, Vania Santana Carvalho] Escola Estadual Bilingue Carlos Drummond de Andra, Nova Iguacu, RJ, Brazil.
+RP Cardoso, JD (autor correspondente), Univ Fed Fluminense, Lingua Inglesa, Niteroi, RJ, Brazil.; Cardoso, JD (autor correspondente), Univ Estado Rio De Janeiro, Rio De Janeiro, RJ, Brazil.; Coutinho, J; de Oliveira, VSC (autor correspondente), Univ Estado Rio De Janeiro, Linguist, Rio De Janeiro, RJ, Brazil.; Coutinho, J (autor correspondente), Inst GayLussac, Projeto Bilingue, Niteroi, RJ, Brazil.; de Oliveira, VSC (autor correspondente), Escola Estadual Bilingue Carlos Drummond de Andra, Nova Iguacu, RJ, Brazil.
+EM janascardoso1@gmail.com; julianavcoutinho.uerj@gmail.com;
+   vsc_06@hotmail.com
+RI Cardoso, Janaina S/M-2124-2015
+OI Cardoso, Janaina S/0000-0003-2974-6546
+CR BORTONI-Ricardo Stella Maris, 2008, PROFESSOR PESQUISADO
+   CARDOSO Janaina Silva, 2017, POLITICAS LINGUISTIC
+   Chaika Elaine, 2008, LANGUAGE SOCIAL MIRR
+   Hamers J., 2000, BILINGUALITY BILINGU
+   Krashen SD., 1988, 2 LANGUAGE ACQUISITI
+   MARCELINO Marcelo, 2011, ENTREVISTA DIFERENCA
+   Megale AH, 2005, REV VIRTUAL ESTUD LI, V3
+   RAJAGOPALAN Kanavillil, 2010, LINGUA ESTRANGEIRA C
+   SILVA Valeria Rosa da, 2010, LINGUA ESTRANGEIRA C
+   UNESCO, 2005, POL PAR PRIM INF
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 4
+PU UNIV FED GOIAS, CAMPUS CATALAO
+PI CATALAO
+PA AV DR LAMARTINE PINTO AVELAR, 1120, SETOR UNIV, CATALAO, CEP 75704-02,
+   BRAZIL
+SN 1519-6240
+EI 2358-1042
+J9 LINGUAGEM
+JI Linguagem
+PD JAN-JUN
+PY 2018
+VL 22
+IS 1
+BP 53
+EP 66
+PG 14
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA GQ6FB
+UT WOS:000441799100004
+DA 2022-06-24
+ER
+
+PT J
+AU Witkoski, SA
+AF Witkoski, Silvia Andreis
+TI THE INTERFACE BETWEEN THE FAMILY AND THE RIGHT TO BILINGUAL EDUCATION
+   FOR DEAF PERSONS: BREAKING BINARY OPPOSITIONS
+SO ETD EDUCACAO TEMATICA DIGITAL
+LA Portuguese
+DT Article
+DE Deafness; Bilingualism; Family; Sign Language; Rights
+AB This article seeks to discuss the interaction between the family and real access to bilingual education, revealing the intrinsic relationship between the possibilities of deaf people taking advantage of the right provided for in Decree No. 5,626 / 2005. This right presupposes the use of Brazilian Sign Language (Libras) as the child's first language, and Portuguese, as the child's second language. That order should be implemented before starting school and promoted in the family environment, once the child's deafness is discovered. Most families, however, deny such an environment, instead choosing a path of normalization for their children. To break this cycle of denial of the right to bilingualism, it is considered crucial to question the essence surrounding the issues, inextricably articulated, between identity and difference, revisiting the pillars that build the idea in which the hearing child is viewed as "normal" and the deaf child as "abnormal", toward the denaturalization of the "norm."
+C1 [Witkoski, Silvia Andreis] Univ Fed Parana, Educ, Curitiba, Parana, Brazil.
+   [Witkoski, Silvia Andreis] Univ Tecnol Fed Parana UTFPR, Curitiba, Parana, Brazil.
+RP Witkoski, SA (autor correspondente), Univ Fed Parana, Educ, Curitiba, Parana, Brazil.; Witkoski, SA (autor correspondente), Univ Tecnol Fed Parana UTFPR, Curitiba, Parana, Brazil.
+EM silviaandreis@hotmail.com
+CR BAUMAN H-D L., 2014, EDUCACAO SURDOS DEBA, P67
+   BERGER J., 2008, HIST MINHA VIDA COM, pvi
+   BRITO J L., 2011, SURDOS QUAL ESCOLA M, P195
+   CAPOVILLA Fernando C., 2011, SURDOS QUAL ESCOLA, P77
+   COELHO O, 2014, EDUCACAO EM DEBATE, P129
+   D'ANTINO M.E.F, 1988, MASCARA ROSTO I ESPE
+   daSILVA AC, 2012, OUVINDO SILENCIO SUR
+   de LACERDA C.B.F., 2009, ESCOLA DUAS LINGUAS
+   de SA N. R. L., 2011, SURDOS QUAL ESCOLA M, P17
+   de SOUZA R. M., 2007, EDUCACAO SURDOS PONT, P17
+   DEQUADROS RM, 2004, LINGUA SINAIS BRASIL
+   FURTADO Rita Simone Silveira, 2008, SURDEZ RELACAO PAIS
+   GESSER A., 2012, OUVINTE SURDEZ ENSIN
+   GUARINELLO A. C, 2015, SURDEZ ESCOLA SOC RE
+   HALL Stuart, 2014, IDENTIDADE DIFERENCA
+   HONORA M., 2014, INCLUSAO EDUCACIONAL
+   Hull, 2000, SOCIAL PSYCHOL STIGM
+   LABORIT Emmanuelle, 1994, O VOO DA GAIVOTA
+   LARROSA Jorge, 2001, HABITANTES DE BABEL
+   LEITE T, 2014, QUEM DECIDE
+   LEITE TdeA, 2009, ESTUDOS SURDOS, V4, P242
+   MARZOLLA A. C., 2012, ATENDIMENTO PSICANAL
+   OLIVEIRA M. A. A. de, 2008, MISTERIO RESOLVER MU
+   OZ A., 2002, CONTRA O FANATISMO, P13
+   PERLIN G., 2012, OLHAR NOS SURDOS LEI, P29
+   RIBEIRO VP, 2013, ENSINO LINGUA PORTUG
+   RODRIGUERO Celma Regina Borghi, 2013, FAMILIA FILHO SURDO
+   SA N. R. L, 2002, CULTURA PODER EDUCAC
+   SACKS O., 1998, VENDO VOZES VIAGEM M
+   SALES AdeCM, 2015, SURDEZ ESCOLA SOC RE, P17
+   SCHNABEL J, 2007, ESCAFANDRO BORBOLETA
+   SILVA ANdeB, 2012, HELDY MEU NOME ROMPE
+   SILVA T. T., 2014, IDENTIDADE DIFERENCA, V15, P73
+   SKLIAR C., 2000, EDUCACAO EXCLUSAO AB, P7
+   SKLIAR C., 2013, SURDEZ OLHAR DIFEREN, V6, P7
+   STROBEL K., 2018, IMAGENS OUTRO CULTUR, V4
+   STROBEL Karin Lilian, 2008, THESIS
+   Valle JW, 2014, RESSIGNIFICANDO DEFI
+   VIGOTSKY L., 1989, PENSAMENTO LINGUAGEM
+   VIGOTSKY Lev Semyonovich, 1994, FORMACAO SOCIAL MENT
+   VILHALVA Shirley, 2012, INDIOS SURDOS MAPEAM
+   WITKOSKI Silvia Andreis, 2012, EDUCACAO SURDOS PELO
+   WITKOSKI Silvia Andreis, 2015, INTRO LIBRAS LINGUA
+   WITT P. R., 2013, SURDEZ SILENCIO VOO
+   WOODWARD K., 2014, IDENTIDADE DIFERENCA, V15, P7
+   [No title captured]
+NR 46
+TC 0
+Z9 0
+U1 1
+U2 2
+PU UNIV ESTADUAL CAMPINAS, FAC EDUCACAO
+PI CAMPINAS
+PA AVE BERTRAND RUSSELL 801, CIDADE UNIV ZEFERINO VAZ, CAMPINAS, SP
+   13083-86, BRAZIL
+SN 1676-2592
+J9 ETD EDUC TEMAT DIGIT
+JI ETD Educ. Temat. Digit.
+PD JUL-SEP
+PY 2017
+VL 19
+IS 3
+BP 882
+EP 902
+DI 10.20396/etd.v19i3.8646222
+PG 21
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA FP2KU
+UT WOS:000417447000016
+OA Green Submitted, gold
+DA 2022-06-24
+ER
+
+PT J
+AU Moret, MCFF
+   Rodrigues, JG
+AF Moret, M. C. F. F.
+   Rodrigues, J. G.
+TI INTRODUCTION TO THE STUDY OF DEAF EDUCATION: FROM THE ORALISM TO THE
+   BILINGUAL PROPOSAL IN THE PROCESS OF LITERACY
+SO HOLOS
+LA Portuguese
+DT Article
+DE Bilingualism; Literacy; Brazilian Sign Language (LIBRAS)
+AB The teaching of the Portuguese language is part of the regular school curriculum and its command provides a relationship with the society that is formed mostly of hearing. At this point, there is a concern of the deaf education, who are concluding high school without knowing how to read and/or produce texts in Portuguese. This problem affects the social development of these subjects, since the Portuguese is their second language and their mother tongue is the Brazilian Sign Language (LIBRAS). This conflict shows that deaf students are included in regular schools, but without the right to bilingual education, which offers the teaching and use of LIBRAS in class. This bibliographic nature research aims to show the efficiency of bilingual proposal on deaf literacy process and offer more opportunities and quality in the educational process, since the oralism and bimodal bilingualism / total communication were not able to solve the problem with the literacy.
+C1 [Moret, M. C. F. F.; Rodrigues, J. G.] Univ Fed Rondonia, Porto Velho, Brazil.
+RP Moret, MCFF (autor correspondente), Univ Fed Rondonia, Porto Velho, Brazil.
+EM marcia.moret@ifro.edu.br
+CR ALMEIDA E. V., 2013, APRENDA LIBRAS COM E, V1
+   ALMEIDA M. C., 2000, THESIS
+   [Anonymous], 2005, POL INCL
+   [Anonymous], 1995, REV ADM EMPRESAS
+   BARRETO M, 2012, ESCRITA SINAIS SEM M, V1
+   BOTELHO P., 1999, SEM ED INCL PUC MIN
+   BOTELHO Paula, 2002, LINGUAGEM LETRAMENTO
+   CAMPOS S. R. L., 2011, LEITURA ESCRITA CONT
+   COSTA J. P. B., 2010, EDUCACAO SURDO ONTEM
+   DALLAN Maria Salome Soares, 2010, C LAT AM FORM PROF L, V3, P1
+   DAMAZIO Mirlene Ferreira Macedo, 2007, ATENDIMENTO EDUCACIO
+   de MINAYO M. C. S., 2012, PESQUISA SOCIAL TEOR
+   deQUADROS Ronice Muller, 2008, EDUCACAO SURDOS AQUI
+   deSA Nidia Regina Limeira, 2010, CULTURA PODER EDUCAC
+   DORZIAT Ana, 2009, OUTRO EDUCACAO PENSA
+   FELIPE T., 1989, TRABALHO LINGUISTICA, V14, P101
+   FENES, 1995, LIBR LING BRAS SIN
+   FERREIRA BRITO L., 1993, INTEGRACAO SOCIAL ED
+   FERREIRA BRITO L., 2010, GRAMATICA LINGUA SIN
+   FERREIRO Emilia, 1986, PSICOGENESE LINGUA E
+   FRANCO M. A. S., 2005, EDUCACAO PESQUISA, V31
+   GESSER A, 2009, LIBRAS QUE LINGUA ES
+   GIL Antonio Carlos, 1996, COMO ELABORAR PROJET
+   GIRAFFA L. M. M., 2017, 5 C IB INF ED 2000
+   Goldfeld M., 1997, CRIANCA SURDA LINGUA, V2
+   KARNOPP L. B., 2005, CULTURA PODER E EDUC
+   KARNOPP L. B., 2006, 2 SEM BRAS EST CULT, P1
+   KARNOPP L. B., 2010, MARGENS AO CTR PERSP, P291
+   KARNOPP L. B., 2010, PRODUCOES CULTURAIS, P155
+   KARNOPP L. B., 2007, 3 ENC INT INV POL LI, P119
+   KARNOPP L. B., 2006, ETD EDUCACAO TEMATIC, V7, P2
+   LACERDA C. B. F., 2014, TENHO ALUNO SURDO AG
+   LODI Ana Claudia, 2015, LETRAMENTO BILINGUIS
+   Ludke M., 1986, PESQUISA EDUCACAO AB
+   MANTOAN M. T. E., 2003, INCLUSAO ESCOLAR QUE, p[13, 27]
+   MANZINI E. J., 2004, ENTREVISTA SEMIESTRA
+   MARCONI Marina de Andrade, 2002, TECNICAS PESQUISA
+   Ministerio da Educacao, 2007, PROGR ET CID CONSTR
+   Ministerio da Educacao, 2007, AT ED ESP PESS COM S
+   NEGRELLI M. E. D., 2006, REV CIENCIA CUIDADO, V5
+   PERLIN G., 2003, REV EDUCACAO PROCESS
+   PERLIN G., 2005, SURDEZ OLHAR DIFEREN, P51
+   PERLIN G. T. T., 2006, FUNDAMENTOS EDUCACAO
+   Duarte SBR, 2013, HIST CIENC SAUDE-MAN, V20, P1713, DOI 10.1590/S0104-597020130005000015
+   SACKS O., 1990, VENDO VOZES
+   SACRISTAN J. G., EDUCACAO SECULO 21 E, P38
+   SILVA Tomaz Tadeu da, 2010, DOCUMENTOS IDENTIDAD
+   Skliar C.B., 2013, SURDEZ OLHAR DIFEREN
+   STROBEL K., 2018, IMAGENS OUTRO CULTUR, V4
+   STUMPF M. R., 2009, ESCRITA SINAIS 2
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CENTRO FEDERAL EDUCACAO TECNOLOGICA RIO GRANDE NORTE
+PI RIO GRANDE DO NORTE
+PA AVE SEN SALGADO FILHO, 1559, TIRO, NATAL, RIO GRANDE DO NORTE,
+   59015-000, BRAZIL
+SN 1518-1634
+EI 1807-1600
+J9 HOLOS
+JI Holos
+PY 2019
+VL 35
+IS 2
+AR e5933
+DI 10.15628/holos.2019.5933
+PG 23
+WC Multidisciplinary Sciences
+WE Emerging Sources Citation Index (ESCI)
+SC Science & Technology - Other Topics
+GA JY5ZI
+UT WOS:000504492400009
+OA gold, Green Published
+DA 2022-06-24
+ER
+
+PT J
+AU Spinasse, KP
+   Mozzillo, I
+AF Spinasse, Karen Pupp
+   Mozzillo, Isabella
+TI Families in Multilingual Situation: Linguistic Ideologies
+SO GRAGOATA-UFF
+LA Portuguese
+DT Article
+DE Linguistic Ideologies; Multilingual families; Family bilingualism
+AB Linguistically mixed families have a tacit or explicit agreement, which constitutes the family linguistic policy ( KING; LOGAN-TERRY, 2008; MOZZILLO; PUPP SPINASSE, 2020) and which defines the daily practices, as well as the project of transmission and maintenance ( or not) of the languages. When the home language (s) do(es) not coincide with that/ those of the external environment, there can be a situation of confrontation between what is minority and what is majority. The way the family will deal with plurilingualism is a choice often not necessarily based on a conscious or enlightened decision, but it is largely influenced by linguistic ideologies (WOOLARD, 2007) - which are not always in accordance with the results of studies in the area, since these ideologies are constantly imbued with beliefs (PAJARES, 1992). Thus, depending on the practices adopted, the family can determine and foster the bilingualism of their children, or even prevent them from being raised with more than one language, leading to monolingualism. In this sense, this article intends to approach some linguistic ideologies obtained from the discourse of fathers and mothers of families in a plurilingual situation, presenting the ideologemes found.
+C1 [Spinasse, Karen Pupp] Univ Fed Rio Grande do Sul, Inst Letras, Dept Linguas Modernas, Porto Alegre, RS, Brazil.
+   [Mozzillo, Isabella] Univ Fed Pelotas, Ctr Letras & Comunicacao, Pelotas, RS, Brazil.
+RP Spinasse, KP (autor correspondente), Univ Fed Rio Grande do Sul, Inst Letras, Dept Linguas Modernas, Porto Alegre, RS, Brazil.
+EM spinasse@ufrgs.br; isabellamozzillo@gmail.com
+CR Avila C., 2010, Sociocriticism, VXXV, P93
+   BAKER Colin, 2014, PARENTSAND TEACHERS
+   BALDIN Nelma, 2011, 10 C NAC ED EDUCRE 1, V10, P329
+   Blanc Michel H. A, 1989, BILINGUALITY BILINGU
+   deOLIVEIRA Gilvan Muller, 2002, DIREITO FALA QUESTAO, P83
+   DEPREZ Christine, 2014, LANGAGE SOC, V147, P7, DOI DOI 10.3917/LS.147.0007
+   Ellis Rod., 2008, STUDY 2 LANGUAGE ACQ
+   FLORES Cristina, 2017, DIACRITICA VOLUME TE, V3, P237
+   Fogle L.W., 2013, ISSUES APPL LINGUIST, V19, P1
+   GROSJEAN F, 1995, ONE SPEAKER 2 LANGUA, P259, DOI DOI 10.1017/CBO9780511620867.012
+   Grosjean F., 1982, LIFE 2 LANGUAGES INT
+   Hakuta Kenji, 1986, DEBATE BILINGUALISM
+   King KA, 2008, CALIDOSCOPIO, V6, P5
+   Kroskrity PaulV., 2004, COMPANION LINGUISTIC, P496
+   LICO Ana Lucia Cury, 2011, REV SIPLE, V1
+   MACKEY William F., 2013, HDB BILINGUALISM MUL, P707
+   MOZZILLO Isabella, 2015, VEREDAS JUIZ DE FORA, V19, P147
+   MOZZILLO Isabella, 2020, LINGUAGEM ENSINO, V23, P1297
+   MOZZILLO Isabella, 2001, TRANSFORMANDO SALA A, P287
+   de Arnoux EN, 2010, SPAN CONTEXT, V7, P1
+   PAJARES MF, 1992, REV EDUC RES, V62, P307, DOI 10.2307/1170741
+   PEARSON Barbara Zurer, 2008, RAISING BILINGUAL CH
+   Peirce, 1958, SELECTED WRITINGS VA
+   PUPP SPINASSE Karen, 2008, REV CONEXAO LETRAS, V3, P125
+   ROMAINE Suzanne, 1997, BILINGUALISM
+   SAVEDRA Monica Maria Guimaraes, TRAVESSIAS ENCONTROS
+   SPINASS K. P, 2006, CONTINGENTIA, V1, P1
+   SPINASSE PUPP, 2017, CRIANCA COM LINGUAGE, P223
+   UNESCO, 2003, ED MUND PLUR
+   VALLE DEL, 2007, LENGUA IPATRIA COMFI, P13
+   WOOLARD Kathryn A, 2007, LENGUA IPATRIA COMFI, P73
+NR 31
+TC 1
+Z9 1
+U1 0
+U2 2
+PU UNIV FEDERAL FLUMINENSE
+PI RIO DE JANEIRO
+PA CAMPUS DE PRAIA VERMELHA, AVE MILTON TAVARES SOUZA S-N, RIO DE JANEIRO,
+   24210-340, BRAZIL
+SN 1413-9073
+EI 2358-4114
+J9 GRAGOATA-UFF
+JI Gragoata-UFF
+PD JAN-APR
+PY 2021
+VL 26
+IS 54
+BP 294
+EP 325
+DI 10.22409/gragoata.v26i54.46372
+PG 32
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA RZ9UZ
+UT WOS:000648946700012
+OA gold, Green Submitted
+DA 2022-06-24
+ER
+
+PT J
+AU Giroto, CRM
+   Cicilino, JEM
+   Poker, RB
+AF Mosca Giroto, Claudia Regina
+   Munhoz Cicilino, Joice Emanuele
+   Poker, Rosimar Bortolini
+TI BILINGUAL PEDAGOGY: DILEMMAS AND CHALLENGES IN TEACHER TRAINING
+SO REVISTA ON LINE DE POLITICA E GESTAO EDUCACIONAL
+LA Portuguese
+DT Article
+DE Education of the deaf; Bilingualism; Teacher training for the deaf;
+   Brazilian Language of Signs (LIBRAS)
+AB This theoretical work implied to discuss and problematize the existing inconsistencies between the conceptions about bilingual education that guide educational actions with deaf students and the proposals of teacher training to consolidate such actions in the inclusive education context. The systematization of bilingual education as provided by national legislation, under the auspices of current inclusive educational policy, raises dilemmas insofar as it seems to demarcate the mismatch between public policies and / or applicable legal provisions, the proposals for initial teacher training and the reality educational. The idea that the presence of the Brazilian Language of Signs (LIBRAS) in the deaf student learning environments (classes and schools) and in pedagogy courses would be sufficient to implement the bilingual approach is refuted It examines the place of LIBRAS reflecting on its role in an effectively bilingual and inclusive proposal for deaf students.
+C1 [Mosca Giroto, Claudia Regina; Poker, Rosimar Bortolini] Univ Estadual Paulista UNESP, Marilia, SP, Brazil.
+   [Mosca Giroto, Claudia Regina] PPGE, Campus Marilia SP, Marilia, SP, Brazil.
+   [Mosca Giroto, Claudia Regina] FFC, Dept Educ Especial, Campus Marilia SP, Marilia, SP, Brazil.
+   [Munhoz Cicilino, Joice Emanuele] Univ Estadual Paulista UNESP, Araraquara, SP, Brazil.
+RP Giroto, CRM (autor correspondente), Univ Estadual Paulista UNESP, Marilia, SP, Brazil.; Giroto, CRM (autor correspondente), PPGE, Campus Marilia SP, Marilia, SP, Brazil.; Giroto, CRM (autor correspondente), FFC, Dept Educ Especial, Campus Marilia SP, Marilia, SP, Brazil.
+EM claudia.mosca@unesp.br; joice.cicilino@gmail.com;
+   rosimar.b.poker@unesp.br
+CR Angelucci Carla Biancha, 2010, Psicol. Esc. Educ., V14, P35
+   BRASIL, 1997, PAR CURR NAC LING PO
+   BRASIL, 2008, POLITICA NACL EDUCAC
+   CICILINO J. E. M., 2017, THESIS
+   GIROTO C. R. M., 2016, EDUCACAO INCLUSIVA F, P153
+   Giroto C. R. M., 2011, REV EDUCACAO ESPECIA, V24, P441
+   GLAT R., 2004, REV BENJAMIM CONSTAN, V10, P3
+   GLAT R., 2010, REV ED ESPEC, V2, P345
+   LACERDA C. B. F., 2009, ESCOLA DUAS LINGUAS, P11
+   Lacerda Cristina Broglia Feitosa de, 2013, Educ. Pesqui., V39, P65, DOI 10.1590/S1517-97022013000100005
+   Lodi Ana Claudia Balieiro, 2013, Educ. Pesqui., V39, P49, DOI 10.1590/S1517-97022013000100004
+   PEDROSO C.C. A., 2016, EDUCACAO INCLUSIVA F, P33
+   POKER R.B, 2016, EDUCACAO INCLUSIVA F, P59
+   POKER Rosimar Bortolini, 2016, EDUCACAO INCLUSIVA F
+   SANTOS L. F. S., 2013, LIBRAS ESTUDO POLITI, P13
+   UNESCO, 1990, CONF MUND ED TOD DEC
+   UNESCO, 1994, DECL SAL LINH AC NEC
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNESP-FACULDADE CIENCIAS & LETRAS
+PI ARARAQUARA
+PA DEPT CIENCIAS EDUCACAO, RODOVIA ARARAQUARA-JAU, KM 1-CAIXA POSTAL 174,
+   ARARAQUARA, SP 14800-901, BRAZIL
+SN 1519-9029
+J9 REV LINE POLIT GEST
+JI Rev. Line Polit. Gest.
+PD DEC
+PY 2018
+VL 22
+SI 2
+BP 778
+EP 793
+DI 10.22633/rpge.unesp.v22.nesp2.dez.2018.11912
+PG 16
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA HE8LF
+UT WOS:000453697700006
+OA Green Published, gold, Green Submitted
+DA 2022-06-24
+ER
+
+PT J
+AU Leandro, KS
+   Santos, KC
+   Dering, RD
+AF Leandro, Karina Santiago
+   Santos, Kelly Cristina
+   Dering, Renato De Oliveira
+TI THE SILENCE OF BASIC EDUCATION: THE IMPORTANCE OF BILINGUALISM IN THE
+   EDUCATIONAL PROCESS
+SO REVISTA PRAXIS EDUCACIONAL
+LA Portuguese
+DT Article
+DE Bilingual; Libras; Deaf
+AB This article aims to reflect on the Brazilian Sign Language - Libras (portuguese name) an d its insertion in basic education. Thus, the aim is to understand the reality of the deaf community and the emergency need to have a Bilingual Education, focused on the formation of children and adults with deafness, since it is through Libras that the deaf individual can feel truly integrated in society. Bilingual Education enables the development of the subject's abilities, thus facilitating the acquisition of writing and reading in Libras and Portuguese with greater autonomy. Another positive aspect is the way in which society can begin to see the deaf person and user of the Brazilian Sign Language, proposing more knowledge about the importance of this language for all in a school environment. Brazil (2002: 2005; 2006; 2015). Goldfeld (2002), Lima (2015), Gesser (2009) and Quadros (1997; 2004) support the proposed discussions.
+C1 [Leandro, Karina Santiago; Santos, Kelly Cristina; Dering, Renato De Oliveira] Ctr Univ Goias, Goiania, Go, Brazil.
+   [Santos, Kelly Cristina] Univ Fed Goias, Goiania, Go, Brazil.
+RP Leandro, KS (autor correspondente), Ctr Univ Goias, Goiania, Go, Brazil.
+EM karinasantiagoleandro@gmail.com; kellycsantos09@gmail.com;
+   professordering@gmail.com
+RI Dering, Renato/AAP-9536-2020
+OI Dering, Renato/0000-0002-0776-3436
+CR ANTUNES I., 2003, AULA PORTUGUES ENCON, P25
+   BRASIL. Ministerio da Educacao, 2001, DIR NAC ED ESP ED BA
+   Campello AR, 2014, EDUC REV-CURITIBA, P71, DOI 10.1590/0104-4060.37229
+   de LIMA C. M., 2015, EDUCACAO SURDOS DESA
+   de PAULA L., 2014, LINGUAGEM CRIANCA OL, P113
+   DEQUADROS RM, 2004, LINGUA SINAIS BRASIL
+   DORZIAT Ana, 2015, LETRAMENTO BILINGUIS, P333
+   FERNANDES E., 2015, LETRAMENTO BILINGUIS, P201
+   GESSER A, 2009, LIBRAS QUE LINGUA ES
+   GIL A. C., 2002, COMO ELABORAR PROJET, P43
+   Goldfeld Marcia, 2002, CRIANCA SURDA LINGUA, V2<feminine
+   KAIL M., 2013, AQUISICAO LINGUAGEM, P95
+   Ministerio da Educacao, 2006, INCL ESC AL NEC ED E
+   PIZZIO A. L., 2011, AQUISICAO LINGUA SIN
+   QUADROS R. M., 1997, EDUCACAO SURDOS AQUI
+   SILVEIRA Ederson Luis, 2015, ATOS PESQUISA EDUCAC, V10, P244
+   SKLIAR C., 1999, ATUALIDADE EDUCACAO
+   SOARES Magda, 2011, LINGUAGEM ESCOLA PER
+   STROBEL K. L, 1998, ASPECTOS LINGUISTICO
+   VAGULA E., 2014, EDUCACAO INCLUSIVA L
+   VYGOTSKY L. S., 1987, PENSAMENTO LINGUAGEM, P103
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 5
+PU UNIV ESTADUAL SUDOESTE BAHIA
+PI VITORIA CONQUISTA
+PA ESTRADA BEM QUERER KM 4, VITORIA CONQUISTA, BA 45083-900, BRAZIL
+SN 1809-0249
+EI 2178-2679
+J9 REV PRAX EDUC
+JI Rev. Prax. Educ.
+PD OCT-DEC
+PY 2019
+VL 15
+IS 35
+BP 207
+EP 227
+DI 10.22481/praxisedu.v15i35.5675
+PG 21
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA JB8YZ
+UT WOS:000488868300011
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Prates, CA
+   Lino, CCTS
+AF Prates, Claudia Aparecida
+   Tescaro Santos Lino, Carla Cristine
+TI PERCEPTIONS OF DEAF STUDENTS ABOUT THE SCHOOLING PROCESS IN A PUBLIC
+   SCHOOL AND IN A BILINGUAL SCHOOL
+SO HUMANIDADES & INOVACAO
+LA Portuguese
+DT Article
+DE Bilingualism; Deaf; Inclusion
+AB This study investigated the perceptions of deaf students and educational approaches in the schooling process from basic education to university. The research participants were four deaf students: two from a bilingual basic education school and two from ordinary school. The study is qualitative / descriptive. In the data collection, unstructured, filmed interviews were used and, for transcription, the professional interpreter of Libras translated Libras into Portuguese. Content Analysis allowed us data for categories. This research evidenced the need to overcome challenges, such as the construction of clearer meanings about methodologies for the deaf student who builds all his cognitive experience through the visuo-espatial language and imagery contents. In this sense, the bilingual school considers these specificities for the cognitive development of the deaf student, while the common one needs to rethink its pedagogical practices to guarantee inclusion.
+C1 [Prates, Claudia Aparecida; Tescaro Santos Lino, Carla Cristine] UNESP, Educ, Campus Marilia, Mirante, SP, Brazil.
+RP Prates, CA (autor correspondente), UNESP, Educ, Campus Marilia, Mirante, SP, Brazil.
+EM claudia.prates@ifro.edu.br; carlatescaro@yahoo.com.br
+CR BAKHTIN Mikhail, 2000, ESTETICA CRIACAO VER, V3
+   BARDIN L., 2011, ANALISE CONTEUDO EDI
+   Battison R., 1978, LEXICAL BORROWING AM
+   BRASIL, POL NAC ED ESP PERSP POL NAC ED ESP PERSP
+   BRASIL, 2002, DISP LING BRAS SIN L DISP LING BRAS SIN L
+   BRASIL, 2015, EST PESS COMD DEF EST PESS COMD DEF
+   BRASIL, 2010, REG PROF TRAD INT LI REG PROF TRAD INT LI
+   CAMPELLO A. R. S., 2007, ESTUDOS SURDOS 2 ESTUDOS SURDOS 2, P100
+   DUTRA C. P, 2008, REV VIRTUAL CULTURA, P01
+   FELIPE T. A, 2001, LIBRAS CONTEXTO CURS
+   FERNANDES E., 2003, LINGUAGEM E SURDEZ
+   FERNANDES S., 2009, REV EDUCACAO ESPECIA, V22, P225
+   Ferreira Brito L., 1995, GRAMATICA LINGUA SIN
+   GIL Antnio Carlos, 2010, COMO ELABORAR PROJET, V5
+   GOMES C, 2010, THESIS PONTIFICIA U THESIS PONTIFICIA U
+   HALL Stuart, 2006, IDENTIDADE CULTURAL
+   KELMAN Celeste Azulay, 2011, LINHAS CRITICAS BRAS, V17, P349
+   LACERDA C.B.F, 2000, FONOAUDIOLOGIA SURDE, P21
+   LACERDA Cristina B, 2017, INTERPRETE LIBRAS AT
+   LEBEDEFF T. B., 2010, REUN AN ANPED 2010 C REUN AN ANPED 2010 C, V33
+   LODI A. C. B., 2009, ESCOLA DUAS LINGUAS
+   Lopes Maura Corcini, 2007, SURDEZ EDUCACAO
+   Ludke M., 1986, PESQUISA EDUCACAO AB
+   MACHADO Rosangela, 2008, EDUCACAO INCLUSIVA R
+   Manzini E. J., 2012, REV PERCURSO, V4, P149
+   Manzini EJ, 2018, REV LINE POLIT GEST, V22, P810, DOI 10.22633/rpge.unesp.v22.nesp2.dez.2018.11914
+   OLIVEIRA A. A. S., 2004, INTENCAO REALIDADE INTENCAO REALIDADE
+   OSORIO A. C., 2010, MARGENS AO CTR PERSP
+   POKER R. B, 2002, THESIS UNESP MARIIA THESIS UNESP MARIIA
+   Quadros R. M., 2004, LINGUA SINAIS BRASIL
+   QUADROS R. M, 2011, LINGUA SINAIS BRASIL
+   RIBEIRO C. B, 2014, THESIS U BRASILIA BR THESIS U BRASILIA BR
+   ROPOLI Edilene Aparecida, 2010, A educacao especial na perspectiva da inclusao escolar: a escola comum inclusiva.
+   SACKS Oliver, 2010, VENDO VOZES VIAGEM A
+   SAMPAIO Isabel S, 2002, REV PSICOLOGIA ESTUD, V7, P31
+   Sant'Ana Izabella Mendes, 2005, Psicol. estud., V10, P227, DOI 10.1590/S1413-73722005000200009
+   SERRAO M.I. B., 2006, APRENDER ENSINAR APR
+   SILUK A.C.P, 2012, FORMACAO PROFESSORES
+   SKLIAR C, 1997, SERIE MANUALES
+   STROBEL K., 2018, IMAGENS OUTRO CULTUR, V4
+   STROBEL K. L, 1998, ASPECTOS LINGUISTICO
+   Trivinos A. N. S, 1987, INTRO PESQUISA CIENC
+   UNESCO, 1990, DECL MUND ED TOD PLA
+   UNESCO, 1994, DECL SAL LINH AC NEC
+   VITALIANO C. R, 2013, INCLUSAO DEBATES DIF
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 0
+PU FUNDACAO UNIV TOCANTINS
+PI PALMAS-TOCANTINS
+PA PRO-REITORIA PESQUISA & POS-GRADUACAO 108 SUL ALAMEDA 11 LOTE 03 CX
+   POSTAL 173, PALMAS-TOCANTINS, CEP77020-122, BRAZIL
+SN 2358-8322
+J9 HUMANID INOV
+JI Humanid. Inov.
+PD MAR
+PY 2021
+VL 8
+IS 37
+BP 106
+EP 121
+PG 16
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA TI4FN
+UT WOS:000672754400009
+DA 2022-06-24
+ER
+
+PT J
+AU Siller, RR
+   de Araujo, VC
+AF Siller, Rosali Rauta
+   de Araujo, Vania Carvalho
+TI The Pomeranian child in early childhood education: can I speak my
+   language here?
+SO EDUCACAO
+LA Portuguese
+DT Article
+DE Childhood; Pomeranian child; Bilingualism
+AB The paper endeavors to analyze the contact, right and recognition of Pomeranian children that arrives at monolingual preschool institutions speaking only their mother tongue (Pomeranian) or in the condition of bilinguals, also speaking the Portuguese language. Based on the bibliographic and documentary research, it was possible to identify, in the sphere of normative documents, that it is recent in Brazil the conquest of rights that guarantee a differentiated, intercultural and bilingual childhood education and the public policies that prioritize, in the school, the use of the mother tongue of Pomeranian children. It was concluded that this model of education that is attempted to be built, must, mainly incorporate the language, which maintains the memory and identity of the Pomeranian people, as a heritage to be studied and valued. It needs to happen, above all, but not only in the institutions of early childhood education in the Pomeranian communities, reaffirming the right to difference, which is still a great challenge that requires the commitment of all of us.
+C1 [Siller, Rosali Rauta; de Araujo, Vania Carvalho] Univ Fed Espirito Santo, Ctr Educ, Dept Educ Polit & Soc, Av Fernando Ferrari S-N, BR-29060970 Vitoria, ES, Brazil.
+RP Siller, RR (autor correspondente), Univ Fed Espirito Santo, Ctr Educ, Dept Educ Polit & Soc, Av Fernando Ferrari S-N, BR-29060970 Vitoria, ES, Brazil.
+EM rauta13@gmail.com; vcaraujoufes@gmail.com
+CR [Anonymous], 1988, CONSTITUICAO REPUBLI
+   ARENDT Hannah, 2012, ORIGENS TOTALITARISM
+   BAGNO Marcos, 2008, LINGUA EULALIA NOVEL
+   BAHIA Joana, 2015, POMERANOS BRASIL OLH, P35
+   CAVALCANTI M. C., 1999, DELTA S O PAULO, V15, P385
+   de FARIA Ana Lucia Goulart, 2016, INFANCIA EDUCACAO IN, P24
+   Dettmann J. M., 2014, THESIS
+   Diegues Manuel, 1964, IMIGRACAO URBANIZACA
+   DUARTE Dulce Almeida, 2013, BILINGUISMO DIGLOSIA
+   Elias N., 2000, ESTABELECIDOS OUTSID
+   HALL Stuart, 2003, DIASPORA IDENTIDADES
+   HALL Stuart, 1997, REV PATRIMONIO HIST, P68
+   IBGE, INF DAD GER MUN SANT
+   Instituto Brasileiro de Geografia e Estatistica (IBGE), 2016, CENS DEM
+   JACOB Jose Kuster, 2007, TERRA BRAVOS IMIGRAC, P140
+   KUSTER Sintia Bausen, 2015, THESIS
+   MACHADO Jurema, 2009, REV OBSERVATORIO ITA, P29
+   MAHER T. M., 2005, MUNDO ESCRITA UNIVER, P75
+   MAHER Terezinha Machado, 2007, TRANSCULTURALIDADE L, P67
+   MARTINS Jose de Souza, 2001, TEMPO SOC, P21
+   Santora Michael, 2016, OCEANS 2016 MTS/IEEE Monterey, DOI 10.1109/OCEANS.2016.7761164
+   SARTRE Jean-Paul, 1961, CONDENADOS TERRA, P23
+   SEYFERTH Giralda, 1994, REV BRASILEIRA CIENC
+   VITOR Ana Dulce Moraes Albuquerque, 2016, THESIS
+NR 24
+TC 0
+Z9 0
+U1 2
+U2 5
+PU UNIV FEDERAL SANTA MARIA
+PI SANTA MARIA
+PA CIDADE UNIV, BAIRRO CAMOBI, SANTA MARIA, RS 97105-900, BRAZIL
+SN 0101-9031
+EI 1984-6444
+J9 EDUCACAO
+JI Educacao
+PY 2019
+VL 44
+DI 10.5902/1984644434697
+PG 18
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA HG0PO
+UT WOS:000454649400006
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Pereira, AM
+   Menezes, JT
+   de Farias, AAN
+AF Pereira, Anderson Martins
+   Menezes, Juliana Tatsch
+   Neto de Farias, Ariane Avila
+TI INDIGENOUS EDUCATION IN QUESTION: A CASE STUDY IN A KAINGANG INDIGENOUS
+   VILLAGE
+SO HUMANIDADES & INOVACAO
+LA Portuguese
+DT Article
+DE Indigenous education; bilingualism; interculturalism
+AB It is known that the right to a differentiated, specific, intercultural and bilingual indigenous education arose only after the 1988 constitution. Until this historical moment, indigenous school education was based on the suppression of its culture, under the aegis of non-Indian people. In this article, we analyze how this right is put into practice in a Kaingang school, located in the region of Tenente Portela, in Rio Grande do Sul. We find out how the indigenous and national culture coexists, their contradictions and influences in teaching. It is also intended to verify if the teaching of the Portuguese language obeys the educational guidelines. To do so, we will use as methodology the case study and complementary readings, comparing the results with the guiding referents of Brazilian education.
+C1 [Neto de Farias, Ariane Avila] Univ Fed Pampa UNIPAMPA, Educ, Bage, RS, Brazil.
+RP de Farias, AAN (autor correspondente), Univ Fed Pampa UNIPAMPA, Educ, Bage, RS, Brazil.
+EM andersonmartinsp@gmail.com; jutatsch@gmail.com; arianenetof@gmail.com
+CR [Anonymous], 1988, CONSTITUICAO REPUBLI
+   BRASIL. Ministerio da Educacao, 1998, REF CURR NAC ESC IND
+   BRASIL. Ministerio da Educacao. Conselho Nacional da Educacao, 1999, PAR NAC ED
+   BRASIL. Ministerio da Educacao. Secretaria de Educacao Fundamental, 2002, LEIS ED ESC IND
+   CESAR Ana Maria Roux, 2005, MET EST CAS CAS STUD
+   FLEURI Reinaldo Matias, 2005, INT ED MOV SOC BRAS
+   FUNAI. Fundaaso Nacional do indio, TERR IND
+   HALL Stuart, 1999, IDENTIDADE CULTURAL, V3a
+   Harmers J., 2000, BILINGUALITY BILINGU
+   MAHER T. M., 2005, MUNDO ESCRITA UNIVER, P75
+   MAHER Terezinha de Jesus Machado, 2006, GRUPIONI LD BENZI FO, P11
+   MARIANI Bethania, 2004, COLONIZACAO LINGUIST
+   Melia B, 1979, EDUCACAO INDIGENA AL
+   Rajagopalan K., 1998, LINGUA GEM IDENTIDAD, P21
+   RAMOS Alcida Rita, 1988, SOC INDIGENAS
+   SEMINO Maria Josefina, 2007, ESPANOL PORTUGUES DE
+   SIMAS Hellen Cristina Picanco, 2009, LETRAMENTO INDIGENA
+   Soares M., 1998, LETRAMENTO TEMA TRES
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 1
+PU FUNDACAO UNIV TOCANTINS
+PI PALMAS-TOCANTINS
+PA PRO-REITORIA PESQUISA & POS-GRADUACAO 108 SUL ALAMEDA 11 LOTE 03 CX
+   POSTAL 173, PALMAS-TOCANTINS, CEP77020-122, BRAZIL
+SN 2358-8322
+J9 HUMANID INOV
+JI Humanid. Inov.
+PD MAR
+PY 2020
+VL 7
+IS 6
+BP 192
+EP 206
+PG 15
+WC Humanities, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Arts & Humanities - Other Topics
+GA LJ1RP
+UT WOS:000529949700017
+DA 2022-06-24
+ER
+
+PT J
+AU Goncalves, AM
+AF Goncalves, Arlete Marinho
+TI COGNITIVE-HISTORY PROFILE OF DEAF STUDENTS: BETWEEN EXPERIENTIAL,
+   EMOTIONAL STORIES AND LEARNING IN THE FAMILY AND AT SCHOOL
+SO PERIFERIA
+LA Portuguese
+DT Article
+DE deaf student; profile cognitivehistory; sign language
+AB The study aimed to analyze the cognitive-history profile of deaf people, college students, through the reports experienced by them, in school, in the family and in the community. The adopted methodology was qualitative research analytic type with five deaf, students of the Federal University of Para and the Federal University of the West of Para. The technique used was semi-open questionnaire, with the support of interpreters. Still was using mind map to develop the analysis of the signals of the subjects. The results pointed to a profile of the deaf built through feelings (reactions, relationships, negative and positive emotions) and forms of learning that have turned to the use of sign language, as identification of a deaf culture that realizes throughout their experiences of school and family life and school, the Pounds manifests itself as the best option for the learning process in school and the interactions between deaf-deaf and deaf listener who knows sign language. Contact with other deaf and teachers fluent in Pounds provided the acquisition and improvement of language of signs, as your language of instruction with approximations of bilingualism.
+C1 [Goncalves, Arlete Marinho] Univ Fed Para, Belem, Para, Brazil.
+RP Goncalves, AM (autor correspondente), Univ Fed Para, Belem, Para, Brazil.
+EM arletmarinho@gmail.com
+CR [Anonymous], 1994, C MUND NEE AC QUAL U
+   Bardin L., 2011, ANALISE CONTEUDO
+   BARDIN Laurence, 2008, POLITICA NACL EDUCAC
+   CHIZZOTTI A., 2006, PESQUISA CIENCIAS HU, V8
+   de QUADROS Ronice M., 2011, LINGUA SINAIS INSTRU
+   FERNANDES Eulalia, 2010, SURDEZ E BILINGUISMO
+   Goldfeld Marcia, 2002, CRIANCA SURDA LINGUA, V2<feminine
+   Lane H., 1992, MASCAR D BENEVOLENCI
+   Limeira SA Nidia, 2011, SURDOS QUAL ESCOLA
+   LODI Ana Claudia B., 2014, LETRAMENTO MINORIAS
+   LOPES Maura C., 2013, EDUCACAO EXCLUSAO AB
+   PERLIN Gladis, 1998, SURDEZ OLHAR DIFEREN
+   Quadros de Ronice Muller, 2004, LINGUA BRASILEIRA SI
+   STROBEL K. L, 1998, ASPECTOS LINGUISTICO
+   Vygotsky L., 1989, FUNDAMENTOS DEFECTOL, VV
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV ESTADO RIO DE JANEIRO
+PI RIO DE JANEIRO
+PA RUA GENERAL MANOEL RABELO, S-N, VILA SAO LUIS-DUQUE CAXIAS, RIO DE
+   JANEIRO, CEP25065-050, BRAZIL
+SN 1519-9029
+J9 PERIFERIA-BRAZIL
+JI Rev. Line Polit. Gest.
+PD JAN-JUN
+PY 2017
+VL 9
+IS 1
+BP 199
+EP 222
+PG 24
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA GT0HE
+UT WOS:000444112100010
+DA 2022-06-24
+ER
+
+PT J
+AU Antonio, LCD
+   Kelman, CA
+AF de Oliveira Antonio, Luiz Claudio
+   Kelman, Celeste Azulay
+TI PERCEPTIONS ABOUT TEACHING LIBRAS IN THE TEACHER TRAINING CURRICULUM IN
+   RIO DE JANEIRO
+SO PERSPECTIVAS EM DIALOGO-REVISTA DE EDUCACAO E SOCIEDADE
+LA Portuguese
+DT Article
+DE Teacher training; Libras; Higher education
+AB This article analyzes the teaching of Brazilian Sign Language discipline (Libras) in undergraduate courses of higher education, as foreseen by the Presidential Decree 5.626/ 05. It aimed the analysis how the teaching of Libras in the undergraduate curriculum has been worked in some of the municipalities in Rio de Janeiro state. By means of qualitative methodology, using semi structured interviews, five professors who teach Brazilian Sign Language (Libras) were interviewed. Through dialogical ap4eproach, meanings and senses present in their narratives were submitted to content analysis, and three thematic axes emerged: discipline curriculum, teaching methodology and professional formation. Results showed advances in the compliance of public laws. However, teaching is still offered in an instrumental mode, disregarding main deaf students' characteristics. Conclusions go beyond teaching sign language lexicon. It includes bilingualism and biculturalism, involving specific cultural, historical and educational features.
+C1 [de Oliveira Antonio, Luiz Claudio] Secretaria Municipal Educ Nova Iguacu, Nova Iguacu, Brazil.
+   [Kelman, Celeste Azulay] Univ Fed Rio De Janeiro UFRJ, Programa Posgrad Educ, Rio De Janeiro, Brazil.
+RP Antonio, LCD (autor correspondente), Secretaria Municipal Educ Nova Iguacu, Nova Iguacu, Brazil.
+EM lcoliveira@ines.gov.br; celeste@kelman.com.br
+CR BAKHTIN Mikhail M, 2014, MARXISMO FILOSOFIA L
+   BARBATO S., 2008, MODULO 6 METODOLOGIA
+   Bardin L., 2011, ANALISE CONTEUDO
+   CAMPELLO A. R., 2008, THESIS
+   de Almeida Joao Rangel, 2012, THESIS
+   deQUADROS R. M., 2006, IDEIAS ENSINAR PORTU
+   GESSER A, 2009, LIBRAS QUE LINGUA ES
+   HONORA M., 2009, LIVRO ILUSTRADO LING
+   KELMAN C. A., 2005, REV ESPACO RIO DE JA, P25
+   LEBEDEFF Tatiana Bolivar, 2017, LETRAMENTO VISUAL SU
+   Manzini E.J., 2003, COLOQUIOS PESQUISA E, P11
+   MOREIRA Antonio Flavio, 2000, CURRICULO CULTURA E
+   SACRISTAN J. G., 1998, CURRICULO REFLEXAO S
+   SILVA Tomaz Tadeu., 2001, CURRICUL COM FETICHE, V2
+   Stake, 2011, PESQUISA QUALITATIVA
+   [No title captured]
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV FEDERAL MATO GROSSO SUL
+PI NAVIRAI
+PA AV COSTA & SILVA, S-N-CIDADE UNIV, CAMPO GRANDE-MS, NAVIRAI, 79070-900,
+   BRAZIL
+SN 2358-1840
+J9 PERSPECT DIALOGO
+JI Perspect. Dialogo
+PD JUL-DEC
+PY 2019
+VL 6
+IS 13
+BP 94
+EP 110
+PG 17
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA JZ1ED
+UT WOS:000504847200007
+DA 2022-06-24
+ER
+
+PT J
+AU de Los Santos, BD
+   Alves, UK
+AF de Los Santos, Bruna da Rosa
+   Alves, Ubirata Kickhofel
+TI THE PRODUCTION OF UNSTRESSED WORD-FINAL /e/ IN BRAZILIAN PORTUGUESE (L1)
+   AND SPANISH (L2) - AN EXPLORATORY STUDY
+SO MATRAGA-ESTUDOS LINGUISTICOS E LITERARIO
+LA Portuguese
+DT Article
+DE bilingualism; Spanish (L2); cognate status; L2 experience; vowel
+   production
+AB This article presents the results of an experiment on the production of Spanish (L2) word-final /e/ by Southern Brazilian learners. We aimed to the test the effects of two variables, i.e., cognate status and L2 experience in a formal teaching context (Group A: three years of study; Group B: between four and six years of study). The production of the final vowels of the target words, inserted in carrier sentences, were analyzed acoustically. The results showed an effect of language, which indicates that Spanish learners distinguish between the unstressed vowel /e/ in Portuguese and Spanish in terms of height and frontness/backness. However, no effect was found for cognate status and L2 experience. These results raise a discussion on the role of the cognate status variable in the oral productions of more experienced learners.
+C1 [de Los Santos, Bruna da Rosa] Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+   [Alves, Ubirata Kickhofel] Univ Fed Rio Grande do Sul, CNPq, Porto Alegre, RS, Brazil.
+RP de Los Santos, BD (autor correspondente), Univ Fed Rio Grande do Sul, Porto Alegre, RS, Brazil.
+EM brunadarosa1@hotmail.com; ukalves@gmail.com
+RI Alves, Ubiratã/AAI-6260-2020
+CR ALARCOS LLORACH E., 1975, FONOLOGIA ESPANOLA
+   Aronson L., 2000, FONOAUDIOLOGICA, V46, P12
+   BECKNER C., 2009, LANGUAGE LEARNING
+   Best C. T., 2007, LANGUAGE EXPERIENCE, P13, DOI DOI 10.1075/LLLT.17.07BES
+   Best CT., 1995, SPEECH PERCEPTION LI, P171
+   BOERSMA P., PRAAT DOING PHONETIC
+   BRISOLARA L. B., 2016, AQUISICAO FONETICO F
+   BRISOLARA L. B., 2014, COMO PRONUNCIAR ESPA
+   CALLOU D., 1996, LETRAS HOJE PORTO AL, V31, P27
+   CALLOU Dinah, 2005, INICIACAO FONETICA F
+   CAMARA J. M, 1970, ESTRUTURA LINGUA POR
+   Christensen L.B., 2015, RES METHODS DESIGN A
+   CONDE X. F., 2001, REV PHILOLOGICA ROMA
+   de Bot K., 2013, CONT APPROACHES 2 LA
+   Dijkstra T., 1998, BILING-LANG COGN, V1, P51, DOI [DOI 10.1017/S1366728998000121, 10.1017/S1366728998000121]
+   Flege J.E., 1995, 2 LANGUAGE SPEECH LE, P233
+   Flege J.E., 2003, PHONETICS PHONOLOGY, P319, DOI [10.1515/9783110895094.319, DOI 10.1515/9783110895094.319]
+   KUPSKE F. F., 2016, THESIS
+   Ladefoged Peter., 2010, COURSE PHONETICS
+   Lemhofer K, 2004, MEM COGNITION, V32, P533, DOI 10.3758/BF03195845
+   LIMA JR, 2016, REV BRASILEIRA FONOL, V1, P146
+   LIMA JR, 2016, REVEL, V14, P203
+   LIPSKI J. M., 2007, ESPANOL DE AM
+   MACHRY DA SILVA S., 2015, AQUISICAO FONETICO F, V1, P91
+   MATZENAUER C. L. B., 2015, REV DA ABRALIN, V14
+   Meireles Alexsandro, 2015, ANALISE ACUSTICA FAL
+   MENEZES F. O., 2012, THESIS
+   PEREYRON L., 2016, DOMINIOS LINGUAGEM, V10, P616
+   Real Academia Espanola y Asociacion de Academias de la Lengua Espanola, 2011, NUEV GRAM LENG ESP F
+   Silva R.P., 2012, THESIS
+   VIEIRA M. J. B., 2015, REV DA ABRALIN, V14
+   VIEIRA M. J. B., 1994, THESIS
+   Vieira Maria Jose, 2002, FONOLOGIA VARIACAO R, P127
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNIV FED RIO DE JANEIRO, FAC LETRAS
+PI RIO DE JANEIRO RJ
+PA CIDADE UNIV, PROGRAM POS-GRAD LETRAS NEOLATINAS, AV HORACIO MACEDO,
+   2151, RIO DE JANEIRO RJ, CEP 21941-90, BRAZIL
+SN 1414-7165
+EI 2446-6905
+J9 MATRAGA
+JI Matraga
+PD MAY-AUG
+PY 2017
+VL 24
+IS 41
+BP 478
+EP 496
+DI 10.12957/matraga.2017.28550
+PG 19
+WC Literature
+WE Emerging Sources Citation Index (ESCI)
+SC Literature
+GA FV3NF
+UT WOS:000424474300011
+OA Green Published, Green Submitted, gold
+DA 2022-06-24
+ER
+
+PT J
+AU Moret, MCFF
+   Rossarolla, JN
+   Mendonca, JGR
+AF Florencio Fernandes Moret, Marcia Cristina
+   Rossarolla, Juliana Negrello
+   Rodrigues Mendonca, Joao Guilherme
+TI BILINGUAL PROPOSAL IN DEAF EDUCATION: EDUCATIONAL PRACTICES IN LITERACY
+   PROCESS
+SO REVISTA IBERO-AMERICANA DE ESTUDOS EM EDUCACAO
+LA Portuguese
+DT Article
+DE Bilingualism; Literacy; Brazilian Sign Language (LIBRAS)
+AB The teaching and use of the Brazilian Sign Language - LIBRAS, in the deaf people education are indispensable for their development, building of their identity, autonomy, interpersonal relationships, beside the communication with the world. The acquisition of the Portuguese Language is part of the regular school curriculum, and its command provides a relationship between language and society, which is mostly formed by hearing and users of this language. There is a concern related to the deaf people education, especially in literacy phase, which consequently extends through all the regular schooling, where the most part of the deaf students are finishing the high school without knowing how to read and/or produce in Portuguese Language. This problem affects the social development of these subjects, since the Portuguese Language is still required as if it were the deaf mother tongue, not respecting his/her culture, that has LIBRAS as their first language. The object of this research it to verify the methods and techniques in the deaf people literacy process and seek for other models, based on bilingual theory, ensuring the acquisition of LIBRAS, as a natural language and the teaching of Portuguese Language in a second language methodology, so that, in fact, the acquisition of reading and writing skills materialize.
+C1 [Florencio Fernandes Moret, Marcia Cristina; Rossarolla, Juliana Negrello; Rodrigues Mendonca, Joao Guilherme] Univ Fed Rondonia UNIR, Porto Velho, RO, Brazil.
+   [Rodrigues Mendonca, Joao Guilherme] UNIR, Mestrado Profiss Educ Escolar, Porto Velho, RO, Brazil.
+   [Rodrigues Mendonca, Joao Guilherme] UNIR, Curso Posgrad Lato Sensu Educ Infantil, Porto Velho, RO, Brazil.
+   [Rodrigues Mendonca, Joao Guilherme] UNIR, Grp Estudos Desenvolvimento & Cultura Corporal, Porto Velho, RO, Brazil.
+   [Rodrigues Mendonca, Joao Guilherme] Univ Estadual Paulista, Nucleo Estudos Sexualidade NUSEX, Sao Paulo, Brazil.
+RP Moret, MCFF (autor correspondente), Univ Fed Rondonia UNIR, Porto Velho, RO, Brazil.
+EM marcia.moret@ifro.edu.br; juliana.rossarolla@ifro.edu.br;
+   jgrmendonca@bol.com.br
+CR BRASIL, 2015, CONSTITUICAO REPUBLI
+   BRASIL, 1996, LEI DIRETRIZES BASES
+   BRASIL. Ministerio da educacao, POLITICA DE INCLUSAO
+   DE PAULA A. R, 2007, HORA VEZ FAMILIA SOC
+   FERREIRA BRITO L., 1993, INTEGRACAO SOCIAL ED
+   Moret MCFF, 2017, REV IBERO-AM ESTUD E, V12, P1792, DOI 10.21723/riaee.v12.n.3.8734
+   FRANCO M. A. S., 2005, EDUCACAO PESQUISA, V31
+   GOMES Nilma L., 2007, INDAGACOES CURRICULO
+   Nidia Regina Limeira de SA, 2010, CULTURA PODER EDUCAC
+   OMOTO Sadao, 1999, REV EDUCACAO PROCESS, V1
+   QUADROS R. M., 1997, EDUCACAO SURDOS AQUI
+   SACKS O., 1990, VENDO VOZES
+   SASSAKI Romeu Kazumi., 1997, INCLUSAO CONSTRUINDO
+   Skliar C.B., 2013, SURDEZ OLHAR DIFEREN
+   VIGOTSKI L. S., 2001, CONSTRUCAO PENSAMENT
+NR 16
+TC 1
+Z9 1
+U1 0
+U2 8
+PU UNIV ESTADUAL PAULISTA-UNESP, FAC CIENCIAS LETRAS ASSIS
+PI ASSIS
+PA CENTRO DOCUMENTACAO & APOIO PESQUISA AV DOM ANTONIO, 2100-PQ UNIV,
+   ASSIS, SP CEP-19806900, BRAZIL
+SN 2446-8606
+EI 1982-5587
+J9 REV IBERO-AM ESTUD E
+JI Rev. Ibero-Am. Estud. Educ.
+PD JUL-SEP
+PY 2017
+VL 12
+IS 3
+BP 1792
+EP 1801
+DI 10.21723/riaee.v12.n.3.8734
+PG 10
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA FG7ZQ
+UT WOS:000410644800015
+DA 2022-06-24
+ER
+
+PT J
+AU Menezes, MCB
+   Faustino, RC
+   Novak, MSJ
+AF Berdusco Menezes, Maria Christine
+   Faustino, Rosangela Celia
+   Jacomini Novak, Maria Simone
+TI Literacy and learning of the native language as a foreign language in
+   indigenous schools in Parana
+SO LINGUAS & LETRAS
+LA Portuguese
+DT Article
+DE Literacy; Kaingang children; Language teaching methodologies
+AB There are studies on the Kaingang Indigenous peoples of Parana that contribute to the understanding of their history, culture, social and linguistic organization. However, on schooling and the appropriation of written language, both in the Kaingang language and in the Portuguese language, the researches and publications are rare, even though it's a very relevant theme, given the accelerated pace of the loss of minority languages in the world and in Brazil, because of a neoliberal policy of minimal state and little investment in teacher training to work in socially relevant areas such as languages, including indigenous languages that require investment in the training of indigenous teachers and linguists. In this article, the result of bibliographical, documentary and empirical researches, we present the literacy process during the appropriation of written language, the relationship with bilingualism and the process of teaching and learning of the indigenous native tongue that even among monolingual children in Kaingang, is put into the organization of the curriculum and receives the treatment of a foreign language, which can seriously compromise learning and literacy of both the indigenous language and the Portuguese language. It is evident that investment in the continuied education of indigenous teachers is one of the strategies to overcome this situation.
+C1 [Berdusco Menezes, Maria Christine; Faustino, Rosangela Celia] Univ Estadual Maringa, BR-87020900 Maringa, Parana, Brazil.
+   [Jacomini Novak, Maria Simone] Univ Estadual Parana, UNESPAR, BR-87703000 Paranavai, PR, Brazil.
+RP Menezes, MCB (autor correspondente), Univ Estadual Maringa, BR-87020900 Maringa, Parana, Brazil.
+EM mcbmenezes@gmail.com; rcfaustino@uem.br; maria.novak@unespar.edu.br
+CR [Anonymous], 1988, CONSTITUICAO REPUBLI
+   Barros Maria Cândida Drumond Mendes, 2004, Rev. Antropol., V47, P45
+   BARROS Maria Candida Drumond Mendes, 1994, EM ABERTO, V14
+   BRASIL, 1998, REF CURR NAC ESC IND
+   CALVET Jean Louis, 2007, POLITIC LINGUISTICAS
+   CAVALCANTI Marilda do Couto, 2005, INDIO LEITURA ESCRIT
+   COOK-GUMPERZ J., 1991, CONSTRUCAO SOCIAL AL
+   Faustino R. C., 2006, THESIS
+   GRIZZI, 1981, QUESTAO EDUCACAO IND
+   IBGE IBdGeE, 2012, CENS DEM 2010 CAR GE
+   LURIA Alexander R., 2001, LINGUAGEM DESENVOLVI
+   MACEDO Donaldo, 2000, REV EDUCACAO SOC, V21
+   Menezes M. C. B., 2016, THESIS
+   MINDLIN Betty, 2003, EM ABERTO, V20, P148
+   Ministerio da Educacao e do Desporto, REF FORM PROF IND
+   Ministerio da Educacao e do Desporto, 1994, EM ABERTO, V14, P175
+   MOTA Lucio Tadeu, 2008, KAINGANG VALE RIO IV
+   Novak M. S. J., 2014, THESIS
+   PIMENTA-SILVA Miguel, 2011, CADMO REV HIST ANTIG, P225
+   ROCKWELL Elsie, 2010, CULTURA ESCRITA LETR, P101
+   Servico de Protecao ao Indio, 1942, REL GER AT SPI
+   UNESCO, 1954, INF REUN ESP ORG UNE
+   UNESCO, 2003, REUN INT EXP PROGR U
+   VIGOTSKI Lev Semionovich, 2007, FORMACAO SOCIAL MENT
+   Vygotsky L., 2003, IMAGINACION Y ARTE I
+   WIESEMANN Ursula Gojtej, 2002, DICIONARIO KAINGANG
+   [No title captured]
+NR 27
+TC 0
+Z9 0
+U1 1
+U2 2
+PU UNIV ESTADUAL OESTE PARANA-UNIOESTE
+PI PARANA
+PA CAMPUS DE CASCAVEL, RUA UNIV, 2069-3O PISO-SALA 82, CASCAVEL, PARANA,
+   CEP85819-110, BRAZIL
+SN 1517-7238
+EI 1981-4755
+J9 LINGUAS LET
+JI Linguas Let.
+PY 2019
+VL 20
+IS 46
+BP 27
+EP 45
+DI 10.5935/1981-4755.20190003
+PG 19
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA IH7NN
+UT WOS:000474691300003
+DA 2022-06-24
+ER
+
+PT J
+AU de Moura, AA
+   Freire, EL
+   Felix, NM
+AF de Moura, Anaisa Alves
+   Freire, Edileuza Lima
+   Felix, Neudiane Moreira
+TI BILINGUAL SCHOOLS FOR DEAF IN BRAZIL: A FIGHT TO BE WON
+SO REVISTA ON LINE DE POLITICA E GESTAO EDUCACIONAL
+LA Portuguese
+DT Article
+DE Bilingualism; LIBRAS (Brazilian sign language); Schools; Education
+AB This paper has the educational development of deaf community as main subject through its fights and as main objective to emphasize the importance of bilingual schools installation in Brazil. Theoretical background has been took from authors like Kyle (1999), Quadros (2009, 2004), Skliar (1997) and others. This study is a qualitative approach like a reflexive literature review, made since of readings and deepening in current literature about the theme, between January and May 2017. Results show that scholar institutions must adapt themselves in order to increase the educational valorization of the deaf, to increase their cognitive, social and intellectual development. Bilingual schools prioritize the Brazilian Sign Language (BSL) as primary language and the written Portuguese as the second language to the deaf students. Unlike the inclusive schools that insert deaf students among listeners students in a mixed classroom where the primary language is the Portuguese and the second one is BSL, and the interpreter becomes the mediator between the deaf student and the others, hindering the learning of the deaf. It is considered that bilingual schools are able to prepare their students to life through structured teaching based on the sign language, from the use of the language properties of the BSL, facilitating the development and learning of the deaf student in the classroom.
+C1 [de Moura, Anaisa Alves; Freire, Edileuza Lima] Ctr Univ INTA Uninta, Sobral, CE, Brazil.
+   [de Moura, Anaisa Alves] Univ Estadual Vale Acarau, Grp Pesquisa CNPq Grp Estudos & Pesquisas Autobio, Sobral, CE, Brazil.
+   [Felix, Neudiane Moreira] Ctr Univ INTA Uninta, Plano Nacl Articulacao, Sobral, CE, Brazil.
+   [Felix, Neudiane Moreira] Ctr Univ INTA Uninta, Educ Basica PARFOR UVA CAPES, Sobral, CE, Brazil.
+   [Felix, Neudiane Moreira] Area Educ Distancia UNINTA Ctr Univ INTA, Sobral, CE, Brazil.
+RP de Moura, AA (autor correspondente), Ctr Univ INTA Uninta, Sobral, CE, Brazil.; de Moura, AA (autor correspondente), Univ Estadual Vale Acarau, Grp Pesquisa CNPq Grp Estudos & Pesquisas Autobio, Sobral, CE, Brazil.
+EM anaisa1000@hotmail.com; edileuza_sbc@yahoo.com.br;
+   cesecgeral.neudiane@hotmail.com
+CR de QUADROS R. M., 2009, ESTUDOS SURDOS 4
+   de QUADROS R. M., 2004, ALFABETIZACAO ENSINO, P54
+   de SA N. R. L., 2002, CULTURA PODER EDUCAC
+   FERREIRA BRITO L., 1993, INTEGRACAO SOCIAL ED
+   JOKINEN M., 1999, ATUALIDADE EDUCACAO, V1
+   KYLE J., 1999, ATUALIDADE EDUCACAO, V1
+   LACERDA C. B. F., 1996, THESIS, P79
+   SKLIAR C., 1997, DESAFIOS POSSIBILIDA
+   SKLIAR Carlos, 1997, EDUCACAO EXCLUSAO AB EDUCACAO EXCLUSAO AB
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNESP-FACULDADE CIENCIAS & LETRAS
+PI ARARAQUARA
+PA DEPT CIENCIAS EDUCACAO, RODOVIA ARARAQUARA-JAU, KM 1-CAIXA POSTAL 174,
+   ARARAQUARA, SP 14800-901, BRAZIL
+SN 1519-9029
+J9 REV LINE POLIT GEST
+JI Rev. Line Polit. Gest.
+PD NOV
+PY 2017
+VL 21
+SI 2
+BP 1283
+EP 1295
+DI 10.22633/rpge.v21.n.esp2.2017.10172
+PG 13
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA GY8GL
+UT WOS:000448861100023
+OA Green Submitted, gold
+DA 2022-06-24
+ER
+
+PT J
+AU Szezecinski, AFM
+   Felicetti, VL
+AF Maciel Szezecinski, Antonio Filipe
+   Felicetti, Vera Lucia
+TI Questioning the Atlas Complex: The Role of the Teacher in the Learning
+   Process of the Adult Foreign Language Student
+SO DIALOGO
+LA Portuguese
+DT Article
+DE Learning; Foreign Language; Bilingualism; Adult Students
+AB The current paper analyzes what is the role played by English Language teachers along the learning and acquisition process of an adult student through a bibliographical review of scholars that sought to comprehend such learning aspects of adult students. As a result, it was perceived that, driven by uncertainties and insecurities of their adult students, many teachers tend to take total responsibility during the learning and teaching process, that is, the teacher is the center and all are aimed at him. Such behavior reveals to be harmful to the student's autonomy when the latest need to use it "far from the teacher's eyes". The paper concludes by perceiving that the adult students, just like any other student in a learning process, needs to be active in his learning, allowing them to discover ways to overpass obstacles inherent to foreign language learning.
+C1 [Maciel Szezecinski, Antonio Filipe] Univ La Salle Unilasalle, Teorias & Prat Educ, Canoas, RS, Brazil.
+   [Felicetti, Vera Lucia] Amer Latina Latin Amer Studies Assoc, Educ Ciencias & Polit Educ, Pittsburgh, PA 15260 USA.
+   [Felicetti, Vera Lucia] Univ La Salle, Curso Posgrad Educ, Canoas, RS, Brazil.
+   [Felicetti, Vera Lucia] Univ La Salle, Curso Matemat, Canoas, RS, Brazil.
+RP Szezecinski, AFM (autor correspondente), Univ La Salle Unilasalle, Teorias & Prat Educ, Canoas, RS, Brazil.
+RI Felicetti, Vera Lucia VLF/S-4405-2017; Felicetti, Vera L/J-5805-2015
+OI Felicetti, Vera Lucia VLF/0000-0001-6156-7121; Felicetti, Vera
+   L/0000-0001-6156-7121
+CR ALMEIDA Ricardo Luiz Teixeira, ELT BRAZILIAN PUBLIC
+   BROWN H. Douglas, 2007, TEACHING PRINCIPLES, P104
+   Ellis R., 1985, UNDERSTANDING 2 LANG
+   LEE James F., 2003, MAKING COMMUNICATIVE, P06
+   Mendes Tania Maria Scuro, 2012, ADOLESCENCIA ENVELHE
+   OLIVEIRA L. A., 2015, AULA INGLES PLANEJAM
+   OSORIO Claudio Maria da Silva, 2013, CICLO VIDA HUMANA PE, P193
+   Pazin Filho A., 2007, Medicina (Ribeirao Preto), V40, P7
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CENTRO UNIV LA SALLE
+PI CANOAS
+PA AV VICTOR BARRETO 2288, CENTRO, CANOAS, RS 92010-000, BRAZIL
+SN 1519-3640
+EI 2238-9024
+J9 DIALOGO
+JI Dialogo
+PD DEC
+PY 2018
+IS 39
+BP 83
+EP 92
+DI 10.18316/dialogo.v0i39.4007
+PG 10
+WC Social Sciences, Interdisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Social Sciences - Other Topics
+GA HJ1XS
+UT WOS:000456959300007
+OA gold, Green Submitted
+DA 2022-06-24
+ER
+
+PT J
+AU Schiavon, DN
+   Hayashi, MCPI
+AF Schiavon, Daiane Natalia
+   Piumbato Innocentini Hayashi, Maria Cristina
+TI Scientific production on the subject of Deaf Education in the Spanish
+   context: a bibliometric analysis
+SO EM QUESTAO
+LA Portuguese
+DT Article
+DE Education of the deaf; Spain; Scientific production; Bibliometria
+AB The education of deaf students is a theme present in academic debates, being reflected in studies in the scenario of national and international scientific production, The aim of the present work is to identify and analyze the Spanish scientific production from doctoral theses on the education of the deaf and to present bibliometric indicators that best represent the profile of the themes of these researches. From a bibliometric approach combined with the content analysis, the study chose to select the Theses Database and Doctoral Thesis Network, both from the Ministry of Education, Culture and Sport of the Government of Spain, through the use of the following search terms "deaf" and "hearing impaired". The following categories were analyzed in the selected corpus (n = 45): temporal evolution, authors, supervisors and their respective genres, defense institutions, areas of knowledge, themes and communicative approaches used in the studies. The results of this bibliometric panorama express a diverse scientific production on the education of the deaf in doctoral programs (n = 28) in Spanish universities (n = 22) on different topics, including those related to the target population of the studies and the assistive biotechnologies, with preponderance of studies in the areas of Education, Psychology and Linguistics. It was verified that among the communicative approaches adopted in the studies preponderated oralism and bilingualism. In the conclusions it is recommended that future studies use different databases and documentary typologies, such as scientific articles, aiming to establish comparisons and to broaden the analyzes on the scientific production of deaf education.
+C1 [Schiavon, Daiane Natalia; Piumbato Innocentini Hayashi, Maria Cristina] Univ Fed Sao Carlos, Sao Carlos, SP, Brazil.
+RP Schiavon, DN (autor correspondente), Univ Fed Sao Carlos, Sao Carlos, SP, Brazil.
+EM daia_schiavon@yahoo.com.br; dmch@ufscar.br
+CR Albres Neiva Aquino, 2013, CAD TRADUCAO, V1, P179
+   Arik E, 2014, J SCIENTOMETR RES, V3, P143, DOI 10.4103/2320-0057.153583
+   BENTES JOSÉ ANCHIETA DE OLIVEIRA, 2016, Rev. Bras. Educ., V21, P851, DOI 10.1590/S1413-24782016216744
+   BORGES Elaine, 2010, LINGUAGEM ENSINO PEL, V13, P397
+   CNSE Confederacion Estatal de Personas Sordas, 2015, FUND CNSE SUP BARR C
+   da Silva RA, 2011, EM QUESTAO, V17, P289
+   dos Santos SA, 2017, PERSPECT CIENC INF, V22, P35, DOI 10.1590/1981-5344/2776
+   ESPANA. Ministerio de Educacion Cultura y Deporte, 2008, SIST ED ESP
+   Fernandez-Cano A, 2012, SCIENTOMETRICS, V91, P15, DOI 10.1007/s11192-011-0572-x
+   FRANCESCUTTI P, 2018, CUADERNOS, V44
+   Gallego-Moron N, 2018, PROFESORADO, V22, P209, DOI 10.30827/profesorado.v22i3.7999
+   GASCON A., 2004, HIST EDUCACION SORDO
+   GONZALEZ PEREZ T, 2009, LARGO CAMINO HACIA E, P249
+   JANIS I, 1982, LINGUAGEM POLITICA
+   KING CM, 1989, J SPEC EDUC, V23, P279, DOI 10.1177/002246698902300304
+   KOBAYASHI E., 2014, SEM NAC CIENC TECN 1, P1
+   LACERDA Cristina Broglia Feitosa de, 1998, CAD CEDES, V19, P68
+   Minayo M. C. S., 1993, CAD SAUDE PUBLICA, V9, P237, DOI [10.1590/s0102-311x1993000300002, DOI 10.1590/S0102-311X1993000300002]
+   MONFORT M, 2006, PRACTICA COMUNICACIO
+   ONCE Organizacion Nacional de Ciegos Espalioles, 2015, PROYECT HIST EM PERS
+   RAMOS Denise Marina, 2018, Rev. bras. educ. espec., V24, P247, DOI 10.1590/s1413-65382418000200007
+   Ribeiro Camila Brito, 2017, Psic.: Teor. e Pesq., V33, pe3339, DOI 10.1590/0102.3772e3339
+   Rodrigues Jeorgina Gentil, 2016, Cad. Pagu, V0, P197, DOI 10.1590/18094449201600460197
+   Jimenez RS, 2017, REV ESP DOC CIENT, V40, DOI 10.3989/redc.2017.4.1409
+   Sanz-Casado E., 2011, REV PEDAGOGIA, V63, P101
+   SCHIAVON D. N., 2018, INTERFACES EDUCACAO, V9, P404
+   SCHIAVON D. N, 2017, THESIS
+   Silva M. R., 2011, REV CIENCIA INFORMAC, V2, P110
+   TIANA FERRER A, 2004, EDUCACAO CONHECIMENT, P293
+   van Raan AFJ, 2004, HANDBOOK OF QUANTITATIVE SCIENCE AND TECHNOLOGY RESEARCH: THE USE OF PUBLICATION AND PATENT STATISTICS IN STUDIES OF S&T SYSTEMS, P19
+NR 30
+TC 1
+Z9 1
+U1 1
+U2 16
+PU UNIV FEDERAL RIO GRANDE SUL, FAC BIBLIOTECONOMIA & COMUNICACAO
+PI PORTO ALEGRE
+PA RUA RAMIRO BARCELOS, 2705, SALA 519, PORTO ALEGRE, RS 90040-060, BRAZIL
+SN 1807-8893
+EI 1808-5245
+J9 EM QUESTAO
+JI Em. Questao
+PD JAN-APR
+PY 2020
+VL 26
+IS 1
+BP 65
+EP 83
+DI 10.19132/1808-5245261.65-83
+PG 19
+WC Information Science & Library Science
+WE Emerging Sources Citation Index (ESCI)
+SC Information Science & Library Science
+GA JW4OV
+UT WOS:000503033600005
+OA Green Published, gold
+DA 2022-06-24
+ER
+
+PT J
+AU Fortes, L
+AF Fortes, Laura
+TI The emergence of bilingual education discourse in Brazil: bilingualisms,
+   language policies, and globalizing circumstances
+SO INTERNATIONAL JOURNAL OF BILINGUAL EDUCATION AND BILINGUALISM
+LA English
+DT Article
+DE Bilingual education; discourse; bilingualism; Brazil; language policy;
+   globalization
+AB This paper discusses the social and political implications of the emergence of Portuguese-English bilingual education discourse in Brazil, which has been widely disseminated since the 1990s. Initially, a discursive analysis of prestige bilingualism concepts will be presented. Second, the issue of language policies will be addressed through the analysis of the discursive disjunction public school English'/private language school English'. This will be followed by a brief discussion of the globalizing circumstances implied in internationalization practices of private educational provision in Brazil underlying the emergence of Portuguese-English bilingual schools in the country. Finally, these three issues will be articulated in order to understand bilingual education discourse in Brazil as emerging from and interacting with existing discursivities of English language teaching/learning practices which were historically and politically established in the national educational system.
+C1 [Fortes, Laura] Univ Sao Paulo, Modern Languages & Literatures Dept, Sao Paulo, Brazil.
+RP Fortes, L (autor correspondente), Univ Sao Paulo, Modern Languages & Literatures Dept, Sao Paulo, Brazil.
+EM laurates@usp.br
+RI Fortes, Laura/AAW-5079-2020
+OI Fortes, Laura/0000-0001-9099-1802
+FU CAPES Foundation, Ministry of Education of Brazil [3760/14-6]; Fapesp,
+   Sao Paulo Research Foundation [2012/21924-3]
+FX This work was supported by CAPES Foundation, Ministry of Education of
+   Brazil, under Grant 3760/14-6; and Fapesp, Sao Paulo Research
+   Foundation, under Grant 2012/21924-3.
+CR [Anonymous], 1994, CULTURAL POLITICS EN
+   [Anonymous], 2010, THESIS
+   BAGHIN- SPINELLI D. C. M., 2002, THESIS
+   Baker C., 2011, FDN BILINGUAL ED BIL
+   Bialystok E., 2001, BILINGUALISM DEV LAN
+   Campos Marcia Aparecida Ferreira, 2007, THESIS
+   Corredato V. D., 2010, ENSINO BILINGUEEM SA
+   Cummins J., 1986, BILINGUALISM ED ASPE
+   David A. M. F., 2007, CONCEPCOES ENSINOAPR
+   de Mejia A.-M., 2002, MULTILINGUAL MATTERS, DOI [10.21832/9781853595929, DOI 10.21832/9781853595929]
+   deMELLO H. A. B., 2002, THESIS
+   Donnini Livia, 2010, COLECAO IDEIASEM ACA
+   Erlacher A. C., 2009, THESIS
+   Favaro F. M., 2009, EDUCACAO INFANTILE B
+   Foucault M, 1972, ARCHAEOLOGY KNOWLEDG
+   Garcia Barros, 2011, THESIS
+   Garcia O., 2008, BILINGUAL ED 21 CENT, V1
+   Grosjean F., 1982, LIFE 2 LANGUAGES INT
+   Guimaraes Eduardo, 2002, SEMANTICA ACONTECIME, P11
+   Gussi Alcides Fernando, 1996, IDENTIDADES CONTEXTO
+   Hamers J., 2000, BILINGUALITY BILINGU
+   Heller M, 2007, PALGRAVE ADV, P1, DOI 10.1057/9780230596047
+   McCarthya C, 2014, GLOB SOC EDUC, V12, P165, DOI 10.1080/14767724.2014.893188
+   Moraes M., 1996, BILINGUAL ED DIALOGU
+   Moura Selma de Assis, 2009, THESIS
+   Orlandi Eni Puccinelli, 2007, POLITICALINGUISTICA
+   Pecheux M., 2014, LACAN DISCOURSE EVEN, P77
+   Pecheux Michel, 1997, GESTOS LEITURA HIST, P49
+   Pennycook A., 2007, DISINVENTING RECONST
+   Pennycook A., 2010, LANGUAGE LOCAL PRACT
+   Pennycook Alastair, 2001, CRITICAL APPL LINGUI
+   Romaine, 1989, BILINGUALISM
+   Souza S. P., 2005, THESIS
+   Uyeno Elzira Yoko, 2011, BILINGUISMOS SUBJETI
+   Weis L, 2014, GLOB SOC EDUC, V12, P309, DOI 10.1080/14767724.2014.899130
+   Williams, 1999, FRENCH DISCOURSE ANA
+NR 36
+TC 0
+Z9 0
+U1 2
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1367-0050
+EI 1747-7522
+J9 INT J BILING EDUC BI
+JI Int. J. Biling. Educ. Biling.
+PY 2017
+VL 20
+IS 5
+BP 574
+EP 583
+DI 10.1080/13670050.2015.1103207
+PG 10
+WC Education & Educational Research; Linguistics; Language & Linguistics
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Education & Educational Research; Linguistics
+GA FA4CA
+UT WOS:000405390200008
+DA 2022-06-24
+ER
+
+PT J
+AU de Paula, MH
+   Quiraque, ZAS
+AF de Paula, Maria Helena
+   Sozinho Quiraque, Zacarias Alberto
+TI Linguistic diversity, language rights and linguistic planning in
+   Mozambique: problems and challenges in the adoption of the language of
+   instruction in teaching and learning process
+SO GRAGOATA-UFF
+LA Portuguese
+DT Article
+DE Linguistic diversity; Language rights; Language of instruction
+AB Mozambique is a multilingual, plurilingual and multicultural country, where around twenty languages are classified as Bantu, with their specific characteristics but correlated. Between these languages, the most spoken is used by 26.1% of the population, which is one of the reasons why Mozambique is among the twenty-five African countries with high linguistic diversity. In this context, the question for our study is: what language to adopt for teaching to respect the linguistic rights of each individual to receive education in his mother tongue. To answer this question, (1) we discuss the adoption of Portuguese as the only language of teaching and subject since the post-independence period; (2) we analyzed critically the two models of education (monolingual and bilingual) that has being used in Mozambique and; also (3) we propose the strategy to improve the teaching and learning process of the country. Bibliographical research and introspection was the method we used to support the study, based in the position that Mozambique needs a model that promotes an initial bilingualism from the first years of schooling, prevising the continuity of the use of Bantu languages in the subsequent primary classes of education. In this perspective, it is necessary to instill a strong or concrete knowledge in the trainees of the Institutes of Teacher Training in matter of bilingual education, without forget to train the actual teacher in the same field, to guarante to the Mozambican citizen, to enjoy part of the linguistic rights established in 1996 by the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+C1 [de Paula, Maria Helena] Univ Fed Goias, Goiania, Go, Brazil.
+   [Sozinho Quiraque, Zacarias Alberto] Univ Eduardo Mondlane, Maputo, Mozambique.
+   [Sozinho Quiraque, Zacarias Alberto] CNPq, Brasilia, DF, Brazil.
+RP de Paula, MH (autor correspondente), Univ Fed Goias, Goiania, Go, Brazil.
+EM mhp.ufgcatalao@gmail.com; quiraque@gmail.com
+RI de Paula, Maria Helena/G-5661-2015
+OI de Paula, Maria Helena/0000-0002-7422-327X
+CR Benson CarolynJ., 1997, RELATORIO FINAL ENSI
+   CAPUCHO M. F., 2006, VEREDAS REV ESTUDOS, V10, P2
+   CHAMBO G. A., 2014, TEMAS GRAMATICAS LIN
+   CHIMBUTANE F. S., 2015, REV CIENT UEM SER CI, V1, P7
+   Dias H. N., 2002, DESIGUALDADES SOCIOL
+   FIRMINO G., 2015, REV CIENT UEM SER CI, V1, P121
+   INDE, PROGR ED BIL 2 CICL
+   INTITUTO NACIONAL DE ESTATISTICA, MOC PROJ 2007 2040
+   LOPES A J, 2002, MOCAMBICANISSIMOS LE
+   Lopes A. J., 1997, POLITICA LINGUISTICA
+   MABASSO E, 2012, REV CIENT UEM SER CI, V1, P21
+   MABASSO E., 2010, THESIS
+   MOCAMBIQUE, 2004, CONST REP MOC
+   Ngunga A., 2011, PRATICAS LINGUISTICA
+   PATEL S. A., 2006, OLHARES EDUCACAO BIL
+   PAULA M. H. de, DOMINIOS LINGUAGEM, V10, P1220
+   SITOE B., 2017, LINGUAGEM ESTUDOS PE, V20, P1
+   UACIQUETE A. S., 2011, MODELO ADM EDUCACAO
+   UNESCO, 1996, DECL UN DIR LING
+NR 19
+TC 0
+Z9 0
+U1 2
+U2 8
+PU UNIV FEDERAL FLUMINENSE
+PI RIO DE JANEIRO
+PA CAMPUS DE PRAIA VERMELHA, AVE MILTON TAVARES SOUZA S-N, RIO DE JANEIRO,
+   24210-340, BRAZIL
+SN 1413-9073
+EI 2358-4114
+J9 GRAGOATA-UFF
+JI Gragoata-UFF
+PD JAN-APR
+PY 2017
+VL 22
+IS 42
+BP 208
+EP 231
+DI 10.22409/gragoata.2017n42a906
+PG 24
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA FP9UM
+UT WOS:000417994000011
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Nogueira, AS
+AF Nogueira, Aryane S.
+TI LITERACY AND DEAF EDUCATION
+SO REVISTA DA ANPOLL
+LA English
+DT Article
+DE Literacies; Language Education; Deaf Education; Minorities
+AB This paper addresses literacy from the perspective of deaf education studies', analyzing how this concept has reframed understandings about educational practices for deaf students, more specifically, the teaching of reading and writing in Portuguese. Based on three publications, two in the early 2000s related to scientific events in the field and a more recent one from 2018, we intend to show that a dialog was initially constructed between the concept of literacy as social practice and the sociolinguistic concept of bilingualism, which has been re-appropriated as a bilingual education project for the deaf. During this process, specific language practices have been established that have direct implications on how classroom literacy for deaf students has been seen until the present time.
+C1 [Nogueira, Aryane S.] Univ Estadual Campinas, Campinas, SP, Brazil.
+RP Nogueira, AS (autor correspondente), Univ Estadual Campinas, Campinas, SP, Brazil.
+EM aryane.santos.nogueira@gmail.com
+OI Santos Nogueira, Aryane/0000-0002-8679-5240
+FU FAPESP research project "Semiotic Repertory and Education of the Deaf:
+   Multilingualism and Multimodality in the Context of Sign Language"
+   [2017/20256-0]
+FX This discussion began in Nogueira (2015) and has had a direct
+   relationship with the development of the FAPESP research project
+   "Semiotic Repertory and Education of the Deaf: Multilingualism and
+   Multimodality in the Context of Sign Language" (n. 2017/20256-0), as
+   well as a current postdoctoral research project entitled "Interfaces
+   entre o portugues e os repertorios sociossemioticos de aprendizes
+   surdos" (Interfaces between Portuguese and socio-semiotic repertories of
+   deaf learners).
+CR AMADO B. C, 2018, LETRAMENTO DIVERSIDA, P267
+   Barton D., 1994, LITERACY INTRO ECOLO
+   BLOOME D., 2017, LITERACIES LANGUAGE
+   CAMPOS S. R. L, 2004, LEITURA ESCRITA CONT, P50
+   Cassany D., 2010, CILELIJ, P497
+   CAVALCANTI M. C., 2011, QUESTOES METODO LING
+   CAVALCANTI M. C., 1999, DELTA S O PAULO, V15, P385
+   FERNANDES S, 2008, LINGUA PORTUGUESA MU
+   FERNANDES Sueli, 2006, PRATICAS LETRAMENTOS PRATICAS LETRAMENTOS
+   Garcia MA, 2002, IFAC WORK S, P71
+   GESUELI Z. M, 2004, LEITURA ESCRITA CONT, P39
+   GIORDANI L. F., 2004, LEITURA ESCRITA CONT, P73
+   GOES M. C. R., 2002, LETRAMENTO MINORIAS, P110
+   Heath S. B., 1983, WAYS WORDS
+   IBRAHIM N, 2017, LITERACIES LANGUAGE
+   KARNOPP L., 2004, LEITURA ESCRITA CONT, P33
+   KARNOPP L. B, 2002, LETRAMENTO MINORIAS, P56
+   KLEIMAN A. B., 1995, OS SIGNIFICADOS DO L
+   LACERDA C. B. F, 2002, LETRAMENTO MINORIAS, P120
+   Lacerda Cristina Broglia Feitosa de, 2006, Cad. CEDES, V26, P163, DOI 10.1590/S0101-32622006000200004
+   LODI A. C. B., 2004, LEITURA ESCRITA CONT, P19
+   LODI A. C. B, 2014, ESCOLA DUAS LINGUAS
+   LODI A. C. B., 2004, LEITURA ESCRITA CONT
+   LODI A. C. B., 2014, BAKHTINIANA SAO PAUL, V9, P137
+   LODI A. C. B., 2012, LETRAMENTO BILINGUIS
+   LODI A. C. B., 2002, LETRAMENTO MINORIAS, P35
+   Monteiro MS, 2006, ETD EDUC TEMAT DIGIT, V7, P292
+   Nogueira A.A.E., 2015, THESIS
+   Nogueira Aryane Santos, 2018, Ling. (dis)curso, V18, P673, DOI 10.1590/1982-4017-180301-do0118
+   Pereira MCD, 2014, EDUC REV-CURITIBA, P143, DOI 10.1590/0104-4060.37236
+   QUADROS R. M., 2018, LETRAMENTO DIVERSIDA, P13
+   RANGEL G., 2004, LEITURA ESCRITA CONT, P86
+   RODRIGUES C. H., 2018, LETRAMENTO DIVERSIDA, P75
+   ROJO R, 1998, ALFABETIZACAO E LETR
+   ROJO R. H. R., 2009, LETRAMENTOS MULTIPLO
+   SANDER R, 2002, LETRAMENTO MINORIAS, P129
+   SCHULTZ K., 2017, LITERACIES LANGUAGE
+   SIGNORINI I., 2004, ENCY LINGUISTICS, P627
+   SIGNORINI I., 2001, INVESTIGANDO RELACAO
+   Silva M, 2018, USNC-URSI RADIO SCI, P41, DOI 10.1109/USNC-URSI.2018.8602750
+   SKLIAR C, 1997, ESPACO INES MEC, V4, P49
+   SKLIAR C, 2002, LETRAMENTO MINORIAS, P5
+   SKLIAR Carlos, 1998, SURDEZ OLHAR DIFEREN
+   SOUZA R. M., 2002, LETRAMENTO MINORIAS, P136
+   Street B., 2017, LITERACIES LANGUAGE
+   Street B., 1984, LITERACY THEORY PRAC
+   STUMPF M. R., 2002, LETRAMENTO MINORIAS, P62
+   TERZI S. B., 2001, CONSTRUCAO LEITURA E
+   TESKE O, 2012, LETRAMENTO BILINGUIS
+   [No title captured]
+NR 50
+TC 0
+Z9 0
+U1 3
+U2 7
+PU ASSOC NAC POS-GRADUACAO PESQUISA LETRAS & LINGUISTICA
+PI BRASILIA
+PA ASSOC NAC POS-GRADUACAO PESQUISA LETRAS & LINGUISTICA, BRASILIA, 00000,
+   BRAZIL
+SN 1414-7564
+EI 1982-7830
+J9 REV ANPOLL
+JI Rev. Anpoll
+PD JUL-SEP
+PY 2019
+VL 1
+IS 49
+BP 105
+EP 118
+DI 10.18309/anp.v1i49.1305
+PG 14
+WC Language & Linguistics
+WE Emerging Sources Citation Index (ESCI)
+SC Linguistics
+GA JB8XD
+UT WOS:000488861600009
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU Goncalves, TD
+   Viapiana, VF
+   Fonseca, RP
+   Hubner, LC
+AF Goncalves, Talita dos Santos
+   Viapiana, Vanisa Fante
+   Fonseca, Rochele Paz
+   Hubner, Lilian Cristine
+TI Literacy, metalinguistic, and executive functions processing in
+   bilingual children speakers of similar typology languages in a border
+   area
+SO BILINGUALISM-LANGUAGE AND COGNITION
+LA English
+DT Article
+DE bilingualism; children; executive functions; metalanguage; literacy
+ID WORKING-MEMORY; ADVANTAGES; PROFICIENCY; EXPERIENCE; TASKS
+AB This study aimed to analyze whether there are differences between bilingual (Brazilian Portuguese and Spanish) and monolingual (Brazilian Portuguese) school children regarding reading and writing learning achievement, in executive functions (EF) components and metalinguistic abilities. Twenty-three bilingual and 23 monolingual children, aged 6 to 8 years, were assessed in terms of their writing, reading, and metalinguistic abilities, and with verbal and non-verbal tasks testing EF. A bilingual advantage was observed in reading and writing abilities and in 16 of the 44 EF measures, including subcomponents of working memory, inhibition, cognitive flexibility, and executive attention, mainly in non-verbal paradigms, while monolingual children outperformed bilingual ones in three scores: counting errors (Five Digits Test), omission of bells (Bells test) and sequential trial B (Trail Making Test). There were moderate and weak effect sizes in metalinguistic subcomponents showing bilingual advantage. Literacy improvement seems to have the potential to increase linguistic and cognitive abilities.
+C1 [Goncalves, Talita dos Santos] Fed Inst Alagoas IFAL, Batalha, Alagoas, Brazil.
+   [Viapiana, Vanisa Fante] Univ Passo Fundo UPF, Passo Fundo, RS, Brazil.
+   [Viapiana, Vanisa Fante; Fonseca, Rochele Paz] Pontifical Catholic Univ Rio Grande do Sul PUCRS, Psychol Grad Program Human Cognit, Porto Alegre, RS, Brazil.
+   [Fonseca, Rochele Paz; Hubner, Lilian Cristine] Natl Council Sci & Technol Dev CNPq Brasilia, Brasilia, DF, Brazil.
+   [Hubner, Lilian Cristine] Pontifical Catholic Univ Rio Grande do Sul PUCRS, Linguist Grad Program, Porto Alegre, RS, Brazil.
+RP Hubner, LC (autor correspondente), Natl Council Sci & Technol Dev CNPq Brasilia, Brasilia, DF, Brazil.; Hubner, LC (autor correspondente), Pontifical Catholic Univ Rio Grande do Sul PUCRS, Linguist Grad Program, Porto Alegre, RS, Brazil.
+EM lilian.c.hubner@gmail.com
+OI GONCALVES, TALITA/0000-0001-5033-4904
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - CAPES
+   (Higher Education Personnel Improvement Coordination); Conselho Nacional
+   de Desenvolvimento Cientifico e Tecnologico - CNPq (National Council for
+   Scientific and Technological Development); Pontifical Catholic
+   University of Rio Grande do Sul - PUCRS
+FX We thank Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior -
+   CAPES (Higher Education Personnel Improvement Coordination) and Conselho
+   Nacional de Desenvolvimento Cientifico e Tecnologico - CNPq (National
+   Council for Scientific and Technological Development) for scholarships
+   and research grants supporting this research. We also thank the
+   Pontifical Catholic University of Rio Grande do Sul - PUCRS for
+   financial support. We thank GNCE group members, coordinated by RPF, for
+   their support in tasks administration and scoring. Our special thanks to
+   the children, their parents, teachers and school members, who gently
+   participated and contributed to this study.
+CR American Psychological Association, 2010, EV CAS STUD
+   Dunabeitia JA, 2014, EXP PSYCHOL, V61, P234, DOI 10.1027/1618-3169/a000243
+   Anton E, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0206770
+   Anton Eneko, 2014, Front Psychol, V5, P398, DOI 10.3389/fpsyg.2014.00398
+   Associa?ao Brasileira de Empresas de Pesquisa, 2016, BRAZILIAN CRITERIA 2
+   Barac R, 2012, CHILD DEV, V83, P413, DOI 10.1111/j.1467-8624.2011.01707.x
+   Barrera Sylvia Domingos, 2003, Psicol. Reflex. Crit., V16, P491
+   Bialystok E, 2005, J EDUC PSYCHOL, V97, P580, DOI 10.1037/0022-0663.97.4.580
+   Bialystok E., 2001, BILINGUALISM DEV LAN, DOI [10.1017/CBO9780511605963, DOI 10.1017/CBO9780511605963]
+   Bialystok E, 2015, CHILD DEV PERSPECT, V9, P117, DOI 10.1111/cdep.12116
+   Bialystok Ellen, 2009, Psychol Sci Public Interest, V10, P89, DOI 10.1177/1529100610387084
+   Bialystok E, 2010, DEV PSYCHOL, V46, P93, DOI 10.1037/a0015466
+   Bialystok E, 2009, COGNITION, V112, P494, DOI 10.1016/j.cognition.2009.06.014
+   Blom E, 2014, J EXP CHILD PSYCHOL, V128, P105, DOI 10.1016/j.jecp.2014.06.007
+   Carlson SM, 2008, DEVELOPMENTAL SCI, V11, P282, DOI 10.1111/j.1467-7687.2008.00675.x
+   Carvalho AM, 2002, HISPANIA-J DEV INTER, V85, P597, DOI 10.2307/4141149
+   Chung-Fat-Yim A, 2019, INT J BILINGUAL, V23, P1278, DOI 10.1177/1367006918781059
+   Cohen C., 2013, INT WORKSH BIL COGN
+   Cohen J., 1988, V2
+   Davidson D., 2008, BOST U C LANG DEV BO
+   Davidson D, 2010, COGNITIVE DEV, V25, P166, DOI 10.1016/j.cogdev.2009.07.003
+   de Abreu PMJE, 2011, MEMORY, V19, P529, DOI 10.1080/09658211.2011.590504
+   Diamond A, 2013, ANNU REV PSYCHOL, V64, P135, DOI 10.1146/annurev-psych-113011-143750
+   Eviatar Z, 2018, APPL PSYCHOLINGUIST, V39, P649, DOI 10.1017/S0142716417000613
+   Fonseca RP., 2015, NEUROPSICOLOGIA DESE
+   FRANCIS N, 2002, LINGUIST EDUC, V13, P373, DOI DOI 10.1016/S0898-5898(01)00077-8
+   Gathercole VCM, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00011
+   Goldin-Meadow S, 2014, AM PSYCHOL, V69, P588, DOI 10.1037/a0036886
+   Green DW, 2013, J COGN PSYCHOL, V25, P515, DOI 10.1080/20445911.2013.796377
+   Grosjean F., 2010, INTRO
+   Halsey LG, 2019, BIOL LETTERS, V15, DOI 10.1098/rsbl.2019.0174
+   Hartanto A, 2019, CHILD DEV, V90, P1215, DOI 10.1111/cdev.13032
+   Hilchey MD, 2011, PSYCHON B REV, V18, P625, DOI 10.3758/s13423-011-0116-7
+   Hubner LC., 2016, CONECTA REV REDE NAC, P1
+   Jaekel N, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0209981
+   Kang JY, 2012, READ WRIT, V25, P411, DOI 10.1007/s11145-010-9277-4
+   Kremin LV, 2019, INT J BILING EDUC BI, V22, P192, DOI 10.1080/13670050.2016.1239692
+   Kroll JF, 2014, CURR DIR PSYCHOL SCI, V23, P159, DOI 10.1177/0963721414528511
+   Kroll JF, 2013, J COGN PSYCHOL, V25, P497, DOI 10.1080/20445911.2013.799170
+   Laurent A, 2010, READ WRIT, V23, P435, DOI 10.1007/s11145-009-9209-3
+   Luo L, 2010, COGNITION, V114, P29, DOI 10.1016/j.cognition.2009.08.014
+   Marion V, 2007, J SPEECH LANG HEAR R, V50, P940, DOI 10.1044/1092-4388(2007/067)
+   Martin-Rhee MM, 2008, BILING-LANG COGN, V11, P81, DOI 10.1017/S1366728907003227
+   Mendonca SM., 2009, 61 F TRABALHO CONCLU
+   Morais AB., 2016, CONSTRU O EVID NCIAS
+   Morales J, 2013, J EXP CHILD PSYCHOL, V114, P187, DOI 10.1016/j.jecp.2012.09.002
+   Morello R, 2019, LING INSTRUM LINGUIS, P217
+   Paap KR, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00962
+   Paap KR, 2015, CORTEX, V69, P265, DOI 10.1016/j.cortex.2015.04.014
+   Pianta P., 2011, 102 F DISSERTA O MES
+   Poarch GJ, 2015, DEV REV, V35, P113, DOI 10.1016/j.dr.2014.12.003
+   Proctor CP, 2010, BILING RES J, V33, P5, DOI 10.1080/15235881003733209
+   Safinia L., 2015, METALINGUISTIC AWARE
+   Salles JF., 2016, INSTRUMENTO AVALIA O
+   Sanchez-Azanza VA, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0176151
+   Schuele C.M., 2006, ASHA LEADER, V11, DOI [https://doi.org/10.1044/leader.FTR4.11102006.14, DOI 10.1044/LEADER.FTR4.11102006.14]
+   Sedo M., 2015, TESTE 5 D GITOS
+   Serratrice L, 2009, BILING-LANG COGN, V12, P239, DOI 10.1017/S1366728909004027
+   Siqueira Larissa de Souza, 2016, Trends Psychiatry Psychother., V38, P164, DOI 10.1590/2237-6089-2016-0019
+   Stein LM., 2019, TESTE DESEMPENHO ESC, V1, P180
+   Trevisan BT., 2012, AVALIA O NEUROPSICOL, P92
+   Valian V, 2016, LINGUIST APPROACH BI, V6, P565, DOI 10.1075/lab.15044.val
+   Valian V, 2015, BILING-LANG COGN, V18, P3, DOI 10.1017/S1366728914000522
+   Yates DB., 2006, AVALIACAO PSICOL, V5, P227, DOI DOI 10.14393/UFU.DI.2001.46
+NR 64
+TC 0
+Z9 0
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1366-7289
+EI 1469-1841
+J9 BILING-LANG COGN
+JI Biling.-Lang. Cogn.
+PD AUG
+PY 2021
+VL 24
+IS 4
+BP 758
+EP 766
+AR PII S1366728920000735
+DI 10.1017/S1366728920000735
+PG 9
+WC Linguistics; Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Linguistics; Psychology
+GA TD7KK
+UT WOS:000669500800014
+DA 2022-06-24
+ER
+
+PT J
+AU Jakubow, APSP
+   Correa, LMS
+AF Jakubow, Ana Paula S. P.
+   Sicuro Correa, Leticia M.
+TI VARIATION UNDER A PSYCHOLINGUISTIC PERSPECTIVE: NUMBER AGREEMENT IN
+   BRAZILIAN PORTUGUESE AND THE IMPACT OF SCHOOLING
+SO ILHA DO DESTERRO-A JOURNAL OF ENGLISH LANGUAGE LITERATURES IN ENGLISH
+   AND CULTURAL STUDIES
+LA English
+DT Article
+DE Linguistic Variation; Number Agreement; Psycholinguistics;
+   Sociolinguistics; Schooling
+ID ACQUISITION; PATTERNS
+AB This paper' discusses the impact of schooling in the production of number agreement in Brazilian Portuguese (BP) by 6th graders in Rio de Janeiro. Number agreement in BP can vary between: (a) redundant, the standard variety, or (b) non-redundant, non-standard forms. Such variation is influenced by speakers' socioeconomic status (SES) and educational level. Results of an elicited production experiment carried out with 6th graders suggest influence of SES/ type of school and academic performance in language production; the effects of schooling and metalinguistic awareness are discussed. An account of language production is presented, which combines L1 and L2 models of speech production, considering the possibility of the coexistence of varieties in a single speaker to be akin to bilingualism.
+C1 [Jakubow, Ana Paula S. P.; Sicuro Correa, Leticia M.] Pontificia Univ Catolica Rio de Janeiro, Rio De Janeiro, RJ, Brazil.
+   [Sicuro Correa, Leticia M.] Pontificia Univ Catolica Rio de Janeiro, LAPAL Lab Psicolinguist & Aquisicao Linguagem, Rio De Janeiro, RJ, Brazil.
+RP Jakubow, APSP (autor correspondente), Pontificia Univ Catolica Rio de Janeiro, Rio De Janeiro, RJ, Brazil.
+EM anapaulaspj@gmail.com; lscorrea@puc-rio.br
+OI S. P. Jakubow, Ana Paula/0000-0002-7832-2056
+FU FAPERJ [E-24/202.959/2017]; CNPq [309499/2016]
+FX This paper is the result of the doctoral research carried out by the
+   irst author (doctoral scholarship CNPq 2014 - 2018), under the
+   supervision of the second author at the Pontiical Catholic University of
+   Rio de Janeiro (PUC-Rio), in the development of the research program of
+   the Language Acquisition and Psycholinguistics Lab (LAPAL-PUC-Rio),
+   supported by FAPERJ E-24/202.959/2017 and CNPq 309499/2016.
+CR Adger D, 2010, LINGUA, V120, P1109, DOI 10.1016/j.lingua.2008.05.007
+   Almeida Jr EB, 2010, THESIS
+   Alves Maria Teresa Gonzaga, 2014, Ensaio: aval.pol.públ.Educ., V22, P671, DOI 10.1590/S0104-40362014000300005
+   [Anonymous], 2017, BAS NAC COM CURR
+   Bachman L., 1996, LANGUAGE TESTING PRA
+   BACHMAN L., 2003, LINGUAGEM ENSINO, V6, P77
+   Bagetti T, 2009, P 35 ANN BOST U C LA
+   Bagno Marcos, 2005, Rev. bras. linguist. apl., V5, P63
+   Basit TN, 2015, INT J EARLY YEARS ED, V23, P115, DOI 10.1080/09669760.2014.973838
+   Brandao S., 2015, CUADERNOS ALFAL, V7, P36
+   Brandao S. F., 2011, REV VEREDAS, V15, P164
+   Brandao S. F, 2016, ACT 27 C INT LING PH, P41
+   Brandao SF, 2013, J PORT LINGUIST, V12, P51, DOI 10.5334/jpl.68
+   Brasil. Ministerio da Educacao, 2017, CENS ESC ED BAS 2016
+   Canale M., 1980, APPL LINGUISTICS, V1, P1, DOI [https://doi.org/10.1093/applin/1.1.1, DOI 10.1093/APPLIN/1.1.1]
+   Castro A, 2007, LET HOJE, V42, P65
+   Correa Leticia M. S, 2006, 30 ANN BOST U C LANG
+   Jakubow APDP, 2018, REV ANPOLL, V1, P47, DOI 10.18309/anp.v1i45.1135
+   Faerch C., 1983, STRATEGIES INTERLANG
+   Fernald A, 2013, DEVELOPMENTAL SCI, V16, P234, DOI 10.1111/desc.12019
+   Gomes C. A, 2011, GRAGOATA, V30, P39
+   Grohmann KK, 2014, LINGUIST APPROACH BI, V4, P337, DOI 10.1075/lab.4.3.06gro
+   Kasper Gabriele., 1997, CAN PRAGMATIC COMPET
+   Kato M. A, 1990, MUNDO ESCRITA PERSPE
+   Koch I. V, 2001, VEREDAS, V5, P85
+   Levelt W. J. M., 1989, SPEAKING INTENTION A, P1
+   Levelt WJM, 1999, TRENDS COGN SCI, V3, P223, DOI 10.1016/S1364-6613(99)01319-4
+   MARCUSCHI Luiz Antonio, 1997, SIGNOTICA, V9, P119
+   Molina D.S. L, 2018, THESIS
+   NAME MCL, 2003, FORUM LINGUISTICO, V3, P55
+   NARO AJ, 1981, LANGUAGE, V57, P63, DOI 10.2307/414287
+   Naro AJ, 2015, LINGUISTIC VARIATION: CONFRONTING FACT AND THEORY, P149
+   Negreiros G, 2018, PERCURSOS LINGUISTIC, V8, P244
+   Nonato Sandoval, 2018, Cad. CEDES, V38, P222, DOI 10.1590/cc0101-32622018183601
+   Perkins Suzanne C, 2013, Innov Clin Neurosci, V10, P10
+   Pires A, 2011, LINGUA, V121, P605, DOI 10.1016/j.lingua.2010.06.002
+   Rojo R, 2006, RELACOES ENTRE FALA
+   Rooryck J., 1994, PROBUS, V6, P207, DOI DOI 10.1515/PRBS.1994.6.2-3.207
+   SCHERRE M. M. P., 1994, REV INT LINGUA PORTU, V12, P37
+   Scherre M. M. P, 1991, ORGANON, P52
+   Scherre M. M. P, 1978, REGRA CONCORDANCIA N
+   SCHERRE Maria Marta Pereira, 1998, ATT 21 C INT LING FI, P509
+   Scherre Maria Marta Pereira, 2006, SCRIPTA, V9, P107
+   Shafer VL, 1998, J SPEECH LANG HEAR R, V41, P874, DOI 10.1044/jslhr.4104.874
+   Shi R., 2003, P 15 INT C PHON SCI, P3009
+   Correa LMS, 2009, STUD LANG ACQUIS, V35, P35
+   Vieira Silvia Rodrigues, 2014, Lingüística, V30, P81
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV FEDERAL SANTA CATARINA, PROGRAMA POS-GRADUACAO & LETRAS-INGLES
+PI FLORIANOPOLIS
+PA SALA 120, CCE-B, UFSC, CAMPUS UNIV, FLORIANOPOLIS, SC 88040-900, BRAZIL
+SN 0101-4846
+EI 2175-8026
+J9 ILHA DESTERRO
+JI Ilha Desterro
+PD SEP-DEC
+PY 2019
+VL 72
+IS 3
+BP 101
+EP 122
+DI 10.5007/2175-8026.2019v72n3p101
+PG 22
+WC Literature
+WE Emerging Sources Citation Index (ESCI)
+SC Literature
+GA JQ9GE
+UT WOS:000499245300006
+OA gold
+DA 2022-06-24
+ER
+
+PT J
+AU de Abreu, PMJE
+   Baldassi, M
+   Puglisi, ML
+   Befi-Lopes, DM
+AF de Abreu, Pascale M. J. Engel
+   Baldassi, Martine
+   Puglisi, Marina L.
+   Befi-Lopes, Debora M.
+TI Cross-Linguistic and Cross-Cultural Effects on Verbal Working Memory and
+   Vocabulary: Testing Language-Minority Children With an Immigrant
+   Background
+SO JOURNAL OF SPEECH LANGUAGE AND HEARING RESEARCH
+LA English
+DT Article
+DE cultural and linguistic diversity; memory; language; bilingualism;
+   cognition
+ID SHORT-TERM-MEMORY; NONWORD REPETITION; PHONOLOGICAL PROCESSES;
+   READING-COMPREHENSION; FLUID INTELLIGENCE; COGNITIVE CONTROL; CAPACITY;
+   WORD; BILINGUALISM; IMPAIRMENT
+AB Purpose: In this study, the authors explored the impact of test language and cultural status on vocabulary and working memory performance in multilingual language-minority children.
+   Method: Twenty 7-year-old Portuguese-speaking immigrant children living in Luxembourg completed several assessments of first (L1)- and second-language (L2) vocabulary (comprehension and production), executive-loaded working memory (counting recall and backward digit recall), and verbal short-term memory (digit recall and nonword repetition). Cross-linguistic task performance was compared within individuals. The language-minority children were also compared with multilingual language-majority children from Luxembourg and Portuguese-speaking monolinguals from Brazil without an immigrant background matched on age, sex, socioeconomic status, and nonverbal reasoning.
+   Results: Results showed that (a) verbal working memory measures involving numerical memoranda were relatively independent of test language and cultural status; (b) language status had an impact on the repetition of high-but not on low-wordlike L2 nonwords; (c) large cross-linguistic and cross-cultural effects emerged for productive vocabulary; (d) cross-cultural effects were less pronounced for vocabulary comprehension with no differences between groups if only L1 words relevant to the home context were considered.
+   Conclusion: The study indicates that linguistic and cognitive assessments for language-minority children require careful choice among measures to ensure valid results. Implications for testing culturally and linguistically diverse children are discussed.
+C1 [de Abreu, Pascale M. J. Engel] Univ Luxembourg, Luxembourg, Luxembourg.
+   [Baldassi, Martine] Columbia Univ, Ctr Decis Sci, New York, NY USA.
+   [Puglisi, Marina L.; Befi-Lopes, Debora M.] Univ Sao Paulo, BR-05508 Sao Paulo, Brazil.
+RP de Abreu, PMJE (autor correspondente), Univ Luxembourg, Luxembourg, Luxembourg.
+EM pascale.engel@uni.lu
+RI Befi-Lopes, Debora M/C-8459-2012; Puglisi, Marina L/O-9677-2016
+OI Puglisi, Marina L/0000-0003-0652-8837; Engel de Abreu,
+   Pascale/0000-0001-8561-4842
+FU National Research Fund, Luxembourg [CO09/LM/07]; Fundacao de Amparo a
+   Pesquisa do Estado de Sao Paulo (FAPESP), Brazil [2010/09185-5]
+FX This research was supported by the National Research Fund, Luxembourg
+   (CO09/LM/07), and by Fundacao de Amparo a Pesquisa do Estado de Sao
+   Paulo (FAPESP), Brazil (2010/09185-5). We thank Carlos Tourinho for
+   scoring the Portuguese tasks; Anabela Cruz-Santos for evaluating the
+   lexical items of the Portuguese vocabulary measures; and Romain Martin,
+   Flavia Santos, and Susan Gathercole for their advice on study design and
+   recruitment. We also thank members of COST Action IS0804 "Language
+   Impairment in a Multilingual Society: Linguistic Patterns and the Road
+   to Assessment" (www.bi-sli.org) for valuable discussions.
+CR Alloway T. P., 2007, AUTOMATED WORKING ME
+   [Anonymous], 1997, BRIT PICTURE VOCABUL
+   [Anonymous], 2006, J MULTILINGUAL COMMU
+   Archibald LMD, 2007, PSYCHON B REV, V14, P919, DOI 10.3758/BF03194122
+   Archibald LMD, 2006, J SPEECH LANG HEAR R, V49, P970, DOI 10.1044/1092-4388(2006/070)
+   Baddeley A, 2003, J COMMUN DISORD, V36, P189, DOI 10.1016/S0021-9924(03)00019-4
+   Baddeley A, 2000, TRENDS COGN SCI, V4, P417, DOI 10.1016/S1364-6613(00)01538-2
+   Bialystok E., 2001, BILINGUALISM DEV LAN
+   Bialystok E, 2008, J EXP PSYCHOL LEARN, V34, P859, DOI 10.1037/0278-7393.34.4.859
+   Bialystok E, 2010, BILING-LANG COGN, V13, P525, DOI 10.1017/S1366728909990423
+   Bishop DVM, 2004, AM J MED GENET B, V129B, P94, DOI 10.1002/ajmg.b.30065
+   Brownell R., 2001, EXPRESSIVE ONE WORD
+   Cain K, 2004, J EDUC PSYCHOL, V96, P31, DOI 10.1037/0022-0663.96.1.31
+   Campbell T, 1997, J SPEECH LANG HEAR R, V40, P519, DOI 10.1044/jslhr.4003.519
+   Conway ARA, 2002, INTELLIGENCE, V30, P163, DOI 10.1016/S0160-2896(01)00096-4
+   COSTA A, 2006, PSYCHONOMIC B REV, V13, P612
+   Court, 1986, COLOURED PROGR MATRI
+   Cowan N, 2005, COGNITIVE PSYCHOL, V51, P42, DOI 10.1016/j.cogpsych.2004.12.001
+   de Abreu PMJE, 2012, PSYCHOL SCI, V23, P1364, DOI 10.1177/0956797612443836
+   de Abreu PMJE, 2012, J EDUC PSYCHOL, V104, P974, DOI 10.1037/a0028390
+   de Abreu PMJE, 2011, MEMORY, V19, P529, DOI 10.1080/09658211.2011.590504
+   de Abreu PMJE, 2010, INTELLIGENCE, V38, P552, DOI 10.1016/j.intell.2010.07.003
+   de Abreu PMJE, 2011, LEARN INDIVID DIFFER, V21, P569, DOI 10.1016/j.lindif.2011.06.002
+   Edwards J, 1998, APPL PSYCHOLINGUIST, V19, P279, DOI 10.1017/S0142716400010079
+   Engel P. M. J., 2009, THESIS U YORK YORK
+   Engel PMJ, 2008, J SPEECH LANG HEAR R, V51, P1580, DOI 10.1044/1092-4388(2008/07-0210)
+   Engle RW, 1999, J EXP PSYCHOL GEN, V128, P309, DOI 10.1037/0096-3445.128.3.309
+   Gathercole SE, 1999, J EXP PSYCHOL LEARN, V25, P84, DOI 10.1037/0278-7393.25.1.84
+   GATHERCOLE SE, 1994, J MEM LANG, V33, P672, DOI 10.1006/jmla.1994.1032
+   GATHERCOLE SE, 1992, DEV PSYCHOL, V28, P887, DOI 10.1037//0012-1649.28.5.887
+   GATHERCOLE SE, 1995, MEM COGNITION, V23, P83, DOI 10.3758/BF03210559
+   Gathercole SE, 2006, APPL PSYCHOLINGUIST, V27, P513, DOI 10.1017/S0142716406060383
+   Gathercole SusanE., 1996, CHILDRENS TEST NONWO
+   Genesee F., 1995, M CHALLENGE LINGUIST, P18
+   Girbau D, 2008, J COMMUN DISORD, V41, P124, DOI 10.1016/j.jcomdis.2007.07.001
+   Gollan TH, 2007, J INT NEUROPSYCH SOC, V13, P197, DOI 10.1017/S1355617707070038
+   Gollan TH, 2005, MEM COGNITION, V33, P1220, DOI 10.3758/BF03193224
+   Green D. W., 1998, BILING-LANG COGN, V1, P6781, DOI [10.1017/S1366728998000133, DOI 10.1017/S1366728998000133]
+   Grosjean F., 2010, INTRO
+   Gupta P, 2003, Q J EXP PSYCHOL-A, V56, P1213, DOI 10.1080/02724980343000071
+   Henry LA, 2012, J CHILD PSYCHOL PSYC, V53, P37, DOI 10.1111/j.1469-7610.2011.02430.x
+   HULME C, 1991, J MEM LANG, V30, P685, DOI 10.1016/0749-596X(91)90032-F
+   Kail R, 2001, MEM COGNITION, V29, P1, DOI 10.3758/BF03195735
+   Kohnert K., 2006, LEARN DISABIL RES PR, V21, P19, DOI DOI 10.1111/J.1540-5826.2006.00204.X
+   Kohnert KJ, 2002, J SPEECH LANG HEAR R, V45, P347, DOI 10.1044/1092-4388(2002/027)
+   LAMBERT WE, 1993, EUR J PSYCHOL EDUC, V8, P3, DOI 10.1007/BF03172860
+   Majerus S, 2006, J EXP CHILD PSYCHOL, V93, P95, DOI 10.1016/j.jecp.2005.07.005
+   Majerus S, 2011, J MEM LANG, V64, P181, DOI 10.1016/j.jml.2010.10.003
+   Majerus S, 2009, INTERACTIONS BETWEEN SHORT-TERM AND LONG-TERM MEMORY IN THE VERBAL DOMAIN, P244
+   Marton K, 2003, J SPEECH LANG HEAR R, V46, P1138, DOI 10.1044/1092-4388(2003/089)
+   Masoura EV, 2005, MEMORY, V13, P422, DOI 10.1080/09658210344000323
+   Masoura EV, 1999, INT J PSYCHOL, V34, P383, DOI 10.1080/002075999399738
+   Ministere de l'Education Nationale et de la Formation Professionelle, 2010, EC FOND PLAN ET ED 2
+   Munson B, 2005, J SPEECH LANG HEAR R, V48, P1033, DOI 10.1044/1092-4388(2005/072)
+   Namazi M, 2010, INT J BILING EDUC BI, V13, P597, DOI 10.1080/13670050.2010.488288
+   Nation K, 2004, J SPEECH LANG HEAR R, V47, P199, DOI 10.1044/1092-4388(2004/017)
+   Organisation for Economic Co-operation and Development, 2009, PISA 2006 TECHN REP
+   Organization for Economic Co-Operation and Development, 2010, INT MIGR OUTL 2010
+   PAPAGNO C, 1991, J MEM LANG, V30, P331, DOI 10.1016/0749-596X(91)90040-Q
+   PEARSON BZ, 1993, LANG LEARN, V43, P93, DOI 10.1111/j.1467-1770.1993.tb00174.x
+   Roy P, 2004, J SPEECH LANG HEAR R, V47, P223, DOI 10.1044/1092-4388(2004/019)
+   Santos FH, 2003, BRAZ J MED BIOL RES, V36, P1533, DOI 10.1590/S0100-879X2003001100012
+   Service E, 2006, APPL PSYCHOLINGUIST, V27, P581, DOI 10.1017/S0142716406300392
+   SNOWLING M, 1991, APPL PSYCHOLINGUIST, V12, P369, DOI 10.1017/S0142716400009279
+   Spaulding TJ, 2006, LANG SPEECH HEAR SER, V37, P61, DOI 10.1044/0161-1461(2006/007)
+   UMBEL VM, 1992, CHILD DEV, V63, P1012, DOI 10.2307/1131250
+   United Nations Educational Scientific and Cultural Organization, 1997, INT STAND CLASS ED I
+   Webster RI, 2004, NEUROLOGY, V63, P2327, DOI 10.1212/01.WNL.0000147472.33670.B6
+   Weismer SE, 1999, J SPEECH LANG HEAR R, V42, P1249, DOI 10.1044/jslhr.4205.1249
+   Weismer SE, 2000, J SPEECH LANG HEAR R, V43, P865, DOI 10.1044/jslhr.4304.865
+   Windsor J, 2010, AM J SPEECH-LANG PAT, V19, P298, DOI 10.1044/1058-0360(2010/09-0064)
+   Wright SC, 2000, J EDUC PSYCHOL, V92, P63, DOI 10.1037/0022-0663.92.1.63
+   WYNN K, 1992, COGNITIVE PSYCHOL, V24, P220, DOI 10.1016/0010-0285(92)90008-P
+NR 73
+TC 39
+Z9 39
+U1 2
+U2 62
+PU AMER SPEECH-LANGUAGE-HEARING ASSOC
+PI ROCKVILLE
+PA 2200 RESEARCH BLVD, #271, ROCKVILLE, MD 20850-3289 USA
+SN 1092-4388
+EI 1558-9102
+J9 J SPEECH LANG HEAR R
+JI J. Speech Lang. Hear. Res.
+PD APR 1
+PY 2013
+VL 56
+IS 2
+BP 630
+EP 642
+DI 10.1044/1092-4388(2012/12-0079)
+PG 13
+WC Audiology & Speech-Language Pathology; Linguistics; Rehabilitation
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Audiology & Speech-Language Pathology; Linguistics; Rehabilitation
+GA 191WO
+UT WOS:000322445700021
+PM 23275410
+DA 2022-06-24
+ER
+
+PT J
+AU de Abreu, PMJE
+   Nikaedo, C
+   Abreu, N
+   Tourinho, CJ
+   Miranda, MC
+   Bueno, OFA
+   Martin, R
+AF de Abreu, Pascale M. J. Engel
+   Nikaedo, Carolina
+   Abreu, Neander
+   Tourinho, Carlos J.
+   Miranda, Monica C.
+   Bueno, Orlando F. A.
+   Martin, Romain
+TI Working Memory Screening, School Context, and Socioeconomic Status An
+   Analysis of the Effectiveness of the Working Memory Rating Scale in
+   Brazil
+SO JOURNAL OF ATTENTION DISORDERS
+LA English
+DT Article
+DE Working Memory Rating Scale; Brazil; psychometric properties; poverty
+ID DEFICIT HYPERACTIVITY DISORDER; FLUID INTELLIGENCE; COGNITIVE CONTROL;
+   CHILDREN; ATTENTION; BILINGUALISM; IMPAIRMENTS; ATTAINMENT; BEHAVIOR
+AB Objective: The study explores the psychometric properties of the Brazilian-Portuguese version of the Working Memory Rating Scale (WMRS-Br) in a population of 355 young children from diverse socioeconomic status and schooling backgrounds. Method: Public and private school teachers completed the WMRS-Br and children were assessed on a range of objective cognitive measures of fluid intelligence, working memory, and attention. Results: Reliability and validity of the WMRS-Br were excellent across the public and private school sample. The WMRS-Br manifested substantial links with objective measures of working memory and medium links with selective attention, switching, and interference suppression. Confirmatory factor analyses suggest that a shorter version of the scale provides an adequate fit to the data. Conclusion: The WMRS-Br represents a valid screening tool in a Latin American context that has the potential to improve the early detection of working memory deficits in children growing up in poverty.
+C1 [de Abreu, Pascale M. J. Engel; Tourinho, Carlos J.; Martin, Romain] Univ Luxembourg, EMACS Res Unit, L-7201 Walferdange, GD, Luxembourg.
+   [Nikaedo, Carolina; Miranda, Monica C.; Bueno, Orlando F. A.] Univ Fed Sao Paulo, Sao Paulo, Brazil.
+   [Abreu, Neander] Univ Fed Bahia, BR-41170290 Salvador, BA, Brazil.
+RP de Abreu, PMJE (autor correspondente), Univ Luxembourg, EMACS Res Unit, L-7201 Walferdange, GD, Luxembourg.
+EM pascale.engel@uni.lu
+RI Miranda, Monica Carolina/Q-6523-2019
+OI Abreu, Neander/0000-0001-7636-3666; Engel de Abreu,
+   Pascale/0000-0001-8561-4842
+FU National Research Fund, Luxembourg (FNR) [CO09/LM/07]; CNPq
+   [400857/2010-3]; CAPES; AFIP
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   research was supported by Grant CO09/LM/07, from the National Research
+   Fund, Luxembourg (FNR) to P. M. J. Engel de Abreu and R. Martin; by
+   Grant 400857/2010-3 from CNPq to O. F. A. Bueno and C. Nikaedo; by a PhD
+   grant from CAPES to C. Nikaedo and by a research grant from AFIP to O.
+   F. A. Bueno, M. C. Miranda, and C. Nikaedo.
+CR Alloway T. P., 2007, AUTOMATED WORKING ME
+   Alloway T. P., 2008, WORKING MEMORY RATIN
+   Alloway TP, 2010, DEV MED CHILD NEUROL, V52, P632, DOI 10.1111/j.1469-8749.2009.03603.x
+   Alloway TP, 2009, LEARN INDIVID DIFFER, V19, P242, DOI 10.1016/j.lindif.2008.10.003
+   Alloway TP, 2009, CHILD DEV, V80, P606, DOI 10.1111/j.1467-8624.2009.01282.x
+   Arbuckle J. L, 2010, AMOS 19
+   Awh E, 2006, NEUROSCIENCE, V139, P201, DOI 10.1016/j.neuroscience.2005.08.023
+   Baddeley A, 2000, TRENDS COGN SCI, V4, P417, DOI 10.1016/S1364-6613(00)01538-2
+   BENTLER PM, 1990, PSYCHOL BULL, V107, P238, DOI 10.1037/0033-2909.88.3.588
+   Bialystok E, 2004, PSYCHOL AGING, V19, P290, DOI 10.1037/0882-7974.19.2.290
+   Browne M., 1993, SOCIOL METHOD RES, P136
+   Carlson SM, 2008, DEVELOPMENTAL SCI, V11, P282, DOI 10.1111/j.1467-7687.2008.00675.x
+   Chamberlain SR, 2007, CURR OPIN PSYCHIATR, V20, P255, DOI 10.1097/yco.0b013e3280ba4989
+   Court, 1986, COLOURED PROGR MATRI
+   Cragg L., 2008, DEVELOPMENTAL SCI, V6, P810
+   de Abreu PMJE, 2012, PSYCHOL SCI, V23, P1364, DOI 10.1177/0956797612443836
+   de Abreu PMJE, 2012, J EDUC PSYCHOL, V104, P974, DOI 10.1037/a0028390
+   de Abreu PMJE, 2010, INTELLIGENCE, V38, P552, DOI 10.1016/j.intell.2010.07.003
+   Engle RW, 1999, J EXP PSYCHOL GEN, V128, P309, DOI 10.1037/0096-3445.128.3.309
+   Evans D. K, 2012, EARLY CHILD ED MAKIN
+   Ganzeboom HBG, 2010, ANN C INT SOC SURV P
+   Gathercole S., 2008, WORKING MEMORY LEARN
+   Gathercole SE, 2004, APPL COGNITIVE PSYCH, V18, P1, DOI 10.1002/acp.934
+   Gathercole SE, 2008, LEARN INDIVID DIFFER, V18, P214, DOI 10.1016/j.lindif.2007.10.003
+   Gioia GA, 2000, CHILD NEUROPSYCHOL, V6, P235, DOI 10.1076/chin.6.3.235.3152
+   Inter-American Development Bank, 2008, QUAL ED BRAZ DEV
+   Manly T., 1998, TEST EVERYDAY ATTENT
+   Martinussen R, 2005, J AM ACAD CHILD PSY, V44, P377, DOI 10.1097/01.chi.0000153228.72591.73
+   Martinussen R, 2006, J CLIN EXP NEUROPSYC, V28, P1073, DOI 10.1080/13803390500205700
+   Miyake A, 2000, COGNITIVE PSYCHOL, V41, P49, DOI 10.1006/cogp.1999.0734
+   Normand S, 2014, J ATTEN DISORD, V18, P294, DOI 10.1177/1087054712445062
+   Organisation for Economic Co-operation and Development, 2010, ROL LAB MARK SOC POL
+   Salles Jerusa Fumagalli de, 2011, Psico-USF, V16, P297
+   St Clair-Thompson HL, 2011, LEARN INDIVID DIFFER, V21, P409, DOI 10.1016/j.lindif.2011.02.008
+   Willcutt EG, 2005, DEV NEUROPSYCHOL, V27, P35, DOI 10.1207/s15326942dn2701_3
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 15
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1087-0547
+EI 1557-1246
+J9 J ATTEN DISORD
+JI J. Atten. Disord.
+PD MAY
+PY 2014
+VL 18
+IS 4
+SI SI
+BP 346
+EP 356
+DI 10.1177/1087054713476138
+PG 11
+WC Psychology, Developmental; Psychiatry
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Psychology; Psychiatry
+GA AG8EH
+UT WOS:000335651100008
+PM 23475826
+DA 2022-06-24
+ER
+
+PT J
+AU Lillo-Martin, D
+   de Quadros, RM
+   Pichler, DC
+AF Lillo-Martin, Diane
+   de Quadros, Ronice Muller
+   Pichler, Deborah Chen
+TI The development of bimodal bilingualism Implications for linguistic
+   theory
+SO LINGUISTIC APPROACHES TO BILINGUALISM
+LA English
+DT Article
+DE bimodal bilinguals; language architecture; language acquisition;
+   cross-linguistic influence; code-blending; sign languages
+ID LANGUAGE-DEVELOPMENT; CHILD; DEAF
+AB A wide range of linguistic phenomena contribute to our understanding of the architecture of the human linguistic system. In this paper we present a proposal dubbed Language Synthesis to capture bilingual phenomena including code-switching and 'transfer' as automatic consequences of the addition of a second language, using basic concepts of Minimalism and Distributed Morphology. Bimodal bilinguals, who use a sign language and a spoken language, provide a new type of evidence regarding possible bilingual phenomena, namely code-blending, the simultaneous production of (aspects of) a message in both speech and sign. We argue that code-blending also follows naturally once a second articulatory interface is added to the model. Several different types of code-blending are discussed in connection to the predictions of the Synthesis model. Our primary data come from children developing as bimodal bilinguals, but our proposal is intended to capture a wide range of bilingual effects across any language pair.
+C1 [Lillo-Martin, Diane] Univ Connecticut, Dept Linguist, 365 Fairfield Way,Unit 1145, Storrs, CT 06269 USA.
+   [de Quadros, Ronice Muller] Univ Fed Santa Catarina, Dept Libras, Programa Posgrad Linguist, Ctr Comunicacao & Expressao, Campus Reitor Joao David Ferreira Lima, BR-88040900 Florianopolis, SC, Brazil.
+   [Pichler, Deborah Chen] Gallaudet Univ, Dept Linguist, 800 Florida Ave NE, Washington, DC 20002 USA.
+RP Lillo-Martin, D (autor correspondente), Univ Connecticut, Dept Linguist, 365 Fairfield Way,Unit 1145, Storrs, CT 06269 USA.
+EM diane.lillo-martin@uconn.edu; ronice@cce.ufsc.br;
+   deborah.chen.pichler@gallaudet.edu
+OI Muller de Quadros, Ronice/0000-0002-5152-8716
+FU National Institutes of Health (National Institute on Deafness and Other
+   Communication Disorders) [R01DC009263]; University of Connecticut;
+   Gallaudet Research Institute; CNPq (Brazilian National Council of
+   Technological and Scientific Development) [200031/2009-0, 470111/2007-0,
+   234255/2013-7]; NATIONAL INSTITUTE ON DEAFNESS AND OTHER COMMUNICATION
+   DISORDERS [R01DC009263] Funding Source: NIH RePORTER
+FX This research is supported in part by Award Number R01DC009263 from the
+   National Institutes of Health (National Institute on Deafness and Other
+   Communication Disorders). The content is solely the responsibility of
+   the authors and does not necessarily represent the official views of the
+   NIDCD or the NIH. Support is also provided by University of Connecticut
+   internal funding, and awards from the Gallaudet Research Institute and
+   from CNPq (Brazilian National Council of Technological and Scientific
+   Development) Grants #200031/2009-0, #470111/2007-0, and #234255/2013-7.
+CR Ashton G., 2014, STANDARDS LEARNING A, P1
+   Baker A, 2008, STUD BILINGUAL, V38, P1
+   Bandi-Rao S, 2014, GRAMMATICAL THEORY AND BILINGUAL CODESWITCHING, P161
+   BELAZI HM, 1994, LINGUIST INQ, V25, P221
+   Berent G. P., 2013, HDB BILINGUALISM MUL, P351
+   BHATIA TK, 1999, HDB CHILD LANGUAGE A, P569
+   Bishop Michelle, 2006, THESIS
+   Bobaljik Jonathan, 2015, DISTRIBUTED MO UNPUB
+   Chen Pichler D., 2016, OXFORD HDB DEAF STUD, P218
+   Chen Pichler Deborah, 2010, LIA, V1, P11
+   Chomsky N., 1995, THE MINALIST PROGRAM
+   Compton SE, 2014, HANDBOOK OF HERITAGE, COMMUNITY, AND NATIVE AMERICAN LANGUAGES IN THE UNITED STATES: RESEARCH, POLICY, AND EDUCATIONAL PRACTICE, P272
+   Crasborn O., 2008, P LREC 2008 6 INT C, P39
+   Davidson K, 2015, LINGUIST PHILOS, V38, P477, DOI 10.1007/s10988-015-9180-1
+   Davidson K, 2014, J DEAF STUD DEAF EDU, V19, P238, DOI 10.1093/deafed/ent045
+   De Houwer A., 1995, HDB CHILD LANGUAGE, P219, DOI DOI 10.1111/B.9780631203124.1996.00009.X
+   de Quadros R. M., 2015, RES METHODS SIGN LAN, P250, DOI DOI 10.1002/9781118346013.CH14
+   de Quadros R.M., 2016, OXFORD HDB DEAF STUD, P181
+   de Quadros R. M., 2016, HERITAGE SIGNE UNPUB
+   Donati C., 2013, CHALLENGES LINEARIZA, P93, DOI DOI 10.1515/9781614512431.93
+   Emmorey K, 2003, PERSPECTIVES ON CLASSIFIER CONSTRUCTIONS IN SIGN LANGUAGES, P221
+   Emmorey K., 2005, P 4 INT S BIL, P663
+   Emmorey K, 2008, BILING-LANG COGN, V11, P43, DOI 10.1017/S1366728907003203
+   Emmorey K, 2016, BILING-LANG COGN, V19, P223, DOI 10.1017/S1366728915000085
+   Emmorey K, 2008, PSYCHOL SCI, V19, P1201, DOI 10.1111/j.1467-9280.2008.02224.x
+   Gokgoz Kadir, SYNTACTIC CONS UNPUB
+   Goodwin C., 2016, THESIS
+   GROSJEAN F, 1989, BRAIN LANG, V36, P3, DOI 10.1016/0093-934X(89)90048-5
+   Halle M., 1997, MIT WORK PAP LING, V30, P425
+   Halle Morris., 1993, VIEW BUILDING, P111
+   Harley H., 1999, GLOT INT, V4, P3, DOI DOI 10.1515/9783110890952.463
+   Harley H, 2014, THEOR LINGUIST, V40, P225, DOI 10.1515/tl-2014-0010
+   HULK A, 2000, BILINGUALISM LANGUAG, V0003
+   JOHNSON JM, 1992, APPL PSYCHOLINGUIST, V13, P31, DOI 10.1017/S0142716400005415
+   Koulidobrova E., 2012, THESIS
+   Koulidobrova EV, 2017, LINGUIST APPROACH BI, V7, P583, DOI 10.1075/lab.13047.kou
+   Kuntze M, 2000, SIGNS OF LANGUAGE REVISITED, P287
+   Lewis S, 2015, J PSYCHOLINGUIST RES, V44, P27, DOI 10.1007/s10936-014-9329-z
+   Liceras J.M., 2005, INT J BILINGUAL, V9, P227, DOI [10.1177/13670069050090020601, DOI 10.1177/13670069050090020601]
+   Liceras JM, 2008, LINGUA, V118, P827, DOI 10.1016/j.lingua.2007.05.006
+   Liceras JM, 2012, FIRST LANG, V32, P88, DOI 10.1177/0142723711403980
+   Lillo-Martin D, 2000, SIGNS OF LANGUAGE REVISITED, P401
+   Lillo-Martin D., 2014, INT SOC GEST STUD SA
+   Lillo-Martin D., BILINGUAL LANG UNPUB
+   Lillo-Martin D, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.01163
+   Lillo-Martin D, 2012, PROC ANN BUCLD, P302
+   Lillo-Martin Diane, 1998, GENERATIVE STUDY 2 L, P131
+   Lucas C., 1989, SOCIOLINGUISTICS DEA, P11
+   Macswan J, 2005, BILING-LANG COGN, V8, P1, DOI 10.1017/S1366728904002068
+   MacSwan J., 2000, BILING-LANG COGN, V3, P37, DOI [10.1017/S1366728900000122, DOI 10.1017/S1366728900000122]
+   MacSwan J, 2014, GRAMMATICAL THEORY AND BILINGUAL CODESWITCHING, P1
+   MALLERYRUGANIS D, 1991, AM ANN DEAF, V136, P401, DOI 10.1353/aad.2012.0485
+   Marmor G, 1979, SIGN LANGUAGE STUDIE, V1023, P99, DOI DOI 10.1353/SLS.1979.0010
+   Maxwell MM, 1990, SIGN LANGUAGE STUDIE, V69, P333, DOI DOI 10.1353/SLS.1990.0019
+   Mellon NK, 2015, PEDIATRICS, V136, P170, DOI 10.1542/peds.2014-1632
+   Menendez B, 2010, INT J BILING EDUC BI, V13, P201, DOI 10.1080/13670050903474101
+   Muller De Quadros R., 2010, SIGN LANGUAGES, P225, DOI [10.1017/CBO9780511712203.012, DOI 10.1017/CBO9780511712203.012]
+   Nunes J., 2006, N E LING SOC
+   Nunes J., 2008, SIGNS TIME SELECTED, P177
+   ORMEL E, 2014, BILINGUALISM BILINGU, P74, DOI DOI 10.1093/ACPROF:OSO/9780199371815.003.0001
+   Palmer J. S, 2015, THESIS
+   Paradis J., 1996, STUD SECOND LANG ACQ, V18, P1, DOI [DOI 10.1017/S0272263100014662, https://doi.org/10.1017/S0272263100014662]
+   Petitto LA, 2001, J CHILD LANG, V28, P453, DOI 10.1017/S0305000901004718
+   Petroj V., 2014, BUCLD 38 P
+   Pfau R., 2000, THESIS
+   Pfau R, 2009, LINGUISTIK AKTUELL, V137, DOI [10.1075/la.137, DOI 10.1075/LA.137]
+   Pichler DC, 2016, SIGN LANG STUD, V16, P361, DOI 10.1353/sls.2016.0007
+   Pichler Deborah Chen, 2010, LANG ACQUIS
+   Pierantozzi C, 2012, HAMB STUD MULTILING, V13, P137
+   Pires A., 2007, P ANN M CHICAGO LING, V43, P201
+   Pirvulescu M, 2014, BILING-LANG COGN, V17, P495, DOI 10.1017/S1366728913000631
+   POPLACK S, 1980, LINGUISTICS, V18, P581, DOI 10.1515/ling.1980.18.7-8.581
+   PRESTON P, 1995, SOC SCI MED, V40, P1461, DOI 10.1016/0277-9536(94)00357-Y
+   Quadros Ronice Muller de, 2013, P GALA 2011, P300
+   Reynolds W., 2014, 29 ANN CODA INT C TE
+   Reynolds W., P C GEN APP IN PRESS
+   Romaine S., 1995, BILING-LANG COGN, V2nd
+   Sandler W, 2006, SIGN LANGUAGE AND LINGUISTIC UNIVERSALS, P1, DOI 10.2277/ 0521483956
+   SERRATRICE L, 2004, BILINGUALISM LANGUAG, V0007
+   Serratrice L, 2013, LINGUIST APPROACH BI, V3, P3, DOI 10.1075/lab.3.1.01ser
+   Siddiqi D, 2010, LANG LINGUIST COMPAS, V4, P524, DOI 10.1111/j.1749-818x.2010.00212.x
+   Sorace A, 2009, LINGUA, V119, P460, DOI 10.1016/j.lingua.2008.09.008
+   Thompson R., 2015, INT C SIGN LANG ACQ
+   Tieu L., 2010, P ANN C CAN LING ASS, P1
+   Todd P., 1971, WORD, V27, P102, DOI [10.1080/00437956.1971.11435616, DOI 10.1080/00437956.1971.11435616]
+   Van den Bogaerde B, 2005, SIGN LANG LINGUIST, V8, P151
+   VANDENBOGAERDE B, 2008, HEARING MOTHER FATHE, P99
+   Woll B, 2012, SIGN LANGUAGE INT HD, P647, DOI DOI 10.1515/9783110261325.647
+   Woodward J.C., 1972, SIGN LANG STUD, V1, P1, DOI DOI 10.1353/SLS.1972.0004
+   Zeshan U., SIGN MULTIL IN PRESS
+   [No title captured]
+NR 91
+TC 39
+Z9 39
+U1 4
+U2 33
+PU JOHN BENJAMINS PUBLISHING CO
+PI AMSTERDAM
+PA PO BOX 36224, 1020 ME AMSTERDAM, NETHERLANDS
+SN 1879-9264
+EI 1879-9272
+J9 LINGUIST APPROACH BI
+JI Linguist. Approaches Biling.
+PY 2016
+VL 6
+IS 6
+BP 719
+EP 755
+DI 10.1075/lab.6.6.01lil
+PG 37
+WC Linguistics; Language & Linguistics
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Linguistics
+GA EL3IO
+UT WOS:000394513000001
+PM 28603576
+OA Green Accepted
+DA 2022-06-24
+ER
+
+PT J
+AU Er-Rafiqi, M
+   Guerra, A
+   Le Gall, D
+   Roy, A
+AF Er-Rafiqi, Marie
+   Guerra, Amanda
+   Le Gall, Didier
+   Roy, Arnaud
+TI Age-related changes of cognitive flexibility and planning skills in
+   school-age Moroccan children
+SO APPLIED NEUROPSYCHOLOGY-CHILD
+LA English
+DT Article; Early Access
+DE Assessment; child; CEF-B; culture; executive functions; Morocco
+ID EXECUTIVE FUNCTION; SOCIOECONOMIC-STATUS; BEHAVIORAL-ASSESSMENT;
+   DYSEXECUTIVE SYNDROME; EDUCATIONAL-LEVEL; BADS-C; BILINGUALISM;
+   PERFORMANCE; COMPONENTS; LANGUAGE
+AB North African countries such as Morocco are scarcely the focus of neuropsychological studies, although the role of culture in cognition processes is widely recognized. Currently, studies on flexibility and planning skills in the Moroccan context are still lacking and there are no adapted tools to assess these functions in the country. In this scenario, this study aimed to adapt the Child Executive Functions Battery (CEF-B) tasks and the playing cards task of the Behavioral Assessment of the Dysexecutive Syndrome for Children (BADS-C) to Morocco and provide preliminary normative data on the development of flexibility and planning. In addition, this study proposed to examine the effects of gender, parents' education level and multilingualism on executive development. To this end, six tasks of the CEF-B were adapted through a translation and back-translation process and administered to 115 children aged 7-12 years. Results showed that the adopted procedure was sufficient for the cross-cultural adaptation of the tasks. Analyses showed a continuous increase with age on executive performance in most of the variables. However, gender and parents' level of education showed mostly non-significant effects. On the other hand, a significant effect of multilingualism was found on the two analyzed functions, with better results for multilingual children if compared to their bilingual peers. In general, results suggest that the identified pattern of development is consistent with international studies. Although normative data on executive functions are still lacking in Morocco, this unprecedented study will help better understand their development in this context.
+C1 [Er-Rafiqi, Marie; Guerra, Amanda; Le Gall, Didier; Roy, Arnaud] Univ Nantes, Univ Angers, LPPL, SFR Confluences, Angers, France.
+   [Guerra, Amanda] Univ Fed Rio Grande do Norte, Programa Posgrad Psicol, Natal, RN, Brazil.
+   [Le Gall, Didier] CHU Angers, Dept Neurol, Angers, France.
+   [Roy, Arnaud] CHU Nantes, Hop Femme Enfant Adolescent, Ctr Competence Nantais Neurofibromatose, Ctr Referent Troubles Apprentissage, Nantes, France.
+RP Er-Rafiqi, M (autor correspondente), Univ Angers, Maison Rech G Tillion,5 Bis Blvd Lavoisier, F-49045 Angers 01, France.
+EM marie.errafiqi@gmail.com
+CR Abdi H., 1987, INTRO TRAITEMENT STA
+   Adleman NE, 2002, NEUROIMAGE, V16, P61, DOI 10.1006/nimg.2001.1046
+   Anderson JAE, 2018, BEHAV RES METHODS, V50, P250, DOI 10.3758/s13428-017-0867-9
+   Anderson P, 2002, CHILD NEUROPSYCHOL, V8, P71, DOI 10.1076/chin.8.2.71.8724
+   Antoniou K, 2017, APPL PSYCHOLINGUIST, V38, P787, DOI 10.1017/S014271641600045X
+   Ardila A, 2005, DEV NEUROPSYCHOL, V28, P539, DOI 10.1207/s15326942dn2801_5
+   Baumgart CQ, 2018, PSYCHIAT QUART, V89, P273, DOI 10.1007/s11126-017-9532-9
+   Bellaj T, 2016, CHILD NEUROPSYCHOL, V22, P919, DOI 10.1080/09297049.2015.1058349
+   Bernier A, 2010, CHILD DEV, V81, P326, DOI 10.1111/j.1467-8624.2009.01397.x
+   Berthelsen D, 2017, FRONT PSYCHOL, V8, DOI 10.3389/fpsyg.2017.00903
+   Bialystok E, 2009, COGNITION, V112, P494, DOI 10.1016/j.cognition.2009.06.014
+   Blair C, 2011, DEV PSYCHOPATHOL, V23, P845, DOI 10.1017/S0954579411000344
+   Bourdereau F., 2006, FRANCAIS AUJOURDHUI, V3, P25
+   Brocki KC, 2004, DEV NEUROPSYCHOL, V26, P571, DOI 10.1207/s15326942dn2602_3
+   BRODERICK P, 1988, J EXP CHILD PSYCHOL, V45, P18, DOI 10.1016/0022-0965(88)90048-3
+   Burgess P.W., 1997, HAYLING BRIXTON TEST
+   Calvo A, 2014, COGNITION, V130, P278, DOI 10.1016/j.cognition.2013.11.015
+   Carlson SM, 2008, DEVELOPMENTAL SCI, V11, P282, DOI 10.1111/j.1467-7687.2008.00675.x
+   Catale C, 2012, EUR REV APPL PSYCHOL, V62, P161, DOI 10.1016/j.erap.2012.04.003
+   Charbonnier V, 2011, REV NEUROL-FRANCE, V3, P11, DOI [10.1684/nrp.2011.0161, DOI 10.3917/RNE.031]
+   CHELUNE GJ, 1986, J CLIN EXP NEUROPSYC, V8, P219, DOI 10.1080/01688638608401314
+   Crivello C, 2016, J EXP CHILD PSYCHOL, V141, P121, DOI 10.1016/j.jecp.2015.08.004
+   Davidson MC, 2006, NEUROPSYCHOLOGIA, V44, P2037, DOI 10.1016/j.neuropsychologia.2006.02.006
+   Dennis M, 2006, SER INT NEUROPSYCHOL, P128, DOI 10.1017/CBO9780511545917.007
+   Diamond A., 2002, PRINCIPLES FRONTAL L, P466, DOI [10.1093/acprof:Oso/9780195134971.003.0029., DOI 10.1093/ACPROF:OSO/9780195134971.003.0029]
+   Diamond A, 2013, ANNU REV PSYCHOL, V64, P135, DOI 10.1146/annurev-psych-113011-143750
+   Emslie H., 2003, BEHAV ASSESSMENT DYS
+   Engel-Yeger B, 2009, NEUROPSYCHOL REHABIL, V19, P662, DOI 10.1080/09602010802622730
+   Familiar I, 2020, AIDS CARE, V32, P486, DOI 10.1080/09540121.2019.1659917
+   Farah MJ, 2017, NEURON, V96, P56, DOI 10.1016/j.neuron.2017.08.034
+   Fernald LCH, 2011, DEVELOPMENTAL SCI, V14, P832, DOI 10.1111/j.1467-7687.2010.01032.x
+   Gioia GA, 2000, CHILD NEUROPSYCHOL, V6, P235, DOI 10.1076/chin.6.3.235.3152
+   Guerra A., 2020, AVALIACAO PSICOLOGIC, V19, DOI [10.15689/ap.2020.1904.18744.09, DOI 10.15689/AP.2020.1904.18744.09]
+   Guerra A, 2021, PSICOL-REFLEX CRIT, V34, DOI 10.1186/s41155-021-00171-2
+   Guerra A, 2021, FRONT PSYCHOL, V11, DOI 10.3389/fpsyg.2020.596075
+   Guerra A, 2022, APPL NEUROPSYCH-CHIL, V11, P184, DOI 10.1080/21622965.2020.1775598
+   Hackman DA, 2015, DEVELOPMENTAL SCI, V18, P686, DOI 10.1111/desc.12246
+   Hackman DA, 2009, TRENDS COGN SCI, V13, P65, DOI 10.1016/j.tics.2008.11.003
+   Heaton R. K., 2007, WCST TEST CLASSEMENT
+   Howard SJ, 2020, DEVELOPMENTAL SCI, V23, DOI 10.1111/desc.12854
+   Huizinga M, 2006, NEUROPSYCHOLOGIA, V44, P2017, DOI 10.1016/j.neuropsychologia.2006.01.010
+   IBM Corp Released, 2011, IBM SPSS STAT WINDOW
+   International Test Commission, 2010, INT TEST COMM GUID T
+   Johnson SB, 2016, PEDIATRICS, V137, DOI 10.1542/peds.2015-3075
+   Laroui F., 2011, DRAME LINGUISTIQUE M
+   Lawson GM, 2018, DEVELOPMENTAL SCI, V21, DOI 10.1111/desc.12529
+   Lebaz S, 2020, PSYCHOL FR, V65, P1, DOI 10.1016/j.psfr.2018.01.004
+   Lee K, 2013, CHILD DEV, V84, P1933, DOI 10.1111/cdev.12096
+   Legare CH, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-34756-2
+   Lehto JE, 2003, BRIT J DEV PSYCHOL, V21, P59, DOI 10.1348/026151003321164627
+   Luria A.R., 1966, HIGHER CORTICAL FUNC
+   Marquet-Doleac J., 2010, LABY 5 12 TEST LABYR
+   McCoy DC, 2015, DEV PSYCHOL, V51, P600, DOI 10.1037/a0038924
+   Noble KG, 2015, NAT NEUROSCI, V18, P773, DOI 10.1038/nn.3983
+   Poarch G.J., 2018, FRONT COMMUN, V3, P46, DOI DOI 10.3389/FCOMM.2018.00046
+   Porteus SD., 1959, MAZE TEST CLIN PSYCH
+   Remigereau C, 2018, APPL NEUROPSYCH-CHIL, V7, P224, DOI 10.1080/21622965.2017.1295856
+   Roche J., 2018, Approche Neuropsychologique des Apprentissages chez l'Enfant, V157, P731
+   Rose SA, 2011, DEVELOPMENTAL SCI, V14, P1161, DOI 10.1111/j.1467-7687.2011.01068.x
+   Roukoz C., 2018, INT J PSYCHOL NEUROS, V4, P1
+   Roukoz C, 2021, DEV NEUROPSYCHOL, V46, P121, DOI 10.1080/87565641.2021.1897592
+   Roy A, 2018, PSYCHOL FR, V63, P129, DOI 10.1016/j.psfr.2016.08.001
+   Roy A., 2020, ANAE APPROCHE NEUROP, V167, P393
+   Roy A., 2015, REV NEUROPSYCHOLOGIE, V7, P245, DOI [10.1684/nrp.2015.0357, DOI 10.3917/RNE.074.0245]
+   Roy A, 2015, J CLIN EXP NEUROPSYC, V37, P956, DOI 10.1080/13803395.2015.1072138
+   Roy A, 2014, APPL NEUROPSYCH-CHIL, V3, P94, DOI 10.1080/21622965.2012.704185
+   Roy A, 2010, J INT NEUROPSYCH SOC, V16, P1056, DOI 10.1017/S135561771000086X
+   Schroeter ML, 2004, NEUROIMAGE, V23, P1317, DOI 10.1016/j.neuroimage.2004.08.001
+   Shallice T, 2002, DEV NEUROPSYCHOL, V21, P43, DOI 10.1207/S15326942DN2101_3
+   Solomon SR, 2009, J MOD APPL STAT METH, V8, P448, DOI 10.22237/jmasm/1257034080
+   Soussi H., 2015, CONTACTS CONFLITS CR, P142, DOI [https://doi.org/10.4000/books.cths.1307, DOI 10.4000/BOOKS.CTHS.1307]
+   Toplak ME, 2013, J CHILD PSYCHOL PSYC, V54, P131, DOI 10.1111/jcpp.12001
+   Tran CD, 2019, BILING-LANG COGN, V22, P714, DOI 10.1017/S1366728918000160
+   Turbeville A, 2019, DEVELOPMENTAL SCI, V22, DOI 10.1111/desc.12846
+   United Nations Development Programme Human Development Report Office, 2020, RAPP DEV HUM 2019
+   Ursache A, 2016, BRAIN BEHAV, V6, DOI 10.1002/brb3.531
+   Ware AT, 2020, FRONT PSYCHOL, V11, DOI 10.3389/fpsyg.2020.01458
+   Wechsler D., 1996, MANUEL ECHELLE INTEL
+   WELSH MC, 1991, DEV NEUROPSYCHOL, V7, P131, DOI 10.1080/87565649109540483
+   Willoughby MT, 2019, CHILD NEUROPSYCHOL, V25, P425, DOI 10.1080/09297049.2018.1486395
+   World Bank World Development Indicators., 2018, WORLD BANK GROUP LIT
+   Xu F, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0077770
+NR 82
+TC 1
+Z9 1
+U1 2
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 2162-2965
+EI 2162-2973
+J9 APPL NEUROPSYCH-CHIL
+JI Appl. Neuropsychol.-Child
+DI 10.1080/21622965.2021.1934471
+EA JUN 2021
+PG 12
+WC Clinical Neurology; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Neurosciences & Neurology; Psychology
+GA TD1ZA
+UT WOS:000669132400001
+PM 34213399
+DA 2022-06-24
+ER
+
+PT J
+AU de Abreu, PMJE
+   Cruz-Santos, A
+   Puglisi, ML
+AF Engel de Abreu, Pascale M. J.
+   Cruz-Santos, Anabela
+   Puglisi, Marina L.
+TI Specific language impairment in language-minority children from
+   low-income families
+SO INTERNATIONAL JOURNAL OF LANGUAGE & COMMUNICATION DISORDERS
+LA English
+DT Article
+DE specific language impairment; bilingual; executive function;
+   language-minority; poverty
+ID SHORT-TERM-MEMORY; WORKING-MEMORY; EXECUTIVE FUNCTIONS; NONWORD
+   REPETITION; HYPERACTIVITY; DEFICITS; TASKS; SLI
+AB BackgroundRecent evidence suggests that specific language impairment (SLI) might be secondary to general cognitive processing limitations in the domain of executive functioning. Previous research has focused almost exclusively on monolingual children with SLI and offers little evidence-based guidance on executive functioning in bilingual children with SLI. Studying bilinguals with SLI is important, especially in the light of increasing evidence that bilingualism can bring advantages in certain domains of executive functioning.
+   AimsTo determine whether executive functioning represents an area of difficulty for bilingual language-minority children with SLI and, if so, which specific executive processes are affected.
+   Methods & ProceduresThis cross-cultural research was conducted with bilingual children from Luxembourg and monolingual children from Portugal who all had Portuguese as their first language. The data from 81 eight-year-olds from the following three groups were analysed: (1) 15 Portuguese-Luxembourgish bilinguals from Luxembourg with an SLI diagnosis; (2) 33 typically developing Portuguese-Luxembourgish bilinguals from Luxembourg; and (3) 33 typically developing Portuguese-speaking monolinguals from Portugal. Groups were matched on first language, ethnicity, chronological age and socioeconomic status, and they did not differ in nonverbal intelligence. Children completed a battery of tests tapping: expressive and receptive vocabulary, syntactic comprehension, verbal and visuospatial working memory, selective attention and interference suppression.
+   Outcomes & ResultsThe bilingual SLI group performed equally well compared with their typically developing peers on measures of visuospatial working memory, but had lower scores than both control groups on tasks of verbal working memory. On measures of selective attention and interference suppression, typically developing children who were bilingual outperformed their monolingual counterparts. For selective attention, performance of the bilingual SLI group did not differ significantly from the controls. For interference suppression the bilingual SLI group performed significantly less well than typically developing bilinguals but not monolinguals.
+   Conclusions & ImplicationsThis research provides further support to the position that SLI is not a language-specific disorder. The study indicates that although bilingual children with SLI do not demonstrate the same advantages in selective attention and interference suppression as typically developing bilinguals, they do not lag behind typically developing monolinguals in these domains of executive functioning. This finding raises the possibility that bilingualism might represent a protective factor against some of the cognitive limitations that are associated with SLI in monolinguals.
+C1 [Engel de Abreu, Pascale M. J.] Univ Luxembourg, ECCS Res Unit, L-7220 Walferdange, Luxembourg.
+   [Cruz-Santos, Anabela] Univ Minho, Dept Educ Psychol & Special Educ, Braga, Portugal.
+   [Puglisi, Marina L.] Fed Univ Sao Paulo UNIFESP, Dept Speech Language Therapy, Sao Paulo, Brazil.
+RP de Abreu, PMJE (autor correspondente), Univ Luxembourg, ECCS Res Unit, L-7220 Walferdange, Luxembourg.
+EM pascale.engel@uni.lu
+RI Cruz-Santos, Anabela/AAR-2274-2021; Puglisi, Marina L/O-9677-2016;
+   Cruz-Santos, Anabela/A-6250-2013
+OI Puglisi, Marina L/0000-0003-0652-8837; Cruz-Santos,
+   Anabela/0000-0002-9985-8466; Engel de Abreu,
+   Pascale/0000-0001-8561-4842; SANTOS, ANABELA/0000-0002-2440-4371
+FU National Research Fund (FNR), Luxembourg [CO09/LM/07]; COST Action
+   [IS0804]
+FX This research was funded by the National Research Fund (FNR), Luxembourg
+   (Grant #CO09/LM/07). The authors wish to thank all the children,
+   parents, schools, teachers, psychologists, audiologists, social workers,
+   and speech and language specialists who helped with this research. They
+   are particularly grateful towards Georges Hermes, Claudine Hoffmann,
+   Lucien Nicolay, and Claudine Muller from the Centre de Logopedie
+   (Luxembourg) without whom this project would not have been possible. The
+   authors are grateful to the COST Action IS0804, Language Impairment in a
+   Multilingual Society: Linguistic Patterns and the Road to Assessment
+   (www.bi-sli.org), for useful advice, suggestions, and discussions.
+   Declaration of interest: The authors report no conflicts of interest.
+   The authors alone are responsible for the content and writing of the
+   paper.
+CR Adesope OO, 2010, REV EDUC RES, V80, P207, DOI 10.3102/0034654310368803
+   Alloway T. P., 2007, AUTOMATED WORKING ME
+   [Anonymous], 2007, PEABODY PICTURE VOCA
+   [Anonymous], 2006, J MULTILINGUAL COMMU
+   Archibald LMD, 2007, PSYCHON B REV, V14, P919, DOI 10.3758/BF03194122
+   Archibald LMD, 2006, INT J LANG COMM DIS, V41, P675, DOI 10.1080/13682820500442602
+   Archibald LMD, 2006, J SPEECH LANG HEAR R, V49, P265, DOI 10.1044/1092-4388(2006/022)
+   Armon-Lotem S, 2012, BILING-LANG COGN, V15, P1, DOI 10.1017/S1366728911000599
+   Baddeley A., 1986, WORKING MEMORY THOUG
+   Bialystok E., 2001, BILINGUALISM DEV LAN
+   Bishop D., 1997, UNCOMMON UNDERSTANDI
+   Bishop D., 2003, TEST RECEPTION GRAMM
+   Bishop DVM, 2006, CURR DIR PSYCHOL SCI, V15, P217, DOI 10.1111/j.1467-8721.2006.00439.x
+   Bishop DVM, 2000, APPL PSYCHOLINGUIST, V21, P159, DOI 10.1017/S0142716400002010
+   Bishop DVM, 2006, GENES BRAIN BEHAV, V5, P158, DOI 10.1111/j.1601-183X.2005.00148.x
+   Bishop DVM, 2005, AUTISM, V9, P29, DOI 10.1177/1362361305049028
+   Bishop DVM, 1996, J CHILD PSYCHOL PSYC, V37, P391, DOI 10.1111/j.1469-7610.1996.tb01420.x
+   BISHOP DVM, 1995, DEV MED CHILD NEUROL, V37, P56
+   Brownell R., 2001, EXPRESSIVE ONE WORD
+   Catts HW, 2005, J SPEECH LANG HEAR R, V48, P1378, DOI 10.1044/1092-4388(2005/096)
+   Clahsen H., 1991, CHILD LANGUAGE DEV D
+   COHEN J, 1992, PSYCHOL BULL, V112, P155, DOI 10.1037/0033-2909.112.1.155
+   Court, 1986, COLOURED PROGR MATRI
+   de Abreu PMJE, 2013, J SPEECH LANG HEAR R, V56, P630, DOI 10.1044/1092-4388(2012/12-0079)
+   de Abreu PMJE, 2012, PSYCHOL SCI, V23, P1364, DOI 10.1177/0956797612443836
+   de Abreu PMJE, 2011, MEMORY, V19, P529, DOI 10.1080/09658211.2011.590504
+   Engel PMJ, 2008, J SPEECH LANG HEAR R, V51, P1580, DOI 10.1044/1092-4388(2008/07-0210)
+   Ganzeboom HBG, 2010, ANN C INT SOC SURV P
+   Gathercole SE, 2004, DEV PSYCHOL, V40, P177, DOI 10.1037/0012-1649.40.2.177
+   GATHERCOLE SE, 1990, J MEM LANG, V29, P336, DOI 10.1016/0749-596X(90)90004-J
+   Henry LA, 2012, J CHILD PSYCHOL PSYC, V53, P37, DOI 10.1111/j.1469-7610.2011.02430.x
+   Hilchey MD, 2011, PSYCHON B REV, V18, P625, DOI 10.3758/s13423-011-0116-7
+   Iluz-Cohen P., 2013, BILING-LANG COGN, V16, P1
+   Im-Bolter N, 2006, CHILD DEV, V77, P1822, DOI 10.1111/j.1467-8624.2006.00976.x
+   KASTNERKOLLER U, 1998, WIENER ENTWICKLUNGST
+   Kaufman A., 2002, KAUFMAN ASSESSMENT B
+   Kohnert K, 2009, BRAIN LANG, V109, P101, DOI 10.1016/j.bandl.2008.01.009
+   LAMBERT WE, 1993, EUR J PSYCHOL EDUC, V8, P3, DOI 10.1007/BF03172860
+   Leonard L. B., 1998, CHILDREN SPECIFIC LA
+   Leonard LB, 2007, J SPEECH LANG HEAR R, V50, P408, DOI 10.1044/1092-4388(2007/029)
+   Linder M., 2000, ZURCHER LESETEST, V6th
+   Manly T., 1998, TEST EVERYDAY ATTENT
+   Martin-Rhee MM, 2008, BILING-LANG COGN, V11, P81, DOI 10.1017/S1366728907003227
+   Martinussen R, 2006, J CLIN EXP NEUROPSYC, V28, P1073, DOI 10.1080/13803390500205700
+   Marton K, 2003, J SPEECH LANG HEAR R, V46, P1138, DOI 10.1044/1092-4388(2003/089)
+   Marton K, 2008, INT J LANG COMM DIS, V43, P181, DOI 10.1080/16066350701340719
+   Miyake A, 2000, COGNITIVE PSYCHOL, V41, P49, DOI 10.1006/cogp.1999.0734
+   Montgomery JW, 2002, AM J SPEECH-LANG PAT, V11, P77, DOI 10.1044/1058-0360(2002/009)
+   OECD, 2010, INT MIGR OUTL 2010
+   Paradis J, 2010, APPL PSYCHOLINGUIST, V31, P345, DOI 10.1017/S0142716409990531
+   RICE ML, 1995, J SPEECH HEAR RES, V38, P850, DOI 10.1044/jshr.3804.850
+   Rueda MR, 2004, NEUROPSYCHOLOGIA, V42, P1029, DOI 10.1016/j.neuropsychologia.2003.12.012
+   Santos FH, 2006, BRAZ J MED BIOL RES, V39, P371, DOI 10.1590/S0100-879X2006000300008
+   Sim-Sim I., 2003, AVALICAO LINGUAGEM O
+   Tomblin JB, 1997, J SPEECH LANG HEAR R, V40, P1245, DOI 10.1044/jslhr.4006.1245
+   *US CENS BUR, 2004, CURR POP REP
+   vanderLely HKJ, 1997, J CHILD LANG, V24, P221, DOI 10.1017/S0305000996002966
+   Williams D, 2000, DEV MED CHILD NEUROL, V42, P368, DOI 10.1017/S0012162200000682
+NR 58
+TC 31
+Z9 30
+U1 1
+U2 28
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1368-2822
+EI 1460-6984
+J9 INT J LANG COMM DIS
+JI Int. J. Lang. Commun. Disord.
+PD NOV
+PY 2014
+VL 49
+IS 6
+BP 736
+EP 747
+DI 10.1111/1460-6984.12107
+PG 12
+WC Audiology & Speech-Language Pathology; Linguistics; Rehabilitation
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Audiology & Speech-Language Pathology; Linguistics; Rehabilitation
+GA AS6KH
+UT WOS:000344372000008
+PM 25209889
+OA Green Published, Green Submitted, hybrid
+DA 2022-06-24
+ER
+
+PT J
+AU Rigatti, PC
+   Fontes, ABAD
+AF Rigatti, Pietra Cassol
+   Areas da Luz Fontes, Ana Beatriz
+TI Cognate and meaning frequency effects on homonym processing
+SO INTERNATIONAL JOURNAL OF BILINGUALISM
+LA English
+DT Article; Early Access
+DE Bilingualism; lexical access; homonyms; frequency; ambiguity
+ID CROSS-LANGUAGE ACTIVATION; WORD RECOGNITION; LEXICAL ACCESS;
+   EYE-MOVEMENTS; AMBIGUITY; REPRESENTATIONS; EXPERIENCE; SCRIPT
+AB Purpose: This study investigated the influence of L1 co-activation and meaning frequency of homonyms on L2 lexical access of Brazilian Portuguese-English bilinguals during an L2 meaning decision task. Design: Eighty-four university students completed a meaning decision task-with cognate homonyms-a meaning recognition task, a Language History Questionnaire, and an L2 proficiency test. The meaning decision task was composed of 128 prime words followed by one out of three possible targets: related to the dominant meaning, related to the subordinate one, or unrelated. Independent variables were cognate status (64 cognate x 64 non-cognate words), homonym status (64 homonym x 64 non-homonyms), prime-sharedness (16 dominant meaning shared words x 16 subordinate meaning shared words), and target-relatedness (64 related to dominant meaning x 64 related to subordinate meaning x 64 unrelated words). Dependent variables were reaction times and accuracy. Data and analysis: Data were analyzed using linear mixed effect models in R. Findings: Results showed that, in this sample of bilinguals, processing of target words related to the meaning of the prime was confounded when primes were homonyms. In general, this interference was not decreased by the co-activation of cognate words across languages. Accuracy scores benefited from cognate status only when no ambiguity was present. Word processing was faster and more accurate when target words were related to the dominant meaning of the homonym prime, which shared this same meaning across languages. Originality: L1 co-activation via cognate words was not enough to decrease homonym interference effect in L2 word processing. Implications: This study lends support for a non-selective bilingual lexical access view and for frequency approaches during L2 word recognition. It also indicates limitations of the cognate facilitation effect.
+C1 [Rigatti, Pietra Cassol] Univ Fed Santa Catarina UFSC, Florianopolis, SC, Brazil.
+   [Areas da Luz Fontes, Ana Beatriz] Univ Fed Rio Grande do Sul UFRGS, Porto Alegre, RS, Brazil.
+RP Rigatti, PC (autor correspondente), Univ Fed Santa Catarina, Programa Posgrad Linguist, Ctr Comunicacao & Expressao, Sala 315,Bloco B,Campus Univ Trindade, BR-88040900 Florianopolis, SC, Brazil.
+EM pietra.rigatti@posgrad.ufsc.br
+OI Cassol Rigatti, Pietra/0000-0002-8964-0009
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior-Brasil
+   (CAPES) [001]
+FX TThe author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This study
+   was financed in part by the Coordenacao de Aperfeicoamento de Pessoal de
+   Nivel Superior-Brasil (CAPES)-Finance Code 001.
+CR Alderson J.C., 2005, LANG TEST, V22, P301, DOI [DOI 10.1191/0265532205LT3100A, 10.1191/0265532205lt310oa, DOI 10.1191/0265532205LT310OA]
+   Fontes ABAD, 2015, BILING-LANG COGN, V18, P639, DOI 10.1017/S1366728914000509
+   Barr DJ, 2013, J MEM LANG, V68, P255, DOI 10.1016/j.jml.2012.11.001
+   Bates D., 2020, lme4: Linear Mixed-Effects Models using "Eigen" and S4, DOI [DOI 10.18637/jss.v067.i01, 10.18637/jss.v067.i01]
+   Beatty-Martinez AL, 2020, J EXP PSYCHOL LEARN, V46, P1022, DOI 10.1037/xlm0000770
+   Brenders P, 2011, J EXP CHILD PSYCHOL, V109, P383, DOI 10.1016/j.jecp.2011.03.012
+   Bultena S, 2013, LANG COGNITIVE PROC, V28, P1350, DOI 10.1080/01690965.2012.718353
+   Carrasco-Ortiz H, 2012, PSYCHOPHYSIOLOGY, V49, P531, DOI 10.1111/j.1469-8986.2011.01333.x
+   Casaponsa A, 2016, Q J EXP PSYCHOL, V69, P589, DOI 10.1080/17470218.2015.1064977
+   Comesana M, 2015, J EXP PSYCHOL LEARN, V41, P614, DOI 10.1037/xlm0000065
+   Comesana M, 2012, NEUROSCI LETT, V529, P75, DOI 10.1016/j.neulet.2012.09.010
+   Davis C, 2010, BILING-LANG COGN, V13, P137, DOI 10.1017/S1366728909990393
+   Degani T, 2010, BILING-LANG COGN, V13, P299, DOI 10.1017/S1366728909990411
+   Dijkstra T, 1999, J MEM LANG, V41, P496, DOI 10.1006/jmla.1999.2654
+   Dijkstra T, 2002, BILING-LANG COGN, V5, P175, DOI 10.1017/S1366728902003012
+   Dijkstra T, 2010, J MEM LANG, V62, P284, DOI 10.1016/j.jml.2009.12.003
+   DUFFY SA, 1988, J MEM LANG, V27, P429, DOI 10.1016/0749-596X(88)90066-6
+   Durlik J, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0151430
+   Elston-Guttler KE, 2005, J COGNITIVE NEUROSCI, V17, P1593, DOI 10.1162/089892905774597245
+   Fontes ABAD, 2011, BILING-LANG COGN, V14, P360, DOI 10.1017/S1366728910000374
+   Fontes ABAD, 2010, LANG COGNITIVE PROC, V25, P508, DOI 10.1080/01690960903285797
+   Kirsner K, 2000, INT J BILINGUAL, V4, P385, DOI DOI 10.1177/13670069000040030501
+   Kousaie S, 2015, FRONT HUM NEUROSCI, V9, DOI 10.3389/fnhum.2015.00682
+   Lauro J, 2017, J MEM LANG, V92, P217, DOI 10.1016/j.jml.2016.06.010
+   Li P, 2014, BILING-LANG COGN, V17, P673, DOI 10.1017/S1366728913000606
+   Libben MR, 2009, J EXP PSYCHOL LEARN, V35, P381, DOI 10.1037/a0014875
+   Midgley KJ, 2011, J COGNITIVE NEUROSCI, V23, P1634, DOI 10.1162/jocn.2010.21463
+   Palma P, 2020, BILINGUAL LEXICAL AMBIGUITY RESOLUTION, P159
+   Perfetti C. A., 2002, PRECURSORS FUNCTIONA, P189, DOI DOI 10.1075/SWLL.11.14PER
+   Perfetti CA., 2001, CONSEQUENCES MEANING, DOI [DOI 10.1037/10459-004, 10.1037/10459-004]
+   Poarch GJ, 2014, INT J BILINGUAL, V18, P693, DOI 10.1177/1367006912472262
+   Psychology Software Tools, 2012, E PRIME 20
+   R Core Team, 2019, R LANG ENV STAT COMP
+   Rodd JM, 2004, COGNITIVE SCI, V28, P89, DOI 10.1016/j.cogsci.2003.08.002
+   Sá Leite Dias Ana Rita, 2017, Escritos de Psicología, V10, P69, DOI 10.5231/psy.writ.2017.13112
+   Schwartz Ana, 2020, OUR EV UND BIL LANG
+   Sereno SC, 2006, J EXP PSYCHOL HUMAN, V32, P335, DOI 10.1037/0096-1523.32.2.335
+   Strijkers K, 2010, CEREB CORTEX, V20, P912, DOI 10.1093/cercor/bhp153
+   Tokowicz N, 2007, LANG COGNITIVE PROC, V22, DOI 10.1080/01690960601057068
+   UCLES, 2021, CAMBR ENGL INT LANG
+   van Assche E, 2020, BILINGUAL LEXICAL AMBIGUITY RESOLUTION, P42
+   Voga M, 2007, MEM COGNITION, V35, P938, DOI 10.3758/BF03193467
+   Warms TL, 1995, J NEUROLINGUIST, V9, P1, DOI 10.1016/0911-6044(95)00001-1
+   Whitford V, 2015, J EXP PSYCHOL LEARN, V41, P1118, DOI 10.1037/xlm0000093
+NR 44
+TC 0
+Z9 0
+U1 3
+U2 3
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1367-0069
+EI 1756-6878
+J9 INT J BILINGUAL
+JI Int. J. Biling.
+AR 13670069211060729
+DI 10.1177/13670069211060729
+EA JAN 2022
+PG 17
+WC Linguistics; Language & Linguistics
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Linguistics
+GA YT5LG
+UT WOS:000751400600001
+DA 2022-06-24
+ER
+
+PT J
+AU Lillo-Martin, D
+   de Quadros, RM
+   Pichler, DC
+   Fieldsteel, Z
+AF Lillo-Martin, Diane
+   de Quadros, Ronice M.
+   Pichler, Deborah Chen
+   Fieldsteel, Zoe
+TI Language choice in bimodal bilingual development
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE bimodal bilingualism; bilingual development; code-blending; language
+   mixing; interlocutor sensitivity
+ID AMERICAN SIGN-LANGUAGE; HEARING; DIFFERENTIATION; ACQUISITION; GRAMMAR;
+   WORDS
+AB Bilingual children develop sensitivity to the language used by their interlocutors at an early age, reflected in differential use of each language by the child depending on their interlocutor. Factors such as discourse context and relative language dominance in the community may mediate the degree of language differentiation in preschool age children. Bimodal bilingual children, acquiring both a sign language and a spoken language, have an even more complex situation. Their Deaf parents vary considerably in access to the spoken language. Furthermore, in addition to code-mixing and code-switching, they use code-blending expressions in both speech and sign simultaneously an option uniquely available to bimodal bilinguals. Code-blending is analogous to code-switching sociolinguistically, but is also a way to communicate without suppressing one language. For adult bimodal bilinguals, complete suppression of the non-selected language is cognitively demanding. We expect that bimodal bilingual children also find suppression difficult, and use blending rather than suppression in some contexts. We also expect relative community language dominance to be a factor in children's language choices. This study analyzes longitudinal spontaneous production data from four bimodal bilingual children and their Deaf and hearing interlocutors. Even at the earliest observations, the children produced more signed utterances with Deaf interlocutors and more speech with hearing interlocutors. However, while three of the four children produced >75% speech alone in speech target sessions, they produced <25% sign alone in sign target sessions. All four produced bimodal utterances in both, but more frequently in the sign sessions, potentially because they find suppression of the dominant language more difficult. Our results indicate that these children are sensitive to the language used by their interlocutors, while showing considerable influence from the dominant community language.
+C1 [Lillo-Martin, Diane] Univ Connecticut, Dept Linguist, Storrs, CT 06269 USA.
+   [Lillo-Martin, Diane] Haskins Labs Inc, New Haven, CT USA.
+   [de Quadros, Ronice M.] Univ Fed Santa Catarina, Dept Libras, Florianopolis, SC, Brazil.
+   [Pichler, Deborah Chen] Gallaudet Univ, Dept Linguist, Washington, DC 20002 USA.
+   [Fieldsteel, Zoe] Brown Univ, Dept Linguist, Providence, RI 02912 USA.
+RP Lillo-Martin, D (autor correspondente), Univ Connecticut, Dept Linguist, 365 Fairfield Way,Unit 1145, Storrs, CT 06269 USA.
+EM diane.lillo-martin@uconn.edu
+FU NIDCD NIH HHS [R01 DC009263] Funding Source: Medline; NATIONAL INSTITUTE
+   ON DEAFNESS AND OTHER COMMUNICATION DISORDERS [R01DC009263] Funding
+   Source: NIH RePORTER
+CR Baker A, 2008, STUD BILINGUAL, V38, P1
+   Baker AE, 2014, COMMUN D ACROSS LANG, V11, P211
+   BHATIA TK, 1999, HDB CHILD LANGUAGE A, P569
+   Bhatt RM, 2011, BILING-LANG COGN, V14, P522, DOI 10.1017/S1366728910000295
+   Bishop M, 2005, SIGN LANG STUD, V5, P188, DOI 10.1353/sls.2005.0001
+   Bishop M, 2010, SIGN LANG STUD, V11, P205, DOI 10.1353/sls.2010.0007
+   Capirci O, 1996, J CHILD LANG, V23, P645, DOI 10.1017/S0305000900008989
+   Chen Pichler D., 2012, P 7 GSCP GRUPP STUD, P87
+   Chen Pichler D., 2014, SPOKEN CORPORA LINGU, P84
+   Chen Pichler Deborah, 2010, LIA, V1, P11
+   Chomsky N., 1995, MINIMALIST PROGRAM
+   Comeau L., 2003, INT J BILINGUAL, V7, P113, DOI [DOI 10.1177/13670069030070020101, 10.1177/13670069030070020101]
+   Costa A, 2004, J MEM LANG, V50, P491, DOI 10.1016/j.jml.2004.02.002
+   Crasborn O., 2008, P LREC 2008 6 INT C, P39
+   Deuchar M, 1999, J CHILD LANG, V26, P461, DOI 10.1017/S0305000999003852
+   Donati C., 2013, CHALLENGES LINEARIZA, P93, DOI DOI 10.1515/9781614512431.93
+   Dopke S, 1992, ONE PARENT ONE LANGU
+   Emmorey K, 2008, BILING-LANG COGN, V11, P43, DOI 10.1017/S1366728907003203
+   Emmorey K, 2013, J DEAF STUD DEAF EDU, V18, P1, DOI 10.1093/deafed/ens034
+   Emmorey K, 2008, PSYCHOL SCI, V19, P1201, DOI 10.1111/j.1467-9280.2008.02224.x
+   Fung C., 2012, THESIS CHINESE U HON
+   GENESEE F, 1989, J CHILD LANG, V16, P161, DOI 10.1017/S0305000900013490
+   Genessee F, 1995, J CHILD LANG, V22, P611, DOI 10.1017/S0305000900009971
+   Gonzalez-Vilbazo K, 2012, NAT LANG LINGUIST TH, V30, P33, DOI 10.1007/s11049-011-9141-5
+   GRIFFITH PL, 1985, SIGN LANG STUD, V48, P195
+   GROSJEAN F, 1989, BRAIN LANG, V36, P3, DOI 10.1016/0093-934X(89)90048-5
+   Halle Morris., 1993, VIEW BUILDING, P111
+   Hochgesang J., 2013, BEST PRACTICES BUILD
+   Kanto L, 2013, J DEAF STUD DEAF EDU, V18, P242, DOI 10.1093/deafed/ens071
+   Koulidobrova Elena V., 2012, THESIS U CONNECTICUT
+   KROLL JF, 1994, J MEM LANG, V33, P149, DOI 10.1006/jmla.1994.1008
+   Kroll JF, 2006, BILING-LANG COGN, V9, P119, DOI 10.1017/S1366728906002483
+   Lanza E., 1997, LANGUAGE MIXING INFA
+   Lillo-Martin D., 2010, LANG ACQUIS, P264
+   Lillo-Martin D, 2012, PROC ANN BUCLD, P302
+   Lucas C., 1992, LANGUAGE CONTACT AM
+   Macswan J, 2005, BILING-LANG COGN, V8, P1, DOI 10.1017/S1366728904002068
+   MacSwan J., 2000, BILING-LANG COGN, V3, P37, DOI [10.1017/S1366728900000122, DOI 10.1017/S1366728900000122]
+   Nadolske MA, 2007, TRENDS LINGUIST-STUD, V188, P35
+   Nicoladis E, 1996, LANG LEARN, V46, P439, DOI 10.1111/j.1467-1770.1996.tb01243.x
+   Nicoladis E., 2000, FIRST LANG, V20, P3, DOI [10.1177/014272370002005801, DOI 10.1177/014272370002005801]
+   Ozcaliskan S, 2005, COGNITION, V96, pB101, DOI 10.1016/j.cognition.2005.01.001
+   Paradis J., 2007, INT J BILING EDUC BI, V10, P277, DOI [10.2167/beb444.0, DOI 10.2167/BEB444.0]
+   Paradis Joan., 2001, INT J BILINGUAL, V5, P19, DOI [DOI 10.1177/13670069010050010201, 10.1177/13670069010050010201]
+   Petitto LA, 2001, J CHILD LANG, V28, P453, DOI 10.1017/S0305000901004718
+   PETITTO LA, 1991, SCIENCE, V251, P1493, DOI 10.1126/science.2006424
+   PETITTO LA, 1994, POST MILAN ASL & ENGLISH LITERACY: ISSUES, TRENDS, & RESEARCH, CONFERENCE PROCEEDINGS, P195
+   Petroj V., 2014, P 36 ANN BOST U C LA
+   Pichler DC, 2014, COMMUN D ACROSS LANG, V11, P235
+   POPLACK S, 1980, LINGUISTICS, V18, P581, DOI 10.1515/ling.1980.18.7-8.581
+   Pyers JE, 2008, PSYCHOL SCI, V19, P531, DOI 10.1111/j.1467-9280.2008.02119.x
+   Quadros Ronice Muller de, 2013, P GALA 2011, P300
+   Shook A, 2012, COGNITION, V124, P314, DOI 10.1016/j.cognition.2012.05.014
+   Unsworth S, 2013, ANNU REV APPL LINGUI, V33, P21, DOI 10.1017/S0267190513000044
+   Van den Bogaerde B, 2005, SIGN LANG LINGUIST, V8, P151
+   van den Bogaerde B., 2000, THESIS U AMSTERDAM U
+   van den Bogaerde B, 2009, HEARING MOTHER FATHE, P99
+   VOLTERRA V, 1978, J CHILD LANG, V5, P311, DOI 10.1017/S0305000900007492
+NR 58
+TC 26
+Z9 26
+U1 0
+U2 32
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD OCT 20
+PY 2014
+VL 5
+AR 1163
+DI 10.3389/fpsyg.2014.01163
+PG 15
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA AR6UI
+UT WOS:000343718200001
+PM 25368591
+OA Green Published, gold
+DA 2022-06-24
+ER
+
+EF

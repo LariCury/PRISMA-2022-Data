@@ -1,0 +1,594 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Silva, Rosane Aparecida Favoreto da
+   Seabra, Alessandra Gotuzo
+TI Crianças surdas e experiências com a palavra escrita
+X1 Deaf children and experiences with the written word
+SO Educação e Pesquisa	
+LA Portuguese	
+DT research-article	
+DE Deaf education; Bilingual education for the deaf; Literacy; Written Portuguese language	
+Y5 Educação de surdos; Educação bilíngue de surdos; Alfabetização e letramento; Língua portuguesa escrita	
+AB Abstract This article presents part of an investigation into the process of appropriation of the written Portuguese language by deaf children, signers of Brazilian Sign Language (Língua Brasileira de Sinais [Libras]). It seeks to describe their sayings and analyze the induced productions during the research. Six collaborators participated who attended Kindergarten and early elementary school years in a deaf school. This is qualitative, descriptive and exploratory research. Interviews and activities based on telling a story in Libras were used. In these activities, the children wrote words and texts, completed stories, developed characters, and drew pictures. The interviews, conducted in Libras, were videotaped, translated and textualized in written Portuguese. Data analysis found no initial distinction between the Portuguese language appropriation process of deaf children and those who are hearing, as reported in the literature. However, there is a difference when hearing children relate sound to spelling, characterizing the “turning point” for understanding the writing mechanism. We question what can be taken as the “turning point” for deaf children in the apprehension of writing functioning. It has been found that they use visual clues and make conjectures for writing, which may be related to visual awareness. This “turning point” can be favored by a bilingual literacy that involves signwriting, deferred writing and bilingual writing from different bases than those used with hearing children.	
+Y4 Resumo Este artigo apresenta parte de uma investigação sobre o processo de apropriação da língua portuguesa escrita por crianças surdas, sinalizantes de Língua Brasileira de Sinais (Libras), e busca descrever os seus dizeres e analisar as produções induzidas durante a pesquisa. Trata-se de pesquisa qualitativa, descritiva e de cunho exploratório. Participaram seis colaboradores que cursavam a Educação Infantil e os anos iniciais do Ensino Fundamental em uma escola de surdos. Foram utilizadas entrevistas e atividades realizadas a partir da contação de uma história em Libras. Nessas atividades, as crianças escreveram palavras, textos, completaram histórias, criaram personagens e fizeram desenhos. As entrevistas, realizadas em Libras, foram gravadas em vídeo, traduzidas e textualizadas na língua portuguesa escrita. Na análise dos dados, constatou-se que não há distinção inicial entre o processo de apropriação da língua portuguesa das crianças surdas em relação àquelas que são ouvintes, conforme relatado na literatura; entretanto, há diferenciação em relação ao momento em que as crianças ouvintes começam a relacionar o som com a grafia, caracterizando o “ponto de virada” para o entendimento do mecanismo da escrita. Problematiza-se o que pode ser tomado como o “ponto de virada” para as crianças surdas na apreensão do funcionamento da escrita. Verificou-se que elas utilizam pistas visuais e fazem conjecturas para a escrita, que podem estar relacionadas à consciência visual. Esse “ponto de virada” pode ser favorecido por um letramento bilíngue que envolva elementos como escrita de sinais, escrita diferida e escrita bilíngue, a partir de bases diferentes daquelas utilizadas com as crianças ouvintes.	
+C1 [Silva, Rosane Aparecida Favoreto da] Secretaria de Estado da Educação do Paraná, Brasil.
+   [Seabra, Alessandra Gotuzo] Universidade Presbiteriana Mackenzie, Brazil.
+OI Favoreto da Silva, Rosane Aparecida/0000-0002-5479-290X; Seabra,
+   Alessandra/0000-0002-8373-7897
+CR BROCHADO S. M. D., 2003, A apropriação da escrita por crianças surdas usuárias da língua de sinais brasileira
+   CAPOVILLA Alessandra Gotuzo Seabra, 2000, Leitura, escrita e consciência fonológica: desenvolvimento, intercorrelações e intervenções
+   CARDOSO S. H. B., 2003, A questão da referência: das teorias clássicas à dispersão de discursos
+   CORREA Bianca Cristina, 2018, Jornal de Políticas Educacionais, V12, P1
+   CRUZ R. C. A, 2009, A pré-escola vista pelas crianças
+   DONDIS Donis A, 2015, Sintaxe da linguagem visual. Tradução Jefferson Luiz Camargo
+   Faraco CA, 2012, Linguagem escrita e alfabetização
+   FAVORETO DA SILVA Rosane Aparecida, 2020, Experiências de crianças surdas com a palavra escrita
+   FERREIRO E., 2001, Cultura escrita e educação
+   FERREIRO Emília, 1999, Psicogênese da língua escrita
+   FIGUEIREDO Luciana Cabral, 2013, REV EDUCACAO ESPECIA, V26, P175
+   FORMAGIO C. L. S., 2016, Escola e diferença: caminhos para a educação bilíngue de surdos, P169
+   GESUELI Z. M., 1998, A criança surda e o conhecimento construído na interlocução em língua de sinais
+   Gesueli ZM, 2006, ETD EDUC TEMAT DIGIT, V7, P110, DOI 10.20396/etd.v7i2.796
+   Kramer Sonia, 2002, Cad. Pesqui., V0, P41, DOI 10.1590/S0100-15742002000200003
+   LANKSHEAR C., 2008, Pesquisa pedagógica: do projeto à implementação
+   Larossa J., 2015, Tremores – escritos sobre a experiência
+   LEBEDEFF T. B., 2010, CADERNOS EDUCACAO PE, V36, P175
+   LIMA Marleide Francisco de, 2018, Revista Prática Docente, V3, P140
+   LURIA A. R, 1988, LINGUAGEM DESENVOLVI, P143
+   MACHADO E.L., 2000, Psicogênese da leitura e da escrita na criança surda
+   MORAIS A. G. de, 2012, Sistema de escrita alfabética
+   OLIVEIRA Marta Kohl de, 2000, Piaget-Vygostky: novas contribuições para o debate, P51
+   OLIVEIRA Thereza Cristina Bastos Costa de, 2009, A escrita do aluno surdo: interface entre a libras e a língua portuguesa
+   PELUSO Leonardo, 2014, Revista Digital de Políticas Lingüísticas, V6, P16
+   ROJO R., 2009, Letramentos múltiplos, escola e inclusão social
+   SANTAELLA L., 2012, LEITURA IMAGENS
+   SILVA Tânia dos Santos Alvarez da, 2008, A aquisição da escrita pela criança surda desde a educação infantil
+   SOARES M., 2016, Alfabetização: a questão dos métodos
+   SOARES Magda, 2014, Letramento: um tema em três gêneros
+   STREET B., 2010, CULTURA ESCRITA LETR, P33
+   TAVEIRA Cristiane Correia, 2014, Por uma didática da invenção surda: prática pedagógica nas escolas-piloto de educação bilíngue no município do Rio de Janeiro
+   Veiga-Neto A, 2010, ETD EDUC TEMAT DIGIT, V12, P147, DOI 10.20396/etd.v12i1.846
+   Vygotsky LS, 1984, A formação social da mente
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU Faculdade de Educação da Universidade de São Paulo
+SN 1678-4634
+PY 2022
+VL 48
+BP e239142
+DI 10.1590/s1678-4634202248239142
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1517-97022022000100707
+OA gold
+ER
+
+PT J
+AU CASTRO, Mariana Gonçalves Ferreira de
+   KELMAN, Celeste Azulay
+TI Práticas Pedagógicas Inclusivas Bilíngues de Letramento para Estudantes Surdos
+X1 Inclusive Bilingual Pedagogical Practices of Literacy for Deaf Students
+SO Revista Brasileira de Educação Especial	
+LA Portuguese	
+DT research-article	
+DE Portuguese Language Teaching; Deafness; Bilingual schools	
+Y5 Ensino de Língua Portuguesa; Surdez; Escola-polo bilíngue	
+AB ABSTRACT: The concern about teaching Portuguese Language to the deaf has permeated history with different interfaces and conceptions. As a way of presenting propositions on the subject, this paper is a cutoff of the research report described in the thesis entitled Análise sobre ensino de Língua Portuguesa para surdos: um estudo em dois Municípios Fluminenses (Castro, 2021) [Analysis on Portuguese Language Teaching for the deaf: a study in two municipalities of Baixada Fluminense), whose main objective was to describe and analyze the bilingual pedagogical practices used to teach Portuguese language for the deaf in inclusive bilingual classes, in the 6th grade of Elementary School II, in bilingual schools of Rio de Janeiro and Duque de Caxias. The specific objectives were: to demonstrate bilingual pedagogical practices of Portuguese Language teaching for the deaf carried out in inclusive bilingual classes of deaf students from schools in the municipalities surveyed, and to highlight elements that favor or not the learning of Portuguese Language. The realization of this investigation was based on a qualitative approach methodology (Bauer & Gaskell, 2003), in the historical-cultural matrix with multicultural perspective, of the case study type (Gil, 2008). The data analysis was performed from the microgenetic perspective. As a result, it was observed that the way everyone who were involved in the process of teaching deaf and hearing students mediate the knowledge of the Portuguese language, using artifacts of metacognition or inter/multimodal communication through the Brazilian Sign Language (Kelman, 2015), making a positive difference in the teaching and learning of all students. In summary, it is considered that the quality of semiotic mediation used by everyone in the teaching-learning process of the deaf brings positive results on their learning of Portuguese language and on their own development.	
+Y4 RESUMO: A preocupação sobre o ensino da Língua Portuguesa para surdos permeou a história com diferentes interfaces e concepções. Como uma forma de apresentar proposições sobre o tema, este artigo é um recorte do relato de pesquisa descrito na tese intitulada Análise sobre ensino de Língua Portuguesa para surdos: um estudo em dois Municípios Fluminenses (Castro, 2021), que teve como objetivo geral descrever e analisar as práticas pedagógicas bilíngues utilizadas para ensinar Língua Portuguesa para surdos, em turmas bilíngues inclusivas, no 6º ano do Ensino Fundamental II, em escolas-polo bilíngues do Rio de Janeiro e de Duque de Caxias. Os objetivos específicos foram: demonstrar práticas pedagógicas bilíngues de ensino de Língua Portuguesa para surdos realizadas em turmas bilíngues inclusivas de alunos surdos de escolas-polo dos municípios pesquisados; e destacar elementos que favorecem ou não a aprendizagem de Língua Portuguesa. A realização dessa investigação baseou-se em uma metodologia de abordagem qualitativa (Bauer & Gaskell, 2003), na matriz histórico-cultural com viés multicultural, do tipo estudo de caso (Gil, 2008). A análise dos dados foi realizada na perspectiva microgenética. Como resultado, observou-se que a forma como todos os envolvidos no processo de ensino aos alunos surdos e ouvintes medeiam o conhecimento da Língua Portuguesa, utilizando artefatos da metacognição ou da comunicação inter/multimodal por meio da Língua Brasileira de Sinais - Libras (Kelman, 2015), fazendo positivamente a diferença no ensino e na aprendizagem de todos os alunos. Enfim, considera-se que a qualidade da mediação semiótica utilizada por todos no processo ensino-aprendizagem dos surdos traz resultados positivos sobre a aprendizagem em Língua Portuguesa e sobre seu próprio desenvolvimento.	
+C1 [CASTRO, Mariana Gonçalves Ferreira de] Professora de Língua Brasileira de Sinais e Educação Inclusiva, Brasil.
+   [KELMAN, Celeste Azulay] Professora associada. Programa de Pós-Graduação em Educação da UFRJ, Brasil.
+OI Kelman, Celeste/0000-0002-6633-8931
+CR Almeida S. D, 2014, Implantação de uma educação bilíngue para surdos na Escola Municipal Santa Luzia em Duque de Caxias/RJ
+   [Anonymous], 2018, BAS NACL COM CURR
+   Arruda G. B, 2015, Material didático de Geografia para surdos em uma perspectiva bilíngue
+   BAUER M.W., 2003, Pesquisa qualitativa com texto, imagem e som: um manual prático
+   Belém L. J. M, 2010, A atuação do intérprete educacional de língua brasileira de sinais no ensino médio
+   Bruner J., 2001, A cultura da educação
+   Castro M. G. F. de, 2021, Análise sobre ensino de Língua Portuguesa para surdos: um estudo em dois Municípios Fluminenses
+   Castro M. G. F. de, 2018, Surdez: comunicação, educação e inclusão, P135
+   Costa J. P, 2015, A prática docente na inclusão educacional de um aluno surdo com implante coclear
+   Costa R. D. S, 2018, Surdez: comunicação, educação e inclusão, P241
+   GESSER A, 2009, LIBRAS?: Que língua é essa?: crenças e preconceitos em torno da línguade sinais e da realidade surda
+   Gil A., 2008, Métodos e Técnicas de Pesquisa Social
+   Góes A. M, 2014, Tenho um aluno surdo, e agora? Introdução à Libras e educação de surdos, P65
+   Ivenicki Ana, 2019, Ensaio: aval.pol.públ.Educ., V27, P1, DOI 10.1590/s0104-40362018002700001
+   Ivenicki Ana, 2018, Ensaio: aval.pol.públ.Educ., V26, P1151, DOI 10.1590/s0104-40362018002601186
+   KELMAN C. A., 2005, REV ESPACO RIO DE JA, P25
+   Kelman C. A, 2011, Letramento do aluno surdo: considerações sobre compreensão e escrita em L2
+   Kelman C. A, 2005, Aqui tudo é importante: interações de alunos surdos com professores em espaço escolar inclusivo
+   Kelman C. A, 2018, Surdez: comunicação, educação e inclusão, P13
+   Lacerda C. B. de F, 2014, Tenho um aluno surdos, e agora? Introdução à Libras e a educação de surdos
+   Lebedeff T. B, 2017, Letramento visual e surdez
+   LODI A., 2009, Uma escola, duas línguas: letramento em língua portuguesa e língua de sinais nas etapas iniciais de escolarização
+   Navegantes E, 2016, Arquivos Analíticos de Políticas Educativas, V24, P1
+   Oliveira E. B, 2017, Interdisc, V11, P1
+   OTSKI L. S., 2010, PSICOLOGIA USP SO PA, V21, P681
+   Quadros R. M. de, 2019, Libras
+   QUADROS Ronice Muller de, 2004, Língua de sinais brasileira: estudos linguísticos
+   Rocha S. M, 2008, O INES e a educação de surdos no Brasil: aspectos da trajetória do Instituto Nacional de Educação de Surdos em seu percurso de 150 anos
+   VIANNA H. M., 2003, Pesquisa em educação: a observação
+   Vygotsky L. S, 1989, Obras completas. Tomo V. Fundamentos de Defectología
+   Vygotsky L. S, 2012, Pensamiento y habla
+   Vygotsky L. S, 2010, Quando não é quase a mesma coisa: análise de traduções de Lev Semionovitch Vygotsky no Brasil - repercussões no campo educacional
+   VYGOTSKY LEV S, 2000, EDUCACAO SOC EDUCACAO SOC, P23
+   2010, INES, P33
+   1994, Declarac'ao de Salamanca sobre principios, politica e praticas na area das necessidades educativas especiais
+   Regulamenta a Lei nº 10.436, de 24 de abril de 2002. Dispõe sobre a Língua Brasileira de Sinais - LIBRAS
+   1990, Declaración mundial sobre Educación para todos.
+   Institui a lei brasileira de inclusão da pessoa com deficiência (Estatuto da Pessoa com Deficiência)
+   Estabelece as diretrizes e bases da educação nacional
+   1988, Constituição da República Federativa do Brasil de 1988
+   Institui Diretrizes Nacionais para a Educação Especial na Educação Básica
+   Dispõe sobre a Língua Brasileira de Sinais - LIBRAS
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 0
+PU Associação Brasileira de Pesquisadores em Educação Especial - ABPEE
+SN 1980-5470
+PY 2022
+VL 28
+BP e0119
+DI 10.1590/1980-54702022v28e0119
+EC Education & Educational Research; Education, Special
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S1413-65382022000100306
+OA gold
+ER
+
+PT J
+AU Fernandes, Sueli
+   Moreira, Laura Ceretta
+TI Políticas de educação bilíngue para estudantes surdos: contribuições ao letramento acadêmico no ensino superior
+X1 Bilingual education policies for deaf students: contributions to academic literacy in higher education
+SO Educar em Revista	
+LA Portuguese	
+DT research-article	
+DE Bilingual education of deaf; Access to and permanence in higher education; Bilingual academic literacy; Libras.	
+Y5 Educação bilíngue para surdos; Acesso e permanência no ensino superior; Letramento acadêmico bilíngue; Libras.	
+AB ABSTRACT The systematic enrollment of deaf students in higher education in the last decade demanded important institutional changes regarding the right to a bilingual education, that is, to provide access and production of knowledge in Brazilian sign language and in Portuguese in written form. In this sense, this article aims to discuss the process of bilingual education of deaf students in higher education, presenting actions developed within the Universidade Federal do Paraná (Federal University of Paraná, UFPR), highlighting the contributions brought to the process of bilingual academic literacy in undergraduate and post-graduate programs. We understand that the focus attributed to the figure of the interpreter of Brazilian sign language and the specialized educational service in the national policy of inclusive education does not respond to the needs of adult working deaf students who reach higher education with difficulties in reading and writing Portuguese and little significant experiences in sign language. As a positive result, we point out the contributions to the bilingual academic literacy of deaf students, the development of a specific methodology for the elaboration of bilingual material - in different textual genres - and the amplification of the translator's performance references in the inclusion process. The inclusive process consists in dialogue-based interaction between researchers and specialized professionals, with focus on the protagonism of deaf students, subjects of the educational policy, in the planning of actions and decisions that involve their access and permanence at UFPR.	
+Y4 RESUMO O ingresso progressivo de estudantes surdos ao ensino superior, na última década, demandou mudanças institucionais importantes quanto ao direito à educação bilíngue, ou seja, oportunizar acesso e produção de conhecimento em Língua Brasileira de Sinais (Libras) e em Língua Portuguesa na modalidade escrita. Nesse sentido, este artigo tem como objetivo discutir o processo de educação bilíngue de estudantes surdos no ensino superior, apresentando ações desenvolvidas no âmbito da Universidade Federal do Paraná (UFPR), com destaque às contribuições trazidas ao processo de letramento acadêmico bilíngue nos cursos de graduação e pós-graduação. Entendemos que a centralidade, atribuída à figura do tradutor intérprete de Libras e ao atendimento educacional especializado na política nacional de educação inclusiva, não responde às necessidades dos estudantes surdos adultos trabalhadores que chegam ao ensino superior, com dificuldades na leitura e escrita do português e experiências pouco significativas em língua de sinais. Como resultados positivos, apontamos as contribuições ao letramento acadêmico bilíngue de estudantes surdos, o desenvolvimento de metodologia específica para elaboração de materiais bilíngues - em diferentes gêneros textuais - e a ampliação dos referenciais de atuação do tradutor-intérprete no processo de inclusão. O processo inclusivo se constitui na interação dialógica, entre pesquisadores e profissionais especializados, com centralidade ao protagonismo dos estudantes surdos, sujeitos da política educacional, no planejamento de ações e decisões que envolvem seu acesso e permanência na UFPR.	
+C1 [Fernandes, Sueli; Moreira, Laura Ceretta] Universidade Federal do Paraná, Brazil.
+RI Fernandes, Sueli/AAQ-5882-2020
+OI Fernandes, Sueli/0000-0003-1349-7004
+CR ALVEZ C. B., 2010, A Educação Especial na perspectiva da inclusão escolar. Abordagem bilíngue na escolarização de pessoas com surdez
+   Amaral L. A., 1998, DIFERENCAS PRECONCEI, P11
+   CALVET Louis-Jean, 2007, As políticas lingüísticas
+   Campello Ana Regina, 2014, Educ. rev., V0, P71, DOI 10.1590/0104-4060.37229
+   FAVORITO W., 2007, TRANSCULTURALIDADE L, V1, P7
+   FERNANDES S., 2006, Letramento: referências em saúde e educação
+   FERNANDES S., 2015, A tradução Libras/Língua Portuguesa: uma contribuição para a inclusão de estudantes surdos do ensino superior na UFPR, P2417
+   FERNANDES S, 2011, REV TRAMA CASCAVEL, V7, P109
+   FERNANDES S, 2014, ESCOLA PUBLICO ALVO, V1, P141
+   FERNANDES S. F., 2003, Educação bilíngüe para surdos: identidades, diferenças, contradições e mistérios
+   Fernandes Sueli, 2014, Educ. rev., V0, P51, DOI 10.1590/0104-4060.37014
+   MARCUSCHI L. A., 2003, Gêneros textuais e ensino
+   MARQUES R. R., 2012, A normatização de artigos acadêmicos em Libras e sua relevância como instrumento de constituição de corpus de referência para tradutores
+   NAKAGAWA H. E., 2012, Culturas surdas: o que se vê, o que se ouve
+   PERLIN G., 1998, A surdez: um olhar sobre as diferenças
+   PERLIN G., 2003, Revista de Educação e Processos Inclusivos
+   QUADROS R. M., 2015, Letras Libras: ontem, hoje e amanhã
+   SKLIAR Carlos, 1997, Educação e Exclusão: abordagens sócio-antropológicas em educação especial
+   Souza Micheli Gomes de, 2014, Rev. bras. linguist. apl., V14, P83
+   Strobel K. L., 2008, Surdos: vestígios culturais não registrados na história
+   STROBEL Karin, 2009, As imagens do outro sobre a cultura surda
+   STÜRMER Ingrid Ertel, 2015, Políticas Educacionais e Linguísticas para Surdos: discursos que produzem a educação bilíngue no Brasil na atualidade, P1
+   VYGOTSKI Lev Semionovitch, 1991, A formação social da mente
+   2017, Concursos para a carreira de docentes da UFPR.
+   2011, Decreto nº 7612/2011
+   2008, Diário Oficial da União
+   2017, Núcleo de Concursos
+   2017, Alunos com necessidades educacionais especiais
+   2016, Curso de licenciatura em letras-Libras
+   2017, Mestrado e doutorado
+   2009, Decreto Federal nº 6.949, de 25 de agosto de 2009
+   2002, Lei nº 10.436, de 24 de abril de 2002. Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências
+   2010, Programa de Implantação de Salas de Recursos Multifuncionais.
+   2005, Decreto nº 5.626, de 22 de dezembro de 2005. Regulamenta a Lei nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000
+   2008, Política nacional de Educação Especial na perspectiva da educação inclusiva.
+   2009, Resolução nº 04, de 02 de outubro de 2009
+NR 36
+TC 2
+Z9 3
+U1 1
+U2 2
+PU Setor de Educação da Universidade Federal do Paraná
+SN 1984-0411
+PY 2017
+IS spe.3
+BP 127
+EP 150
+DI 10.1590/0104-4060.51048
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S0104-40602017000700127
+OA gold
+ER
+
+PT J
+AU Tilio, Rogério
+   Lobo, Valdiney Costa
+TI TRANSMEDIA PEDAGOGICAL MATERIAL FOR SPANISH TEACHING IN BRAZIL: VOICES FROM LATIN AMERICAN PERIPHERIES
+X1 MATERIAL PEDAGÓGICO TRANSMÍDIA PARA O ENSINO DE ESPANHOL NO BRASIL: VOZES LATINO-AMERICANAS PERIFÉRICAS.
+SO Trabalhos em Linguística Aplicada	
+LA English	
+DT research-article	
+DE transmedia pedagogical material; critical literacy; Spanish teaching	
+Y5 material pedagógico transmídia; letramento crítico; ensino de espanhol	
+AB ABSTRACT This article aims to present the results of a research involving Spanish classes at COLUNI/UFF. The investigation about multimodal literacies (KALANTIZS; COPE, 2012) focuses on the production of resistance/reexistance transmedia pedagogical materials. In a first moment, bilingual (Portuguese/Spanish) comic strips are produced, aiming at the problematization of ethnical and racial issues. In a subsequent moment, secondary narrations about the theme are produced: raps and animations. The investigation results are expected to enlighten pedagogical practices with the material in high school classes, aiming at developing students’ critical literacy.	
+Y4 RESUMO Este artigo tem como objetivo apresentar os resultados de uma pesquisa envolvendo aulas de espanhol no COLUNI/UFF. A pesquisa sobre letramento multimodal (KALANTIZS; COPE, 2012) concentra-se na produção de materiais pedagógicos transmídias de resistência/reexistência. No início, as personagens e os quadrinhos são produzidos com o objetivo de problematizar preconceitos raciais e xenófobos. Em um momento posterior, os personagens e as tiras em quadrinhos perpassam e entrecruzam-se com as narrativas de outros textos, a fim de possibilitar práticas de letramentos de leitura e escrita em espanhol. Espera-se que a produção do material pedagógico transmídia possa desenvolver a reflexão e a criticidade nos alunos.	
+C1 [Tilio, Rogério] Universidade Federal do Rio de Janeiro, Brazil.
+   [Lobo, Valdiney Costa] Universidade Federal da Integração Latino-Americana, Brazil.
+OI Tilio, Rogerio/0000-0002-3635-9395; Lobo, Valdiney/0000-0003-0341-907X
+CR Bakhtin M., 1997, A Estética da criação verbal
+   BOHN H, 2013, Linguística Aplicada na modernidade recente: festschrift para Antonieta Celani
+   Cazden C, 1996, HARVARD EDUC REV, V66, P60, DOI 10.17763/haer.66.1.17370n67v22j160u
+   Cervetti G., 2001, READING ONLINE, V4
+   FABRÍCIO B. F., 2006, Por uma linguística aplicada INdisciplinar
+   Hall S., 2006, A identidade cultural na pós-modernidade
+   Halliday M A K, 1994, Introduction to Functional Grammar
+   HALLIDAY M. A. K., 1989, Language, context, and text: aspects of language in a social-semiotic perspective
+   Halliday M A K, 2014, An introduction to functional grammar
+   Jenkins H., 2009, Cultura da convergência
+   Kalantzis M, 2012, LITERACIES, P1, DOI 10.1017/CBO9781139196581
+   KLEIMAN A. B., 2013, Linguística aplicada na modernidade recente: Festschrift para Antonieta Celani
+   MOITA LOPES L. P, 2006, Por uma linguística aplicada INdisciplinar
+   ROJO R., 2009, Letramentos múltiplos, escola e inclusão social
+   ROJO R, 2012, Multiletramentos na escola
+   ROJO R, 2013, Linguística Aplicada na modernidade recente: festschrift para Antonieta Celani
+   SILVA T. T. A, 2000, PRODUCAO SOCIAL IDEN, P73
+   SOUZA A. L. S., 2011, Letramentos de reexistência - poesia, grafite, música, dança: hip-hop
+   TILIO R.C, 2013, Língua estrangeira e formação cidadã: por entre discursos e práticas, P51
+   Tílio Rogério, 2009, Trab. linguist. apl., V48, P295
+   VOLÓCHINOV V., 2017, Marxismo e filosofia da linguagem. Problemas fundamentais do método sociológico na ciência da linguagem
+   1998, Parâmetros Curriculares Nacionais: terceiro e quarto ciclos do ensino fundamental: língua portuguesa
+   2006, Orientações curriculares para o ensino médio - Linguagens, Códigos e suas Tecnologias, V1
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNICAMP. Programa de Pós-Graduação em Linguística Aplicada do Instituto
+   de Estudos da Linguagem (IEL)
+SN 2175-764X
+PD 04
+PY 2020
+VL 59
+IS 1
+BP 78
+EP 98
+DI 10.1590/010318135824215912020
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S0103-18132020000100078
+OA gold
+ER
+
+PT J
+AU Rosenbrock, Emilia
+   Fritzen, Maristela Pereira
+   Heinig, Otília Lizete de Oliveira Martins
+TI (Inter)relações entre práticas de letramentos na escrita de narrativas em alemão e em português por crianças que vivem em contexto de alemão como língua de herança familiar
+X1 (Inter) relations between literacy practices in the writing of narratives in German and Portuguese by children living in the context of German as a heritage language
+SO Pandaemonium Germanicum	
+LA Portuguese	
+DT research-article	
+DE Written Narratives; Literacy; German Language; Bilingual Contexts; Language Policies	
+Y5 Narrativas escritas; letramentos; língua alemã; contextos bi/multilíngues; políticas linguísticas	
+Z5 Schriftliche Erzählung; Literacy; Deutsche Sprache; Mehrsprachige Kontexte; Sprachenpolitik	
+AB Abstract This article discusses some of the results of a broader research which aimed at understanding (inter) relationships established between reading and writing practices in German and Portuguese languages of primary school children and the context of inheritance language where they are inserted. For the theoretical dimension, the study follows the perspectives of Applied Linguistics and Education, focusing intercultural contexts. This qualitative-interpretative research had as setting a municipal school located in a rural area of the city of Blumenau, Santa Catarina. Regarding the methodological procedures, two proposals were used to produce written narratives, one in Portuguese and the other in German language. The results suggest that (i) children have limited dominance of the narrative structure, applying it partially in productions in both languages; (ii) vocabulary and grammatical structures are characteristics of everyday ordinary language practices; (iii) students are not aware of or they have not internalized spelling rules especially in German. The results of the research affirm the importance of guaranteeing the learning of the inheritance language in formal education, alongside Portuguese, in similar bi/multilingual contexts.	
+Y4 Resumo Este artigo aborda parte dos resultados de uma pesquisa mais abrangente que objetivou compreender (inter)relações que se estabelecem entre práticas de leitura e escrita em alemão e em português de crianças do Ensino Fundamental e o contexto de língua de herança em que estão inseridas. Quanto à dimensão teórica, o estudo filia-se à área da Linguística Aplicada em diálogo com a Educação em contextos interculturais. A pesquisa, de base qualitativo-interpretativista, teve como locus uma escola municipal, em zona rural do município de Blumenau, Santa Catarina. Quanto aos procedimentos metodológicos, foram utilizadas duas propostas de produção de narrativas escritas, uma em português e outra em alemão. Os resultados sugerem que (i) as crianças têm domínio restrito de uma estrutura narrativa e aplicam-na parcialmente nas produções em ambas as línguas; (ii) o vocabulário e as estruturas gramaticais são característicos das práticas linguageiras cotidianas; iii) os estudantes desconhecem ou não internalizaram regras ortográficas, especialmente da língua alemã. A partir dos resultados da pesquisa afirma-se a importância de se garantir, na educação formal, o aprendizado da língua de herança, ao lado do português, em contextos bi/multilíngues similares.	
+Z4 Zusammenfassung Der vorliegende Artikel beschäftigt sich mit den Ergebnissen einer Forschung, die die Zusammenhänge zwischen Lese- und Schreibpraktiken in den Sprachen Deutsch und Portugiesisch von Grundschulkindern untersucht hat sowie den interkulturellen Kontext, in dem sie leben. Im Hinblick auf den theoretischen Hintergrund siedelt sich die Studie im Bereich der Angewandten Linguistik und Bildung in interkulturellen Kontexten an. Sie repräsentiert eine qualitativ-interpretative Forschung, die an einer öffentlichen Schule im ländlichen Gebiet von Blumenau, Santa Catarina, durchgeführt wurde. Basis der Studie waren schriftliche Erzählungen, eine in der portugiesischen und eine in der deutschen Sprache. Die Ergebnisse zeigen, dass (i) die Kinder nur beschränkt eine narrative Struktur in beiden Sprachen beherrschen; (ii) der Wortschatz und die Grammatikstrukturen charakteristisch für die Alltagssprache sind; (iii) Rechtschreibregeln nicht verinnerlicht oder nicht gelernt worden sind, besonders in der deutschen Sprache. Aus den Forschungsergebnissen lässt sich ableiten, dass es wichtig ist, in mehrsprachigen Kontexten die Herkunftssprache der Kinder, neben dem Portugiesischen, in der Schulausbildung zu fördern.	
+C1 [Heinig, Otília Lizete de Oliveira Martins] Universidade Regional de Blumenau, Brazil.
+   [Fritzen, Maristela Pereira] Universidade Regional de Blumenau, Brazil.
+   [Rosenbrock, Emilia] Colégio Cônsul Carlos Renaux, Brasil.
+CR Bartlett FC., 1932, REMEMBERING STUDY EX, P1
+   Blumenau Hermann Bruno Otto, 2002, A colônia alemã Blumenau: na província de Santa Catarina no Sul do Brasil
+   Bogdan R, 1994, Investigação qualitativa em educação: Uma introdução à teoria e aos métodos
+   Borstel Clarice N, 2011, A linguagem sociocultural do Brasildeutsch
+   BORTONI-RICARDO S. M, 2004, Educação em língua materna: a sociolinguística na sala de aula
+   Bzuneck José Aloyseo, 1991, Semina: Ciências Sociais e Humanas, V12, P142
+   Cagliari Luiz Carlos, 2010, Alfabetização e Linguística
+   CAVALCANTI M. C., 1999, DELTA S O PAULO, V15, P385
+   Cavalcanti Marilda C, 2011, Questões de Método e de Linguagem na Formação Docente, P171
+   DENZIN N. K., 2006, O planejamento da pesquisa qualitativa: teorias e abordagens, P15
+   DIONISIO M. de L, 2007, PERSPECTIVA FLORIANO, V25, P209
+   DOLZ J., 2004, Gêneros orais e escritos na escola
+   Faraco Carlos A, 1992, Escrita e alfabetização
+   Fritzen Maristela P, 2012, Educação Unisinos, V16, P161
+   Fritzen Maristela P, 2012, Linguagem & Ensino, V15, P113
+   Fritzen Maristela Pereira, 2008, Trab. linguist. apl., V47, P341
+   FRITZEN Maristela Pereira, 2007, "Ich kann mein Name mit letra junta und letra solta schreiben": bilinguismo e letramento em uma escola rural localizada em zona de imigração alemã no Sul do Brasil
+   Heath Shirley B, 1983, Way with words: language, life and work in communities and classrooms
+   Heinig Otilia L. O. M, 2003, “É que a gente não sabe o significado”: homófonos não homógrafos
+   Heinig Otilia L. O. M, 2015, Atos de Pesquisa em Educação, V10, P504
+   KLEIMAN A. B, 1995, Os significados do letramento: uma nova perspectiva sobre a prática social da escrita
+   KLEIMAN Angela, 2006, ENSINO LINGUA REPREN, P75
+   Kleiman Angela B., 2008, Ling. (dis)curso, V8, P487
+   Kleiman Angela B, 1997, Texto e leitor: aspectos cognitivos da leitura
+   Kreutz L., 2000, REV BRASILEIRA EDUCA
+   LINS e SILVA M. E., 1998, REV BRASILEIRA ESTUD, V79, P5
+   Luna José Marcelo F. de, 2000, O Português na Escola Alemã de Blumenau: da formação à extinção de uma prática
+   Maas Martha R., 2014, Calidoscópio, V12, P143
+   MAILER Valéria Contrucci de Oliveira, 2003, O Alemão em Blumenau: uma questão de identidade e cidadania
+   Mar RA, 2004, NEUROPSYCHOLOGIA, V42, P1414, DOI 10.1016/j.neuropsychologia.2003.12.016
+   Morais Artur G, 2009, Ortografia: ensinar e aprender
+   Moura Maria Denilda, 1997, Variação e ensino
+   NICOLAIDES C., 2013, POLITICA POLITICAS L, P93
+   ONG Walter, 1998, Oralidade e cultura escrita: a tecnologização da palavra
+   Pereira Fritzen M., 2007, PANDAEMON GERMAN, V11, P125
+   Ribeiro D, 1995, O povo brasileiro: A formação e o sentido do Brasil
+   Riehl Claudia M, 2006, Gemeinschaftsinitiative Equal, P4
+   Riehl Claudia M, 2014, Mehrsprachigkeit: Eine Einführung
+   Scliar-Cabral L, 2003, Princípios do sistema alfabético do português do Brasil
+   Scliar-Cabral Leonor, 2009, Revista de cultura, V67
+   Scliar-Cabral Leonor, 1991, Introdução à psicolinguística
+   SEYFERTH Giralda, 1994, RBCS, P103
+   SEYFERTH Giralda, 1999, FAZER A AM, P273
+   Seyferth Giralda, 1982, Nacionalismo e identidade étnica
+   SOARES M., 2001, MAGIA LINGUAGEM, P49
+   STREET B., 1995, Social Literacies: Critical Approaches to Literacy in Development, Ethnography and Education
+   Street B., 1984, LIT THEOR PRACT
+   Street Brian V., 2013, Cad. CEDES, V33, P51, DOI 10.1590/S0101-32622013000100004
+   Wieser Lothar, 2014, Das hiesige Land gleicht einem Paradies. Die Auswanderung von Baden nach Brasilien im 19. Jahrhundert
+   2012, Diretrizes Curriculares Municipais para Educação Básica/Ensino Fundamental
+   1989, ACIB Blumenau 90 anos de memória
+   2010, Censo
+   1994, D.E.L.T.A, V10, P329
+NR 53
+TC 0
+Z9 1
+U1 0
+U2 3
+PU Universidade de São Paulo/Faculdade de Filosofia, Letras e Ciências
+   Humanas/; Programa de Pós-Graduação em Língua e Literatura Alemã
+SN 1982-8837
+PD 04
+PY 2018
+VL 21
+IS 33
+BP 136
+EP 164
+DI 10.11606/1982-88372133136
+EC Language & Linguistics; Literature, German, Dutch, Scandinavian
+C2 SciELO Brazil
+SC Linguistics; Literature
+UT SCIELO:S1982-88372018000100136
+OA gold
+ER
+
+PT J
+AU Gomides, Paula Aparecida Diniz
+   Carvalho, Gilcinei Teodoro
+   Rocha, Terezinha Cristina da Costa
+TI LITERATURA SURDA E PERCURSOS SÓCIO-HISTÓRICOS DE FORMAÇÃO DE DOIS PROFESSORES SURDOS
+X1 DEAF LITERATURE AND SOCIO-HISTORICAL TRAJECTORIES IN THE DEVELOPMENT OF TWO DEAF TEACHERS
+SO Trabalhos em Linguística Aplicada	
+LA Portuguese	
+DT research-article	
+DE deaf literature; literature in Libras; deaf reader education; bilingual education; literary literacy	
+Y5 literatura surda; literatura em Libras; formação de leitores surdos; educação bilíngue; letramento literário	
+AB ABSTRACT The article discusses the development of readers in deaf communities, focusing on social practices of literary literacy in which Libras occupies a central role. We sought, through interviews with two deaf teachers of different generations, to reconstruct their trajectories, taking into account, on the one hand, the socio-historical paths in which they engaged during their reading education and, on the other hand, the understanding of reading constitution as a social, cultural and identity phenomenon. We establish an articulation between deaf literature and the social and school education of the deaf, reflecting on the processes that enabled them to build a reading repertoire and on the interfaces of this context with the policies that reaffirmed the bilingualism of the deaf and the right to use Libras. The experiences of socialization and schooling with literature and the Portuguese language tell about the trajectories of the deaf community and often prove to be bumpy, especially by the presence of clinical-therapeutic processes of insertion in the hearing community. However, the reported experiences also indicated a favorable engagement in social practices of literary literacy, either as readers who evaluate in a contextualized way certain productions or as authors who experience literary performances that are enhanced by social networks that circulate representative productions of the deaf community, which includes the systematic use of Libras.	
+Y4 RESUMO O artigo discute a formação de leitores surdos, enfocando as práticas sociais de letramento literário em que a Libras ocupa uma centralidade. Buscamos, por meio de entrevistas com dois professores surdos, de gerações diferentes, reconstruir suas trajetórias, tendo em vista, por um lado, os percursos sócio-históricos nos quais eles se engajaram, durante sua formação leitora e, por outro lado, o entendimento de constituição leitora como um fenômeno social, cultural e identitário. Estabelecemos uma articulação entre a literatura surda e a formação social e escolar de surdos, refletindo sobre os processos que lhes possibilitaram a construção de um repertório leitor e sobre as interfaces desse contexto com as políticas que reafirmaram o bilinguismo dos surdos e o direito ao uso da Libras. As experiências de socialização e de escolarização com a literatura e a língua portuguesa remetem às trajetórias da comunidade surda e, muitas vezes, revelam-se acidentadas, especialmente pela presença de processos clínico-terapêuticos de inserção na comunidade ouvinte. Contudo, as experiências relatadas também indicaram um favorecimento ao engajamento em práticas sociais de letramento literário, quer na condição de leitores que avaliam de forma contextualizada certas produções, quer na condição de autores que vivenciam performances literárias que são potencializadas pelas redes sociais que fazem circular produções representativas da comunidade surda, o que inclui o uso sistemático da Libras.	
+C1 [Gomides, Paula Aparecida Diniz] Universidade Federal de Minas Gerais (UFMG), Brasil.
+   [Rocha, Terezinha Cristina da Costa] Universidade Federal de Minas Gerais (UFMG), Brasil.
+   [Carvalho, Gilcinei Teodoro] Universidade Federal de Minas Gerais (UFMG), Brasil.
+OI Aparecida Diniz Gomides, Paula/0000-0002-4699-4309
+CR ALMEIDA M, 2018, Blog Escrevendo o Futuro. Slam do corpo
+   Andruetto M. T., 2012, Por uma literatura sem adjetivos
+   BASSO S. P. S., 2012, Revista Eletrônica de Educação, V6, P491
+   BRITO F. B. de, 2013, O movimento social surdo e a campanha pela oficialização da língua brasileira de sinais
+   CAMPELLO A. R., 2003, Aventuras de Pinóquio em Língua de Sinais/Português. Coleção Clássicos da Literatura em Libras-Português (infanto-juvenil)
+   CAVALCANTI M. C., 1999, DELTA S O PAULO, V15, P385
+   COSSON Rildo, 2006, Letramento literário: teoria e prática
+   COSTA J. M. da, 2020, Ensino de metáforas em língua portuguesa para surdos bilíngues Libras-português, p165 f
+   Neves CAD, 2017, LINHA AGUA, V30, P92, DOI 10.11606/issn.2236-4242.v30i2p92-112
+   FINNEGAN R, 2015, Where is language? An antropologist´s questions on language, literature and performance
+   GURGEL L. G., 2015, Revista Reflexão e Ação, V23, P261
+   KARNOPP L. B., 2010, PRODUCOES CULTURAIS PRODUCOES CULTURAIS, V19, P155
+   KARNOPP L. B., 2009, Metodologia da Literatura Surda
+   MAHER T. M, 1997, O Dizer do sujeito bilíngue: aportes da sociolinguística. Anais do Seminário Desafios e possibilidades na educação bilíngue para surdos, P20
+   MARCUSCHI L. A, 1999, Análise da conversação
+   Megale A. H., 2018, The Especialist, V39, P1
+   MOURÃO Cláudio, 2016, Literatura surda: experiência das mãos literárias
+   OLIVEIRA M. A. A. de, 2008, Um mistério a resolver: o mundo das bocas mexedeiras
+   PAULINO G, 2010, Cultura escrita e letramento, P404
+   PIMENTA N, 1999, Literatura Em LSB
+   QUADROS R. M., 1997, Educação de surdos: a aquisição da linguagem
+   RAMOS C. R, 2002, Iracema em Libras. Coleção Clássicos da Literatura em Libras-Português (infanto-juvenil)
+   REZENDE R. C. F. de, 2020, Anais do primeiro Despetacular Festival
+   RODRIGUES C. H, 2018, Letramento na Diversidade: surdos aprendendo a ler/escrever
+   Silva Giselli Mara da, 2014, Rev. bras. linguist. apl., V14, P905, DOI 10.1590/1984-639820145558
+   SILVEIRA C. H., 2011, Cinderela Surda
+   Skliar C, 1999, ATUALIDADE EDUCACAO, V2, P7
+   STREET B, 2014, Letramentos sociais: abordagens críticas do letramento no desenvolvimento, na etnografia e na educação
+   SUTTON-SPENCE R, 2020, Fórum Linguístico, V17, P5505
+   SUTTON-SPENCE R, 2021, Literatura em Libras
+   2012, Chapeuzinho Vermelho em Libras
+   2014, Plano Nacional de Educação 2014-2024
+   2015, Lei no 13.146, de 06 de julho de 2015
+   2002, Lei no 10.436, de 24 de abril de 2002
+   2021, Projeto Mãos Literárias
+   2005, Decreto no 5.626, de 22 de dezembro de 2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais (Libras), e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU UNICAMP. Programa de Pós-Graduação em Linguística Aplicada do Instituto
+   de Estudos da Linguagem (IEL)
+SN 2175-764X
+PD 12
+PY 2021
+VL 60
+IS 3
+BP 735
+EP 747
+DI 10.1590/0103181311071011520211025
+EC Language & Linguistics; Linguistics
+C2 SciELO Brazil
+SC Linguistics
+UT SCIELO:S0103-18132021000300735
+OA gold
+ER
+
+PT J
+AU Martins, Aracy Alves
+   Gomes, Silvestre Filipe
+   Cá, Virgínia José Baptista
+TI LETRAMENTO(S)/ALFABETIZAÇÃO EM CONTEXTOS MULTILÍNGUES DE ANGOLA E GUINÉ-BISSAU
+X1 LITERACY (IES) IN ANGOLA AND GUINEA-BISSAU MULTILINGUAL CONTEXTS
+SO Educação em Revista	
+LA Portuguese	
+DT research-article	
+DE Literacy (ies); Linguistic policies; Official language; Mother tongues	
+Y5 Letramento(s); Políticas linguísticas; Língua oficial; Línguas maternas	
+AB ABSTRACT: The Network Research about racial relationships, sociocultural diversity and interculturality in Portuguese-speaking countries aims at analyzing, through the perspective of Critical Discourse Analysis, according Van Dijk, the literary works, according Paulino and Cosson, the school manuals according Dionisio, Costa Val and Marcuschi, and the official documents related to cultural and linguistic policies, according Calvet. Therefore, it emphasizes South/South dialogues, according Santos and others authors, and horizontal cooperation among Portuguese-speaking countries, based on the guidance of Brazilian laws 10.639/2003 and 11.645/2008, that establish the study of African and Indigenous peoples' history and culture at Brazilian schools. This text presents two Master course researches that focus on tensions between official language and mother tongues in literacy (ies) processes in Angola and Guinea-Bissau, developed by researchers from both countries at Faculty of Education of Federal University of Minas Gerais/Brazil, that indicate the possibilities of the bilingual education.	
+Y4 RESUMO: A Pesquisa em Rede sobre relações raciais, diversidade socio-cultural e interculturalidade em países de língua portuguesa analisa, pelo viés da Análise Crítica do Discurso, segundo Van Dijk, obras literárias, segundo Paulino e Cosson, manuais escolares, segundo Dionísio e Costa Val, e documentos oficiais relacionados a políticas linguísticas e culturais, segundo Calvet. Dessa forma, enfatiza diálogos sul/sul, segundo Santos e Meneses, e Munanga e Gomes, e cooperação horizontal entre países de língua portuguesa, partindo de orientações das Leis brasileiras 10.639/2003 e 11.645/2008, que instituem o estudo da História e Cultura dos africanos e indígenas nas escolas brasileiras. Este texto apresenta duas investigações de mestrado que focalizam tensões entre língua oficial e língua(s) materna(s), nos processos de Letramento(s), em Angola e Guiné-Bissau, desenvolvidas por pesquisadores desses dois países, na Faculdade de Educação da Universidade Federal de Minas Gerais, no Brasil, que apontam para possibilidades do ensino bilíngue.	
+C1 [Martins, Aracy Alves] Universidade Federal de Minas Gerais, Brazil.
+   [Gomes, Silvestre Filipe] Universidade 11 de Novembro, Angola.
+   [Cá, Virgínia José Baptista] Liceu João XXIII, Guiné-Bissau.
+CR AMÂNCIO Isis Maria da Costa, 2008, Literaturas Africanas e Afro-Brasileiras na Prática Pedagógica
+   Augel M. Parente, 2006, SCRIPTA, V19, P69
+   BUNZEN Clecio, 2005, LIVROS DIDATICOS LIN, P73
+   CÁ V. J. B, 2015, Língua e ensino em contexto de diversidade linguística e cultural: o caso de Guiné-Bissau
+   CALVET Louis-Jean, 2007, As políticas lingüísticas
+   Cardoso A. J. G, 2005, As interferências linguísticas do caboverdiano no processo de aprendizagem do português
+   CARREIRA A, 1984, O Crioulo de Cabo Verde, Surto e Expansão
+   CASTRO Rui Vieira, 1999, Manuais escolares: estatuto, funções, história
+   COSTA VAL M. da G., 2005, Livros didáticos de língua portuguesa: letramento e cidadania
+   da Silva P. V. B., 2008, RACISMO DISCURSO AM, P73
+   DIALLO I, 2007, Guiné-Bissau: Que papel e que lugar para as línguas nas políticas nacionais de desenvolvimento e estratégias de integração subregional?
+   Dionísio Maria de Lourdes, 2006, Educ. rev., V0, P41, DOI 10.1590/S0102-46982006000200003
+   DIONÍSIO Maria Lourdes Trindade, 2000, A construção escolar de comunidades de leitores
+   Fairclough N., 2001, Discurso e mudança social
+   FORQUIN J.-C., 1993, Escola e cultura: as bases sociais e epistemológicas do conhecimento escolar
+   Freire P, 1977, Cartas à Guiné-Bissau: registros de uma experiência em processo
+   GADOTTI Moacir, 2012, PAULO FREIRE AMILCAR, P55
+   GOMES S. F, 2014, Relações entre língua oficial e línguas locais na escola: como as crianças de aldeias de Cabinda/Angola aprendem o português e em português
+   KI-ZERBO J, 2009, Para quando a África? Entrevista com René Holenstein
+   LOPES FILHO J, 2015, António Carreira: Etnógrafo e Historiador
+   LOPES J. de S. M, 2014, Poesia e etnicização nos livros didáticos de português: um estudo comparativo Moçambique e Brasil
+   MACIEL F, 2014, Aprender a ler e a escrever em São Tomé e Príncipe: análise de Manuais Escolares
+   MUNANGA Kabengele, 2006, O Negro no Brasil de Hoje
+   PAULINO G., 2009, Escola e leitura: velha crise; novas alternativas, P61
+   ROJO R., 2009, Letramentos múltiplos, escola e inclusão social
+   Santos BS, 2010, Epistemologias do Sul
+   SCANTAMBURLO L, 2002, Dicionário do Guineense: dicionário guineense - português; dicionário guinensi-purtuguis, V2
+   SCANTAMBURLO L, 2013, O Léxico do Crioulo Guineense e as suas Relações com o Português: o Ensino Bilingue Português-Crioulo Guineense
+   SEMEDO M. O. C, 1996, Entre o ser e o amar
+   SEMEDO M. O. C. S, 2010, As Mandjuandadi: Cantigas de Mulher na Guiné-Bissau: da tradição oral à literatura
+   SENA L. de, 1995, Revista de Estudos Guineenses, V19, P63
+   SOARES M., 1999, Português: uma proposta para o letramento
+   SOARES M. B., 1998, Letramento: um tema em três gêneros
+   Soares Magda, 2004, Rev. Bras. Educ., V0, P5, DOI 10.1590/S1413-24782004000100002
+   STREET B, 2014, Letramentos sociais: abordagens críticas do letramento no desenvolvimento, na etnografia e na educação
+   VAN DIJK Teun Adrianus, 2008, Racismo e Discurso na América Latina
+   VEIGA M, 2004, A Construção do Bilinguismo
+   2015, Boletim 104
+   1979, Guiné-Bissau '79: Learning by living and doing
+NR 39
+TC 0
+Z9 1
+U1 0
+U2 2
+PU Faculdade de Educação da Universidade Federal de Minas Gerais
+SN 1982-6621
+PD 12
+PY 2016
+VL 32
+IS 4
+BP 391
+EP 412
+DI 10.1590/0102-4698164867
+EC Education & Educational Research
+C2 SciELO Brazil
+SC Education & Educational Research
+UT SCIELO:S0102-46982016000400391
+OA gold
+ER
+
+PT J
+AU Grilli, Marina
+TI CLIL em alemão no Brasil e a competência de leitura dos graduandos em Letras/Alemão
+X1 CLILiG in Brazil and the reading competence of German undergraduate students
+SO Pandaemonium Germanicum	
+LA Portuguese	
+DT research-article	
+DE bilingual education; CLIL; GFL in the university; GFL in Brazil; reading competence	
+Y5 ensino bilíngue; CLIL; ensino universitário de ALE; ALE no Brasil; competência de leitura	
+Z5 bilingualer Sachfachunterricht; CLIL; DaF im universitären Kontext; DaF in Brasilien; Lesekompetenz	
+AB Abstract This article discusses a possible role of the Content and Language Integrated Learning in foreign German studies (CLILiG). In Brazil, many students start their undergraduation program without a prior knowledge of German language and it is always a challenge to improve their reading skills in five semesters of language teaching, at least up to B1 level. The empirical research started from the hypothesis that attending CLIL classes can help students to improve their German reading competence. For that matter, the reading competence of GFL students in a Brazilian university was examined. After the categorization of their mistakes, the factors that may have led to the improvement of their reading literacy were defined.	
+Y4 Resumo Este artigo discute o papel em potencial do Ensino Integrado de Língua e Conteúdo (CLIL) na graduação em Letras/Alemão. No Brasil, muitos estudantes iniciam a graduação sem conhecimento prévio da língua alemã, e é sempre um desafio melhorar suas habilidades de leitura em cinco semestres de ensino de idiomas, ao menos até o nível B1. A pesquisa empírica parte da hipótese de que frequentar uma disciplina CLIL pode auxiliar os alunos a melhorar sua competência de leitura em alemão. Para tanto, examinou-se a competência de leitura de estudantes de Letras/Alemão em uma universidade brasileira. Após a categorização de seus erros, foram definidos os fatores que podem ter levado à melhoria da alfabetização.	
+Z4 Zusammenfassung In diesem Beitrag wird über eine mögliche Rolle des sprachsensiblen Fachunterrichts in ausländischen Germanistikstudiengängen diskutiert. In Brasilien fangen viele Studierende das Lehramtsstudium ohne Vorkenntnisse der deutschen Sprache an und es ist immer eine Herausforderung, ihre Lesekompetenz in fünf Semestern Sprachunterricht zumindest bis Niveau B1 zu fördern. Die Hypothese, von der die empirische Forschung ausgeht, ist, dass es für die Studenten hilfreich sein könnte, an einem CLIL-Seminar teilzunehmen, um ihre Lesefähigkeit zu verbessern. Hierzu wurde die Lesekompetenz von DaF-Studierenden einer brasilianischen Universität untersucht. Nach Kategorisierung ihrer Fehler wurden mögliche Faktoren benannt, die zur Verbesserung der Lesekompetenz geführt haben.	
+C1 [Grilli, Marina] Universidade de São Paulo, Brazil.
+CR Araújo F. R. de, 2017, Três décadas de pesquisa sobre a formação de professores de alemão no Brasil, P275
+   Blume R. F, 2011, Ensinar alemão no Brasil: contextos e conteúdos, P53
+   Bolacio Filho E. S., 2014, Ensino-aprendizagem de alemão como língua estrangeira: teoria e práxis, P75
+   Casotti J. B. C., 2016, (Con)textos Linguísticos, V10, P63
+   Crinon J., 2002, Psychologie des apprentissages et multimédia, P11
+   Evangelista M. C. R. G, 2011, Die Deutschlehrerausbildung an brasilianischen universitäten: Neue Erkenntnisse
+   Freire P., 1996, Pedagogia da autonomia: saberes necessários à prática educativa
+   Fritzen Maristela Pereira, 2013, Trab. linguist. apl., V52, P239
+   Gnutzmann Claus, 2010, HDB FREMDSPRACHENDID, P115
+   Guimarães R. M, 2015, Planejamento CLIL por tarefas: integrando temas e língua para fins específicos na educação profissional
+   Haataja K., 2016, Fremdsprache Deutsch, V27, P3
+   Jessner U., 2008, LANG TEACHING, V41, P15, DOI [10.1017/S0261444807004739, DOI 10.1017/S0261444807004739]
+   Kato M, 1990, O aprendizado da leitura
+   KOCH I. V., 2006, Ler e compreender: os sentidos do texto
+   Königs F. G, 2013, Handbuch Bilingualer Unterricht. Content and language integrated learning, P32
+   Leão R., 2014, Ensino de conteúdos diversos por meio da língua e construção de cidadania: o caso do ensino de nutrição por meio do inglês
+   Lehr F., 2005, FOCUS COMPREHENSION
+   Lutjeharms M, 2010, Deutsch als Fremd- und Zweitsprache. Ein internationales Handbuch, P976
+   Lutjeharms M, 2016, Handbuch Fremdsprachenunterricht, P97
+   Marsh D., 2005, European framework for CLIL teacher education - a framework for the professional development of CLIL teachers
+   Mello H. A. B., 2010, HORIZONTES LINGUISTI, V9, P118
+   Moura Selma de Assis, 2009, Com quantas línguas se faz um país? Concepções e práticas de ensino em uma sala de aula na educação bilíngue
+   Pereira Fritzen M., 2007, PANDAEMON GERMAN, V11, P125
+   Rösler D, 2010, ForumSprache, V2, P10
+   Schmelter L, 2013, Handbuch Bilingualer Unterricht. Content and language integrated learning, P40
+   Silva Mariana Kuntz de Andrade e, 2017, Pandaemonium ger., V20, P1, DOI 10.11606/1982-883720311
+   Spinassé K. P, 2005, Deutsch als fremdsprache in Brasilien: eine studie über kontextabhängige unterschiedliche lernersprachen und muttersprachliche interferenzen
+   Spinassé K. P, 2006, Pandaemonium Germanicum, V10, P339
+   Uphoff D., 2017, O ensino de alemão em contexto universitário: modalidades, desafios e perspectivas, P169
+   Uphoff D, 2014, Revista HELB, V.
+   Vollmer H. J, 2013, Handbuch Bilingualer unterricht. Content and language integrated learning, P124
+   Würffel N, 2013, Deutsch als Fremdsprache, P130
+   Würffel N, 2006, Strategiengebrauch bei Aufgabenbearbeitungen in internetgestütztem Selbstlernmaterial
+   2015, Deutsch als Fremdsprache weltweit
+   2014, Demandas de aprendizagem no Brasil. Elaborado com exclusividade para o British Council pelo Instituto de Pesquisa Data Popular
+   2001, Quadro europeu comum de referência para as línguas - Aprendizagem, ensino, avaliação
+   1996, Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional
+   2016, Country Note - Results from PISA 2015
+NR 38
+TC 1
+Z9 1
+U1 0
+U2 0
+PU Universidade de São Paulo/Faculdade de Filosofia, Letras e Ciências
+   Humanas/; Programa de Pós-Graduação em Língua e Literatura Alemã
+SN 1982-8837
+PD 12
+PY 2019
+VL 22
+IS 38
+BP 48
+EP 74
+DI 10.11606/1982-8837223848
+EC Language & Linguistics; Literature, German, Dutch, Scandinavian
+C2 SciELO Brazil
+SC Linguistics; Literature
+UT SCIELO:S1982-88372019000300048
+OA gold
+ER
+
+EF
